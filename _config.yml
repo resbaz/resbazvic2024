@@ -69,7 +69,7 @@ aboutTitle: "About ResBaz Queensland"
 aboutSubtitle: "Conference"
 aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy at the centre of modern research. Throughout 2022, events will be held at a number of university campuses around the world.</p>
 
-<p>Hosted in 2022 by Griffith University, the 2022 Queensland Research Bazaar will be a three-day intensive conference where researchers will come together to up-skill in 'next generation digital research tools and skills'. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>Hosted in 2023 by The University of Queensland, the 2023 Queensland Research Bazaar will be a three-day intensive conference where researchers will come together to up-skill in 'next generation digital research tools and skills'. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
 
 <p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research Masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>.
 
@@ -96,14 +96,14 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "N53 Level 0 (directly behind library), Nathan Campus, Griffith University"
 eventLocationLink: "https://goo.gl/maps/VBJA7bbp3Qp6FB9a6"
-eventStreetAddress: "170 Kessels rd"
-eventAddressLocality: "Griffith University - Nathan Campus"
-eventAddressLocalityRegion: "Nathan, Brisbane"
-eventPostalCode: "4101"
+eventStreetAddress: "9 Chancellors Place"
+eventAddressLocality: "The University of Queensland - St Lucia Campus"
+eventAddressLocalityRegion: "St Lucia, Brisbane"
+eventPostalCode: "4072"
 eventAddressCountry: "Australia"
-eventStartTime: "2022-11-01T09:00"
+eventStartTime: "2023-11-21T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2022-11-03T17:00"
+eventEndTime: "2023-11-23T17:00"
 eventPlaceCoordinates: "-27.551685966721287, 153.05350886072333"
 mapCenterCoordinates: "-27.551685966721287, 153.05350886072333"
 mapMobileCenterCoordinates: "-27.551685966721287, 153.05350886072333"
