@@ -1,0 +1,19 @@
+- 
+  group: "Gold Sponsors"
+  elements: 
+    - {name: "AWS Cloud", description: "AWS Cloud", link: "https://aws.amazon.com/anz-public-sector/", imageUrl: "AWS_logo_RGB.png"}
+-
+  group: "Silver Sponsors"
+  elements: 
+    - {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "aarnet.png"}
+    - {name: "Gale", description: "GALE", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "gale.jpg"}
+
+  group: "With the support of"
+  elements: 
+    - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "qciflogo.jpg", width: "120px"}
+    - {name: "Griffith University Library", description: "Griffith Uni Library", link: "https://www.griffith.edu.au/library", imageUrl: "griffithuni.png", width: "120px"}
+    - {name: "Griffith University Library", description: "Griffith Uni Library", link: "https://www.griffith.edu.au/library", imageUrl: "griffithuni.png", width: "120px"}
+    - {name: "Griffith University Library", description: "Griffith Uni Library", link: "https://www.griffith.edu.au/library", imageUrl: "griffithuni.png", width: "120px"}
+    - {name: "Griffith University Library", description: "Griffith Uni Library", link: "https://www.griffith.edu.au/library", imageUrl: "griffithuni.png", width: "120px"}
+
+- 
