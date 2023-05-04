@@ -23,7 +23,7 @@ permalink: "/blog/:title"
 
 
 # Organizer Info
-organizerName: "Amanda Miotto"
+organizerName: "Mark Crowe"
 organizerAlternateName: "QCIF"
 # organizerDescription: " "
 # organizerEmail: "mark.crowe@qcif.edu.au" 
@@ -50,7 +50,7 @@ navigationLinks:
  - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {permalink: "/registration/", text: "Register"}
-# - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
+ - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 #bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
