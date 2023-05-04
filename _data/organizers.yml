@@ -16,6 +16,6 @@
   group: "Co-organisers"
   elements: 
     - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
-    - {name: "GU", description: "Griffith Uni", link: "https://www.griffith.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
+    - {name: "Griffith Uni", description: "Griffith Uni", link: "https://www.griffith.edu.au/", imageUrl: "../img/organizers/griffithuni.png"}
     - {name: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
 -
