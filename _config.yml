@@ -183,7 +183,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   #- {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
+   - {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
  -
   title: "Gold Sponsors"
   links:
