@@ -1,7 +1,7 @@
 - 
   group: "Gold Sponsors"
   elements: 
-    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "gale.jpg"}
+    - {name: "Gale", description: "Gale", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "gale.jpg"}
 -
   group: "Silver Sponsors"
   elements: 
