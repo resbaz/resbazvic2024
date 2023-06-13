@@ -1,7 +1,7 @@
 - 
   group: "Gold Sponsors"
   elements: 
-    - {name: "AWS Cloud", description: "AWS Cloud", link: "https://aws.amazon.com/anz-public-sector/", imageUrl: "AWS_logo_RGB.png"}
+    - {name: "Gale", description: "Gale", link: "http://https://cengage.com.au/gale", imageUrl: "gale.jpg"}
 -
   group: "Silver Sponsors"
   elements: 

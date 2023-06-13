@@ -187,6 +187,7 @@ footerBlocks:
  -
   title: "Gold Sponsors"
   links:
+    {link: "https://www.gale.com/intl", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
     #- {link: "https://aws.amazon.com/anz-public-sector/", text: "AWS", imageUrl: "../img/organizers/AWS_logo_RGB.png"}
  -    
   title: "Silver Sponsor"
