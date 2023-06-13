@@ -9,3 +9,17 @@
   ribbon:
     - {abbr: "QUT", title: "QUT", url: "https://www.qut.edu.au/research/michael-milford"}
     - {abbr: "Robotics", title: "QUT Centre for Robotics", url: "https://www.qut.edu.au/research/centre-for-robotics"}
+-
+  id: 2
+  name: "Professor Paul (Bonno)"
+  surname: Bonnington
+  title: "Pro-Vice-Chancellor (Research Infrastructure) UQ"
+  bio: "Professor Paul Bonnington joined UQ in 2022 as Pro-Vice Chancellor (Research and Infrastructure) where he is is responsible for the strategic 
+leadership of UQ’s research infrastructure. Paul has decades of experience within research infrastructure in the tertiary sector, providing researchers 
+with access to major computing, software, and analytics capability. He is the former Director of eResearch at Monash University, and established New 
+Zealand's first eResearch program at the University of Auckland"
+  thumbnailUrl: "bonno-guitar.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "UQ" title: "The University of Queensland", url: "https://www.uq.edu.au/about/pvc-ri"}
+
