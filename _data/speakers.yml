@@ -12,7 +12,7 @@
 -
   id: 2
   name: "Professor Paul (Bonno)"
-  surname: Bonnington
+  surname: "Bonnington"
   title: "Pro-Vice-Chancellor (Research Infrastructure) UQ"
   bio: "Professor Paul Bonnington joined UQ in 2022 as Pro-Vice Chancellor (Research and Infrastructure) where he is is responsible for the strategic 
 leadership of UQ’s research infrastructure. Paul has decades of experience within research infrastructure in the tertiary sector, providing researchers 
@@ -21,5 +21,6 @@ Zealand's first eResearch program at the University of Auckland"
   thumbnailUrl: "bonno-guitar.jpg"
   rockstar: true
   ribbon:
-    - {abbr: "UQ" title: "The University of Queensland", url: "https://www.uq.edu.au/about/pvc-ri"}
+    - {abbr: "UQ", title: "The University of Queensland", url: "https://www.uq.edu.au/about/pvc-ri"}
+    - {abbr: "Infrastructure", title: "Research Infrastructure", url: "https://www.uq.edu.au/research/about/research-infrastructure"}
 
