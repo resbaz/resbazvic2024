@@ -85,10 +85,10 @@ aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital
 # latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "Wattle_ResbazQld_NathCampus.jpg"
-#rockstarSpeakersCount: 3
-#rockstarSpeakersTitle: "Keystory speakers"
-#rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersImage: "Wattle_ResbazQld_NathCampus.jpg"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Keystory speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
