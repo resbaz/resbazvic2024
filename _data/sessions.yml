@@ -22,28 +22,33 @@
   hidden: true
   description: "Join us downstairs in N53 Minus 1 (ground floor) to talk with speakers and attendees, and visit our wonderful stalls!"
 -
-  id: 105
-  title: "Speakers of the day"
+  id: 201
+  title: "Knowledge Bazaar (in the foyer)"
   service: true
   hidden: true
-  description: "Join us in the Goddard Building lecture theatre (turn right out of the door, go to the next building, and head down the stairs under the giant crocodile)."
+  description: "The Knowledge Bazaar is an open networking session where attendees can find like-minded people - people working in the same discipline, researching similar problems, or using the same tools."
 -
-  id: 1051
+  id: 202
+  title: "Social catchup and Networking"
+  description: "TBC"
+  hidden: true
+  subtype: workshop
+-
+  id: 1001
   title: "TBC"
   subtype: talk
   speakers: [1]
-  #service: true
-  hidden: true
   description: "TBC"
 -
-  id: 1101
+  id: 1002
+  title: "TBC"
+  subtype: talk
+  speakers: [2]
+  description: "TBC"
+-
+  id: 2001
   title: "TBC"
   description: "TBC"
   subtype: workshop
   speakers: []
--
-  id: 1102
-  title: "Social catchup and Networking"
-  description: "TBC"
-  subtype: workshop
 
