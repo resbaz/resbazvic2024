@@ -23,4 +23,16 @@ Zealand's first eResearch program at the University of Auckland"
   ribbon:
     - {abbr: "UQ", title: "The University of Queensland", url: "https://www.uq.edu.au/about/pvc-ri"}
     - {abbr: "Infrastructure", title: "Research Infrastructure", url: "https://www.uq.edu.au/research/about/research-infrastructure"}
+-
+  id: 3
+  name: "Heidi"
+  surname: "Perrett"
+  title: "Data Platform Manager, Ceres Tag"
+  bio: "Heidi Perrett has over fifteen years experience in software development and data analysis, combined with a family background in the cattle 
+industry. These two passions have underpinned her success as the Data Platform Manager for Ceres Tag, an innovative Queensland company that provides 
+satellite-linked animal tracking tags to farmers, researchers and conservationists across the world."
+  thumbnail: "heidi_perrett.png"
+  rockstar: true
+  ribbon:
+    - {abbr: "Ceres", title: "Ceres Tag", url: "https://cerestag.com"}
 
