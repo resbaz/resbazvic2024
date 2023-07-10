@@ -35,4 +35,16 @@ satellite-linked animal tracking tags to farmers, researchers and conservationis
   rockstar: true
   ribbon:
     - {abbr: "Ceres", title: "Ceres Tag", url: "https://cerestag.com"}
-
+-
+  id: 4
+  name: "Rachel"
+  surname: "Huang"
+  title: "Head of Business Development, Vacayit; Business Strategist, SignHow; Senior Research Assistant, UQ"
+  bio: ""
+  thumbnailUrl: "RachelHuang.png"
+  rockstar: true
+  ribbon:
+    - {abbr: "Vacayit", title: "Vacayit", url: "https://www.vacayit.com"}
+    - {abbr: "SignHow", title: "SignHow", url: "https://www.signhow.co/m"}
+    - {abbr: "WIT", "Women in Technology", url: "https://wit.org.au/awards/2022-award-winners/#:~:text=rachel"}
+    - {abbr: "UQ", "UQ Liveris Academy", url: "https://liveris-academy.uq.edu.au/story/830/rachel-huang"}
