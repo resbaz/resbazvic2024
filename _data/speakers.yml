@@ -10,7 +10,7 @@
     - {abbr: "QUT", title: "QUT", url: "https://www.qut.edu.au/research/michael-milford"}
     - {abbr: "Robotics", title: "QUT Centre for Robotics", url: "https://www.qut.edu.au/research/centre-for-robotics"}
 -
-  id: 2
+  id: 3
   name: "Professor Paul (Bonno)"
   surname: "Bonnington"
   title: "Pro-Vice-Chancellor (Research Infrastructure) UQ"
@@ -24,7 +24,7 @@ Zealand's first eResearch program at the University of Auckland"
     - {abbr: "UQ", title: "The University of Queensland", url: "https://www.uq.edu.au/about/pvc-ri"}
     - {abbr: "Infrastructure", title: "Research Infrastructure", url: "https://www.uq.edu.au/research/about/research-infrastructure"}
 -
-  id: 3
+  id: 4
   name: "Heidi"
   surname: "Perrett"
   title: "Data Platform Manager, Ceres Tag"
@@ -36,7 +36,7 @@ satellite-linked animal tracking tags to farmers, researchers and conservationis
   ribbon:
     - {abbr: "Ceres", title: "Ceres Tag", url: "https://cerestag.com"}
 -
-  id: 4
+  id: 2
   name: "Rachel"
   surname: "Huang"
   title: "Head of Business Development, Vacayit; Business Strategist, SignHow; Senior Research Assistant, UQ"
@@ -46,5 +46,5 @@ satellite-linked animal tracking tags to farmers, researchers and conservationis
   ribbon:
     - {abbr: "Vacayit", title: "Vacayit", url: "https://www.vacayit.com"}
     - {abbr: "SignHow", title: "SignHow", url: "https://www.signhow.co/m"}
-    - {abbr: "WIT", "Women in Technology", url: "https://wit.org.au/awards/2022-award-winners/#:~:text=rachel"}
-    - {abbr: "UQ", "UQ Liveris Academy", url: "https://liveris-academy.uq.edu.au/story/830/rachel-huang"}
+    - {abbr: "WIT", title: "Women in Technology", url: "https://wit.org.au/awards/2022-award-winners/#:~:text=rachel"}
+    - {abbr: "UQ", title: "UQ Liveris Academy", url: "https://liveris-academy.uq.edu.au/story/830/rachel-huang"}
