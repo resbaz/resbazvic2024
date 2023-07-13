@@ -185,15 +185,18 @@ footerBlocks:
   #links:
    #- {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
  -
-  title: "Gold Sponsors"
+  title: "National ResBaz Sponsors"
   links:
    - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
+ -
+  title: "Gold Sponsors"
+  links:
    - {link: "https://learningresources.sagepub.com/home", text: "SAGE Publications", imageUrl: "../img/organizers/sage2023.png"}
  -    
-  title: "Silver Sponsor"
-  links:
-   #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
- -  
+#  title: "Silver Sponsor"
+#  links:
+#   #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
+# -  
   title: "Collaborating Institutes"
   links:
    - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
