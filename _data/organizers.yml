@@ -5,7 +5,7 @@
 -
   group: "Gold Sponsors"
   elements: 
-    - {name: "SAGE", description: "SAGE", link: "https://learningresources.sagepub.com/home", imageUrl: "../img/organizers/sage2023.png"}
+    - {name: "Sage", description: "SAGE", link: "https://learningresources.sagepub.com/home", imageUrl: "../img/organizers/sage2023.png"}
 -
   group: "Silver Sponsors"
   elements: 
