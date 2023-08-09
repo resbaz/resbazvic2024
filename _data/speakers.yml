@@ -8,7 +8,7 @@
   rockstar: true
   ribbon:
     - {abbr: "QUT", title: "QUT", url: "https://www.qut.edu.au/research/michael-milford"}
-    - {abbr: "Robotics", title: "QUT Centre for Robotics", url: "https://www.qut.edu.au/research/centre-for-robotics"}
+    - {abbr: "QUT Robotics", title: "QUT Centre for Robotics", url: "https://www.qut.edu.au/research/centre-for-robotics"}
 -
   id: 3
   name: "Professor Paul (Bonno)"
@@ -52,8 +52,8 @@ and is passionate about addressing the world’s biggest problems through techno
   surname: "McLellan"
   title: "Program Manager for the Language Data Commons of Australia (LDaCA); Industry Fellow  
 with the UQ Faculty of Humanities, Arts and Social Sciences"
-  bio: "Robert McLellan is a proud Gooreng Gooreng descendant of the Wide Bay region, QLD, community researcher and an experienced Director, governance 
-and engagement practitioner. A strong advocate for truth telling and speaking up for Aboriginal people’s rights and justice, 
+  bio: "Robert dhurwain McLellan is a proud Gooreng Gooreng descendant of the Wide Bay region, a community researcher, and an experienced Director, 
+governance and engagement practitioner. A strong advocate for truth telling and speaking up for Aboriginal people’s rights and justice, 
 economic advancement, and to ensure First Nations voices are authentically valued and embraced across all levels of society, Robert is passionate about 
 revitalising Indigenous languages and building culturally inclusive, honourable, and cohesive communities."
   thumbnailUrl: "Rob_McLellan_2.png"
