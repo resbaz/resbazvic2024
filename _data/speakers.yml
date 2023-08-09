@@ -48,7 +48,7 @@ and is passionate about addressing the world’s biggest problems through techno
     - {abbr: "UQ", title: "UQ Liveris Academy", url: "https://liveris-academy.uq.edu.au/story/830/rachel-huang"}
 -
   id: 5
-  name: "Rob"
+  name: "Robert"
   surname: "McLellan"
   title: "Program Manager for the Language Data Commons of Australia (LDaCA); Industry Fellow  
 with the UQ Faculty of Humanities, Arts and Social Sciences"
@@ -56,7 +56,7 @@ with the UQ Faculty of Humanities, Arts and Social Sciences"
 practitioner. A strong advocate for truth telling and speaking up for Aboriginal people’s rights and justice, 
 economic advancement, and to ensure First Nations voices are authentically valued and embraced across all levels of society, Robert is passionate about 
 revitalising Indigenous languages and building culturally inclusive, honourable, and cohesive communities."
-  thumbnail: "Rob_McLellan_1.png"
+  thumbnailUrl: "Rob_McLellan_1.png"
   rockstar: true
   ribbon:
     - {abbr: "LDaCA", title: "Language Data Commons of Australia", url: "https://www.ldaca.edu.au/"}
