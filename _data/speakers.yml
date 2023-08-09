@@ -46,3 +46,18 @@ and is passionate about addressing the world’s biggest problems through techno
     - {abbr: "SignHow", title: "SignHow", url: "https://www.signhow.co/m"}
     - {abbr: "WIT", title: "Women in Technology", url: "https://wit.org.au/awards/2022-award-winners/#:~:text=rachel"}
     - {abbr: "UQ", title: "UQ Liveris Academy", url: "https://liveris-academy.uq.edu.au/story/830/rachel-huang"}
+-
+  id: 5
+  name: "Rob"
+  surname "McLellan"
+  title: "Program Manager for the Language Data Commons of Australia (LDaCA); Industry Fellow  
+with the UQ Faculty of Humanities, Arts and Social Sciences"
+  bio: "A proud Gooreng Gooreng descendant of the Wide Bay region, QLD, community researcher and an experienced Director, governance and engagement 
+practitioner. A strong advocate for truth telling and speaking up for Aboriginal people’s rights and justice, 
+economic advancement, and to ensure First Nations voices are authentically valued and embraced across all levels of society, Robert is passionate about 
+revitalising Indigenous languages and building culturally inclusive, honourable, and cohesive communities."
+  thumbnail: "Rob_McLellan_1.png"
+  rockstar: true
+  ribbon:
+    - {abbr: "LDaCA", title: "Language Data Commons of Australia", url: "https://www.ldaca.edu.au/"}
+    - {abbr: "UQ HASS", title: "UQ Faculty of Humanities, Arts, and Social Sciences", url: "https://hass.uq.edu.au"}
