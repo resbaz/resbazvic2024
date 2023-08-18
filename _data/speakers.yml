@@ -61,3 +61,18 @@ revitalising Indigenous languages and building culturally inclusive, honourable,
   ribbon:
     - {abbr: "LDaCA", title: "Language Data Commons of Australia", url: "https://www.ldaca.edu.au/"}
     - {abbr: "UQ HASS", title: "UQ Faculty of Humanities, Arts, and Social Sciences", url: "https://hass.uq.edu.au"}
+-
+  id: 6
+  name: "Associate Professor Jack"
+  surname: "Wang"
+  title: "Associate Professor in Microbiology, YouTuber, Podcaster, and Writer"
+  bio: "Associate Professor Jack Wang is an award-winning Science educator, Researcher, YouTuber, and Podcaster. His work explores Science, Technology, 
+Productivity, and the connectedness of it all. The 2020 Australian University Teacher of the Year, Jack applies his research background towards an 
+interdisciplinary approach to Microbiology teaching. Through this he aims to address the impact of blending online and face-to-face learning 
+activities, and improve the technological and communication competencies that serve as transferable skills for graduates"
+  thumbnailUrl: "jack_wang.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "UQ SCMB", title: "UQ School of Chemistry and Molecular Biosciences", url: "https://scmb.uq.edu.au/profile/735/jack-wang"}
+    - {abbr: "YouTube", title: "BioLab Collective", url: "https://www.youtube.com/@BioLabCollective/"}
+    - {abbr: "Sci Comms", title: "Science Communicator", url: "https://jackwang.com.au"}
