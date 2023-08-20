@@ -1,6 +1,6 @@
 - 
   id: 1
-  name: "Professor Michael"
+  name: "Michael"
   surname: "Milford"
   title: "Director, QUT Centre for Robotics"
   bio: "Professor Michael Milford conducts interdisciplinary research at the boundary between robotics, neuroscience and computer vision and is a multi-award winning educational entrepreneur. His research models the neural mechanisms in the brain underlying tasks like navigation and perception to develop new technologies in challenging application domains such as all-weather, anytime positioning for autonomous vehicles. He is also passionate about engaging and educating all sectors of society around new opportunities and impacts from technology including robotics, autonomous vehicles and artificial intelligence."
@@ -11,7 +11,7 @@
     - {abbr: "QUT Robotics", title: "QUT Centre for Robotics", url: "https://www.qut.edu.au/research/centre-for-robotics"}
 -
   id: 3
-  name: "Professor Paul (Bonno)"
+  name: "Paul (Bonno)"
   surname: "Bonnington"
   title: "Pro-Vice-Chancellor (Research Infrastructure) UQ"
   bio: "Professor Paul Bonnington joined UQ in 2022 as Pro-Vice Chancellor (Research and Infrastructure) where he is is responsible for the strategic leadership of UQ’s research infrastructure. Paul has decades of experience within research infrastructure in the tertiary sector, providing researchers with access to major computing, software, and analytics capability. He is the former Director of eResearch at Monash University, and established New Zealand's first eResearch program at the University of Auckland"
@@ -63,7 +63,7 @@ revitalising Indigenous languages and building culturally inclusive, honourable,
     - {abbr: "UQ HASS", title: "UQ Faculty of Humanities, Arts, and Social Sciences", url: "https://hass.uq.edu.au"}
 -
   id: 6
-  name: "Associate Professor Jack"
+  name: "Jack"
   surname: "Wang"
   title: "Associate Professor in Microbiology, YouTuber, Podcaster, and Writer"
   bio: "Associate Professor Jack Wang is an award-winning science educator, Researcher, YouTuber, and podcaster. His work explores science, technology, 
