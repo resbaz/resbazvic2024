@@ -26,7 +26,7 @@ permalink: "/blog/:title"
 organizerName: "Mark Crowe"
 organizerAlternateName: "QCIF"
 # organizerDescription: " "
-# organizerEmail: "mark.crowe@qcif.edu.au" 
+organizerEmail: "resbaz@qcif.edu.au" 
 organizerLogo: "/img/seo/QCIF_Logo_web-copy.jpg"
 organizerLink: "https://www.qcif.edu.au/"
 
@@ -44,6 +44,7 @@ c4sponsorsUrl: "https://www.qcif.edu.au"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/news/", text: "News"}
+ - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/sessions/", text: "Sessions"}
@@ -54,8 +55,8 @@ navigationLinks:
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
-rightNavigationButtons:
- - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
+#rightNavigationButtons:
+# - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
 
 # Hero Block
 heroImage: "160273_02_OCTOBER_2018_JACKHARLEM-944_v02.jpg"
@@ -178,7 +179,7 @@ twitterFeed: "https://twitter.com/ResBazQld"
 socialLinks:
  - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
  - {link: "https://www.qcif.edu.au/", icon: "site"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "mail"}
+ - {link: "https://forms.gle/5Kc4QUkhibvuopA48", icon: "mail"}
 footerBlocks:
  -
   #title: "Links"
@@ -208,7 +209,8 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:resbaz@qcif.edu.au", text: "resbaz@qcif.edu.au"}
-#   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Volunteer as a helper for ResBaz"}
+   - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Volunteer as a helper for ResBaz"}
+   - {link: "https://forms.gle/xxukxNN5FNFMEoZV9", text: "Submit a workshop for ResBaz"}
  -
   title: "FAQ"
   links:
