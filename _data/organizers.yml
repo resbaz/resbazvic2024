@@ -2,6 +2,7 @@
   group: "National ResBaz Sponsors"
   elements:
     - {name: "Gale", description: "Gale", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "../img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
+    - {name: "ARDC", description: "Australian Research Data Commons", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
 -
   group: "Gold Sponsors"
   elements: 
