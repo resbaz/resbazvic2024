@@ -189,6 +189,7 @@ footerBlocks:
   title: "National ResBaz Sponsors"
   links:
    - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
+   - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
  -
   title: "Gold Sponsors"
   links:
