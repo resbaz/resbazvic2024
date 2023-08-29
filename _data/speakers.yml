@@ -35,17 +35,17 @@
   name: "Rachel"
   surname: "Huang"
   title: "Head of Business Development, Vacayit; Business Strategist, SignHow; Senior Research Assistant, UQ"
-  bio: "Rachel Huang is the winner of the Women in Technology Up-and-Comer Technology Award, an entrepreneur with multiple 
-businesses to her name and experience as UQ's Chief Student Entrepreneur, and a highly-regarded innovator and thought-leader in 
-the technology start-up ecosystem. She holds a dual degree from UQ in Biological and Chemical Engineering and Biomedical Science, 
-and is passionate about addressing the world’s biggest problems through technology and innovation."
+  bio: "Rachel Huang is the winner of the Women in Technology Up-and-Comer Technology Award, an entrepreneur who has founded two start-up companies 
+and had experience as UQ's Chief Student Entrepreneur, and a highly-regarded innovator and thought-leader in the technology start-up ecosystem. 
+She 
+holds a dual degree from UQ in Biological and Chemical Engineering and Biomedical Science, and is passionate about addressing the world’s biggest problems 
+through technology and innovation. She is currently a consultant helping research projects commercialise and start-up companies grow."
   thumbnailUrl: "RachelHuang.png"
   rockstar: true
   ribbon:
-    - {abbr: "Vacayit", title: "Vacayit", url: "https://www.vacayit.com"}
-    - {abbr: "SignHow", title: "SignHow", url: "https://www.signhow.co/m"}
     - {abbr: "WIT", title: "Women in Technology", url: "https://wit.org.au/awards/2022-award-winners/#:~:text=rachel"}
     - {abbr: "UQ", title: "UQ Liveris Academy", url: "https://liveris-academy.uq.edu.au/story/830/rachel-huang"}
+    - {abbr: "Startups", title: "Start-up consultant"}
 -
   id: 5
   name: "Robert"
