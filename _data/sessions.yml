@@ -38,8 +38,16 @@
   title: "TBC"
   subtype: talk
   speakers: [1]
-  description: "TBC"
--
+  title: "Hopefully good and some definitively bad advice for researchers in the digital AI age"
+  description: "Researchers are expected to know their field inside out and be on top of the application domains the research they are doing can benefit. 
+This requirement can be a challenging endeavour at the best of times, but has become extraordinarily chaotic in light of the pace of recent developments 
+in the digital domain, particularly in areas like artificial intelligence, and their increasingly wide reaching consequences. How is our way of doing 
+research being disrupted, both positively and negatively? Are the things we’re researching even relevant anymore, given the rapid change in the 
+application domains where that research might be used? Questions like these can make even the most self-assured researcher doubt their path forwards. A 
+sensible action to take in such circumstances is to ask experienced peers for advice, but what was “sensible” and valid advice even five years ago isn’t 
+necessarily good advice today. In my talk, I’ll present insights and advice, both good and bad, for how to successfully navigate current changes, drawing 
+upon my experiences advising industry, government and research sectors."
+ -
   id: 1002
   title: "TBC"
   subtype: talk
