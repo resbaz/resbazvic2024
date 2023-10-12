@@ -35,7 +35,6 @@
   subtype: workshop
 -
   id: 1001
-  title: "TBC"
   subtype: talk
   speakers: [1]
   title: "Hopefully good and some definitively bad advice for researchers in the digital AI age"
