@@ -1,0 +1,528 @@
+-
+  id: 7
+  name: "Nicholas" 
+  surname: "Condon (He/Him)"
+  company: ";"
+  title: ";"
+  bio: "Nicholas Condon is a Chan Zuckerberg Initiative Imaging Scientist and Senior Microscopist within the IMB Microscopy core facility. He completed his PhD in the lab of Professor Jennifer Stow using advanced microscopy techniques to identify a novel mechanism for macropinocytosis and other immune cell surface responses. He is globally recognised as an expert in image analysis and microscopy training, as well as an emerging technologist with expertise in big data processing, analysis and storage. Nicholas works with researchers to help optimise their image analysis workflows by writing and updating code and connecting new infrastructures such as High-Performance Computing to projects. "
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 8
+  name: "Sam" 
+  surname: "Hames (He/Him)"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 9
+  name: "Belinda" 
+  surname: "Weaver (she/her)"
+  company: ";"
+  title: ";"
+  bio: "Belinda Weaver is a science student at The University of Queensland. She collaborated with other Carpentries' instructors to run Software Carpentry workshops in Brisbane from 2015, both standalone and as part of annual Research Bazaar events. She has taught scores of Software Carpentry workshops and a number of instructor trainer workshops. She previously worked as the Community and Communications Lead for Software Carpentry. This lesson is currently being integrated into the Library Carpentry curriculum."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 10
+  name: "Sara" 
+  surname: "King (she/her)"
+  company: ";"
+  title: ";"
+  bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 11
+  name: "Martin" 
+  surname: "Schweinberger (he/him)"
+  company: ";"
+  title: ";"
+  bio: "Martin Schweinberger is Lecturer in Applied Linguistics at the University of Queensland (UQ) and part-time Associate Professor in the AcqVA-Aurora Center at the Arctic University of Norway in Tromsø. At UQ, Martin is co-directing the Language Technology and Data Analysis Laboratory (LADAL) and Chief Investigator of the Australian Text Analytics Platform (ATAP) as well as advisory committee member of the Language Data Commons of Australia (LDaCA). Martin considers himself a quantitative corpus linguist specialized in quantitative, computational analyses of text and speech data."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 12
+  name: "Simon" 
+  surname: "Musgrave (he/him)"
+  company: ";"
+  title: ";"
+  bio: "Simon Musgrave is Engagement Lead for the Language Data Commons of Australia (University of Queensland) and an Adjunct Research Fellow (Monash University). Starting as a syntactician specialising in Austronesian languages, his research interests extended to cover areas including language endangerment, communication in medical settings and the use of technology for linguistic research. This last interest, through work on the Australian National Corpus project led to research on the history of Australian English including Irish influences. His work has appeared in journals such as Language, Oceanic Linguistics and the Australian Journal of Linguistics as well as in numerous edited collections."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 13
+  name: "Robert" 
+  surname: "Fleet (he/him)"
+  company: ";"
+  title: ";"
+  bio: "Robert Fleet is a Data Scientist and Developer at QUT's Australian Digital Observatory. With a passion for analyzing human data on the internet, he designs innovative platforms and tools for this purpose. Robert's unique research interest lies in studying MMO game data, specifically to investigate the structure of organized criminal groups. Prior to his current role, he contributed his expertise as a Data Scientist, E-Research Analyst, and Technical Lead on a cutting-edge drone surveillance project."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 14
+  name: "Mat" 
+  surname: "Bettinson"
+  company: ";"
+  title: ";"
+  bio: "Mat Bettinson is a senior developer / data scientist at the Digital Observatory"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 15
+  name: "Boyd" 
+  surname: "Nguyen (he/him)"
+  company: ";"
+  title: ";"
+  bio: "Boyd Nguyen is Research Data Analyst at QUT's Australian Digital Observatory and the developer of youte, a tool used to collect YouTube metadata and comments."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 16
+  name: "Sharron" 
+  surname: "Stapleton"
+  company: ";"
+  title: ";"
+  bio: "Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor and strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 17
+  name: "Betsy" 
+  surname: "Alpert (she/they)"
+  company: ";"
+  title: ";"
+  bio: "Elizabeth (Betsy) Alpert is a Senior Developer / Data Scientist at the Australian Digital Observatory, a QUT Research Infrastructure facility. Betsy is a backend software developer by background who loves databases and data modelling and all things data structures. Outside of work, Betsy is likely to be found reading a speculative fiction book with a cat and a cup of tea, or knitting in front of cozy whodunnit tv shows."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 18
+  name: "Eliza" 
+  surname: "Howard (she/her)"
+  company: ";"
+  title: ";"
+  bio: "Eliza is an independent consultant & facilitator. She is a former Fulbright Scholar (2005/2006) who post-PhD became a leader in research education and strategy. As a sole-trader consultant, she leads large projects for clients, hosts workshops for researchers, Higher Degree by Research candidates, and organisations conducting their own research projects, and develops research and project strategy. She was named a LinkedIn Top Voice in 2022 for writing extensively on 'mumemployment' and the complicated intersections between professional and family life."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 19
+  name: "Sonia" 
+  surname: "Ramza"
+  company: ";"
+  title: ";"
+  bio: "Sonia Ramza is the User Support Manager for the Nectar Cloud, previously having been in training & community roles."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 20
+  name: "Rani" 
+  surname: "McLennan"
+  company: ";"
+  title: ";"
+  bio: "Rani McLennan is the Copyright Information Officer at Queensland University of Technology (QUT) and the Open Educational Resource (OER) Collective Project Officer at the Council of Australian University Librarians (CAUL). She has over a decade of experience in public, school, and academic libraries. Her interests include the communication of complex information through text and visuals and openly licensed image collections. "
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 21
+  name: "Valentina" 
+  surname: "Urrutia Guada"
+  company: ";"
+  title: ";"
+  bio: "Valentina is a Technology Trainer at the University of Queensland Library"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 22
+  name: "Christina" 
+  surname: "Buelow (she/her)"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 23
+  name: "Nicholas" 
+  surname: "Wiggins (he/him)"
+  company: ";"
+  title: ";"
+  bio: "Nicholas is a Technology Trainer at the Univeristy of Queensland Library. He has a background in Archaeology, IT, GIS, Ecology, and Palaeoecology. He currently runs the UQ R User Group, and provides training in R, QGIS, Python, Git, and a variety of other research related software. He is always open to learn more."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 24
+  name: "Catherine" 
+  surname: "Kim (she/her)"
+  company: ";"
+  title: ";"
+  bio: "Catherine is a postdoctoral researcher in the School of Earth and Atmospheric Sciences at the Queensland University of Technology. Currently, she is modelling generation of coral rubble across the Great Barrier Reef for the Reef Restoration and Adaptation Program."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 25
+  name: "Mark" 
+  surname: "Crowe (he/him)"
+  company: ";"
+  title: ";"
+  bio: "Mark leads the Skills Development group at QCIF and runs a program of digital skills training workshops, attended by nearly 3000 researchers annually. He is an Instructor and Instructor Trainer with the Carpentries, an internation coding and data science training organisation, and is the chair of the Carpentries Trainers Leadership Committee."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 26
+  name: "Rosie" 
+  surname: "Glynn (she/her)"
+  company: ";"
+  title: ";"
+  bio: "Rosie Glynn is the Liaison librarian for the nursing school at QUT. She has over eight years of experience in searching and methodological advice for evidence synthesis, learning design and digital literacy instruction."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 27
+  name: "Emma" 
+  surname: "Nelms (she/her)"
+  company: ";"
+  title: ";"
+  bio: "Emma Nelms is a liaison librarian for QUT Business School, Oodgeroo Unit & Carumba Institute, as well as AI champion and Library Workshops coordinator. Her professional interests include digital literacy, decolonisation and empowering users."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 28
+  name: "Ashar" 
+  surname: "(He/him/his)"
+  company: ";"
+  title: ";"
+  bio: "Ashar completed his PhD, in 2018, in the area of computational biochemistry from Massey University in Auckland, New Zealand and has since been working as a postdoc, first at the Bioinformatics Institute at the Agency for Science, Technology and Research in Singapore and currently at Baker Heart and Diabetes Institute, Melbourne and the University of Queensland, Brisbane. His primary work focuses on exploring polymorphisms in the human genome and their phenotypic effects. Additionally he also explores the area of structural phylogenetics and quantum computing. He is also a science communication enthusiast and loves to engage with incoming researchers on potential new computational methodologies that can be employed to enhance the quality of research. He is also an instructor with Software Carpentry and routinely conducts scientific computing workshops. (Twitter/Instagram: @Proteinmechanic)"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 29
+  name: "David" 
+  surname: "Tuffley"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 30
+  name: "David" 
+  surname: "Green"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 31
+  name: "Marlies" 
+  surname: "Hankel"
+  company: ";"
+  title: ";"
+  bio: "Marlies Hankel is a eResearch Analysts in QCIF and Research Computing Centre at UQ. She obtained her master in mathematics in Germany and her PhD in chemistry in the UK. She has been a senior research fellow at the Australian Institute for Bioengineering and Nanotechnology and senior lecture in the School of Mathematics at UQ. During this time she was a heavy user of HPC and teaching many students to use HPC in their work. She has built and managed 4 HPC clusters during her time at AIBN. In QCIF and RCC she is helping users navigate HPC and transition their workloads."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 32
+  name: "Lachlan" 
+  surname: "McKinnie"
+  company: ";"
+  title: ";"
+  bio: "I am a PhD student at the University of the Sunshine Coast researching red algal genetics and metabolic pathway reconstruction using bioinformatics. My work involves the functional annotation and investigation of genomes and transcriptomes, and I regularly code in Python for my research, including web design using Python Flask.  ORCiD: 0000-0002-4996-5941"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 33
+  name: "Eduardo" 
+  surname: "Klein"
+  company: ";"
+  title: ";"
+  bio: "With over 30 years of experience in tropical marine ecology and conservation, Eduardo Klein has worked extensively in the Caribbean region and more recently in the GBR. He has established strong connections with multilateral organisations that specialise in biodiversity conservation and data, such as OBIS and the marine program of the Convention for Biological Diversity. Currently, he leads the Reef Data Services & Infrastructure program at IMOS."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 34
+  name: "Senn" 
+  surname: "Oon"
+  company: ";"
+  title: ";"
+  bio: "Senn Oon (they/them) is studying a Master of Information Science (Extended) at Curtin University with the ultimate aim of becoming a university librarian. By day, you can find them assisting in QCIF's coding workshops and thinking about data management. By night, you can find them making games and cuddling cats."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 35
+  name: "Min" 
+  surname: "Zhao"
+  company: ";"
+  title: "Senior Research Fellow, Bioinformatics and Genomics"
+  bio: "Dr. Min Zhao has about 20 years of experience in the field of bioinformatics and genomics. His research focuses on the investigation of regulatory machines in aquatic genomes and disease genomes. In addition to 4 review manuscripts, he has published 90 research papers in peer-reviewed international journals including 50 first and corresponding author papers in total. In total, his papers have been cited over 4000+ times (H-index 31). About 50% of his publications are presented in the top 10% most cited papers worldwide in Scopus database. Additionally, ten of his manuscripts have been published in very high profile journals (top 5%; including Nature, Nature communication, cell research, American Journal of Respiratory and Critical Care Medicine, Nucleic Acids Research, Molecular ecology resource). The research articles include author contributions from a diversity of institutions/universities external from USC and International (primarily USA, Japan, China, and Thailand). He currently leads as Chief Investigator 1 ARC Discovery Projects (with USC as administering organisation), and is co-contributor for Reef2050 grant."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 36
+  name: "Shern" 
+  surname: "Tee"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 37
+  name: "Fei" 
+  surname: "Yu"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 38
+  name: "Susan" 
+  surname: "Wilson"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 39
+  name: "Adam" 
+  surname: "Ewing"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 40
+  name: "Caitie" 
+  surname: "Kuempel"
+  company: ";"
+  title: ";"
+  bio: "I am a conservation scientist with interests in sustainable seafood, land-sea interactions, and conservation planning. I am passionate about finding ways to meet the needs of the growing human population while minimising impacts on the environment – particularly in the world’s oceans. I completed my PhD at the University of Queensland in protected area design and evaluation, followed by post-doctoral positions at NCEAS UC Santa Barbara mapping impacts of the global food system and University of Queensland exploring ways to manage and monitor climate resilient reefs to benefit people and nature. I also holds degrees in marine biology (M.S.), environmental science (B.S.) and French (B.A.)."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 41
+  name: "Siddeswara" 
+  surname: "Guru (he/him)"
+  company: ";"
+  title: ";"
+  bio: "Siddeswara Guru is a program lead of TERN Data Services and Analytics Platform. He lead a team to build data infrastructure to TERN observing and stakeholders datasets."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 1
+  name: "Rob" 
+  surname: "McLellan"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 2
+  name: "Rachel" 
+  surname: "Huang"
+  company: ";"
+  title: ";"
+  bio: "Rachel Huang is the winner of the Women in Technology Up-and-Comer Technology Award, an entrepreneur who has founded two start-up companies previously and experience as UQ's Chief Student Entrepreneur, and a highly-regarded innovator and thought-leader in the technology start-up ecosystem. She holds a dual degree from UQ in Biological and Chemical Engineering and Biomedical Science, and is addressing the world’s biggest problems through technology and innovation. She is currently a consultant helping research projects commercialise and start-up companies grow. In addition, she serves as a board member at Junior Chamber International Brisbane Chapter where she pursues her passionate about helping young professionals develop their career and find meaningful work. "
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 3
+  name: "Paul" 
+  surname: "Bonnington"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 4
+  name: "Jack" 
+  surname: "Wang"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 5
+  name: "Michael" 
+  surname: "Milford"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 6
+  name: "Heidi" 
+  surname: "Perrett"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 42
+  name: "Alex" 
+  surname: "de Sá"
+  company: ";"
+  title: ";"
+  bio: "Alex holds a PhD, in 2019, in Computer Science from the Federal University of Minas Gerais (UFMG), Brazil. He is a postdoctoral researcher at the Computational Biology and Clinical Informatics laboratory at the Baker Heart and Diabetes Institute, with an honorary fellowship at the University of Queensland. His research is centered on bio(chem)informatics, health informatics and automated machine learning (AutoML). Particularly, he is interested in automating data science, i.e., employing optimisation methods to select proper machine learning algorithms and models for any dataset of interest. Currently, he is employing this knowledge in chemical, medical and biological data. (Twitter/LinkedIn: @alexgcsa)."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 43
+  name: "Cameron" 
+  surname: "Rutter"
+  company: ";"
+  title: ";"
+  bio: "Cameron Rutter is the acting University Copyright Officer at Queensland University of Technology. He has been working in academic libraries for over fifteen years across a wide range of roles."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 44
+  name: "Bran" 
+  surname: "Stokes (he/they)"
+  company: ";"
+  title: ";"
+  bio: "Bran (he/they) has a passion for helping others self-improve. He has a background in both law and journalism and is currently working for a not-for-profit as a facilitator and program manager. As his day-to-day involves upskilling high school students and adults on transferable skills."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 45
+  name: "Andres" 
+  surname: "Felipe Suarez-Castro"
+  company: ";"
+  title: ";"
+  bio: "Dr Suarez-Castro is a spatial ecologist who uses a diverse range of spatial statistical techniques, remote sensing and geographic data to predict the ecological causes and consequences of environmental change across spatial and temporal scales. Currently, his research focuses on optimizing the selection of areas that can maximize biodiversity conservation and ecosystem service provisioning across spatial scales in human-dominated landscapes. He is engaged in multidisciplinary projects that require advanced computational skills for handling large databases and complex spatial data, as well as liaising and collaborating with a big range of stakeholders. In addition to his academic outputs that have resulted in more than 1400 citations, Dr Suarez-Castro regularly act in a range of service roles, providing advice to urban and regional planners, environmental consultants, and government institutions. "
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 46
+  name: "Kathryn" 
+  surname: "Hall (she/her)"
+  company: ";"
+  title: ";"
+  bio: "Kathryn Hall is the Product Champion for the Australian Reference Genome Atlas (ARGA) Project, and is part of the Atlas of Living Australia (CSIRO). She has a background in animal taxonomy, with a special focus on marine invertebrates. Kathryn has always worked to integrate genetic data with other biological data to inform her taxonomic process, and is very proud now to be overseeing the ARGA Project team as they build the ARGA platform. ARGA aims to help researchers discover data within biological and ecological contexts for all Australian biota."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 47
+  name: "Keeva" 
+  surname: "Connolly (she/her)"
+  company: ";"
+  title: ";"
+  bio: "Keeva Connolly is a scientific business analyst with the Australian BioCommons, and works full time on the ARGA project. As part of her role, she speaks with researchers to better understand their challenges when searching for genomic data and how they can be addressed. Before starting at the Australian BioCommons, she studied a Bachelor of Genetics (Hons) at the Australian National University and worked for the Department of Agriculture, Water and the Environment (now DAFF) in plant biosecurity."
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
+-
+  id: 48
+  name: "Kasia" 
+  surname: "Koziara"
+  company: ";"
+  title: ";"
+  bio: ";"
+  thumbnailUrl: ";"
+  rockstar: ";"
+  ribbon: ";"
+  social: ";"
