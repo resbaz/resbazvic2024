@@ -2,918 +2,300 @@
 session-id: 46
   title: "Introduction to Image Analysis with FIJI (1)" 
   description: "This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc. The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more. Topics covered include: -Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) -Merging channels, and dealing with multiple channel images -Adjusting Brightness & Contrast and using histograms -Adding scale to images & adding scale bars -Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) -Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) -Creating Selections (Manually and Automatically) -Brief introduction to Machine Learning tools available in FIJI"
-  subtype: Workshop
-  speakers: [7]
 --
 session-id: 56
   title: "Introduction to Image Analysis with FIJI (2)" 
   description: "This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc. The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more. Topics covered include: -Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) -Merging channels, and dealing with multiple channel images -Adjusting Brightness & Contrast and using histograms -Adding scale to images & adding scale bars -Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) -Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) -Creating Selections (Manually and Automatically) -Brief introduction to Machine Learning tools available in FIJI"
-  subtype: Workshop
-  speakers: [7]
---
-session-id: 73
-  title: "Storing and querying your research data with a database" 
-  description: "Are you wanting to step outside the spreadsheet and try a new way of storing your structured data? In this workshop, you'll learn how to load tabular data into a locally stored database; search, query, and transform your data; and export from that database or connect to it with other tools. All software used will be open source and using standard formats and protocols. No prior experience or coding skills required, but Python and R examples will be additionally available to those who use those languages."
-  subtype: Workshop
-  speakers: [17]
---
-session-id: 14
-  title: "Evaluating AI apps for your literature reviews" 
-  description: "In this workshop learn how to critically assess AI tools that can assist with brainstorming ideas & summarising the literature.  Understand more about how they work, their limitations and discuss the new ways they can be embedded into research practice "
-  subtype: Workshop
-  speakers: [26, 27]
---
-session-id: 34
-  title: "FAIR/CARE panel" 
-  description: ""
-  subtype: Panel
-  speakers: [36, 37, 38]
---
-session-id: 94
-  title: "Exploring genomic data with the Australian Reference Genome Atlas" 
-  description: "The Australian Reference Genome Atlas (ARGA) is a recently launched online platform for genomic data discovery across non-human, eukaryotic organisms. It indexes and aggregates data from a range of repositories, including NCBI GenBank, Barcode of Life Data system (BOLD) and Bioplatforms Australia's data portal, enabling users to search across multiple sources from a centralised portal. Where possible, genomic data are intersected with specimen information available from formalised collections (e.g. museums, herbaria) to supplement relevant metadata.  This workshop will feature a demo of the ARGA platform, giving an overview of its uses and allowing time for questions and discussions. The workshop will cover how ARGA can help to:   - visualise and explore geographic occurrences of specimens (both with and without derived sequence data)  - investigate the metadata available for each step in the chain of events between specimen collection and data deposition to help assess and compare sequences  - discover genomic data for species according to thematic, ecological or trait groupings, such as threatened species, crop wild relatives, or poisonous and venomous species  - determine summary statistics for genomic data availability across taxonomic clades or in thematic groupings (e.g. proportion of frog species with genome assemblies available, proportion of threatened Australian species with any available genomic data)"
-  subtype: Workshop
-  speakers: [46, 47]
 
   Sam    Hames (He/Him) 
 session-id: 93
   title: "Web Archiving For Data Collection" 
   description: "This workshop will cover using web archiving as a data collection method for the web and social media in research projects. It will cover:  1. An overview of what web archiving is, and why it is usually preferable to web scraping and screen recording. 2. Case studies of 2-3 different projects using web archiving approaches for data collection. 3. Practical session/demo:     - Collecting data with archiveweb.page for a specific purpose    - Replaying data with archiveweb.page for qualitative analysis    - Extracting data from collected archives for quantitative analysis"
-  subtype: Workshop
-  speakers: [8]
---
-session-id: 91
-  title: "How Bazaar, How Bazaar: Let's think about ChatGPT, et.al" 
-  description: "Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include: - Chat GPT: What is it and what does it mean for academia - It's not going away, so do we embrace it with open arms or a net? - Integrity, honesty, and reliability - Won't somebody think of the children?! (What will this mean for the future?) "
-  subtype: Panel
-  speakers: [18, 29]
---
-session-id: 64
-  title: "Quantum Machine Learning" 
-  description: "The area of quantum machine learning is advancing at a rapid pace. This workshop is designed to introduce quantum computing and quantum machine learning to researchers new to this cutting-edge area. This hands-on workshop will start by introducing support vector classifiers from a classical machine learning perspective and then show how quantum algorithms can be used to enhance their performance. At the end of the workshop, the attendees will have a basic understanding of quantum algorithms using IBM Quantum computers and will have run algorithms to improve the performance of classical support vector classifiers using quantum kernels."
-  subtype: Workshop
-  speakers: [28, 42]
---
-session-id: 34
-  title: "FAIR/CARE panel" 
-  description: ""
-  subtype: Panel
-  speakers: [36, 37, 38]
 
   Belinda    Weaver (she/her) 
 session-id: 24
   title: "Introducing computational thinking" 
   description: "This workshop introduces computational thinking as a precursor to learning how to write code in programming languages like R or Python. It will cover the steps involved in breaking down complex problems into computable chunks. "
-  subtype: Workshop
-  speakers: [9]
---
-session-id: 91
-  title: "How Bazaar, How Bazaar: Let's think about ChatGPT, et.al" 
-  description: "Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include: - Chat GPT: What is it and what does it mean for academia - It's not going away, so do we embrace it with open arms or a net? - Integrity, honesty, and reliability - Won't somebody think of the children?! (What will this mean for the future?) "
-  subtype: Panel
-  speakers: [18, 29]
---
-session-id: 16
-  title: "Your research toolkit in the Cloud " 
-  description: "Learn more about how you use the ARDC Nectar Cloud to improve your research! A walkthrough will be provided of the different services available & their benefits: Virtual Desktop Service  National GPU/large memory service  BinderHub  JupyterHub Service Nectar Cloud Dashboard "
-  subtype: Workshop
-  speakers: [19]
---
-session-id: 62
-  title: "Nanopore Sequencing (Adam Ewing)" 
-  description: ""
-  subtype: Workshop
-  speakers: [39]
 
   Sara    King (she/her) 
 session-id: 61
   title: "Network Know-how & Data Handling" 
   description: "This workshop will include jargon busting and topics such as network literacy and data movement solutions. You will learn about networks, integrated tools, active research data management, data movement and where all these things fit in the researcher’s toolkit.  By the end of this workshop, you should be able to:  • Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them. • Describe and define different network and data movement concepts (jargon busting). • Perform speed, ping, and traceroute tests to check your Internet connection. • Calculate data transfer times. • Understand various network and connectivity constraints. • Transfer large amounts of data via the network. • Search for more advanced options for data movement and know where to go for help. "
-  subtype: Workshop
-  speakers: [10]
 --
 session-id: 31
   title: "Introduction to Jupyter Notebooks" 
   description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data.  You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research.  • Describe what Jupyter Notebooks are, what they do and how they work. • Define and explain terms related to coding and cloud computing (jargon busting). • Learn about online options for using Jupyter Notebooks. • Demonstrate how Jupyter Notebooks fit into the research landscape. • Recognise and apply some basic Markdown, Python and/or R commands.  • Open a Jupyter Notebook, perform some basic programming tasks and save it for later."
-  subtype: Workshop
-  speakers: [10, 12]
 
   Martin    Schweinberger (he/him) 
 session-id: 63
   title: "Unlock the Power of Text Analytics with LADAL" 
   description: "Join us for a practical workshop where you'll explore the capabilities of text analytics using the resources provided by the Language Technology and Data Analysis Laboratory (LADAL). Through hands-on demonstrations in R, you'll gain essential skills in natural language processing and learn how to extract valuable insights from text data. Discover diverse approaches and concepts that will empower your research. Plus, get practical advice on data processing, analytics, and visualisation to elevate your research with LADAL's text analytics resources."
-  subtype: Workshop
-  speakers: [11]
 
   Simon    Musgrave (he/him) 
 session-id: 31
   title: "Introduction to Jupyter Notebooks" 
   description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data.  You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research.  • Describe what Jupyter Notebooks are, what they do and how they work. • Define and explain terms related to coding and cloud computing (jargon busting). • Learn about online options for using Jupyter Notebooks. • Demonstrate how Jupyter Notebooks fit into the research landscape. • Recognise and apply some basic Markdown, Python and/or R commands.  • Open a Jupyter Notebook, perform some basic programming tasks and save it for later."
-  subtype: Workshop
-  speakers: [10, 12]
 --
 session-id: 13
   title: "Helping HASS students answer the question: Do you need the digital in your research?" 
   description: "In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld; of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.  This session will be a panel discussion including the two leaders of the program, our AARNet colleague, and the four fellows, discussing issues including (but not limited to): How do digital research methods fit in a variety of HASS disciplines? How receptive are established scholars in those disciplines to new methods? What did we all learn from this experience? Was the additional burden worth it for our fellows - were their research lives enriched or just made more complicated? "
-  subtype: Workshop
-  speakers: [12]
 
   Robert    Fleet (he/him) 
 session-id: 23
   title: "Demystifying AI for Research" 
   description: "This workshop (talk with some demo) will introduce LLMs and AI for research. The presentation will talk about what LLMs can and cannot do as well as the risks presented by LLMs for research. This is a low code intro to using AI for research."
-  subtype: Workshop
-  speakers: [13]
 --
 session-id: 33
   title: "AI summarisation and retrieval Pipelines for Research" 
   description: "This workshop will introduce some ways to use AI as part of analytic pipelines to work with data. Some examples will be used but participants can bring their own data as well."
-  subtype: Workshop
-  speakers: [13]
 --
 session-id: 53
   title: "Collecting and analysing YouTube data" 
   description: "This workshop will introduce researchers to tools and methods to collect and analyse YouTube metadata (video title, description, comments, etc.). We will walk attendees through using a open source tool called 'youte' to collect and tidy YouTube metadata, then doing some basic text analytics on the collected data. The workshop is aimed at researchers/students with little to no programming background."
-  subtype: Workshop
-  speakers: [15, 13]
 
   Mat    Bettinson 
 session-id: 43
   title: "NewsTalk: Beyond Twitter" 
   description: "We discuss the new post-Twitter social media landscape and ramifications for research. Then we introduce NewsTalk, a data bank of public reader comments, and how this platform can answer many of the same research questions in Australia. In this workshop we discuss the ethics procedures to gain access to NewsTalk, and we show how to use the tool including finding news stories and download data bundles of reader comments. We also describe the output data format and examine some of the participant's suggestions of public topics in the NewsTalk data."
-  subtype: Workshop
-  speakers: [14]
 
   Boyd    Nguyen (he/him) 
 session-id: 53
   title: "Collecting and analysing YouTube data" 
   description: "This workshop will introduce researchers to tools and methods to collect and analyse YouTube metadata (video title, description, comments, etc.). We will walk attendees through using a open source tool called 'youte' to collect and tidy YouTube metadata, then doing some basic text analytics on the collected data. The workshop is aimed at researchers/students with little to no programming background."
-  subtype: Workshop
-  speakers: [15, 13]
 
   Sharron    Stapleton 
 session-id: 44
   title: "Data organisation in spreadsheets for researchers" 
   description: "Learn:  - good data entry practices and formatting data tables in spreadsheets;  - how to avoid common formatting mistakes;  - approaches for handling dates in spreadsheets;  - basic quality control and data manipulation in spreadsheets."
-  subtype: Workshop
-  speakers: [16]
 --
 session-id: 54
   title: "Introduction to data cleaning with OpenRefine" 
   description: "Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine.  On completion of this workshop, participants should be able to:  •explore data through facets and filters •implement 'tidy data' principles •clean, organise, and prepare data for analysis •use basic features of OpenRefine •extract and reuse a reproducible script to repeat processing on similar data"
-  subtype: Workshop
-  speakers: [16]
 --
 session-id: 74
   title: "Advanced Data Wrangling with OpenRefine" 
   description: "Building on the Introduction to Data Cleaning with OpenRefine workshop, learn advanced data wrangling skills including combining tabular datasets, geolocating data, and “what if” exploration using OpenRefine. On completion of this workshop, participants should be able to:      extend data with additional variables from other data,     visualise geographic locations using Geo.json resulting in an interactive map     create a webpage to display the geographically visualised data using Github. "
-  subtype: Workshop
-  speakers: [16]
 
   Betsy    Alpert (she/they) 
 session-id: 73
   title: "Storing and querying your research data with a database" 
   description: "Are you wanting to step outside the spreadsheet and try a new way of storing your structured data? In this workshop, you'll learn how to load tabular data into a locally stored database; search, query, and transform your data; and export from that database or connect to it with other tools. All software used will be open source and using standard formats and protocols. No prior experience or coding skills required, but Python and R examples will be additionally available to those who use those languages."
-  subtype: Workshop
-  speakers: [17]
 
   Eliza    Howard (she/her) 
 session-id: 91
   title: "How Bazaar, How Bazaar: Let's think about ChatGPT, et.al" 
   description: "Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include: - Chat GPT: What is it and what does it mean for academia - It's not going away, so do we embrace it with open arms or a net? - Integrity, honesty, and reliability - Won't somebody think of the children?! (What will this mean for the future?) "
-  subtype: Panel
-  speakers: [18, 29]
 
   Sonia    Ramza 
 session-id: 16
   title: "Your research toolkit in the Cloud " 
   description: "Learn more about how you use the ARDC Nectar Cloud to improve your research! A walkthrough will be provided of the different services available & their benefits: Virtual Desktop Service  National GPU/large memory service  BinderHub  JupyterHub Service Nectar Cloud Dashboard "
-  subtype: Workshop
-  speakers: [19]
 
   Rani    McLennan 
 session-id: 75
   title: "Copyright Considerations for Human Researchers" 
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright, touching on AI creations and legal challenges. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
-  subtype: Workshop
-  speakers: [20, 43]
 
   Valentina    Urrutia Guada 
 session-id: 71
   title: "Statistics Proficiency: Brainstorm about needs, resources and gaps" 
   description: "Researchers at any stage of their career, and from every field of knowledge are invited to join us in this brainstorm to openly discuss the theme of skill development in statistics for researchers. This collaborative discussion aims to unravel the needs researchers face in developing statistical proficiency, while also delving into the array of resources they currently have access to. The conversation can then progress to identification of gaps, and brainstorm possible resources and opportunities to meet those gaps. By pooling together insights from varied experiences, we aspire to identify the most effective types of resources and opportunities for breaching those gaps"
-  subtype: Panel
-  speakers: [21]
 
   Christina    Buelow (she/her) 
 session-id: 92
   title: "Introduction to Spatial Analysis in R" 
   description: "This workshop will provide an overview of what spatial data is, the R packages available for spatial data, how to start a spatial project in R to then wrangle spatial data, perform spatial operations, and make a map. We will also cover common problems you might encounter in R spatial, and how to solve them."
-  subtype: Workshop
-  speakers: [22, 23, 24]
 
   Nicholas    Wiggins (he/him) 
 session-id: 92
   title: "Introduction to Spatial Analysis in R" 
   description: "This workshop will provide an overview of what spatial data is, the R packages available for spatial data, how to start a spatial project in R to then wrangle spatial data, perform spatial operations, and make a map. We will also cover common problems you might encounter in R spatial, and how to solve them."
-  subtype: Workshop
-  speakers: [22, 23, 24]
 
   Catherine    Kim (she/her) 
 session-id: 92
   title: "Introduction to Spatial Analysis in R" 
   description: "This workshop will provide an overview of what spatial data is, the R packages available for spatial data, how to start a spatial project in R to then wrangle spatial data, perform spatial operations, and make a map. We will also cover common problems you might encounter in R spatial, and how to solve them."
-  subtype: Workshop
-  speakers: [22, 23, 24]
 
   Mark    Crowe (he/him) 
 session-id: 45
   title: "Uplift your instructing skills - hints and tips from The Carpentries instructor program" 
   description: "The Carpentries Instructor Training program is an internationally renowed model for training instuctors to deliver hands-on applied digital skills courses. In this workshop, we will explore some of the key points from this program, which can be easily and immediately applied to help anyone become a better instructor, teacher, or coach."
-  subtype: Workshop
-  speakers: [25]
 
   Rosie    Glynn (she/her) 
 session-id: 14
   title: "Evaluating AI apps for your literature reviews" 
   description: "In this workshop learn how to critically assess AI tools that can assist with brainstorming ideas & summarising the literature.  Understand more about how they work, their limitations and discuss the new ways they can be embedded into research practice "
-  subtype: Workshop
-  speakers: [26, 27]
 
   Emma    Nelms (she/her) 
 session-id: 14
   title: "Evaluating AI apps for your literature reviews" 
   description: "In this workshop learn how to critically assess AI tools that can assist with brainstorming ideas & summarising the literature.  Understand more about how they work, their limitations and discuss the new ways they can be embedded into research practice "
-  subtype: Workshop
-  speakers: [26, 27]
 
   Ashar    (He/him/his) 
 session-id: 64
   title: "Quantum Machine Learning" 
   description: "The area of quantum machine learning is advancing at a rapid pace. This workshop is designed to introduce quantum computing and quantum machine learning to researchers new to this cutting-edge area. This hands-on workshop will start by introducing support vector classifiers from a classical machine learning perspective and then show how quantum algorithms can be used to enhance their performance. At the end of the workshop, the attendees will have a basic understanding of quantum algorithms using IBM Quantum computers and will have run algorithms to improve the performance of classical support vector classifiers using quantum kernels."
-  subtype: Workshop
-  speakers: [28, 42]
 
   David    Tuffley 
 session-id: 91
   title: "How Bazaar, How Bazaar: Let's think about ChatGPT, et.al" 
   description: "Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include: - Chat GPT: What is it and what does it mean for academia - It's not going away, so do we embrace it with open arms or a net? - Integrity, honesty, and reliability - Won't somebody think of the children?! (What will this mean for the future?) "
-  subtype: Panel
-  speakers: [18, 29]
 
   David    Green 
 session-id: 65
   title: "Shell Basics for HPC" 
   description: ""
-  subtype: Workshop
-  speakers: [30]
 
   Marlies    Hankel 
 session-id: 26
   title: "Tips for moving from Desktop to HPC" 
   description: "Transitioning from running your calculations on a desktop to running them on HPC needs consideration of using the command line, queues and sharing resources. These are the obvious changes. However, there are many small changes like considering where your input and output are coming from and need to be stored, how to get to your output if you are used to seeing it on your screen. This workshop will go through some of these less obvious things that you need to consider and watch put for when moving your calculations from a desktop to a HPC. There is no need to have HPC access as this workshop will use demonstrations that participants can just watch and follow. This is aimed at those with no HPC experience and even those who are only starting out on their journey on doing calculations on their desktops."
-  subtype: Workshop
-  speakers: [31]
 
   Lachlan    McKinnie 
 session-id: 51
   title: "Generating graphs using Python and ChatGPT" 
   description: "ChatGPT has quickly become an incredibly useful tool for coders and data scientists. This workshop will explore using ChatGPT in conjunction with Python programming to generate graphs from numerical data."
-  subtype: Workshop
-  speakers: [32]
 
   Eduardo    Klein 
 session-id: 72
   title: "RIMReP Data Management System: All GBR data in one single place" 
   description: "In this workshop, the instructors will guide participants in discovering and collecting relevant socio-economic, physical, chemical, and biological data for the Great Barrier Reef using the RIMReP Data Management System. The instructors will provide analysis notebook examples to explore the DMS data collections and demonstrate how to use simple temporal and geographical filters to obtain data. Moreover, we will provide customizable recipes for specific research questions. By the end of the workshop, participants will be able to use DMS data and metadata services to extract data from multiple collections in standard formats. To participate in this workshop, a minimum level of expertise in data analysis is required. Additionally, knowledge of Python and/or R programming language is required. Participants must bring their own laptops with the necessary software already installed (we will inform them later about the required non-commercial software)"
-  subtype: Workshop
-  speakers: [33]
 
   Senn    Oon 
 session-id: 15
   title: "Dealing with impostor syndrome: You are not alone" 
   description: "If you've ever felt like you're a fraud and worried that people will find out sooner or later ⁠— If you feel like you don't belong and you have to work harder than everyone else to try to fit in ⁠— Then come along to this workshop about impostor syndrome and meet others who feel the same way.  Here, we'll discuss what impostor syndrome is, how it affects us, and what we can do to manage it."
-  subtype: Workshop
-  speakers: [34]
 --
 session-id: 95
   title: "Looking for ongoing 1-on-1 mentorship after ResBaz? Start here!" 
   description: "If you've discovered a new skill to be excited about at this year's ResBaz and you want to keep learning with the aid of someone else — If you've found that one of the skills you already have is in demand and you've like to help others learn it — Then come along to this informal matchup session where you can meet potential mentors or mentees. We'll also discuss key considerations of a mentoring relationship and how to make it work.  To get the most out of this session, we recommend you think of both a field you would like to seek mentoring in, and a field you would be willing to offer mentorship in. It's okay if you're not an expert as long as you're excited to share your skills!"
-  subtype: Workshop
-  speakers: [34]
 
   Min    Zhao 
 session-id: 76
   title: "Phylogenomics analysis based on Linux command line environment" 
   description: ""
-  subtype: Workshop
-  speakers: [35]
 
   Shern    Tee 
 session-id: 11
   title: "Programming with Python 1: Variables, Files and Plots" 
   description: ""
-  subtype: Workshop
-  speakers: [36]
 --
 session-id: 21
   title: "Programming with Python 2: Lists and Loops" 
   description: ""
-  subtype: Workshop
-  speakers: [36]
 --
 session-id: 41
   title: "Programming with Python 3: Flow Control and Functions" 
   description: ""
-  subtype: Workshop
-  speakers: [36]
 --
 session-id: 34
   title: "FAIR/CARE panel" 
   description: ""
-  subtype: Panel
-  speakers: [36, 37, 38]
 
   Fei    Yu 
 session-id: 34
   title: "FAIR/CARE panel" 
   description: ""
-  subtype: Panel
-  speakers: [36, 37, 38]
 
   Susan    Wilson 
 session-id: 34
   title: "FAIR/CARE panel" 
   description: ""
-  subtype: Panel
-  speakers: [36, 37, 38]
 
   Adam    Ewing 
 session-id: 62
   title: "Nanopore Sequencing (Adam Ewing)" 
   description: ""
-  subtype: Workshop
-  speakers: [39]
 
   Caitie    Kuempel 
 session-id: 12
   title: "R 1" 
   description: ""
-  subtype: Workshop
-  speakers: [40]
 --
 session-id: 22
   title: "R 2" 
   description: ""
-  subtype: Workshop
-  speakers: [40]
 --
 session-id: 32
   title: "R 3" 
   description: ""
-  subtype: Workshop
-  speakers: [40]
 --
 session-id: 42
   title: "R 4" 
   description: ""
-  subtype: Workshop
-  speakers: [40]
 --
 session-id: 52
   title: "R 5" 
   description: ""
-  subtype: Workshop
-  speakers: [40]
 
   Siddeswara    Guru (he/him) 
 session-id: 25
   title: "TERN Services to share, discover and access Ecosystem data" 
   description: "The aim of the workshop is to show case services available at TERN to submit, discover and access ecosystem data across TERN. The participants will learn about services available at TERN and get an overview on how to publish data at TERN, learn to use data dashboards and data discovery portal. The workshop will be interactive and demo-based."
-  subtype: Workshop
-  speakers: [41]
 
   Rob    McLellan 
-session-id: 61
-  title: "Network Know-how & Data Handling" 
-  description: "This workshop will include jargon busting and topics such as network literacy and data movement solutions. You will learn about networks, integrated tools, active research data management, data movement and where all these things fit in the researcher’s toolkit.  By the end of this workshop, you should be able to:  • Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them. • Describe and define different network and data movement concepts (jargon busting). • Perform speed, ping, and traceroute tests to check your Internet connection. • Calculate data transfer times. • Understand various network and connectivity constraints. • Transfer large amounts of data via the network. • Search for more advanced options for data movement and know where to go for help. "
-  subtype: Workshop
-  speakers: [10]
---
-session-id: 63
-  title: "Unlock the Power of Text Analytics with LADAL" 
-  description: "Join us for a practical workshop where you'll explore the capabilities of text analytics using the resources provided by the Language Technology and Data Analysis Laboratory (LADAL). Through hands-on demonstrations in R, you'll gain essential skills in natural language processing and learn how to extract valuable insights from text data. Discover diverse approaches and concepts that will empower your research. Plus, get practical advice on data processing, analytics, and visualisation to elevate your research with LADAL's text analytics resources."
-  subtype: Workshop
-  speakers: [11]
---
-session-id: 31
-  title: "Introduction to Jupyter Notebooks" 
-  description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data.  You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research.  • Describe what Jupyter Notebooks are, what they do and how they work. • Define and explain terms related to coding and cloud computing (jargon busting). • Learn about online options for using Jupyter Notebooks. • Demonstrate how Jupyter Notebooks fit into the research landscape. • Recognise and apply some basic Markdown, Python and/or R commands.  • Open a Jupyter Notebook, perform some basic programming tasks and save it for later."
-  subtype: Workshop
-  speakers: [10, 12]
---
-session-id: 23
-  title: "Demystifying AI for Research" 
-  description: "This workshop (talk with some demo) will introduce LLMs and AI for research. The presentation will talk about what LLMs can and cannot do as well as the risks presented by LLMs for research. This is a low code intro to using AI for research."
-  subtype: Workshop
-  speakers: [13]
---
-session-id: 33
-  title: "AI summarisation and retrieval Pipelines for Research" 
-  description: "This workshop will introduce some ways to use AI as part of analytic pipelines to work with data. Some examples will be used but participants can bring their own data as well."
-  subtype: Workshop
-  speakers: [13]
---
-session-id: 43
-  title: "NewsTalk: Beyond Twitter" 
-  description: "We discuss the new post-Twitter social media landscape and ramifications for research. Then we introduce NewsTalk, a data bank of public reader comments, and how this platform can answer many of the same research questions in Australia. In this workshop we discuss the ethics procedures to gain access to NewsTalk, and we show how to use the tool including finding news stories and download data bundles of reader comments. We also describe the output data format and examine some of the participant's suggestions of public topics in the NewsTalk data."
-  subtype: Workshop
-  speakers: [14]
---
-session-id: 53
-  title: "Collecting and analysing YouTube data" 
-  description: "This workshop will introduce researchers to tools and methods to collect and analyse YouTube metadata (video title, description, comments, etc.). We will walk attendees through using a open source tool called 'youte' to collect and tidy YouTube metadata, then doing some basic text analytics on the collected data. The workshop is aimed at researchers/students with little to no programming background."
-  subtype: Workshop
-  speakers: [15, 13]
---
-session-id: 44
-  title: "Data organisation in spreadsheets for researchers" 
-  description: "Learn:  - good data entry practices and formatting data tables in spreadsheets;  - how to avoid common formatting mistakes;  - approaches for handling dates in spreadsheets;  - basic quality control and data manipulation in spreadsheets."
-  subtype: Workshop
-  speakers: [16]
---
-session-id: 54
-  title: "Introduction to data cleaning with OpenRefine" 
-  description: "Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine.  On completion of this workshop, participants should be able to:  •explore data through facets and filters •implement 'tidy data' principles •clean, organise, and prepare data for analysis •use basic features of OpenRefine •extract and reuse a reproducible script to repeat processing on similar data"
-  subtype: Workshop
-  speakers: [16]
---
-session-id: 74
-  title: "Advanced Data Wrangling with OpenRefine" 
-  description: "Building on the Introduction to Data Cleaning with OpenRefine workshop, learn advanced data wrangling skills including combining tabular datasets, geolocating data, and “what if” exploration using OpenRefine. On completion of this workshop, participants should be able to:      extend data with additional variables from other data,     visualise geographic locations using Geo.json resulting in an interactive map     create a webpage to display the geographically visualised data using Github. "
-  subtype: Workshop
-  speakers: [16]
---
-session-id: 73
-  title: "Storing and querying your research data with a database" 
-  description: "Are you wanting to step outside the spreadsheet and try a new way of storing your structured data? In this workshop, you'll learn how to load tabular data into a locally stored database; search, query, and transform your data; and export from that database or connect to it with other tools. All software used will be open source and using standard formats and protocols. No prior experience or coding skills required, but Python and R examples will be additionally available to those who use those languages."
-  subtype: Workshop
-  speakers: [17]
---
-session-id: 91
-  title: "How Bazaar, How Bazaar: Let's think about ChatGPT, et.al" 
-  description: "Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include: - Chat GPT: What is it and what does it mean for academia - It's not going away, so do we embrace it with open arms or a net? - Integrity, honesty, and reliability - Won't somebody think of the children?! (What will this mean for the future?) "
-  subtype: Panel
-  speakers: [18, 29]
---
-session-id: 16
-  title: "Your research toolkit in the Cloud " 
-  description: "Learn more about how you use the ARDC Nectar Cloud to improve your research! A walkthrough will be provided of the different services available & their benefits: Virtual Desktop Service  National GPU/large memory service  BinderHub  JupyterHub Service Nectar Cloud Dashboard "
-  subtype: Workshop
-  speakers: [19]
---
-session-id: 13
-  title: "Helping HASS students answer the question: Do you need the digital in your research?" 
-  description: "In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld; of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.  This session will be a panel discussion including the two leaders of the program, our AARNet colleague, and the four fellows, discussing issues including (but not limited to): How do digital research methods fit in a variety of HASS disciplines? How receptive are established scholars in those disciplines to new methods? What did we all learn from this experience? Was the additional burden worth it for our fellows - were their research lives enriched or just made more complicated? "
-  subtype: Workshop
-  speakers: [12]
---
-session-id: 71
-  title: "Statistics Proficiency: Brainstorm about needs, resources and gaps" 
-  description: "Researchers at any stage of their career, and from every field of knowledge are invited to join us in this brainstorm to openly discuss the theme of skill development in statistics for researchers. This collaborative discussion aims to unravel the needs researchers face in developing statistical proficiency, while also delving into the array of resources they currently have access to. The conversation can then progress to identification of gaps, and brainstorm possible resources and opportunities to meet those gaps. By pooling together insights from varied experiences, we aspire to identify the most effective types of resources and opportunities for breaching those gaps"
-  subtype: Panel
-  speakers: [21]
---
-session-id: 26
-  title: "Tips for moving from Desktop to HPC" 
-  description: "Transitioning from running your calculations on a desktop to running them on HPC needs consideration of using the command line, queues and sharing resources. These are the obvious changes. However, there are many small changes like considering where your input and output are coming from and need to be stored, how to get to your output if you are used to seeing it on your screen. This workshop will go through some of these less obvious things that you need to consider and watch put for when moving your calculations from a desktop to a HPC. There is no need to have HPC access as this workshop will use demonstrations that participants can just watch and follow. This is aimed at those with no HPC experience and even those who are only starting out on their journey on doing calculations on their desktops."
-  subtype: Workshop
-  speakers: [31]
---
-session-id: 25
-  title: "TERN Services to share, discover and access Ecosystem data" 
-  description: "The aim of the workshop is to show case services available at TERN to submit, discover and access ecosystem data across TERN. The participants will learn about services available at TERN and get an overview on how to publish data at TERN, learn to use data dashboards and data discovery portal. The workshop will be interactive and demo-based."
-  subtype: Workshop
-  speakers: [41]
---
 session-id: 1001
   title: "Rob McLellan" 
   description: ""
-  subtype: Talk
-  speakers: [1]
 
   Rachel    Huang 
-session-id: 31
-  title: "Introduction to Jupyter Notebooks" 
-  description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data.  You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research.  • Describe what Jupyter Notebooks are, what they do and how they work. • Define and explain terms related to coding and cloud computing (jargon busting). • Learn about online options for using Jupyter Notebooks. • Demonstrate how Jupyter Notebooks fit into the research landscape. • Recognise and apply some basic Markdown, Python and/or R commands.  • Open a Jupyter Notebook, perform some basic programming tasks and save it for later."
-  subtype: Workshop
-  speakers: [10, 12]
---
-session-id: 91
-  title: "How Bazaar, How Bazaar: Let's think about ChatGPT, et.al" 
-  description: "Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include: - Chat GPT: What is it and what does it mean for academia - It's not going away, so do we embrace it with open arms or a net? - Integrity, honesty, and reliability - Won't somebody think of the children?! (What will this mean for the future?) "
-  subtype: Panel
-  speakers: [18, 29]
---
-session-id: 75
-  title: "Copyright Considerations for Human Researchers" 
-  description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright, touching on AI creations and legal challenges. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
-  subtype: Workshop
-  speakers: [20, 43]
---
-session-id: 13
-  title: "Helping HASS students answer the question: Do you need the digital in your research?" 
-  description: "In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld; of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.  This session will be a panel discussion including the two leaders of the program, our AARNet colleague, and the four fellows, discussing issues including (but not limited to): How do digital research methods fit in a variety of HASS disciplines? How receptive are established scholars in those disciplines to new methods? What did we all learn from this experience? Was the additional burden worth it for our fellows - were their research lives enriched or just made more complicated? "
-  subtype: Workshop
-  speakers: [12]
---
-session-id: 71
-  title: "Statistics Proficiency: Brainstorm about needs, resources and gaps" 
-  description: "Researchers at any stage of their career, and from every field of knowledge are invited to join us in this brainstorm to openly discuss the theme of skill development in statistics for researchers. This collaborative discussion aims to unravel the needs researchers face in developing statistical proficiency, while also delving into the array of resources they currently have access to. The conversation can then progress to identification of gaps, and brainstorm possible resources and opportunities to meet those gaps. By pooling together insights from varied experiences, we aspire to identify the most effective types of resources and opportunities for breaching those gaps"
-  subtype: Panel
-  speakers: [21]
---
-session-id: 92
-  title: "Introduction to Spatial Analysis in R" 
-  description: "This workshop will provide an overview of what spatial data is, the R packages available for spatial data, how to start a spatial project in R to then wrangle spatial data, perform spatial operations, and make a map. We will also cover common problems you might encounter in R spatial, and how to solve them."
-  subtype: Workshop
-  speakers: [22, 23, 24]
---
-session-id: 45
-  title: "Uplift your instructing skills - hints and tips from The Carpentries instructor program" 
-  description: "The Carpentries Instructor Training program is an internationally renowed model for training instuctors to deliver hands-on applied digital skills courses. In this workshop, we will explore some of the key points from this program, which can be easily and immediately applied to help anyone become a better instructor, teacher, or coach."
-  subtype: Workshop
-  speakers: [25]
---
-session-id: 14
-  title: "Evaluating AI apps for your literature reviews" 
-  description: "In this workshop learn how to critically assess AI tools that can assist with brainstorming ideas & summarising the literature.  Understand more about how they work, their limitations and discuss the new ways they can be embedded into research practice "
-  subtype: Workshop
-  speakers: [26, 27]
---
-session-id: 64
-  title: "Quantum Machine Learning" 
-  description: "The area of quantum machine learning is advancing at a rapid pace. This workshop is designed to introduce quantum computing and quantum machine learning to researchers new to this cutting-edge area. This hands-on workshop will start by introducing support vector classifiers from a classical machine learning perspective and then show how quantum algorithms can be used to enhance their performance. At the end of the workshop, the attendees will have a basic understanding of quantum algorithms using IBM Quantum computers and will have run algorithms to improve the performance of classical support vector classifiers using quantum kernels."
-  subtype: Workshop
-  speakers: [28, 42]
---
-session-id: 51
-  title: "Generating graphs using Python and ChatGPT" 
-  description: "ChatGPT has quickly become an incredibly useful tool for coders and data scientists. This workshop will explore using ChatGPT in conjunction with Python programming to generate graphs from numerical data."
-  subtype: Workshop
-  speakers: [32]
---
 session-id: 55
   title: "Guided networking session " 
   description: "Networking is an important aspect for the career development of PhDs - both to create collaborations and find future job opportunities. However, it is a softskill not thought in university courses. I facilitate guided networking sessions for organisations and think it will benefit PhDs greatly too. The participants will practise 'openness, kindness and honesty' through a series of guided discussions around the following topics:  - using meaningful questions to guide small groups of participants to get to know each other  - facilitate groups to share their challenges and help each other with their challenges - Determine their own values  - Use their values to revisit their challenges  - Reflecting on networking experience and their learnings"
-  subtype: Workshop
-  speakers: [2]
 --
 session-id: 1002
   title: "Rachel Huang" 
   description: ""
-  subtype: Talk
-  speakers: [2]
 
   Paul    Bonnington 
-session-id: 23
-  title: "Demystifying AI for Research" 
-  description: "This workshop (talk with some demo) will introduce LLMs and AI for research. The presentation will talk about what LLMs can and cannot do as well as the risks presented by LLMs for research. This is a low code intro to using AI for research."
-  subtype: Workshop
-  speakers: [13]
---
-session-id: 33
-  title: "AI summarisation and retrieval Pipelines for Research" 
-  description: "This workshop will introduce some ways to use AI as part of analytic pipelines to work with data. Some examples will be used but participants can bring their own data as well."
-  subtype: Workshop
-  speakers: [13]
---
-session-id: 53
-  title: "Collecting and analysing YouTube data" 
-  description: "This workshop will introduce researchers to tools and methods to collect and analyse YouTube metadata (video title, description, comments, etc.). We will walk attendees through using a open source tool called 'youte' to collect and tidy YouTube metadata, then doing some basic text analytics on the collected data. The workshop is aimed at researchers/students with little to no programming background."
-  subtype: Workshop
-  speakers: [15, 13]
---
-session-id: 75
-  title: "Copyright Considerations for Human Researchers" 
-  description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright, touching on AI creations and legal challenges. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
-  subtype: Workshop
-  speakers: [20, 43]
---
-session-id: 92
-  title: "Introduction to Spatial Analysis in R" 
-  description: "This workshop will provide an overview of what spatial data is, the R packages available for spatial data, how to start a spatial project in R to then wrangle spatial data, perform spatial operations, and make a map. We will also cover common problems you might encounter in R spatial, and how to solve them."
-  subtype: Workshop
-  speakers: [22, 23, 24]
---
-session-id: 11
-  title: "Programming with Python 1: Variables, Files and Plots" 
-  description: ""
-  subtype: Workshop
-  speakers: [36]
---
-session-id: 21
-  title: "Programming with Python 2: Lists and Loops" 
-  description: ""
-  subtype: Workshop
-  speakers: [36]
---
-session-id: 41
-  title: "Programming with Python 3: Flow Control and Functions" 
-  description: ""
-  subtype: Workshop
-  speakers: [36]
---
-session-id: 34
-  title: "FAIR/CARE panel" 
-  description: ""
-  subtype: Panel
-  speakers: [36, 37, 38]
---
-session-id: 65
-  title: "Shell Basics for HPC" 
-  description: ""
-  subtype: Workshop
-  speakers: [30]
---
-session-id: 26
-  title: "Tips for moving from Desktop to HPC" 
-  description: "Transitioning from running your calculations on a desktop to running them on HPC needs consideration of using the command line, queues and sharing resources. These are the obvious changes. However, there are many small changes like considering where your input and output are coming from and need to be stored, how to get to your output if you are used to seeing it on your screen. This workshop will go through some of these less obvious things that you need to consider and watch put for when moving your calculations from a desktop to a HPC. There is no need to have HPC access as this workshop will use demonstrations that participants can just watch and follow. This is aimed at those with no HPC experience and even those who are only starting out on their journey on doing calculations on their desktops."
-  subtype: Workshop
-  speakers: [31]
---
-session-id: 51
-  title: "Generating graphs using Python and ChatGPT" 
-  description: "ChatGPT has quickly become an incredibly useful tool for coders and data scientists. This workshop will explore using ChatGPT in conjunction with Python programming to generate graphs from numerical data."
-  subtype: Workshop
-  speakers: [32]
---
-session-id: 72
-  title: "RIMReP Data Management System: All GBR data in one single place" 
-  description: "In this workshop, the instructors will guide participants in discovering and collecting relevant socio-economic, physical, chemical, and biological data for the Great Barrier Reef using the RIMReP Data Management System. The instructors will provide analysis notebook examples to explore the DMS data collections and demonstrate how to use simple temporal and geographical filters to obtain data. Moreover, we will provide customizable recipes for specific research questions. By the end of the workshop, participants will be able to use DMS data and metadata services to extract data from multiple collections in standard formats. To participate in this workshop, a minimum level of expertise in data analysis is required. Additionally, knowledge of Python and/or R programming language is required. Participants must bring their own laptops with the necessary software already installed (we will inform them later about the required non-commercial software)"
-  subtype: Workshop
-  speakers: [33]
---
-session-id: 15
-  title: "Dealing with impostor syndrome: You are not alone" 
-  description: "If you've ever felt like you're a fraud and worried that people will find out sooner or later ⁠— If you feel like you don't belong and you have to work harder than everyone else to try to fit in ⁠— Then come along to this workshop about impostor syndrome and meet others who feel the same way.  Here, we'll discuss what impostor syndrome is, how it affects us, and what we can do to manage it."
-  subtype: Workshop
-  speakers: [34]
---
-session-id: 95
-  title: "Looking for ongoing 1-on-1 mentorship after ResBaz? Start here!" 
-  description: "If you've discovered a new skill to be excited about at this year's ResBaz and you want to keep learning with the aid of someone else — If you've found that one of the skills you already have is in demand and you've like to help others learn it — Then come along to this informal matchup session where you can meet potential mentors or mentees. We'll also discuss key considerations of a mentoring relationship and how to make it work.  To get the most out of this session, we recommend you think of both a field you would like to seek mentoring in, and a field you would be willing to offer mentorship in. It's okay if you're not an expert as long as you're excited to share your skills!"
-  subtype: Workshop
-  speakers: [34]
---
-session-id: 76
-  title: "Phylogenomics analysis based on Linux command line environment" 
-  description: ""
-  subtype: Workshop
-  speakers: [35]
---
-session-id: 62
-  title: "Nanopore Sequencing (Adam Ewing)" 
-  description: ""
-  subtype: Workshop
-  speakers: [39]
---
 session-id: 1003
   title: "Paul Bonnington" 
   description: ""
-  subtype: Talk
-  speakers: [3]
 
   Jack    Wang 
-session-id: 43
-  title: "NewsTalk: Beyond Twitter" 
-  description: "We discuss the new post-Twitter social media landscape and ramifications for research. Then we introduce NewsTalk, a data bank of public reader comments, and how this platform can answer many of the same research questions in Australia. In this workshop we discuss the ethics procedures to gain access to NewsTalk, and we show how to use the tool including finding news stories and download data bundles of reader comments. We also describe the output data format and examine some of the participant's suggestions of public topics in the NewsTalk data."
-  subtype: Workshop
-  speakers: [14]
---
-session-id: 75
-  title: "Copyright Considerations for Human Researchers" 
-  description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright, touching on AI creations and legal challenges. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
-  subtype: Workshop
-  speakers: [20, 43]
---
-session-id: 92
-  title: "Introduction to Spatial Analysis in R" 
-  description: "This workshop will provide an overview of what spatial data is, the R packages available for spatial data, how to start a spatial project in R to then wrangle spatial data, perform spatial operations, and make a map. We will also cover common problems you might encounter in R spatial, and how to solve them."
-  subtype: Workshop
-  speakers: [22, 23, 24]
---
-session-id: 64
-  title: "Quantum Machine Learning" 
-  description: "The area of quantum machine learning is advancing at a rapid pace. This workshop is designed to introduce quantum computing and quantum machine learning to researchers new to this cutting-edge area. This hands-on workshop will start by introducing support vector classifiers from a classical machine learning perspective and then show how quantum algorithms can be used to enhance their performance. At the end of the workshop, the attendees will have a basic understanding of quantum algorithms using IBM Quantum computers and will have run algorithms to improve the performance of classical support vector classifiers using quantum kernels."
-  subtype: Workshop
-  speakers: [28, 42]
---
-session-id: 12
-  title: "R 1" 
-  description: ""
-  subtype: Workshop
-  speakers: [40]
---
-session-id: 22
-  title: "R 2" 
-  description: ""
-  subtype: Workshop
-  speakers: [40]
---
-session-id: 32
-  title: "R 3" 
-  description: ""
-  subtype: Workshop
-  speakers: [40]
---
-session-id: 42
-  title: "R 4" 
-  description: ""
-  subtype: Workshop
-  speakers: [40]
---
-session-id: 52
-  title: "R 5" 
-  description: ""
-  subtype: Workshop
-  speakers: [40]
---
-session-id: 15
-  title: "Dealing with impostor syndrome: You are not alone" 
-  description: "If you've ever felt like you're a fraud and worried that people will find out sooner or later ⁠— If you feel like you don't belong and you have to work harder than everyone else to try to fit in ⁠— Then come along to this workshop about impostor syndrome and meet others who feel the same way.  Here, we'll discuss what impostor syndrome is, how it affects us, and what we can do to manage it."
-  subtype: Workshop
-  speakers: [34]
---
-session-id: 95
-  title: "Looking for ongoing 1-on-1 mentorship after ResBaz? Start here!" 
-  description: "If you've discovered a new skill to be excited about at this year's ResBaz and you want to keep learning with the aid of someone else — If you've found that one of the skills you already have is in demand and you've like to help others learn it — Then come along to this informal matchup session where you can meet potential mentors or mentees. We'll also discuss key considerations of a mentoring relationship and how to make it work.  To get the most out of this session, we recommend you think of both a field you would like to seek mentoring in, and a field you would be willing to offer mentorship in. It's okay if you're not an expert as long as you're excited to share your skills!"
-  subtype: Workshop
-  speakers: [34]
---
-session-id: 25
-  title: "TERN Services to share, discover and access Ecosystem data" 
-  description: "The aim of the workshop is to show case services available at TERN to submit, discover and access ecosystem data across TERN. The participants will learn about services available at TERN and get an overview on how to publish data at TERN, learn to use data dashboards and data discovery portal. The workshop will be interactive and demo-based."
-  subtype: Workshop
-  speakers: [41]
---
-session-id: 35
-  title: "Transerable Skills: Understanding Failure, Strengths and Values" 
-  description: "Rather than technical upskilling, this workshop focuses on transferable skills that compliment research (as well other areas). We will be examining failure, personal strengths and personal values, both in a general context and by way of self examination. There will be a 15-minute Q&A at the end where participants can ask about any transferable (often called 'soft') skills."
-  subtype: Workshop
-  speakers: [44]
---
-session-id: 0
-  title: "Introduction to processing, visualization and mapping of spatial data in R" 
-  description: "The goal of this course is to provide introductory training in spatial data processing, visualization, and mapping using R. The course focuses on a small set of popular packages for these tasks, many of which are drawn from a collection of packages called tidyverse. We will explain the new capabilities of packages terra and sf, why they should be used instead of other alternatives such as raster and sp,  and how packages with strong dependencies on rgdal, rgeos and maptools (recently archived on CRAN) must be either upgraded to use sf, terra or other alternatives.  We'll also create some graphs to summarize the data and explore options for map generation."
-  subtype: Workshop
-  speakers: [45]
---
-session-id: 94
-  title: "Exploring genomic data with the Australian Reference Genome Atlas" 
-  description: "The Australian Reference Genome Atlas (ARGA) is a recently launched online platform for genomic data discovery across non-human, eukaryotic organisms. It indexes and aggregates data from a range of repositories, including NCBI GenBank, Barcode of Life Data system (BOLD) and Bioplatforms Australia's data portal, enabling users to search across multiple sources from a centralised portal. Where possible, genomic data are intersected with specimen information available from formalised collections (e.g. museums, herbaria) to supplement relevant metadata.  This workshop will feature a demo of the ARGA platform, giving an overview of its uses and allowing time for questions and discussions. The workshop will cover how ARGA can help to:   - visualise and explore geographic occurrences of specimens (both with and without derived sequence data)  - investigate the metadata available for each step in the chain of events between specimen collection and data deposition to help assess and compare sequences  - discover genomic data for species according to thematic, ecological or trait groupings, such as threatened species, crop wild relatives, or poisonous and venomous species  - determine summary statistics for genomic data availability across taxonomic clades or in thematic groupings (e.g. proportion of frog species with genome assemblies available, proportion of threatened Australian species with any available genomic data)"
-  subtype: Workshop
-  speakers: [46, 47]
---
 session-id: 1004
   title: "Jack Wang" 
   description: ""
-  subtype: Talk
-  speakers: [4]
 
   Michael    Milford 
-session-id: 53
-  title: "Collecting and analysing YouTube data" 
-  description: "This workshop will introduce researchers to tools and methods to collect and analyse YouTube metadata (video title, description, comments, etc.). We will walk attendees through using a open source tool called 'youte' to collect and tidy YouTube metadata, then doing some basic text analytics on the collected data. The workshop is aimed at researchers/students with little to no programming background."
-  subtype: Workshop
-  speakers: [15, 13]
---
-session-id: 45
-  title: "Uplift your instructing skills - hints and tips from The Carpentries instructor program" 
-  description: "The Carpentries Instructor Training program is an internationally renowed model for training instuctors to deliver hands-on applied digital skills courses. In this workshop, we will explore some of the key points from this program, which can be easily and immediately applied to help anyone become a better instructor, teacher, or coach."
-  subtype: Workshop
-  speakers: [25]
---
-session-id: 76
-  title: "Phylogenomics analysis based on Linux command line environment" 
-  description: ""
-  subtype: Workshop
-  speakers: [35]
---
-session-id: 0
-  title: "Introduction to processing, visualization and mapping of spatial data in R" 
-  description: "The goal of this course is to provide introductory training in spatial data processing, visualization, and mapping using R. The course focuses on a small set of popular packages for these tasks, many of which are drawn from a collection of packages called tidyverse. We will explain the new capabilities of packages terra and sf, why they should be used instead of other alternatives such as raster and sp,  and how packages with strong dependencies on rgdal, rgeos and maptools (recently archived on CRAN) must be either upgraded to use sf, terra or other alternatives.  We'll also create some graphs to summarize the data and explore options for map generation."
-  subtype: Workshop
-  speakers: [45]
---
 session-id: 1005
   title: "Michael Milford" 
   description: ""
-  subtype: Talk
-  speakers: [5]
 
   Heidi    Perrett 
-session-id: 44
-  title: "Data organisation in spreadsheets for researchers" 
-  description: "Learn:  - good data entry practices and formatting data tables in spreadsheets;  - how to avoid common formatting mistakes;  - approaches for handling dates in spreadsheets;  - basic quality control and data manipulation in spreadsheets."
-  subtype: Workshop
-  speakers: [16]
---
-session-id: 54
-  title: "Introduction to data cleaning with OpenRefine" 
-  description: "Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine.  On completion of this workshop, participants should be able to:  •explore data through facets and filters •implement 'tidy data' principles •clean, organise, and prepare data for analysis •use basic features of OpenRefine •extract and reuse a reproducible script to repeat processing on similar data"
-  subtype: Workshop
-  speakers: [16]
---
-session-id: 74
-  title: "Advanced Data Wrangling with OpenRefine" 
-  description: "Building on the Introduction to Data Cleaning with OpenRefine workshop, learn advanced data wrangling skills including combining tabular datasets, geolocating data, and “what if” exploration using OpenRefine. On completion of this workshop, participants should be able to:      extend data with additional variables from other data,     visualise geographic locations using Geo.json resulting in an interactive map     create a webpage to display the geographically visualised data using Github. "
-  subtype: Workshop
-  speakers: [16]
---
-session-id: 14
-  title: "Evaluating AI apps for your literature reviews" 
-  description: "In this workshop learn how to critically assess AI tools that can assist with brainstorming ideas & summarising the literature.  Understand more about how they work, their limitations and discuss the new ways they can be embedded into research practice "
-  subtype: Workshop
-  speakers: [26, 27]
---
-session-id: 11
-  title: "Programming with Python 1: Variables, Files and Plots" 
-  description: ""
-  subtype: Workshop
-  speakers: [36]
---
-session-id: 21
-  title: "Programming with Python 2: Lists and Loops" 
-  description: ""
-  subtype: Workshop
-  speakers: [36]
---
-session-id: 41
-  title: "Programming with Python 3: Flow Control and Functions" 
-  description: ""
-  subtype: Workshop
-  speakers: [36]
---
-session-id: 34
-  title: "FAIR/CARE panel" 
-  description: ""
-  subtype: Panel
-  speakers: [36, 37, 38]
---
-session-id: 94
-  title: "Exploring genomic data with the Australian Reference Genome Atlas" 
-  description: "The Australian Reference Genome Atlas (ARGA) is a recently launched online platform for genomic data discovery across non-human, eukaryotic organisms. It indexes and aggregates data from a range of repositories, including NCBI GenBank, Barcode of Life Data system (BOLD) and Bioplatforms Australia's data portal, enabling users to search across multiple sources from a centralised portal. Where possible, genomic data are intersected with specimen information available from formalised collections (e.g. museums, herbaria) to supplement relevant metadata.  This workshop will feature a demo of the ARGA platform, giving an overview of its uses and allowing time for questions and discussions. The workshop will cover how ARGA can help to:   - visualise and explore geographic occurrences of specimens (both with and without derived sequence data)  - investigate the metadata available for each step in the chain of events between specimen collection and data deposition to help assess and compare sequences  - discover genomic data for species according to thematic, ecological or trait groupings, such as threatened species, crop wild relatives, or poisonous and venomous species  - determine summary statistics for genomic data availability across taxonomic clades or in thematic groupings (e.g. proportion of frog species with genome assemblies available, proportion of threatened Australian species with any available genomic data)"
-  subtype: Workshop
-  speakers: [46, 47]
---
 session-id: 1006
   title: "Heidi Perrett" 
   description: ""
-  subtype: Talk
-  speakers: [6]
 
   Alex    de Sá 
 session-id: 64
   title: "Quantum Machine Learning" 
   description: "The area of quantum machine learning is advancing at a rapid pace. This workshop is designed to introduce quantum computing and quantum machine learning to researchers new to this cutting-edge area. This hands-on workshop will start by introducing support vector classifiers from a classical machine learning perspective and then show how quantum algorithms can be used to enhance their performance. At the end of the workshop, the attendees will have a basic understanding of quantum algorithms using IBM Quantum computers and will have run algorithms to improve the performance of classical support vector classifiers using quantum kernels."
-  subtype: Workshop
-  speakers: [28, 42]
 
   Cameron    Rutter 
 session-id: 75
   title: "Copyright Considerations for Human Researchers" 
   description: "This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright, touching on AI creations and legal challenges. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more."
-  subtype: Workshop
-  speakers: [20, 43]
 
   Bran    Stokes (he/they) 
 session-id: 35
   title: "Transerable Skills: Understanding Failure, Strengths and Values" 
   description: "Rather than technical upskilling, this workshop focuses on transferable skills that compliment research (as well other areas). We will be examining failure, personal strengths and personal values, both in a general context and by way of self examination. There will be a 15-minute Q&A at the end where participants can ask about any transferable (often called 'soft') skills."
-  subtype: Workshop
-  speakers: [44]
 
   Andres    Felipe Suarez-Castro 
 session-id: 0
   title: "Introduction to processing, visualization and mapping of spatial data in R" 
   description: "The goal of this course is to provide introductory training in spatial data processing, visualization, and mapping using R. The course focuses on a small set of popular packages for these tasks, many of which are drawn from a collection of packages called tidyverse. We will explain the new capabilities of packages terra and sf, why they should be used instead of other alternatives such as raster and sp,  and how packages with strong dependencies on rgdal, rgeos and maptools (recently archived on CRAN) must be either upgraded to use sf, terra or other alternatives.  We'll also create some graphs to summarize the data and explore options for map generation."
-  subtype: Workshop
-  speakers: [45]
 
   Kathryn    Hall (she/her) 
 session-id: 94
   title: "Exploring genomic data with the Australian Reference Genome Atlas" 
   description: "The Australian Reference Genome Atlas (ARGA) is a recently launched online platform for genomic data discovery across non-human, eukaryotic organisms. It indexes and aggregates data from a range of repositories, including NCBI GenBank, Barcode of Life Data system (BOLD) and Bioplatforms Australia's data portal, enabling users to search across multiple sources from a centralised portal. Where possible, genomic data are intersected with specimen information available from formalised collections (e.g. museums, herbaria) to supplement relevant metadata.  This workshop will feature a demo of the ARGA platform, giving an overview of its uses and allowing time for questions and discussions. The workshop will cover how ARGA can help to:   - visualise and explore geographic occurrences of specimens (both with and without derived sequence data)  - investigate the metadata available for each step in the chain of events between specimen collection and data deposition to help assess and compare sequences  - discover genomic data for species according to thematic, ecological or trait groupings, such as threatened species, crop wild relatives, or poisonous and venomous species  - determine summary statistics for genomic data availability across taxonomic clades or in thematic groupings (e.g. proportion of frog species with genome assemblies available, proportion of threatened Australian species with any available genomic data)"
-  subtype: Workshop
-  speakers: [46, 47]
 
   Keeva    Connolly (she/her) 
 session-id: 94
   title: "Exploring genomic data with the Australian Reference Genome Atlas" 
   description: "The Australian Reference Genome Atlas (ARGA) is a recently launched online platform for genomic data discovery across non-human, eukaryotic organisms. It indexes and aggregates data from a range of repositories, including NCBI GenBank, Barcode of Life Data system (BOLD) and Bioplatforms Australia's data portal, enabling users to search across multiple sources from a centralised portal. Where possible, genomic data are intersected with specimen information available from formalised collections (e.g. museums, herbaria) to supplement relevant metadata.  This workshop will feature a demo of the ARGA platform, giving an overview of its uses and allowing time for questions and discussions. The workshop will cover how ARGA can help to:   - visualise and explore geographic occurrences of specimens (both with and without derived sequence data)  - investigate the metadata available for each step in the chain of events between specimen collection and data deposition to help assess and compare sequences  - discover genomic data for species according to thematic, ecological or trait groupings, such as threatened species, crop wild relatives, or poisonous and venomous species  - determine summary statistics for genomic data availability across taxonomic clades or in thematic groupings (e.g. proportion of frog species with genome assemblies available, proportion of threatened Australian species with any available genomic data)"
-  subtype: Workshop
-  speakers: [46, 47]
 
   Kasia    Koziara 
 
