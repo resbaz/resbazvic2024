@@ -61,9 +61,23 @@ analytics revealed a decrease in viewer retention as each video progresses, but 
 and camera angle changes. Together this data provides an evidence-based framework for designing science videos that will engage different online 
 audiences and disseminate your research." 
 -
-  id: 2001
-  title: "TBC"
-  description: "TBC"
-  subtype: workshop
-  speakers: []
+  id: 1003
+  title: ""
+  description: "There are many reasons a researcher should think about the commercialisation of their research, from tangibly solving the world's biggest 
+problems, to creating more industry engagement and increasing funding opportunities in the future. Join Rachel in this session to discover the many 
+reasons why research commercialisation matters, and explore the pathways to commercialise research. This is basically a crash course in research 
+commercialisation mixed with a dash of personal reflections from Rachel’s entrepreneurship and research commercialisation experience so far. The goal of 
+this session is for you to walk away feeling inspired and encouraged and hopefully thinking about how your research can be commercialised."
+  subtype: talk
+  speakers: [2]
+-
+  id: 1004
+  title: "Digital Research Infrastructure - Building “datascopes" for 21st Century Discovery and the role of Research Infrastructure in the future"
+  subtype: talk
+  speakers: [3]
+  description: "Digital research infrastructure has become paramount for the advancement of all scientific research and innovation. We explore the 
+fundamental shifts requiring greater coordination and connections across the entire data lifecycle (technology and processes) within and between research 
+organisations. We will highlight the importance of enhancing digital skills across the research workforce and raise awareness of the national research 
+infrastructures to effectively develop and manage connections in Australia"
+-
 
