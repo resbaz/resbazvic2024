@@ -1,6 +1,7 @@
 -
   title: Introduction to Image Analysis with FIJI (1)
   stream: Research Computing
+  themes: "6"
   id: 46
   speakers: [7]
   subtype: Workshop
@@ -10,6 +11,7 @@
 -
   title: Introduction to Image Analysis with FIJI (2)
   stream: Research Computing
+  themes: "6"
   id: 56
   speakers: [7]
   subtype: Workshop
@@ -19,6 +21,7 @@
 -
   title: Web Archiving For Data Collection 
   stream: Internet Content and AI
+  themes: "3"
   id: 93
   speakers: [8]
   subtype: Workshop
@@ -28,6 +31,7 @@
 -
   title: Introducing computational thinking 
   stream: Python and Panels
+  themes: "1"
   id: 31
   speakers: [9]
   subtype: Workshop
@@ -37,6 +41,7 @@
 -
   title: Network Know-how & Data Handling 
   stream: Data Literacy, Openness and Frontiers
+  themes: "4"
   id: 94
   speakers: [10]
   subtype: Workshop
@@ -57,6 +62,7 @@
 -
   title: Unlock the Power of Text Analytics with LADAL 
   stream: Internet Content and AI
+  themes: "3"
   id: 63
   speakers: [11]
   subtype: Workshop
@@ -66,8 +72,9 @@
 -
   title: Introduction to Jupyter Notebooks 
   stream: Python and Panels
+  themes: "1"
   id: 61
-  speakers: 10, 12
+  speakers: [10, 12]
   subtype: Workshop
   service: false
   hidden: false
@@ -75,6 +82,7 @@
 -
   title: Demystifying AI for Research 
   stream: Internet Content and AI
+  themes: "3"
   id: 23
   speakers: [13]
   subtype: Workshop
@@ -84,6 +92,7 @@
 -
   title: AI summarisation and retrieval Pipelines for Research 
   stream: Internet Content and AI
+  themes: "3"
   id: 33
   speakers: [13]
   subtype: Workshop
@@ -93,6 +102,7 @@
 -
   title: 'NewsTalk: Beyond Twitter '
   stream: Internet Content and AI
+  themes: "3"
   id: 43
   speakers: [14]
   subtype: Workshop
@@ -102,8 +112,9 @@
 -
   title: Collecting and analysing YouTube data 
   stream: Internet Content and AI
+  themes: "3"
   id: 53
-  speakers: 15, 13
+  speakers: [15, 13]
   subtype: Workshop
   service: false
   hidden: false
@@ -111,6 +122,7 @@
 -
   title: 'Data organisation in spreadsheets for researchers '
   stream: Data Literacy, Openness and Frontiers
+  themes: "4"
   id: 44
   speakers: [16]
   subtype: Workshop
@@ -120,6 +132,7 @@
 -
   title: 'Introduction to data cleaning with OpenRefine '
   stream: Data Literacy, Openness and Frontiers
+  themes: "4"
   id: 54
   speakers: [16]
   subtype: Workshop
@@ -129,6 +142,7 @@
 -
   title: 'Advanced Data Wrangling with OpenRefine '
   stream: Data Literacy, Openness and Frontiers
+  themes: "4"
   id: 74
   speakers: [16]
   subtype: Workshop
@@ -138,6 +152,7 @@
 -
   title: Storing and querying your research data with a database 
   stream: Internet Content and AI
+  themes: "3"
   id: 73
   speakers: [17]
   subtype: Workshop
@@ -147,8 +162,9 @@
 -
   title: 'How Bazaar, How Bazaar: Let''s think about ChatGPT, et.al'
   stream: Research Computing
+  themes: "6"
   id: 76
-  speakers: 18, 29
+  speakers: [18, 29]
   subtype: Panel
   service: false
   hidden: false
@@ -161,6 +177,7 @@
 -
   title: Your research toolkit in the Cloud 
   stream: Research Computing
+  themes: "6"
   id: 16
   speakers: [19]
   subtype: Workshop
@@ -170,8 +187,9 @@
 -
   title: Copyright Considerations for Human Researchers
   stream: Soft Skills
+  themes: "5"
   id: 75
-  speakers: 20, 43
+  speakers: [20, 43]
   subtype: Workshop
   service: false
   hidden: false
@@ -179,12 +197,13 @@
 -
   title: 'Helping HASS students answer the question: Do you need the digital in your research?'
   stream: Internet Content and AI
+  themes: "3"
   id: 13
   speakers: [12]
   subtype: Workshop
   service: false
   hidden: false
-  description: |
+  description: |-
     In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld; of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.
 
     This session will be a panel discussion including the two leaders of the program, our AARNet colleague, and the four fellows, discussing issues including (but not limited to):
@@ -195,6 +214,7 @@
 -
   title: 'Statistics Proficiency: Brainstorm about needs, resources and gaps'
   stream: Python and Panels
+  themes: "1"
   id: 71
   speakers: [21]
   subtype: Panel
@@ -208,8 +228,9 @@
 -
   title: Introduction to Spatial Analysis in R 
   stream: R
+  themes: "2"
   id: 92
-  speakers: 22, 23, 24
+  speakers: [22, 23, 24]
   subtype: Workshop
   service: false
   hidden: false
@@ -219,6 +240,7 @@
 -
   title: Uplift your instructing skills - hints and tips from The Carpentries instructor program
   stream: Soft Skills
+  themes: "5"
   id: 55
   speakers: [25]
   subtype: Workshop
@@ -228,8 +250,9 @@
 -
   title: Evaluating AI apps for your literature reviews
   stream: Data Literacy, Openness and Frontiers
+  themes: "4"
   id: 14
-  speakers: 26, 27
+  speakers: [26, 27]
   subtype: Workshop
   service: false
   hidden: false
@@ -237,8 +260,9 @@
 -
   title: Quantum Machine Learning 
   stream: Data Literacy, Openness and Frontiers
+  themes: "4"
   id: 64
-  speakers: 28, 42
+  speakers: [28, 42]
   subtype: Workshop
   service: false
   hidden: false
@@ -246,6 +270,7 @@
 -
   title: 'Programming with Python 1: Variables, Files and Plots'
   stream: Python and Panels
+  themes: "1"
   id: 11
   speakers: [36]
   subtype: Workshop
@@ -255,6 +280,7 @@
 -
   title: 'Programming with Python 2: Lists and Loops'
   stream: Python and Panels
+  themes: "1"
   id: 21
   speakers: [36]
   subtype: Workshop
@@ -264,6 +290,7 @@
 -
   title: 'Programming with Python 3: Flow Control and Functions'
   stream: Python and Panels
+  themes: "1"
   id: 41
   speakers: [36]
   subtype: Workshop
@@ -273,8 +300,9 @@
 -
   title: FAIR/CARE panel
   stream: Data Literacy, Openness and Frontiers
+  themes: "4"
   id: 34
-  speakers: 36, 37, 38
+  speakers: [36, 37, 38]
   subtype: Panel
   service: false
   hidden: false
@@ -282,6 +310,7 @@
 -
   title: Ethical AI panel
   stream: '#N/A'
+  themes: '#N/A'
   id: '#N/A'
   speakers: []
   subtype: ""
@@ -291,6 +320,7 @@
 -
   title: 'R for Scientific Analysis: Introduction to R'
   stream: R
+  themes: "2"
   id: 12
   speakers: [40]
   subtype: Workshop
@@ -300,6 +330,7 @@
 -
   title: 'R for Scientific Analysis: Introduction to R (continued)'
   stream: R
+  themes: "2"
   id: 22
   speakers: [40]
   subtype: Workshop
@@ -309,6 +340,7 @@
 -
   title: 'R for Scientific Analysis: Starting with Data'
   stream: R
+  themes: "2"
   id: 32
   speakers: [40]
   subtype: Workshop
@@ -318,6 +350,7 @@
 -
   title: 'R for Scientific Analysis: Manipulate Data'
   stream: R
+  themes: "2"
   id: 42
   speakers: [40]
   subtype: Workshop
@@ -327,6 +360,7 @@
 -
   title: 'R for Scientific Analysis: Visualising Data'
   stream: R
+  themes: "2"
   id: 52
   speakers: [40]
   subtype: Workshop
@@ -336,6 +370,7 @@
 -
   title: Shell Basics for HPC
   stream: Soft Skills
+  themes: "5"
   id: 65
   speakers: [30]
   subtype: Workshop
@@ -345,6 +380,7 @@
 -
   title: Tips for moving from Desktop to HPC 
   stream: Research Computing
+  themes: "6"
   id: 26
   speakers: [31]
   subtype: Workshop
@@ -354,6 +390,7 @@
 -
   title: Generating graphs using Python and ChatGPT 
   stream: Python and Panels
+  themes: "1"
   id: 51
   speakers: [32]
   subtype: Workshop
@@ -363,6 +400,7 @@
 -
   title: 'RIMReP Data Management System: All GBR data in one single place'
   stream: Research Computing
+  themes: "6"
   id: 96
   speakers: [33]
   subtype: Workshop
@@ -372,6 +410,7 @@
 -
   title: 'Dealing with impostor syndrome: You are not alone'
   stream: Soft Skills
+  themes: "5"
   id: 15
   speakers: [34]
   subtype: Workshop
@@ -386,6 +425,7 @@
 -
   title: Looking for ongoing 1-on-1 mentorship after ResBaz? Start here! 
   stream: Soft Skills
+  themes: "5"
   id: 95
   speakers: [34]
   subtype: Workshop
@@ -400,6 +440,7 @@
 -
   title: Phylogenomics analysis based on Linux command line environment
   stream: Python and Panels
+  themes: "1"
   id: 91
   speakers: [35]
   subtype: Workshop
@@ -409,6 +450,7 @@
 -
   title: Nanopore Sequencing (Adam Ewing)
   stream: R
+  themes: "2"
   id: 62
   speakers: [39]
   subtype: Workshop
@@ -418,6 +460,7 @@
 -
   title: TERN Services to share, discover and access Ecosystem data 
   stream: Soft Skills
+  themes: "5"
   id: 45
   speakers: [41]
   subtype: Workshop
@@ -427,6 +470,7 @@
 -
   title: 'Transferable Skills: Understanding Failure, Strengths and Values'
   stream: Soft Skills
+  themes: "5"
   id: 35
   speakers: [44]
   subtype: Workshop
@@ -436,6 +480,7 @@
 -
   title: Introduction to processing, visualization and mapping of spatial data in R 
   stream: '#REF!'
+  themes: ""
   id: 0
   speakers: [45]
   subtype: Workshop
@@ -445,8 +490,9 @@
 -
   title: Exploring genomic data with the Australian Reference Genome Atlas 
   stream: Data Literacy, Openness and Frontiers
+  themes: "4"
   id: 24
-  speakers: 46, 47
+  speakers: [46, 47]
   subtype: Workshop
   service: false
   hidden: false
@@ -454,6 +500,7 @@
 -
   title: 'Guided networking session '
   stream: Soft Skills
+  themes: "5"
   id: 25
   speakers: [2]
   subtype: Workshop
@@ -463,6 +510,7 @@
 -
   title: Shiny
   stream: R
+  themes: "2"
   id: 72
   speakers: [48]
   subtype: Workshop
@@ -473,6 +521,7 @@
 -
   title: Mega Hacky Hour
   stream: '#REF!'
+  themes: ""
   id: 0
   speakers: []
   subtype: Workshop
@@ -482,6 +531,7 @@
 -
   title: UQRUG Presents Cool But Useless
   stream: Research Computing
+  themes: "6"
   id: 66
   speakers: [23]
   subtype: Workshop
@@ -491,6 +541,7 @@
 -
   title: Reproducible Research in R
   stream: Research Computing
+  themes: "6"
   id: 36
   speakers: [49]
   subtype: Workshop
@@ -500,6 +551,7 @@
 -
   title: ""
   stream: ""
+  themes: ""
   id: 
   speakers: []
   subtype: ""
@@ -509,6 +561,7 @@
 -
   title: ""
   stream: ""
+  themes: ""
   id: 
   speakers: []
   subtype: ""
@@ -518,6 +571,7 @@
 -
   title: ""
   stream: ""
+  themes: ""
   id: 
   speakers: []
   subtype: ""
@@ -527,6 +581,7 @@
 -
   title: 'Digital data for HASS and Indigenous researchers: ‘people’ behind the data'
   stream: ""
+  themes: ""
   id: 1001
   speakers: [1]
   subtype: Talk
@@ -536,6 +591,7 @@
 -
   title: 'Unlocking innovation: The science of research commercialisation'
   stream: ""
+  themes: ""
   id: 1002
   speakers: [2]
   subtype: Talk
@@ -545,6 +601,7 @@
 -
   title: Digital Research Infrastructure - Building 'datascopes' for 21st Century Discovery and the role of Research Infrastructure in the future
   stream: ""
+  themes: ""
   id: 1003
   speakers: [3]
   subtype: Talk
@@ -554,6 +611,7 @@
 -
   title: 'Online science communication: an evidence-based guide on how to get started'
   stream: ""
+  themes: ""
   id: 1004
   speakers: [4]
   subtype: Talk
@@ -563,6 +621,7 @@
 -
   title: Hopefully good and some definitively bad advice for researchers in the digital AI age
   stream: ""
+  themes: ""
   id: 1005
   speakers: [5]
   subtype: Talk
@@ -572,6 +631,7 @@
 -
   title: Heidi Perrett
   stream: ""
+  themes: ""
   id: 1006
   speakers: [6]
   subtype: Talk
@@ -581,6 +641,7 @@
 -
   title: Registration (in the foyer)
   stream: ""
+  themes: ""
   id: 101
   speakers:
   subtype:
@@ -590,6 +651,7 @@
 -
   title: Morning tea
   stream: ""
+  themes: ""
   id: 102
   speakers:
   subtype:
@@ -599,6 +661,7 @@
 -
   title: Lunch and stalls
   stream: ""
+  themes: ""
   id: 104
   speakers:
   subtype:
@@ -608,6 +671,7 @@
 -
   title: Knowledge Bazaar
   stream: ""
+  themes: ""
   id: 201
   speakers:
   subtype:
