@@ -204,11 +204,12 @@
   surname: Stapleton
   pronouns: ""
   company:
-  title:
+  title: Research Library Specialist
   bio: Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor and strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer.
   thumbnailUrl: SharronStapleton.jpg
   rockstar: false
   ribbon:
+    - {abbr: "QUT", title: "QUT Library", url: "https://www.library.qut.edu.au/"}
   social:
 -
   id: 17
@@ -229,7 +230,7 @@
   surname: Howard
   pronouns: (she/her)
   company:
-  title:
+  title: Independent consultant & facilitator
   bio: Eliza is an independent consultant & facilitator. She is a former Fulbright Scholar (2005/2006) who post-PhD became a leader in research education and strategy. As a sole-trader consultant, she leads large projects for clients, hosts workshops for researchers, Higher Degree by Research candidates, and organisations conducting their own research projects, and develops research and project strategy. She was named a LinkedIn Top Voice in 2022 for writing extensively on 'mumemployment' and the complicated intersections between professional and family life.
   thumbnailUrl: eliza_howard.jpg
   rockstar: false
@@ -241,11 +242,12 @@
   surname: Ramza
   pronouns: ""
   company:
-  title:
+  title: User Support Manager for the Nectar Cloud
   bio: Sonia Ramza is the User Support Manager for the Nectar Cloud, previously having been in training & community roles.
   thumbnailUrl: SoniaRamza.jpg
   rockstar: false
   ribbon:
+    - {abbr: "ARDC", title: "Nectar Cloud, ARDC", url: "https://www.digitalobservatory.net.au/"}
   social:
 -
   id: 20
@@ -253,7 +255,7 @@
   surname: McLennan
   pronouns: ""
   company:
-  title:
+  title: Copyright Information Officer
   bio: 'Rani McLennan is the Copyright Information Officer at Queensland University of Technology (QUT) and the Open Educational Resource (OER) Collective Project Officer at the Council of Australian University Librarians (CAUL). She has over a decade of experience in public, school, and academic libraries. Her interests include the communication of complex information through text and visuals and openly licensed image collections. '
   thumbnailUrl: RaniMcLennan.jpg
   rockstar: false
@@ -369,62 +371,66 @@
   surname: Tuffley
   pronouns: ""
   company:
-  title:
+  title: Senior Lecturer, School of Information and Communication Technology
   bio:
-  thumbnailUrl:
+  thumbnailUrl: david_tuffley.jpg
   rockstar: false
   ribbon:
+    - {abbr: "IIIS, Griffith", title: "Institute for Integrated and Intelligent Systems, Griffith University", url: "https://www.griffith.edu.au/institute-integrated-intelligent-systems"}
   social:
 -
   id: 30
   name: David
   surname: Green
   pronouns: ""
-  company:
-  title:
-  bio:
-  thumbnailUrl:
+  company: UQ
+  title: HPC Manager, Research Computing Centre
+  bio: David joined The University of Queensland as HPC Manager within ITS in 2007. He has long been using computers to "figure stuff out" and enjoys working with researchers to help them do the same.
+  thumbnailUrl: david_green.jpg
   rockstar: false
   ribbon:
+    - {abbr: "UQ RCC", title: "UQ Research Computing Centre", url: "https://rcc.uq.edu.au/rcc-team"}
   social:
 -
   id: 31
   name: Marlies
   surname: Hankel
   pronouns: ""
-  company:
-  title:
+  company: UQ
+  title: Senior Development and Consultation Manager (RCC) and eResearch Analyst (QCIF)
   bio: Marlies Hankel is a eResearch Analysts in QCIF and Research Computing Centre at UQ. She obtained her master in mathematics in Germany and her PhD in chemistry in the UK. She has been a senior research fellow at the Australian Institute for Bioengineering and Nanotechnology and senior lecture in the School of Mathematics at UQ. During this time she was a heavy user of HPC and teaching many students to use HPC in their work. She has built and managed 4 HPC clusters during her time at AIBN. In QCIF and RCC she is helping users navigate HPC and transition their workloads.
-  thumbnailUrl:
+  thumbnailUrl: marlies_hankel.jpg
   rockstar: false
   ribbon:
+    - {abbr: "UQ RCC", title: "UQ Research Computing Centre", url: "https://rcc.uq.edu.au/rcc-team"}
   social:
 -
   id: 32
   name: Lachlan
   surname: McKinnie
   pronouns: ""
-  company:
-  title:
+  company: UniSC
+  title: PhD Student
   bio: |-
     I am a PhD student at the University of the Sunshine Coast researching red algal genetics and metabolic pathway reconstruction using bioinformatics. My work involves the functional annotation and investigation of genomes and transcriptomes, and I regularly code in Python for my research, including web design using Python Flask.
 
     ORCiD: 0000-0002-4996-5941
-  thumbnailUrl:
+  thumbnailUrl: lachlan_mckinnie.jpg
   rockstar: false
-  ribbon:
+  ribbon: '    - {abbr: "Centre for Bioinnovation, USC", title: "Centre for Bioinnovation, USC", url: "https://www.usc.edu.au/research/centre-for-bioinnovation"}'
   social:
 -
   id: 33
   name: Eduardo
   surname: Klein
   pronouns: ""
-  company:
-  title:
+  company: UTAS
+  title: Marine Ecology Researcher
   bio: With over 30 years of experience in tropical marine ecology and conservation, Eduardo Klein has worked extensively in the Caribbean region and more recently in the GBR. He has established strong connections with multilateral organisations that specialise in biodiversity conservation and data, such as OBIS and the marine program of the Convention for Biological Diversity. Currently, he leads the Reef Data Services & Infrastructure program at IMOS.
-  thumbnailUrl:
+  thumbnailUrl: Eduardo-Klein.jpg
   rockstar: false
   ribbon:
+    - {abbr: "AODN", title: "Australian Ocean Data Network", url: "https://imos.org.au/facilities/aodn/"}
   social:
 -
   id: 34
@@ -448,7 +454,7 @@
   bio: Dr. Min Zhao has about 20 years of experience in the field of bioinformatics and genomics. His research focuses on the investigation of regulatory machines in aquatic genomes and disease genomes. In addition to 4 review manuscripts, he has published 90 research papers in peer-reviewed international journals including 50 first and corresponding author papers in total. In total, his papers have been cited over 4000+ times (H-index 31). About 50% of his publications are presented in the top 10% most cited papers worldwide in Scopus database. Additionally, ten of his manuscripts have been published in very high profile journals (top 5%; including Nature, Nature communication, cell research, American Journal of Respiratory and Critical Care Medicine, Nucleic Acids Research, Molecular ecology resource). The research articles include author contributions from a diversity of institutions/universities external from USC and International (primarily USA, Japan, China, and Thailand). He currently leads as Chief Investigator 1 ARC Discovery Projects (with USC as administering organisation), and is co-contributor for Reef2050 grant.
   thumbnailUrl: MinZhao.jpg
   rockstar: false
-  ribbon:
+  ribbon: '    - {abbr: "Centre for Bioinnovation, USC", title: "Centre for Bioinnovation, USC", url: "https://www.usc.edu.au/research/centre-for-bioinnovation"}'
   social:
 -
   id: 36
@@ -492,59 +498,64 @@
   surname: Ewing
   pronouns: ""
   company:
-  title:
+  title: Translational Bioinformatics Group Lead
   bio:
-  thumbnailUrl:
+  thumbnailUrl: adam_ewing.jpg
   rockstar: false
   ribbon:
+    - {abbr: "UQ", title: "Mater Research Institute, UQ", url: "https://imos.org.au/facilities/aodn/"}
   social:
 -
   id: 40
   name: Caitie
   surname: Kuempel
   pronouns: ""
-  company:
-  title:
+  company: Griffith
+  title: Lecturer, School of Environment and Science
   bio: I am a conservation scientist with interests in sustainable seafood, land-sea interactions, and conservation planning. I am passionate about finding ways to meet the needs of the growing human population while minimising impacts on the environment – particularly in the world’s oceans. I completed my PhD at the University of Queensland in protected area design and evaluation, followed by post-doctoral positions at NCEAS UC Santa Barbara mapping impacts of the global food system and University of Queensland exploring ways to manage and monitor climate resilient reefs to benefit people and nature. I also holds degrees in marine biology (M.S.), environmental science (B.S.) and French (B.A.).
-  thumbnailUrl:
+  thumbnailUrl: caitie_kuempel.jph
   rockstar: false
   ribbon:
+    - {abbr: "Griffith", title: "Australian Rivers Institute, Griffith University", url: "https://www.griffith.edu.au/australian-rivers-institute"}
   social:
 -
   id: 41
   name: Siddeswara
   surname: Guru
   pronouns: (he/him)
-  company:
-  title:
+  company: TERN
+  title: Program Lead
   bio: Siddeswara Guru is a program lead of TERN Data Services and Analytics Platform. He lead a team to build data infrastructure to TERN observing and stakeholders datasets.
-  thumbnailUrl:
+  thumbnailUrl: siddeswara_guru.jpg
   rockstar: false
   ribbon:
+    - {abbr: "TERN", title: "TERN", url: "https://www.tern.org.au/"}
   social:
 -
   id: 42
   name: Alex
   surname: deSá
   pronouns: ""
-  company:
-  title:
+  company: UQ
+  title: Postdoctoral researcher at the Computational Biology and Clinical Informatics
   bio: 'Alex holds a PhD, in 2019, in Computer Science from the Federal University of Minas Gerais (UFMG), Brazil. He is a postdoctoral researcher at the Computational Biology and Clinical Informatics laboratory at the Baker Heart and Diabetes Institute, with an honorary fellowship at the University of Queensland. His research is centered on bio(chem)informatics, health informatics and automated machine learning (AutoML). Particularly, he is interested in automating data science, i.e., employing optimisation methods to select proper machine learning algorithms and models for any dataset of interest. Currently, he is employing this knowledge in chemical, medical and biological data. (Twitter/LinkedIn: @alexgcsa).'
-  thumbnailUrl:
+  thumbnailUrl: Alex-De-Sa.jpg
   rockstar: false
   ribbon:
+    - {abbr: "Baker Institute", title: "Baker Heart and Diabetes Institute, Melbourne", url: "https://www.baker.edu.au/"}
   social:
 -
   id: 43
   name: Cameron
   surname: Rutter
   pronouns: ""
-  company:
-  title:
+  company: QUT
+  title: University Copyright Officer
   bio: Cameron Rutter is the acting University Copyright Officer at Queensland University of Technology. He has been working in academic libraries for over fifteen years across a wide range of roles.
-  thumbnailUrl:
+  thumbnailUrl: cameron_rutter.png
   rockstar: false
   ribbon:
+    - {abbr: "QUT", title: "QUT Library", url: "https://www.library.qut.edu.au/"}
   social:
 -
   id: 44
@@ -552,23 +563,25 @@
   surname: Stokes
   pronouns: (he/they)
   company:
-  title:
+  title: Program Manager at ABCN
   bio: Bran (he/they) has a passion for helping others self-improve. He has a background in both law and journalism and is currently working for a not-for-profit as a facilitator and program manager. As his day-to-day involves upskilling high school students and adults on transferable skills.
-  thumbnailUrl:
+  thumbnailUrl: bran-stokes.png
   rockstar: false
   ribbon:
+    - {abbr: "ABCN", title: "ABCN", url: "https://abcn.com.au/"}
   social:
 -
   id: 45
   name: Andres
   surname: FelipeSuarez-Castro
   pronouns: ""
-  company:
-  title:
+  company: Griffith
+  title: Lecturer, School of Environment and Science
   bio: 'Dr Suarez-Castro is a spatial ecologist who uses a diverse range of spatial statistical techniques, remote sensing and geographic data to predict the ecological causes and consequences of environmental change across spatial and temporal scales. Currently, his research focuses on optimizing the selection of areas that can maximize biodiversity conservation and ecosystem service provisioning across spatial scales in human-dominated landscapes. He is engaged in multidisciplinary projects that require advanced computational skills for handling large databases and complex spatial data, as well as liaising and collaborating with a big range of stakeholders. In addition to his academic outputs that have resulted in more than 1400 citations, Dr Suarez-Castro regularly act in a range of service roles, providing advice to urban and regional planners, environmental consultants, and government institutions. '
-  thumbnailUrl:
+  thumbnailUrl: andres_felipe_suarez-castro.jpg
   rockstar: false
   ribbon:
+    - {abbr: "Griffith", title: "Australian Rivers Institute, Griffith University", url: "https://www.griffith.edu.au/australian-rivers-institute"}
   social:
 -
   id: 46
@@ -576,11 +589,12 @@
   surname: Hall
   pronouns: (she/her)
   company:
-  title:
+  title: Product Champion
   bio: Kathryn Hall is the Product Champion for the Australian Reference Genome Atlas (ARGA) Project, and is part of the Atlas of Living Australia (CSIRO). She has a background in animal taxonomy, with a special focus on marine invertebrates. Kathryn has always worked to integrate genetic data with other biological data to inform her taxonomic process, and is very proud now to be overseeing the ARGA Project team as they build the ARGA platform. ARGA aims to help researchers discover data within biological and ecological contexts for all Australian biota.
-  thumbnailUrl:
+  thumbnailUrl: kathryn_hall.jpg
   rockstar: false
   ribbon:
+    - {abbr: "ALA", title: "Atlas of Living Australia", url: "https://www.ala.org.au/"}
   social:
 -
   id: 47
@@ -588,11 +602,12 @@
   surname: Connolly
   pronouns: (she/her)
   company:
-  title:
+  title: Scientific Business Analyst
   bio: Keeva Connolly is a scientific business analyst with the Australian BioCommons, and works full time on the ARGA project. As part of her role, she speaks with researchers to better understand their challenges when searching for genomic data and how they can be addressed. Before starting at the Australian BioCommons, she studied a Bachelor of Genetics (Hons) at the Australian National University and worked for the Department of Agriculture, Water and the Environment (now DAFF) in plant biosecurity.
-  thumbnailUrl:
+  thumbnailUrl: Keeva-Connolly.png
   rockstar: false
   ribbon:
+    - {abbr: "Australian BioCommons", title: "Australian BioCommons", url: "https://www.biocommons.org.au/"}
   social:
 -
   id: 48
@@ -602,7 +617,7 @@
   company:
   title: Senior Data Analyst, Institute for Teaching and Learning Innovation, UQ
   bio: 'Kasia is an experienced data professional across multiple sectors: academic, non-profit and government. She is skilled in data extraction, modelling, and analysis with a passion for higher education, STEM outreach and public engagement. She holds a PhD in Computational Chemistry from UQ.'
-  thumbnailUrl:
+  thumbnailUrl: Kasia-Koziara.jpg
   rockstar: false
   ribbon:
     - {abbr: "ITaLI", title: "Institute for Teaching and Learning Innovation, UQ", url: "https://itali.uq.edu.au/"}
