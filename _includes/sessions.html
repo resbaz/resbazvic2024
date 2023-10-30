@@ -1,13 +1,45 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
+            Filter sessions by topic: <select id="themes">
+            <option value="">Show all</option>
+            {% for theme in site.data.themes %}
+                <option value="theme_{{ theme.id }}">{{ theme.name }}</option>
+            {% endfor %}
+        </select>
         <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 10 }'>
             {% for session in site.data.sessions %}
-                {% if session.id != 001 and session.id != 503 and session.id != 000 and session.hidden != true %} 
-                    <div class="grid-item">
+                {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true %} 
+                    <div class="grid-item {% for theme in session.themes %}theme_{{theme}} {% endfor %}">
                         <h5>{{ session.title  }}</h5>
+                        <p>{% if session.complexity != null %}
+						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.complexity }}</span>
+						{% endif %}</p>
+						<p>{% if session.length != null %}
+						<span class="theme-metadata"><span class="caption">Length: </span>{{ session.length }}</span>
+						{% endif %}</p>
+						<p>{% if session.capacity != null %}
+						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.capacity }}</span>
+						{% endif %}</p>
+                        <p>{% if session.recorded != null %}
+                        <span class="theme-metadata"><span class="caption">Recorded: </span>{{ session.recorded }}</span>
+                        {% endif %}</p>
+                        <p>{% if session.registration_link != null %}
+                            <span class="theme-metadata"><a href="{{ session.registration_link }}">Registration link</a></span>
+                        {% endif %}</p>
                         <hr />
                         <span class="text-body">{{ session.description }}</span>
+                        <div class="slot-theme">
+                            {% for theme in site.data.themes %}
+                                {% for session_theme in session.themes %}
+                                    {% if session_theme == theme.id %}
+                                    <div style="background-color:{{theme.color}}12; color: {{theme.fontColor}}; border-color: {{theme.color}};">
+                                        {{theme.name}}
+                                    </div>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endfor %}
+                        </div>
                     </div>
                 {% endif %}
             {% endfor %}

@@ -44,17 +44,17 @@ c4sponsorsUrl: "https://www.qcif.edu.au"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/news/", text: "News"}
+ - {permalink: "/registration/", text: "Register"}
  - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Getting here"}
  - {permalink: "/partners/", text: "Partners & Sponsors"}
- - {permalink: "/registration/", text: "Register"}
- - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
+# - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
  - {permalink: "/cod/", text: "Code of Conduct"}
-bottomNavigationLinks:
- - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
+   # bottomNavigationLinks:
+  # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
 #rightNavigationButtons:
 # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
 

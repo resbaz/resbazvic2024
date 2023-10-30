@@ -5,7 +5,7 @@
   id: 46
   speakers: [7]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: 'This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc. The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more. Topics covered include: -Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) -Merging channels, and dealing with multiple channel images -Adjusting Brightness & Contrast and using histograms -Adding scale to images & adding scale bars -Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) -Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) -Creating Selections (Manually and Automatically) -Brief introduction to Machine Learning tools available in FIJI'
 -
@@ -15,7 +15,7 @@
   id: 56
   speakers: [7]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: 'This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc. The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more. Topics covered include: -Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) -Merging channels, and dealing with multiple channel images -Adjusting Brightness & Contrast and using histograms -Adding scale to images & adding scale bars -Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) -Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) -Creating Selections (Manually and Automatically) -Brief introduction to Machine Learning tools available in FIJI'
 -
@@ -25,7 +25,7 @@
   id: 93
   speakers: [8]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: "This workshop will cover using web archiving as a data collection method for the web and social media in research projects. It will cover:\n\n1. An overview of what web archiving is, and why it is usually preferable to web scraping and screen recording.\n2. Case studies of 2-3 different projects using web archiving approaches for data collection.\n3. Practical session/demo: \n   - Collecting data with archiveweb.page for a specific purpose\n   - Replaying data with archiveweb.page for qualitative analysis\n   - Extracting data from collected archives for quantitative analysis"
 -
@@ -35,7 +35,7 @@
   id: 31
   speakers: [9]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: 'This workshop introduces computational thinking as a precursor to learning how to write code in programming languages like R or Python. It will cover the steps involved in breaking down complex problems into computable chunks. '
 -
@@ -45,7 +45,7 @@
   id: 94
   speakers: [10]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: |
     This workshop will include jargon busting and topics such as network literacy and data movement solutions. You will learn about networks, integrated tools, active research data management, data movement and where all these things fit in the researcher’s toolkit.
@@ -66,7 +66,7 @@
   id: 63
   speakers: [11]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: Join us for a practical workshop where you'll explore the capabilities of text analytics using the resources provided by the Language Technology and Data Analysis Laboratory (LADAL). Through hands-on demonstrations in R, you'll gain essential skills in natural language processing and learn how to extract valuable insights from text data. Discover diverse approaches and concepts that will empower your research. Plus, get practical advice on data processing, analytics, and visualisation to elevate your research with LADAL's text analytics resources.
 -
@@ -76,7 +76,7 @@
   id: 61
   speakers: [10, 12]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has\nexploded in popularity in recent years for those working with data.\n\nYou will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research.\n\n•\tDescribe what Jupyter Notebooks are, what they do and how they work.\n•\tDefine and explain terms related to coding and cloud computing (jargon busting).\n•\tLearn about online options for using Jupyter Notebooks.\n•\tDemonstrate how Jupyter Notebooks fit into the research landscape.\n•\tRecognise and apply some basic Markdown, Python and/or R commands. \n•\tOpen a Jupyter Notebook, perform some basic programming tasks and save it for later."
 -
@@ -86,7 +86,7 @@
   id: 23
   speakers: [13]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: This workshop (talk with some demo) will introduce LLMs and AI for research. The presentation will talk about what LLMs can and cannot do as well as the risks presented by LLMs for research. This is a low code intro to using AI for research.
 -
@@ -96,7 +96,7 @@
   id: 33
   speakers: [13]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: This workshop will introduce some ways to use AI as part of analytic pipelines to work with data. Some examples will be used but participants can bring their own data as well.
 -
@@ -106,7 +106,7 @@
   id: 43
   speakers: [14]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: We discuss the new post-Twitter social media landscape and ramifications for research. Then we introduce NewsTalk, a data bank of public reader comments, and how this platform can answer many of the same research questions in Australia. In this workshop we discuss the ethics procedures to gain access to NewsTalk, and we show how to use the tool including finding news stories and download data bundles of reader comments. We also describe the output data format and examine some of the participant's suggestions of public topics in the NewsTalk data.
 -
@@ -116,7 +116,7 @@
   id: 53
   speakers: [15, 13]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: This workshop will introduce researchers to tools and methods to collect and analyse YouTube metadata (video title, description, comments, etc.). We will walk attendees through using a open source tool called 'youte' to collect and tidy YouTube metadata, then doing some basic text analytics on the collected data. The workshop is aimed at researchers/students with little to no programming background.
 -
@@ -126,7 +126,7 @@
   id: 44
   speakers: [16]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: "Learn: \n- good data entry practices and formatting data tables in spreadsheets; \n- how to avoid common formatting mistakes; \n- approaches for handling dates in spreadsheets; \n- basic quality control and data manipulation in spreadsheets."
 -
@@ -136,7 +136,7 @@
   id: 54
   speakers: [16]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: "Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine. \nOn completion of this workshop, participants should be able to: \n•explore data through facets and filters\n•implement \"tidy data\" principles\n•clean, organise, and prepare data for analysis\n•use basic features of OpenRefine\n•extract and reuse a reproducible script to repeat processing on similar data"
 -
@@ -146,7 +146,7 @@
   id: 74
   speakers: [16]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: "Building on the Introduction to Data Cleaning with OpenRefine workshop, learn advanced data wrangling skills including combining tabular datasets, geolocating data, and “what if” exploration using OpenRefine.\nOn completion of this workshop, participants should be able to: \n    extend data with additional variables from other data,\n    visualise geographic locations using Geo.json resulting in an interactive map\n    create a webpage to display the geographically visualised data using Github.\n"
 -
@@ -156,7 +156,7 @@
   id: 73
   speakers: [17]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: Are you wanting to step outside the spreadsheet and try a new way of storing your structured data? In this workshop, you'll learn how to load tabular data into a locally stored database; search, query, and transform your data; and export from that database or connect to it with other tools. All software used will be open source and using standard formats and protocols. No prior experience or coding skills required, but Python and R examples will be additionally available to those who use those languages.
 -
@@ -166,7 +166,7 @@
   id: 76
   speakers: [18, 29]
   subtype: Panel
-  service: false
+  service:
   hidden: false
   description: |
     Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include:
@@ -181,7 +181,7 @@
   id: 16
   speakers: [19]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: "Learn more about how you use the ARDC Nectar Cloud to improve your research! A walkthrough will be provided of the different services available & their benefits:\nVirtual Desktop Service \nNational GPU/large memory service \nBinderHub \nJupyterHub Service\nNectar Cloud Dashboard\n"
 -
@@ -191,7 +191,7 @@
   id: 75
   speakers: [20, 43]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright, touching on AI creations and legal challenges. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more.
 -
@@ -201,7 +201,7 @@
   id: 13
   speakers: [12]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: |-
     In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld; of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.
@@ -218,7 +218,7 @@
   id: 71
   speakers: [21]
   subtype: Panel
-  service: false
+  service:
   hidden: false
   description: |-
     Researchers at any stage of their career, and from every field of knowledge are invited to join us in this brainstorm to openly discuss the theme of skill development in statistics for researchers.
@@ -232,7 +232,7 @@
   id: 92
   speakers: [22, 23, 24]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: |-
     This workshop will provide an overview of what spatial data is, the R packages available for spatial data, how to start a spatial project in R to then wrangle spatial data, perform spatial operations, and make a map.
@@ -244,7 +244,7 @@
   id: 55
   speakers: [25]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: The Carpentries Instructor Training program is an internationally renowed model for training instuctors to deliver hands-on applied digital skills courses. In this workshop, we will explore some of the key points from this program, which can be easily and immediately applied to help anyone become a better instructor, teacher, or coach.
 -
@@ -254,7 +254,7 @@
   id: 14
   speakers: [26, 27]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: "In this workshop learn how to critically assess AI tools that can assist with brainstorming ideas & summarising the literature.\n\nUnderstand more about how they work, their limitations and discuss the new ways they can be embedded into research practice "
 -
@@ -264,7 +264,7 @@
   id: 64
   speakers: [28, 42]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: The area of quantum machine learning is advancing at a rapid pace. This workshop is designed to introduce quantum computing and quantum machine learning to researchers new to this cutting-edge area. This hands-on workshop will start by introducing support vector classifiers from a classical machine learning perspective and then show how quantum algorithms can be used to enhance their performance. At the end of the workshop, the attendees will have a basic understanding of quantum algorithms using IBM Quantum computers and will have run algorithms to improve the performance of classical support vector classifiers using quantum kernels.
 -
@@ -274,7 +274,7 @@
   id: 11
   speakers: [36]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -284,7 +284,7 @@
   id: 21
   speakers: [36]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -294,7 +294,7 @@
   id: 41
   speakers: [36]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -304,7 +304,7 @@
   id: 34
   speakers: [36, 37, 38]
   subtype: Panel
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -314,7 +314,7 @@
   id: '#N/A'
   speakers: []
   subtype: ""
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -324,7 +324,7 @@
   id: 12
   speakers: [40]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -334,7 +334,7 @@
   id: 22
   speakers: [40]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -344,7 +344,7 @@
   id: 32
   speakers: [40]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -354,7 +354,7 @@
   id: 42
   speakers: [40]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -364,7 +364,7 @@
   id: 52
   speakers: [40]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -374,7 +374,7 @@
   id: 65
   speakers: [30]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -384,7 +384,7 @@
   id: 26
   speakers: [31]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: Transitioning from running your calculations on a desktop to running them on HPC needs consideration of using the command line, queues and sharing resources. These are the obvious changes. However, there are many small changes like considering where your input and output are coming from and need to be stored, how to get to your output if you are used to seeing it on your screen. This workshop will go through some of these less obvious things that you need to consider and watch put for when moving your calculations from a desktop to a HPC. There is no need to have HPC access as this workshop will use demonstrations that participants can just watch and follow. This is aimed at those with no HPC experience and even those who are only starting out on their journey on doing calculations on their desktops.
 -
@@ -394,7 +394,7 @@
   id: 51
   speakers: [32]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: ChatGPT has quickly become an incredibly useful tool for coders and data scientists. This workshop will explore using ChatGPT in conjunction with Python programming to generate graphs from numerical data.
 -
@@ -404,7 +404,7 @@
   id: 96
   speakers: [33]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: In this workshop, the instructors will guide participants in discovering and collecting relevant socio-economic, physical, chemical, and biological data for the Great Barrier Reef using the RIMReP Data Management System. The instructors will provide analysis notebook examples to explore the DMS data collections and demonstrate how to use simple temporal and geographical filters to obtain data. Moreover, we will provide customizable recipes for specific research questions. By the end of the workshop, participants will be able to use DMS data and metadata services to extract data from multiple collections in standard formats. To participate in this workshop, a minimum level of expertise in data analysis is required. Additionally, knowledge of Python and/or R programming language is required. Participants must bring their own laptops with the necessary software already installed (we will inform them later about the required non-commercial software)
 -
@@ -414,7 +414,7 @@
   id: 15
   speakers: [34]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: |-
     If you've ever felt like you're a fraud and worried that people will find out sooner or later ⁠—
@@ -429,7 +429,7 @@
   id: 95
   speakers: [34]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: |-
     If you've discovered a new skill to be excited about at this year's ResBaz and you want to keep learning with the aid of someone else —
@@ -444,7 +444,7 @@
   id: 91
   speakers: [35]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -454,7 +454,7 @@
   id: 62
   speakers: [39]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -464,7 +464,7 @@
   id: 45
   speakers: [41]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: The aim of the workshop is to show case services available at TERN to submit, discover and access ecosystem data across TERN. The participants will learn about services available at TERN and get an overview on how to publish data at TERN, learn to use data dashboards and data discovery portal. The workshop will be interactive and demo-based.
 -
@@ -474,7 +474,7 @@
   id: 35
   speakers: [44]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: Rather than technical upskilling, this workshop focuses on transferable skills that compliment research (as well other areas). We will be examining failure, personal strengths and personal values, both in a general context and by way of self examination. There will be a 15-minute Q&A at the end where participants can ask about any transferable (often called 'soft') skills.
 -
@@ -484,7 +484,7 @@
   id: 0
   speakers: [45]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: The goal of this course is to provide introductory training in spatial data processing, visualization, and mapping using R. The course focuses on a small set of popular packages for these tasks, many of which are drawn from a collection of packages called tidyverse. We will explain the new capabilities of packages terra and sf, why they should be used instead of other alternatives such as raster and sp,  and how packages with strong dependencies on rgdal, rgeos and maptools (recently archived on CRAN) must be either upgraded to use sf, terra or other alternatives.  We'll also create some graphs to summarize the data and explore options for map generation.
 -
@@ -494,7 +494,7 @@
   id: 24
   speakers: [46, 47]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: "The Australian Reference Genome Atlas (ARGA) is a recently launched online platform for genomic data discovery across non-human, eukaryotic organisms. It indexes and aggregates data from a range of repositories, including NCBI GenBank, Barcode of Life Data system (BOLD) and Bioplatforms Australia's data portal, enabling users to search across multiple sources from a centralised portal. Where possible, genomic data are intersected with specimen information available from formalised collections (e.g. museums, herbaria) to supplement relevant metadata.\n\nThis workshop will feature a demo of the ARGA platform, giving an overview of its uses and allowing time for questions and discussions. The workshop will cover how ARGA can help to: \n - visualise and explore geographic occurrences of specimens (both with and without derived sequence data)\n - investigate the metadata available for each step in the chain of events between specimen collection and data deposition to help assess and compare sequences\n - discover genomic data for species according to thematic, ecological or trait groupings, such as threatened species, crop wild relatives, or poisonous and venomous species\n - determine summary statistics for genomic data availability across taxonomic clades or in thematic groupings (e.g. proportion of frog species with genome assemblies available, proportion of threatened Australian species with any available genomic data)"
 -
@@ -504,7 +504,7 @@
   id: 25
   speakers: [2]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: "Networking is an important aspect for the career development of PhDs - both to create collaborations and find future job opportunities. However, it is a softskill not thought in university courses. I facilitate guided networking sessions for organisations and think it will benefit PhDs greatly too. The participants will practise \"openness, kindness and honesty\" through a series of guided discussions around the following topics: \n- using meaningful questions to guide small groups of participants to get to know each other \n- facilitate groups to share their challenges and help each other with their challenges\n- Determine their own values \n- Use their values to revisit their challenges \n- Reflecting on networking experience and their learnings"
 -
@@ -514,7 +514,7 @@
   id: 72
   speakers: [48]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: |2-
     Introduction to R ShinyBuilding a Basic R Shiny ApplicationBest Practices and Resources
@@ -525,7 +525,7 @@
   id: 0
   speakers: []
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: Introduction to R Shiny, Building a Basic R Shiny Application, Best Practices and Resources
 -
@@ -535,7 +535,7 @@
   id: 66
   speakers: [23]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -545,7 +545,7 @@
   id: 36
   speakers: [49]
   subtype: Workshop
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -555,7 +555,7 @@
   id: 
   speakers: []
   subtype: ""
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -565,7 +565,7 @@
   id: 
   speakers: []
   subtype: ""
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -575,7 +575,7 @@
   id: 
   speakers: []
   subtype: ""
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -585,7 +585,7 @@
   id: 1001
   speakers: [1]
   subtype: Talk
-  service: false
+  service:
   hidden: false
   description: Humanities, Arts, and Social Sciences (HASS) research data plays a crucial role in advancing our comprehension of culture, society, and human well-being. In 2020, the HASS and Indigenous Research Data Commons (HASS and I RDC) Program was established with the objective of establishing a comprehensive digital research infrastructure for HASS and Indigenous researchers and communities. Key strands of the HASS&I RDC that have been developed to date include:  * Language Data Commons of Australia,  * Integrated Research Infrastructure for Social Sciences,  * Improving Indigenous Research Capabilities, * Community Data Lab. This interconnected network of people, data resources, and research tools is bound together by shared technical standards, distributed technical systems, deliberate governance frameworks, open-source tools, and extensive training provisions. It is essential to emphasize that the program is firmly committed to Indigenous data governance and sovereignty, which underpin its fundamental principles. This presentation will anthropomorphise the condition of digital HASS data to highlight the individuals, families and cultural groups represented within ‘people’ data. The audience will gain insights into the challenges associated with reclaiming cultural heritage, achieved through rigorous exploration of Aboriginal languages, stories, art, and identity. Additionally, we will explore the recontextualization of historic research within a contemporary framework.
 -
@@ -595,7 +595,7 @@
   id: 1002
   speakers: [2]
   subtype: Talk
-  service: false
+  service:
   hidden: false
   description: There are many reasons a researcher should think about the commercialisation of their research, from tangibly solving the world's biggest problems, to creating more industry engagement and increasing funding opportunities in the future. Join Rachel in this session to discover the many reasons why research commercialisation matters, and explore the pathways to commercialise research. This is basically a crash course in research commercialisation mixed with a dash of personal reflections from Rachel’s entrepreneurship and research commercialisation experience so far. The goal of this session is for you to walk away feeling inspired and encouraged and hopefully thinking about how your research can be commercialised.
 -
@@ -605,7 +605,7 @@
   id: 1003
   speakers: [3]
   subtype: Talk
-  service: false
+  service:
   hidden: false
   description: Digital research infrastructure has become paramount for the advancement of all scientific research and innovation. We explore the fundamental shifts requiring greater coordination and connections across the entire data lifecycle (technology and processes) within and between research organisations. We will highlight the importance of enhancing digital skills across the research workforce and raise awareness of the national research infrastructures to effectively develop and manage connections in Australia.
 -
@@ -615,7 +615,7 @@
   id: 1004
   speakers: [4]
   subtype: Talk
-  service: false
+  service:
   hidden: false
   description: Video-based learning is built upon Mayer’s multimedia theory of learning, which emphasises the value of flexible communication skills to lower the burden of cognitive load for diverse audiences.  Online multimedia can be leveraged for science communication, but the production of high-quality online resources has significant resource implications.  This project evaluated large undergraduate science courses that embedded over 100 hours of video content from 2020-2022 to determine best-practice guidelines for producing effective online multimedia.  Participant survey and interview results revealed broad agreement with the value of segmenting information, presenter presence, and mixed perspectives in science videos.  However individual student preferences varied on the extent of presenters’ on-screen visibility, use of graphics, and subtitling.  Video analytics revealed a decrease in viewer retention as each video progresses, but this rate of decline can be slowed through on-screen text, animations, and camera angle changes. Together this data provides an evidence-based framework for designing science videos that will engage different online audiences and disseminate your research.
 -
@@ -625,7 +625,7 @@
   id: 1005
   speakers: [5]
   subtype: Talk
-  service: false
+  service:
   hidden: false
   description: Researchers are expected to know their field inside out and be on top of the application domains the research they are doing can benefit. This requirement can be a challenging endeavour at the best of times, but has become extraordinarily chaotic in light of the pace of recent developments in the digital domain, particularly in areas like artificial intelligence, and their increasingly wide reaching consequences. How is our way of doing research being disrupted, both positively and negatively? Are the things we’re researching even relevant anymore, given the rapid change in the application domains where that research might be used? Questions like these can make even the most self-assured researcher doubt their path forwards. A sensible action to take in such circumstances is to ask experienced peers for advice, but what was “sensible” and valid advice even five years ago isn’t necessarily good advice today. In my talk, I’ll present insights and advice, both good and bad, for how to successfully navigate current changes, drawing upon my experiences advising industry, government and research sectors.
 -
@@ -635,7 +635,7 @@
   id: 1006
   speakers: [6]
   subtype: Talk
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -665,7 +665,7 @@
   id: 104
   speakers:
   subtype:
-  service: false
+  service:
   hidden: false
   description: null
 -
@@ -675,6 +675,6 @@
   id: 201
   speakers:
   subtype:
-  service: false
+  service:
   hidden: false
   description: null

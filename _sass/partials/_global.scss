@@ -30,7 +30,7 @@ section {
     }
 }
 p {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 300;
     line-height: $base-line-height;
 }
@@ -127,6 +127,14 @@ time {
     bottom: 0;
     left: 0;
     background-color: #fff;
+    object {
+        display: inline-block;
+        position: absolute;
+        top: calc(50% - 100px);
+        left: calc(50% - 100px);
+        width: 200px;
+        height: 200px;
+    }
 }
 .loader-gplus {
     display: inline-block;
@@ -240,4 +248,30 @@ time {
         margin-right: 4px;
         display: inline-block;
     }
+}
+
+.muted {
+    opacity: .2;
+}
+
+.muted.grid-item {
+    display: none;
+}
+
+#themes {
+    font-size: 15px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.slot-theme>div {
+    padding: 0.5rem;
+    display: inline-block;
+    border-style: solid;
+    border-radius: 17px;
+    margin: 3px;
 }
