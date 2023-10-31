@@ -1,5 +1,5 @@
 -
-  title: Introduction to Image Analysis with FIJI (1)
+  title: Introduction to image analysis with FIJI (1)
   stream: Research Computing
   themes: "6"
   id: 46
@@ -7,9 +7,9 @@
   subtype: Workshop
   service:
   hidden: false
-  description: <p>This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc.</p><p>The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more.</p><p>Topics covered include:</p> <ul><li>Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files)</li><li>Merging channels, and dealing with multiple channel images</li><li>Adjusting Brightness & Contrast and using histograms</li><li>Adding scale to images & adding scale bars</li><li>Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views)</li><li>Basic Measurements (Area, Intensity, Shape descriptors, Line Scans)</li><li>Creating Selections (Manually and Automatically)</li><li>Brief introduction to Machine Learning tools available in FIJI</li>
+  description: <p>This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc.</p><p>The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more.</p><p>Topics covered include:</p> <ul><li>Opening/saving/closing Images (.tifs and Bio-Formats compatible files)</li><li>Merging channels, and dealing with multiple channel images</li><li>Adjusting brightness & contrast and using histograms</li><li>Adding scale to images & adding scale bars</li><li>Image stacks (montages, projections, re-slicing, orthogonal views)</li><li>Basic measurements (area, intensity, shape descriptors, line scans)</li><li>Creating selections (manually and automatically)</li><li>Brief introduction to machine learning tools available in FIJI</li>
 -
-  title: Introduction to Image Analysis with FIJI (2)
+  title: Introduction to image analysis with FIJI (2)
   stream: Research Computing
   themes: "6"
   id: 56
@@ -24,7 +24,7 @@
 
     Topics covered include: -Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) -Merging channels, and dealing with multiple channel images -Adjusting Brightness & Contrast and using histograms -Adding scale to images & adding scale bars -Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) -Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) -Creating Selections (Manually and Automatically) -Brief introduction to Machine Learning tools available in FIJI
 -
-  title: Web Archiving For Data Collection 
+  title: Web archiving for data collection 2Ha
   stream: Internet Content and AI
   themes: "3"
   id: 93
@@ -44,7 +44,7 @@
   hidden: false
   description: 'This workshop introduces computational thinking as a precursor to learning how to write code in programming languages like R or Python. It will cover the steps involved in breaking down complex problems into computable chunks. '
 -
-  title: Network Know-how & Data Handling 
+  title: Network know-how & data handling 
   stream: Data Literacy, Openness and Frontiers
   themes: "4"
   id: 94
@@ -65,7 +65,7 @@
     •	Transfer large amounts of data via the network.
     •	Search for more advanced options for data movement and know where to go for help.
 -
-  title: Unlock the Power of Text Analytics with LADAL 
+  title: Unlock the power of text analytics with LADAL 
   stream: Internet Content and AI
   themes: "3"
   id: 63
@@ -85,7 +85,7 @@
   hidden: false
   description: "This workshop will introduce you to Jupyter Notebooks, a digital tool that has\nexploded in popularity in recent years for those working with data.\n\nYou will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research.\n\n•\tDescribe what Jupyter Notebooks are, what they do and how they work.\n•\tDefine and explain terms related to coding and cloud computing (jargon busting).\n•\tLearn about online options for using Jupyter Notebooks.\n•\tDemonstrate how Jupyter Notebooks fit into the research landscape.\n•\tRecognise and apply some basic Markdown, Python and/or R commands. \n•\tOpen a Jupyter Notebook, perform some basic programming tasks and save it for later."
 -
-  title: Demystifying AI for Research 
+  title: Demystifying AI for research 
   stream: Internet Content and AI
   themes: "3"
   id: 23
@@ -95,7 +95,7 @@
   hidden: false
   description: This workshop (talk with some demo) will introduce LLMs and AI for research. The presentation will talk about what LLMs can and cannot do as well as the risks presented by LLMs for research. This is a low code intro to using AI for research.
 -
-  title: AI summarisation and retrieval Pipelines for Research 
+  title: AI summarisation and retrieval pipelines for research 
   stream: Internet Content and AI
   themes: "3"
   id: 33
@@ -105,7 +105,7 @@
   hidden: false
   description: This workshop will introduce some ways to use AI as part of analytic pipelines to work with data. Some examples will be used but participants can bring their own data as well.
 -
-  title: 'NewsTalk: Beyond Twitter '
+  title: 'News talk: beyond Twitter '
   stream: Internet Content and AI
   themes: "3"
   id: 43
@@ -133,7 +133,9 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "Learn: \n- good data entry practices and formatting data tables in spreadsheets; \n- how to avoid common formatting mistakes; \n- approaches for handling dates in spreadsheets; \n- basic quality control and data manipulation in spreadsheets."
+  description: |-
+    <p>Learn: </p><p><ul><li>good data entry practices and formatting data tables in spreadsheets</li><li>how to avoid common formatting mistakes</li><li>approaches for handling dates in spreadsheets</li><li>basic quality control and data manipulation in spreadsheets.</li><li></p>
+    <p>Explore how to structure data in a way that computers can read it.  This workshop is based on the Data Carpentry workshop for Social Scientists.</p>
 -
   title: 'Introduction to data cleaning with OpenRefine '
   stream: Data Literacy, Openness and Frontiers
@@ -145,7 +147,7 @@
   hidden: false
   description: "Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine. \nOn completion of this workshop, participants should be able to: \n•explore data through facets and filters\n•implement \"tidy data\" principles\n•clean, organise, and prepare data for analysis\n•use basic features of OpenRefine\n•extract and reuse a reproducible script to repeat processing on similar data"
 -
-  title: 'Advanced Data Wrangling with OpenRefine '
+  title: 'Advanced data wrangling with OpenRefine '
   stream: Data Literacy, Openness and Frontiers
   themes: "4"
   id: 74
@@ -153,7 +155,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "Building on the Introduction to Data Cleaning with OpenRefine workshop, learn advanced data wrangling skills including combining tabular datasets, geolocating data, and “what if” exploration using OpenRefine.\nOn completion of this workshop, participants should be able to: \n    extend data with additional variables from other data,\n    visualise geographic locations using Geo.json resulting in an interactive map\n    create a webpage to display the geographically visualised data using Github.\n"
+  description: "Building on the Introduction to data cleaning with OpenRefine workshop, learn advanced data wrangling skills including combining tabular datasets, geolocating data, and “what if” exploration using OpenRefine.\nOn completion of this workshop, participants should be able to: \n    extend data with additional variables from other data,\n    visualise geographic locations using Geo.json resulting in an interactive map\n    create a webpage to display the geographically visualised data using Github."
 -
   title: Storing and querying your research data with a database 
   stream: Internet Content and AI
@@ -173,14 +175,14 @@
   subtype: Panel
   service:
   hidden: false
-  description: |
+  description: |-
     Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include:
     - Chat GPT: What is it and what does it mean for academia
     - It's not going away, so do we embrace it with open arms or a net?
     - Integrity, honesty, and reliability
     - Won't somebody think of the children?! (What will this mean for the future?)
 -
-  title: Your research toolkit in the Cloud 
+  title: Your research toolkit in the cloud 
   stream: Research Computing
   themes: "6"
   id: 16
@@ -190,7 +192,7 @@
   hidden: false
   description: "Learn more about how you use the ARDC Nectar Cloud to improve your research! A walkthrough will be provided of the different services available & their benefits:\nVirtual Desktop Service \nNational GPU/large memory service \nBinderHub \nJupyterHub Service\nNectar Cloud Dashboard\n"
 -
-  title: Copyright Considerations for Human Researchers
+  title: Copyright considerations for human researchers
   stream: Soft Skills
   themes: "5"
   id: 75
@@ -217,7 +219,7 @@
     What did we all learn from this experience?
     Was the additional burden worth it for our fellows - were their research lives enriched or just made more complicated?
 -
-  title: 'Statistics Proficiency: Brainstorm about needs, resources and gaps'
+  title: 'Statistics proficiency: Brainstorm about needs, resources and gaps'
   stream: Python and Panels
   themes: "1"
   id: 71
@@ -229,9 +231,9 @@
     Researchers at any stage of their career, and from every field of knowledge are invited to join us in this brainstorm to openly discuss the theme of skill development in statistics for researchers.
     This collaborative discussion aims to unravel the needs researchers face in developing statistical proficiency, while also delving into the array of resources they currently have access to.
     The conversation can then progress to identification of gaps, and brainstorm possible resources and opportunities to meet those gaps.
-    By pooling together insights from varied experiences, we aspire to identify the most effective types of resources and opportunities for breaching those gaps
+    By pooling together insights from varied experiences, we aspire to identify the most effective types of resources and opportunities for breaching those gaps.
 -
-  title: Introduction to Spatial Analysis in R 
+  title: Introduction to spatial analysis in R 
   stream: R
   themes: "2"
   id: 92
@@ -243,7 +245,7 @@
     This workshop will provide an overview of what spatial data is, the R packages available for spatial data, how to start a spatial project in R to then wrangle spatial data, perform spatial operations, and make a map.
     We will also cover common problems you might encounter in R spatial, and how to solve them.
 -
-  title: Uplift your instructing skills - hints and tips from The Carpentries instructor program
+  title: 'Uplift your instructing skills: Hints and tips from The Carpentries instructor program'
   stream: Soft Skills
   themes: "5"
   id: 55
@@ -263,7 +265,7 @@
   hidden: false
   description: "In this workshop learn how to critically assess AI tools that can assist with brainstorming ideas & summarising the literature.\n\nUnderstand more about how they work, their limitations and discuss the new ways they can be embedded into research practice "
 -
-  title: Quantum Machine Learning 
+  title: Quantum machine learning 
   stream: Data Literacy, Openness and Frontiers
   themes: "4"
   id: 64
@@ -273,7 +275,7 @@
   hidden: false
   description: The area of quantum machine learning is advancing at a rapid pace. This workshop is designed to introduce quantum computing and quantum machine learning to researchers new to this cutting-edge area. This hands-on workshop will start by introducing support vector classifiers from a classical machine learning perspective and then show how quantum algorithms can be used to enhance their performance. At the end of the workshop, the attendees will have a basic understanding of quantum algorithms using IBM Quantum computers and will have run algorithms to improve the performance of classical support vector classifiers using quantum kernels.
 -
-  title: 'Programming with Python 1: Variables, Files and Plots'
+  title: 'Programming with Python 1: Variables, files and plots'
   stream: Python and Panels
   themes: "1"
   id: 11
@@ -283,7 +285,7 @@
   hidden: false
   description: null
 -
-  title: 'Programming with Python 2: Lists and Loops'
+  title: 'Programming with Python 2: lists and loops'
   stream: Python and Panels
   themes: "1"
   id: 21
@@ -293,7 +295,7 @@
   hidden: false
   description: null
 -
-  title: 'Programming with Python 3: Flow Control and Functions'
+  title: 'Programming with Python 3: flow control and functions'
   stream: Python and Panels
   themes: "1"
   id: 41
@@ -323,7 +325,7 @@
   hidden: false
   description: null
 -
-  title: 'R for Scientific Analysis: Introduction to R'
+  title: 'R for scientific analysis: Introduction to R'
   stream: R
   themes: "2"
   id: 12
@@ -331,9 +333,16 @@
   subtype: Workshop
   service:
   hidden: false
-  description: "In this introductory workshop we will overview how and why to use R and RStudio. In this you will also learn the important foundations to setting up a good R Project, how to interact within RStudio and learn the fundamentals of using R for your research.\r\n\r\nThis part 1 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.\r\n\r\nThis workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.\r\n\r\nThis workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/"
+  description: |-
+    In this introductory workshop we will overview how and why to use R and RStudio. In this you will also learn the important foundations to setting up a good R Project, how to interact within RStudio and learn the fundamentals of using R for your research.
+
+    This part 1 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.
+
+    This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.
+
+    This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/
 -
-  title: 'R for Scientific Analysis: Introduction to R (continued)'
+  title: 'R for scientific analysis: Introduction to R (continued)'
   stream: R
   themes: "2"
   id: 22
@@ -350,7 +359,7 @@
 
     This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/
 -
-  title: 'R for Scientific Analysis: Starting with Data'
+  title: 'R for scientific analysis: Starting with data'
   stream: R
   themes: "2"
   id: 32
@@ -367,7 +376,7 @@
 
     This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/
 -
-  title: 'R for Scientific Analysis: Manipulate Data'
+  title: 'R for scientific analysis: Manipulate data'
   stream: R
   themes: "2"
   id: 42
@@ -384,7 +393,7 @@
 
     This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/
 -
-  title: 'R for Scientific Analysis: Visualising Data'
+  title: 'R for scientific analysis: Visualising data'
   stream: R
   themes: "2"
   id: 52
@@ -401,7 +410,7 @@
 
     This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/
 -
-  title: Shell Basics for HPC
+  title: Shell basics for HPC
   stream: Soft Skills
   themes: "5"
   id: 65
@@ -411,7 +420,7 @@
   hidden: false
   description: null
 -
-  title: Tips for moving from Desktop to HPC 
+  title: Tips for moving from desktop to HPC 
   stream: Research Computing
   themes: "6"
   id: 26
@@ -431,7 +440,7 @@
   hidden: false
   description: ChatGPT has quickly become an incredibly useful tool for coders and data scientists. This workshop will explore using ChatGPT in conjunction with Python programming to generate graphs from numerical data.
 -
-  title: 'RIMReP Data Management System: All GBR data in one single place'
+  title: 'RIMReP data management system: All GBR data in one single place'
   stream: Research Computing
   themes: "6"
   id: 96
@@ -481,7 +490,7 @@
   hidden: false
   description: null
 -
-  title: Nanopore Sequencing (Adam Ewing)
+  title: Nanopore sequencing (Adam Ewing)
   stream: R
   themes: "2"
   id: 62
@@ -491,7 +500,7 @@
   hidden: false
   description: null
 -
-  title: TERN Services to share, discover and access Ecosystem data 
+  title: TERN services to share, discover and access ecosystem data 
   stream: Soft Skills
   themes: "5"
   id: 45
@@ -501,7 +510,7 @@
   hidden: false
   description: The aim of the workshop is to show case services available at TERN to submit, discover and access ecosystem data across TERN. The participants will learn about services available at TERN and get an overview on how to publish data at TERN, learn to use data dashboards and data discovery portal. The workshop will be interactive and demo-based.
 -
-  title: 'Transferable Skills: Understanding Failure, Strengths and Values'
+  title: 'Transferable skills: Understanding failure, strengths and values'
   stream: Soft Skills
   themes: "5"
   id: 35
@@ -561,7 +570,7 @@
   hidden: false
   description: null
 -
-  title: UQRUG Presents Cool But Useless
+  title: 'UQRUG presents: Cool but useless'
   stream: Research Computing
   themes: "6"
   id: 66
@@ -576,7 +585,7 @@
 
     In this special ResBaz edition of UQRUG we will be looking at some Cool but Useless ways we can use R. Coding and acaedmia can get stuffy and work focused, so this month we're going to play with some more entertaining R packages, which can hopefully make the learning process a bit more interesting.
 -
-  title: Reproducible Research in R
+  title: Reproducible research in R
   stream: Research Computing
   themes: "6"
   id: 36
@@ -586,7 +595,7 @@
   hidden: false
   description: Use tools like Git, Quarto, and renv to ensure that your R code can be shared and reproduced by coworkers, collaborators, and readers. Learn and implement best practices that you can apply to your current and future projects, in R and beyond.
 -
-  title: Boosting Your Wellbeing
+  title: Boosting your wellbeing
   stream: ""
   themes: ""
   id: 81
@@ -636,7 +645,7 @@
   hidden: false
   description: There are many reasons a researcher should think about the commercialisation of their research, from tangibly solving the world's biggest problems, to creating more industry engagement and increasing funding opportunities in the future. Join Rachel in this session to discover the many reasons why research commercialisation matters, and explore the pathways to commercialise research. This is basically a crash course in research commercialisation mixed with a dash of personal reflections from Rachel’s entrepreneurship and research commercialisation experience so far. The goal of this session is for you to walk away feeling inspired and encouraged and hopefully thinking about how your research can be commercialised.
 -
-  title: Digital Research Infrastructure - Building 'datascopes' for 21st Century Discovery and the role of Research Infrastructure in the future
+  title: Digital research infrastructure - Building 'datascopes' for 21st century discovery and the role of research infrastructure in the future
   stream: ""
   themes: ""
   id: 1003
@@ -706,7 +715,7 @@
   hidden: false
   description: null
 -
-  title: Knowledge Bazaar
+  title: Knowledge bazaar
   stream: ""
   themes: ""
   id: 201

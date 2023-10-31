@@ -639,11 +639,12 @@
   surname: Tarlinton
   pronouns: (he/him)
   company: ""
-  title: ""
-  bio: ""
+  title: Senior Data Analyst
+  bio: Boyd Tarlinton is a Senior Data Analyst in the Supply Chain Innovation team at the Department of Agriculture and Fisheries (Queensland). Boyd has wide-ranging experience in the analysis of biological data, and a passion for reproducible research.
   thumbnailUrl: boyd-tarlinton.jpg
-  rockstar: null
-  ribbon: null
+  rockstar: false
+  ribbon:
+    - {abbr: "DAF", title: "Department of Agriculture and Fisheries (Queensland)", url: "https://www.daf.qld.gov.au/"}
   social: null
 -
   id: 50
@@ -651,9 +652,9 @@
   surname: Walsh
   pronouns: (she/her)
   company: ""
-  title: ""
+  title: Psychologist and career development practitioner
   bio: Dr Shari Walsh is an experienced psychologist and career development practitioner who has extensive experience working HDR candidates, supervisors and academics. Shari focusses assisting researchers build and maintain positive psychological wellbeing, effective communication and relationship skills, and career confidence during their research roles and beyond. Feedback from Shari's workshops and webinars indicate that attendees highly value her warm and engaging style, her understanding and insight of issues impacting researchers, her practical approach, and the skills and strategies she offers to facilitate optimal functioning.
-  thumbnailUrl: ""
+  thumbnailUrl: shari_walsh.jpg
   rockstar: false
   ribbon: null
   social: null
