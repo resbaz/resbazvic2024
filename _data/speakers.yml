@@ -204,8 +204,8 @@
   id: 16
   name: Sharron
   surname: Stapleton
-  pronouns:
-  company:
+  pronouns: (she/her)
+  company: Griffith
   title: Research Library Specialist
   bio: Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor and strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer.
   thumbnailUrl: SharronStapleton.jpg
@@ -376,7 +376,7 @@
   pronouns:
   company:
   title: Senior Lecturer, School of Information and Communication Technology
-  bio: David is a Senior Lecturer in Applied Ethics and CyberSecurity at Griffith University's School of Information & Communication Technology in Brisbane/Gold Coast.
+  bio: "David is a Senior Lecturer in Applied Ethics and CyberSecurity at Griffith University's School of Information & Communication Technology. David's research focus is on the social impact of technology, with particular interest in how Artificial Intelligence will affect the world of employment in the coming years. How can people leverage the power of\n AI to prosper in a changing employment environment.  He has published widely in the mainstream media on these topics and is a sought-after \"techsplainer\" on national radio/TV with a regular segment on ABC Radio Brisbane/Queensland. Since 2005, his global audience reach \nwill be in excess of a hundred million including publications in The Conversation and republished in newspapers like the Washington Post and Chicago Tribune. His work has been translated into German, Chinese, Indonesian and Japanese."
   thumbnailUrl: david_tuffley.jpg
   rockstar: false
   ribbon:
@@ -633,3 +633,27 @@
   ribbon:
     - {abbr: "ITaLI", title: "Institute for Teaching and Learning Innovation, UQ", url: "https://itali.uq.edu.au/"}
   social:
+-
+  id: 49
+  name: Boyd
+  surname: Tarlinton
+  pronouns: (he/him)
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: boyd-tarlinton.jpg
+  rockstar: null
+  ribbon: null
+  social: null
+-
+  id: 50
+  name: Shari
+  surname: Walsh
+  pronouns: (she/her)
+  company: ""
+  title: ""
+  bio: Dr Shari Walsh is an experienced psychologist and career development practitioner who has extensive experience working HDR candidates, supervisors and academics. Shari focusses assisting researchers build and maintain positive psychological wellbeing, effective communication and relationship skills, and career confidence during their research roles and beyond. Feedback from Shari's workshops and webinars indicate that attendees highly value her warm and engaging style, her understanding and insight of issues impacting researchers, her practical approach, and the skills and strategies she offers to facilitate optimal functioning.
+  thumbnailUrl: ""
+  rockstar: false
+  ribbon: null
+  social: null

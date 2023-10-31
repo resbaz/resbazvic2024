@@ -586,15 +586,15 @@
   hidden: false
   description: Use tools like Git, Quarto, and renv to ensure that your R code can be shared and reproduced by coworkers, collaborators, and readers. Learn and implement best practices that you can apply to your current and future projects, in R and beyond.
 -
-  title: ""
+  title: Boosting Your Wellbeing
   stream: ""
   themes: ""
-  id: 
-  speakers: []
-  subtype: ""
+  id: 81
+  speakers: [50]
+  subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: <p>Do you find your wellbeing gets compromised during the hurly burly research process? How do you look after yourself when you are busy and have multiple demands?</p><p>This session focusses on strategies which can boost and maintain your wellbeing in the long term.</p><p>Content includes:</p><ul><li>Small daily wellbeing actions</li><li>Research management and boundary setting</li><li>Building support networks</li></ul>
 -
   title: ""
   stream: ""
@@ -714,4 +714,14 @@
   subtype:
   service:
   hidden: false
+  description: null
+-
+  title: Afternoon tea
+  stream: ""
+  themes: ""
+  id: 105
+  speakers:
+  subtype:
+  service: true
+  hidden: true
   description: null
