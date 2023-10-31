@@ -154,7 +154,7 @@
   surname: Musgrave
   pronouns: (he/him)
   company: UQ
-  title: Engagement and Partnerships Manager
+  title: Engagement Lead for the Language Data Commons of Australia project
   bio: Simon Musgrave is Engagement Lead for the Language Data Commons of Australia (University of Queensland) and an Adjunct Research Fellow (Monash University). Starting as a syntactician specialising in Austronesian languages, his research interests extended to cover areas including language endangerment, communication in medical settings and the use of technology for linguistic research. This last interest, through work on the Australian National Corpus project led to research on the history of Australian English including Irish influences. His work has appeared in journals such as Language, Oceanic Linguistics and the Australian Journal of Linguistics as well as in numerous edited collections.
   thumbnailUrl: simon_musgrave.jpg
   rockstar: false
@@ -204,8 +204,8 @@
   id: 16
   name: Sharron
   surname: Stapleton
-  pronouns:
-  company:
+  pronouns: (she/her)
+  company: Griffith
   title: Research Library Specialist
   bio: Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor and strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer.
   thumbnailUrl: SharronStapleton.jpg
@@ -376,7 +376,7 @@
   pronouns:
   company:
   title: Senior Lecturer, School of Information and Communication Technology
-  bio:
+  bio: "David is a Senior Lecturer in Applied Ethics and CyberSecurity at Griffith University's School of Information & Communication Technology. David's research focus is on the social impact of technology, with particular interest in how Artificial Intelligence will affect the world of employment in the coming years. How can people leverage the power of\n AI to prosper in a changing employment environment.  He has published widely in the mainstream media on these topics and is a sought-after \"techsplainer\" on national radio/TV with a regular segment on ABC Radio Brisbane/Queensland. Since 2005, his global audience reach \nwill be in excess of a hundred million including publications in The Conversation and republished in newspapers like the Washington Post and Chicago Tribune. His work has been translated into German, Chinese, Indonesian and Japanese."
   thumbnailUrl: david_tuffley.jpg
   rockstar: false
   ribbon:
@@ -389,7 +389,7 @@
   pronouns:
   company: UQ
   title: HPC Manager, Research Computing Centre
-  bio: David joined The University of Queensland as HPC Manager within ITS in 2007. He has long been using computers to "figure stuff out" and enjoys working with researchers to help them do the same.
+  bio: ""
   thumbnailUrl: david_green.jpg
   rockstar: false
   ribbon:
@@ -402,7 +402,7 @@
   pronouns:
   company: UQ
   title: Senior Development and Consultation Manager (RCC) and eResearch Analyst (QCIF)
-  bio: Marlies Hankel is a eResearch Analysts in QCIF and Research Computing Centre at UQ. She obtained her master in mathematics in Germany and her PhD in chemistry in the UK. She has been a senior research fellow at the Australian Institute for Bioengineering and Nanotechnology and senior lecture in the School of Mathematics at UQ. During this time she was a heavy user of HPC and teaching many students to use HPC in their work. She has built and managed 4 HPC clusters during her time at AIBN. In QCIF and RCC she is helping users navigate HPC and transition their workloads.
+  bio: David is a high-profile academic who appears regularly on local, national and international media (newspaper, radio and TV) commenting on the social impact of technology. Since 2005, his global audience reach will be in excess of a hundred million. David's articles published in The Conversation and republished in newspapers like the Washington Post and Chicago Tribune have reached over 2.25 million readers. His work has been translated into German, Chinese, Indonesian and Japanese.
   thumbnailUrl: marlies_hankel.jpg
   rockstar: false
   ribbon:
@@ -443,9 +443,9 @@
   surname: Oon
   pronouns:
   company:
-  title:
+  title: Research Assistant
   bio: Senn Oon (they/them) is studying a Master of Information Science (Extended) at Curtin University with the ultimate aim of becoming a university librarian. By day, you can find them assisting in QCIF's coding workshops and thinking about data management. By night, you can find them making games and cuddling cats.
-  thumbnailUrl:
+  thumbnailUrl: senn_oon.jpg
   rockstar: false
   ribbon:
   social:
@@ -468,23 +468,28 @@
   surname: Tee
   pronouns:
   company:
-  title:
-  bio:
-  thumbnailUrl:
+  title: Lecturer at Griffith University
+  bio: |-
+    I am a physicist and coder who specializes in all molecular dynamics simulations weird and unusual. I currently focus on developing new theoretical methods in constant potential molecular dynamics and nonequilibrium molecular dynamics, together with implementations in LAMMPS using C++.
+
+    I am also a passionate Research Software Engineer. Current academic pathways provide little recognition or progression for the work RSEs, like myself, put into developing open source software and making it accessible to the wider research community. I hope to somehow help to change that! I’ve joined the RSE Association of Australia and New Zealand and I’m keeping an eye out for opportunities to contribute.
+  thumbnailUrl: Shern_Tee.jpg
   rockstar: false
   ribbon:
+    - {abbr: "Griffith", title: "School of Environment and Science, Griffith University", url: "https://www.griffith.edu.au/study/science-environment"}
   social:
 -
   id: 37
   name: Fei
   surname: Yu
   pronouns:
-  company:
-  title:
-  bio:
-  thumbnailUrl:
+  company: UQ
+  title: Library Project Coordinator
+  bio: Mrs Fei Yu is a Research Data Management Specialist in Research Data Services team, UQ Library. She has extensive experience in assisting academics and students in finding and using information in many subject areas. In 2011 she joined Scholarly Communication and Repository Service team working in bibliometrics and then later on in research data management area. She has been providing training and support to research community on how to best practice managing research data and conducting responsible research in accordance with FAIR and CARE principles.
+  thumbnailUrl: Yu_Fei.jpg
   rockstar: false
   ribbon:
+    - {abbr: "UQL", title: "UQ Library", url: "https://web.library.uq.edu.au/"}
   social:
 -
   id: 38
@@ -492,9 +497,9 @@
   surname: Wilson
   pronouns:
   company:
-  title:
+  title: RDM Specialist
   bio:
-  thumbnailUrl:
+  thumbnailUrl: susan_wilson.jpg
   rockstar: false
   ribbon:
   social:
@@ -628,3 +633,27 @@
   ribbon:
     - {abbr: "ITaLI", title: "Institute for Teaching and Learning Innovation, UQ", url: "https://itali.uq.edu.au/"}
   social:
+-
+  id: 49
+  name: Boyd
+  surname: Tarlinton
+  pronouns: (he/him)
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: boyd-tarlinton.jpg
+  rockstar: null
+  ribbon: null
+  social: null
+-
+  id: 50
+  name: Shari
+  surname: Walsh
+  pronouns: (she/her)
+  company: ""
+  title: ""
+  bio: Dr Shari Walsh is an experienced psychologist and career development practitioner who has extensive experience working HDR candidates, supervisors and academics. Shari focusses assisting researchers build and maintain positive psychological wellbeing, effective communication and relationship skills, and career confidence during their research roles and beyond. Feedback from Shari's workshops and webinars indicate that attendees highly value her warm and engaging style, her understanding and insight of issues impacting researchers, her practical approach, and the skills and strategies she offers to facilitate optimal functioning.
+  thumbnailUrl: ""
+  rockstar: false
+  ribbon: null
+  social: null

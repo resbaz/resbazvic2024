@@ -7,7 +7,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: 'This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc. The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more. Topics covered include: -Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) -Merging channels, and dealing with multiple channel images -Adjusting Brightness & Contrast and using histograms -Adding scale to images & adding scale bars -Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) -Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) -Creating Selections (Manually and Automatically) -Brief introduction to Machine Learning tools available in FIJI'
+  description: <p>This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc.</p><p>The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more.</p><p>Topics covered include:</p> <ul><li>Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files)</li><li>Merging channels, and dealing with multiple channel images</li><li>Adjusting Brightness & Contrast and using histograms</li><li>Adding scale to images & adding scale bars</li><li>Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views)</li><li>Basic Measurements (Area, Intensity, Shape descriptors, Line Scans)</li><li>Creating Selections (Manually and Automatically)</li><li>Brief introduction to Machine Learning tools available in FIJI</li>
 -
   title: Introduction to Image Analysis with FIJI (2)
   stream: Research Computing
@@ -17,7 +17,12 @@
   subtype: Workshop
   service:
   hidden: false
-  description: 'This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc. The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more. Topics covered include: -Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) -Merging channels, and dealing with multiple channel images -Adjusting Brightness & Contrast and using histograms -Adding scale to images & adding scale bars -Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) -Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) -Creating Selections (Manually and Automatically) -Brief introduction to Machine Learning tools available in FIJI'
+  description: |-
+    This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc.
+
+    The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more.
+
+    Topics covered include: -Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files) -Merging channels, and dealing with multiple channel images -Adjusting Brightness & Contrast and using histograms -Adding scale to images & adding scale bars -Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views) -Basic Measurements (Area, Intensity, Shape descriptors, Line Scans) -Creating Selections (Manually and Automatically) -Brief introduction to Machine Learning tools available in FIJI
 -
   title: Web Archiving For Data Collection 
   stream: Internet Content and AI
@@ -200,7 +205,7 @@
   themes: "3"
   id: 13
   speakers: [12]
-  subtype: Workshop
+  subtype: Panel
   service:
   hidden: false
   description: |-
@@ -326,7 +331,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: "In this introductory workshop we will overview how and why to use R and RStudio. In this you will also learn the important foundations to setting up a good R Project, how to interact within RStudio and learn the fundamentals of using R for your research.\r\n\r\nThis part 1 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.\r\n\r\nThis workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.\r\n\r\nThis workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/"
 -
   title: 'R for Scientific Analysis: Introduction to R (continued)'
   stream: R
@@ -336,7 +341,14 @@
   subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: |-
+    In this workshop we will continue the overview of how and why to use R and RStudio. In this you will also learn the important foundations to setting up a good R Project, how to interact within RStudio and learn the fundamentals of using R for your research.
+
+    This part 2 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.
+
+    This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.
+
+    This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/
 -
   title: 'R for Scientific Analysis: Starting with Data'
   stream: R
@@ -346,7 +358,14 @@
   subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: |-
+    In this data focused workshop, we will learn to bring your data into R, load packages, and learn the basics of data frames.
+
+    This part 3 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.
+
+    This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.
+
+    This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/
 -
   title: 'R for Scientific Analysis: Manipulate Data'
   stream: R
@@ -356,7 +375,14 @@
   subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: |-
+    In this workshop we will look at data transformation and data tidying using the dplyr and tidyr packages. You will learn how to turn raw and messy data into something you can begin to analyse and visualise.
+
+    This part 4 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.
+
+    This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.
+
+    This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/
 -
   title: 'R for Scientific Analysis: Visualising Data'
   stream: R
@@ -366,7 +392,14 @@
   subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: |-
+    In this workshop we will explore the many ways that you can visualise your data for analysis and presentating using the package ggplot2.
+
+    This part 5 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.
+
+    This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.
+
+    This workshop is based on the Carperntries course: https://datacarpentry.org/R-ecology-lesson/
 -
   title: Shell Basics for HPC
   stream: Soft Skills
@@ -516,8 +549,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: |2-
-    Introduction to R ShinyBuilding a Basic R Shiny ApplicationBest Practices and Resources
+  description: In this workshop we will provide an introduction to R Shiny, and how you can use it to create web apps, and more interactive data visualisations. We will go over how to build a basic Shiny application, and cover the best practices and resources when approaching Shiny.
 -
   title: Mega Hacky Hour
   stream: '#REF!'
@@ -527,7 +559,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: Introduction to R Shiny, Building a Basic R Shiny Application, Best Practices and Resources
+  description: null
 -
   title: UQRUG Presents Cool But Useless
   stream: Research Computing
@@ -537,7 +569,12 @@
   subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: |-
+    The UQ R User Group (UQRUG) is a gathering for R users of all skills, to help each other solve problems, to share resources and tips, and to simply hang out with a nice community.
+
+    Our main purpose is to serve as a drop-in help session for help with R and RStudio, but to keep things interesting we will briefly highlight a useful tool, function or package each week.
+
+    In this special ResBaz edition of UQRUG we will be looking at some Cool but Useless ways we can use R. Coding and acaedmia can get stuffy and work focused, so this month we're going to play with some more entertaining R packages, which can hopefully make the learning process a bit more interesting.
 -
   title: Reproducible Research in R
   stream: Research Computing
@@ -547,17 +584,17 @@
   subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: Use tools like Git, Quarto, and renv to ensure that your R code can be shared and reproduced by coworkers, collaborators, and readers. Learn and implement best practices that you can apply to your current and future projects, in R and beyond.
 -
-  title: ""
+  title: Boosting Your Wellbeing
   stream: ""
   themes: ""
-  id: 
-  speakers: []
-  subtype: ""
+  id: 81
+  speakers: [50]
+  subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: <p>Do you find your wellbeing gets compromised during the hurly burly research process? How do you look after yourself when you are busy and have multiple demands?</p><p>This session focusses on strategies which can boost and maintain your wellbeing in the long term.</p><p>Content includes:</p><ul><li>Small daily wellbeing actions</li><li>Research management and boundary setting</li><li>Building support networks</li></ul>
 -
   title: ""
   stream: ""
@@ -677,4 +714,14 @@
   subtype:
   service:
   hidden: false
+  description: null
+-
+  title: Afternoon tea
+  stream: ""
+  themes: ""
+  id: 105
+  speakers:
+  subtype:
+  service: true
+  hidden: true
   description: null
