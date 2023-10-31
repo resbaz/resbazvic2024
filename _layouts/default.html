@@ -25,7 +25,11 @@ layout: compress
     </div>
 
     {% if page.modal != null %} 
-    	{% include speakers-modals.html %} 
+        {% if site.showSpeakersBioFirst %}
+            {% include speakers-modals-biofirst.html %}
+        {% else %}
+      	    {% include speakers-modals.html %}
+        {% endif %}	    
     {% endif %} 
 
     {% if page.permalink == '/schedule/' %}

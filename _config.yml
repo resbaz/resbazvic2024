@@ -224,3 +224,4 @@ footerBlocks:
 
 # Speakers List Block
 showSessions: true
+showSpeakersBioFirst: true
