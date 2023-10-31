@@ -4,7 +4,7 @@
             $('#st-container').removeClass('disable-scrolling');
             $('#loading-animation').fadeOut();
             $('#preloader').delay(350).fadeOut(800);
-            initGooglePlus();
+            //initGooglePlus();
             equalheight('.same-height');
         });
 
@@ -264,6 +264,27 @@
                 var interval = setInterval(changeTweets, 5000);
             }
         }
+
+        $("#themes").change(function() {
+            // If the user selects the show all option, remove the muted class from all .slot or .grid-item elements
+            // .slot is from the schedule page, and .grid-item is from the sessions page
+            if (!this.value) {
+                $(".slot").removeClass("muted")
+                $(".grid-item").removeClass("muted")
+            } else {
+                console.log("Filtering schedule to " + this.value)
+                // Add the muted class to all other .slot or .grid-item elements with the theme not selected
+                $(".slot:not(." + this.value + ")").addClass("muted")
+                $(".grid-item:not(." + this.value + ")").addClass("muted")
+                // Remove the muted class from the .slot or .grid-item elements with the selected theme
+                $("." + this.value).removeClass("muted")
+            }
+            // Relayout masonry on the sessions page
+            var msnry = Masonry.data( $('.grid')[0] )
+            if (msnry) {
+                msnry.layout()
+            }
+        })
     });
 
     //Google plus
