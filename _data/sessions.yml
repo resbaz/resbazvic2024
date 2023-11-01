@@ -39,7 +39,7 @@
   hidden: false
   description: <p>Do you find your wellbeing gets compromised during the hurly burly research process? How do you look after yourself when you are busy and have multiple demands?</p><p>This session focusses on strategies which can boost and maintain your wellbeing in the long term.</p><p>Content includes:</p><ul><li>Small daily wellbeing actions</li><li>Research management and boundary setting</li><li>Building support networks</li></ul>
 -
-  title: Collecting and analysing YouTube data 
+  title: Collecting and analysing YouTube and Newstalk data 
   stream: Data Literacy, Openness and Frontiers
   themes: "4"
   id: 94
@@ -362,10 +362,10 @@
   description: <p>This workshop will include jargon busting and topics such as network literacy and data movement solutions. You will learn about networks, integrated tools, active research data management, data movement and where all these things fit in the researcher’s toolkit.</p><p>By the end of this workshop, you should be able to:</p><ul><li>Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them.</li><li>Describe and define different network and data movement concepts (jargon busting).</li><li>Perform speed, ping, and traceroute tests to check your Internet connection.</li><li>Calculate data transfer times.</li><li>Understand various network and connectivity constraints.</li><li>Transfer large amounts of data via the network.</li><li>Search for more advanced options for data movement and know where to go for help.</li></ul>
 -
   title: 'News talk: beyond Twitter '
-  stream: Internet Content and AI
-  themes: "3"
-  id: 43
-  speakers: [14]
+  stream: '#REF!'
+  themes: ""
+  id: 
+  speakers: []
   subtype: Workshop
   service:
   hidden: true
