@@ -14,6 +14,7 @@ yq -oy '(.[].0 | key) = "id" |
         (.[].9 | key) = "rockstar" |
         (.[].10 | key) = "ribbon" |
         (.[].11 | key) = "social" |
-        del(.[].1)' | \
+        del(.[].1) |
+        sort_by(.surname) | reverse | sort_by(.rockstar) | reverse' | 
 sed 's/^- id:/-\n  id:/' | sed 's/^  id: "\(.*\)"/  id: \1/' | sed 's/ ;//' | \
 sed 's/"TRUE"/true/g' | sed 's/"FALSE"/false/g'
