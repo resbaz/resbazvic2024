@@ -1,0 +1,19 @@
+yq -oy -P '.[] |= array_to_map' $1 | \
+sed 's/10: |-/10:/' | \
+sed "s/10: '-\(.*\)'/10:\n  -\1/" | \
+sed 's/^[[:space:]][[:space:]]*-/    -/' | \
+sed 's/} - {/}\n    - {/g' | \
+yq -oy '(.[].0 | key) = "id" | 
+        (.[].2 | key) = "name" | 
+        (.[].3 | key) = "surname" |
+        (.[].4 | key) = "pronouns" |
+        (.[].5 | key) = "company" |
+        (.[].6 | key) = "title" |
+        (.[].7 | key) = "bio" |
+        (.[].8 | key) = "thumbnailUrl" |
+        (.[].9 | key) = "rockstar" |
+        (.[].10 | key) = "ribbon" |
+        (.[].11 | key) = "social" |
+        del(.[].1)' | \
+sed 's/^- id:/-\n  id:/' | sed 's/^  id: "\(.*\)"/  id: \1/' | sed 's/ ;//' | \
+sed 's/"TRUE"/true/g' | sed 's/"FALSE"/false/g'

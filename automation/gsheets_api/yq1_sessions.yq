@@ -1,0 +1,17 @@
+yq -oy -P '.[] |= array_to_map' $1 | \
+yq -oy '(.[].0 | key) = "title" | 
+        (.[].1 | key) = "stream" |
+        (.[].4 | key) = "id" | 
+        (.[].5 | key) = "speakers" |
+        (.[].6 | key) = "subtype" |
+        (.[].7 | key) = "service" |
+        (.[].8 | key) = "hidden" |
+        (.[].9 | key) = "description" |
+        (.[].2 | key) = "themes" |
+        del(.[].3)' | \
+sed 's/^  id: "\(.*\)"/  id: \1/' | \
+sed 's/^  speakers: "\(.*\)"/  speakers: [\1]/' | \
+sed 's/^  speakers: \([0-9].*[0-9]$\)/  speakers: [\1]/' | \
+sed 's/ ;//' | sed 's/^- title:/-\n  title:/' | \
+sed 's/[12]HR//g' | sed 's/"TRUE"/true/g' | sed 's/"FALSE"/false/g' | \
+sed 's/service: false/service:/'

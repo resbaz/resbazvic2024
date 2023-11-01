@@ -7,6 +7,11 @@ _site/
 ### Sass ###
 .sass-cache
 
+### Google API automation secrets ###
+automation/gsheets_api/.*
+automation/gsheets_api/raw*
+automation/gsheets_api/*token*
+
 ### Windows ###
 # Windows image file caches
 Thumbs.db
