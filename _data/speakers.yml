@@ -1,11 +1,11 @@
 -
   id: 3
-  name: Paul
-  surname: (Bonno) Bonnington
+  name: "Paul"
+  surname: "(Bonno) Bonnington"
   pronouns:
-  company: UQ
-  title: Pro-Vice-Chancellor (Research Infrastructure)
-  bio: Professor Paul Bonnington joined UQ in 2022 as Pro-Vice Chancellor (Research and Infrastructure) where he is is responsible for the strategic leadership of UQ’s research infrastructure. Paul has decades of experience within research infrastructure in the tertiary sector, providing researchers with access to major computing, software, and analytics capability. He is the former Director of eResearch at Monash University, and established New Zealand's first eResearch program at the University of Auckland.
+  company: "UQ"
+  title: "Pro-Vice-Chancellor (Research Infrastructure)"
+  bio: "Professor Paul Bonnington joined UQ in 2022 as Pro-Vice Chancellor (Research and Infrastructure) where he is is responsible for the strategic leadership of UQ’s research infrastructure. Paul has decades of experience within research infrastructure in the tertiary sector, providing researchers with access to major computing, software, and analytics capability. He is the former Director of eResearch at Monash University, and established New Zealand's first eResearch program at the University of Auckland."
   thumbnailUrl: paul-bonnington.jpg
   rockstar: true
   ribbon:
@@ -14,12 +14,12 @@
   social:
 -
   id: 2
-  name: Rachel
-  surname: Huang
+  name: "Rachel"
+  surname: "Huang"
   pronouns:
-  company: UQ
-  title: Head of Business Development, Vacayit; Business Strategist, SignHow; Senior Research Assistant, UQ
-  bio: 'Rachel Huang is the winner of the Women in Technology Up-and-Comer Technology Award, an entrepreneur who has founded two start-up companies previously and experience as UQ''s Chief Student Entrepreneur, and a highly-regarded innovator and thought-leader in the technology start-up ecosystem. She holds a dual degree from UQ in Biological and Chemical Engineering and Biomedical Science, and is addressing the world’s biggest problems through technology and innovation. She is currently a consultant helping research projects commercialise and start-up companies grow. In addition, she serves as a board member at Junior Chamber International Brisbane Chapter where she pursues her passionate about helping young professionals develop their career and find meaningful work. '
+  company: "UQ"
+  title: "Head of Business Development, Vacayit; Business Strategist, SignHow; Senior Research Assistant, UQ"
+  bio: "Rachel Huang is the winner of the Women in Technology Up-and-Comer Technology Award, an entrepreneur who has founded two start-up companies previously and experience as UQ''s Chief Student Entrepreneur, and a highly-regarded innovator and thought-leader in the technology start-up ecosystem. She holds a dual degree from UQ in Biological and Chemical Engineering and Biomedical Science, and is addressing the world’s biggest problems through technology and innovation. She is currently a consultant helping research projects commercialise and start-up companies grow. In addition, she serves as a board member at Junior Chamber International Brisbane Chapter where she pursues her passionate about helping young professionals develop their career and find meaningful work."
   thumbnailUrl: RachelHuang.png
   rockstar: true
   ribbon:
@@ -29,12 +29,12 @@
   social:
 -
   id: 1
-  name: Rob
-  surname: McLellan
+  name: "Rob"
+  surname: "McLellan"
   pronouns:
-  company: UQ
-  title: Program Manager for the Language Data Commons of Australia (LDaCA); Industry Fellow with the UQ Faculty of Humanities, Arts and Social Sciences
-  bio: Robert dhurwain McLellan is a proud Gooreng Gooreng descendant of the Wide Bay region, a community researcher, and an experienced Director, governance and engagement practitioner. A strong advocate for truth telling and speaking up for Aboriginal people’s rights and justice, economic advancement, and to ensure First Nations voices are authentically valued and embraced across all levels of society, Robert is passionate about revitalising Indigenous languages and building culturally inclusive, honourable, and cohesive communities.
+  company: "UQ"
+  title: "Program Manager for the Language Data Commons of Australia (LDaCA); Industry Fellow with the UQ Faculty of Humanities, Arts and Social Sciences"
+  bio: "Robert dhurwain McLellan is a proud Gooreng Gooreng descendant of the Wide Bay region, a community researcher, and an experienced Director, governance and engagement practitioner. A strong advocate for truth telling and speaking up for Aboriginal people’s rights and justice, economic advancement, and to ensure First Nations voices are authentically valued and embraced across all levels of society, Robert is passionate about revitalising Indigenous languages and building culturally inclusive, honourable, and cohesive communities."
   thumbnailUrl: Rob_McLellan_2.png
   rockstar: true
   ribbon:
@@ -43,12 +43,12 @@
   social:
 -
   id: 5
-  name: Michael
-  surname: Milford
+  name: "Michael"
+  surname: "Milford"
   pronouns:
-  company: QUT
-  title: Director, Centre for Robotics
-  bio: Professor Michael Milford conducts interdisciplinary research at the boundary between robotics, neuroscience and computer vision and is a multi-award winning educational entrepreneur. His research models the neural mechanisms in the brain underlying tasks like navigation and perception to develop new technologies in challenging application domains such as all-weather, anytime positioning for autonomous vehicles. He is also passionate about engaging and educating all sectors of society around new opportunities and impacts from technology including robotics, autonomous vehicles and artificial intelligence.
+  company: "QUT"
+  title: "Director, Centre for Robotics"
+  bio: "Professor Michael Milford conducts interdisciplinary research at the boundary between robotics, neuroscience and computer vision and is a multi-award winning educational entrepreneur. His research models the neural mechanisms in the brain underlying tasks like navigation and perception to develop new technologies in challenging application domains such as all-weather, anytime positioning for autonomous vehicles. He is also passionate about engaging and educating all sectors of society around new opportunities and impacts from technology including robotics, autonomous vehicles and artificial intelligence."
   thumbnailUrl: Michael_Milford_Research.jpg
   rockstar: true
   ribbon:
@@ -57,12 +57,12 @@
   social:
 -
   id: 6
-  name: Heidi
-  surname: Perrett
+  name: "Heidi"
+  surname: "Perrett"
   pronouns:
-  company: Ceres Tag
-  title: Data Platform Manager
-  bio: Heidi Perrett has over fifteen years experience in software development and data analysis, combined with a family background in the cattle industry. These two passions have underpinned her success as the Data Platform Manager for Ceres Tag, an innovative Queensland company that provides satellite-linked animal tracking tags to farmers, researchers and conservationists across the world.
+  company: "Ceres Tag"
+  title: "Data Platform Manager"
+  bio: "Heidi Perrett has over fifteen years experience in software development and data analysis, combined with a family background in the cattle industry. These two passions have underpinned her success as the Data Platform Manager for Ceres Tag, an innovative Queensland company that provides satellite-linked animal tracking tags to farmers, researchers and conservationists across the world."
   thumbnailUrl: heidi_perrett.png
   rockstar: true
   ribbon:
@@ -70,12 +70,12 @@
   social:
 -
   id: 4
-  name: Jack
-  surname: Wang
+  name: "Jack"
+  surname: "Wang"
   pronouns:
-  company: UQ
-  title: Associate Professor in Microbiology, YouTuber, Podcaster, and Writer
-  bio: Associate Professor Jack Wang is an award-winning science educator, Researcher, YouTuber, and podcaster. His work explores science, technology, productivity, and the connectedness of it all. The 2020 Australian University Teacher of the Year, Jack applies his research background towards an interdisciplinary approach to Microbiology teaching. Through this he aims to address the impact of blending online and face-to-face learning activities, and improve the technological and communication competencies that serve as transferable skills for graduates.
+  company: "UQ"
+  title: "Associate Professor in Microbiology, YouTuber, Podcaster, and Writer"
+  bio: "Associate Professor Jack Wang is an award-winning science educator, Researcher, YouTuber, and podcaster. His work explores science, technology, productivity, and the connectedness of it all. The 2020 Australian University Teacher of the Year, Jack applies his research background towards an interdisciplinary approach to Microbiology teaching. Through this he aims to address the impact of blending online and face-to-face learning activities, and improve the technological and communication competencies that serve as transferable skills for graduates."
   thumbnailUrl: jack_wang.jpg
   rockstar: true
   ribbon:
@@ -85,12 +85,12 @@
   social:
 -
   id: 17
-  name: Betsy
-  surname: Alpert
-  pronouns: (she/they)
-  company: QUT
-  title: Senior Developer/Data Scientist, at the Digital Observatory
-  bio: Elizabeth (Betsy) Alpert is a Senior Developer / Data Scientist at the Australian Digital Observatory, a QUT Research Infrastructure facility. Betsy is a backend software developer by background who loves databases and data modelling and all things data structures. Outside of work, Betsy is likely to be found reading a speculative fiction book with a cat and a cup of tea, or knitting in front of cozy whodunnit tv shows.
+  name: "Betsy"
+  surname: "Alpert"
+  pronouns: "(she/they)"
+  company: "QUT"
+  title: "Senior Developer/Data Scientist, at the Digital Observatory"
+  bio: "Elizabeth (Betsy) Alpert is a Senior Developer / Data Scientist at the Australian Digital Observatory, a QUT Research Infrastructure facility. Betsy is a backend software developer by background who loves databases and data modelling and all things data structures. Outside of work, Betsy is likely to be found reading a speculative fiction book with a cat and a cup of tea, or knitting in front of cozy whodunnit tv shows."
   thumbnailUrl: betsy_alpert.jpg
   rockstar: false
   ribbon:
@@ -98,12 +98,12 @@
   social:
 -
   id: 14
-  name: Mat
-  surname: Bettinson
+  name: "Mat"
+  surname: "Bettinson"
   pronouns:
-  company: QUT
-  title: Senior Developer / Data Scientist at the Digital Observatory
-  bio: Mat Bettinson is a senior developer / data scientist at the Digital Observatory
+  company: "QUT"
+  title: "Senior Developer / Data Scientist at the Digital Observatory"
+  bio: "Mat Bettinson is a senior developer / data scientist at the Digital Observatory"
   thumbnailUrl: mat_bettinson.jpg
   rockstar: false
   ribbon:
@@ -111,12 +111,12 @@
   social:
 -
   id: 22
-  name: Christina
-  surname: Buelow
-  pronouns: (she/her)
-  company: Griffith
-  title: Research Fellow, Australian Rivers Institute
-  bio: Christina is a quantitative ecologist trying to solve challenging problems related to conservation and sustainable use of Earth’s ecosystems. She uses models - spatial, statistical, mathematical - to provide a robust evidence-base for decision-makers faced with difficult choices, such as how to set scientifically-sound global targets for mangrove and seagrass conservation. She also enjoys developing web tools to engage and inform end-users.
+  name: "Christina"
+  surname: "Buelow"
+  pronouns: "(she/her)"
+  company: "Griffith"
+  title: "Research Fellow, Australian Rivers Institute"
+  bio: "Christina is a quantitative ecologist trying to solve challenging problems related to conservation and sustainable use of Earth’s ecosystems. She uses models - spatial, statistical, mathematical - to provide a robust evidence-base for decision-makers faced with difficult choices, such as how to set scientifically-sound global targets for mangrove and seagrass conservation. She also enjoys developing web tools to engage and inform end-users."
   thumbnailUrl: christina_buelow.png
   rockstar: false
   ribbon:
@@ -124,12 +124,12 @@
   social:
 -
   id: 7
-  name: Nicholas
-  surname: Condon
-  pronouns: (He/Him)
-  company: UQ
-  title: Senior Microscopist & Imaging Scientist
-  bio: 'Nicholas Condon is a Chan Zuckerberg Initiative Imaging Scientist and Senior Microscopist within the IMB Microscopy core facility. He completed his PhD in the lab of Professor Jennifer Stow using advanced microscopy techniques to identify a novel mechanism for macropinocytosis and other immune cell surface responses. He is globally recognised as an expert in image analysis and microscopy training, as well as an emerging technologist with expertise in big data processing, analysis and storage. Nicholas works with researchers to help optimise their image analysis workflows by writing and updating code and connecting new infrastructures such as High-Performance Computing to projects. '
+  name: "Nicholas"
+  surname: "Condon"
+  pronouns: "(He/Him)"
+  company: "UQ"
+  title: "Senior Microscopist & Imaging Scientist"
+  bio: "Nicholas Condon is a Chan Zuckerberg Initiative Imaging Scientist and Senior Microscopist within the IMB Microscopy core facility. He completed his PhD in the lab of Professor Jennifer Stow using advanced microscopy techniques to identify a novel mechanism for macropinocytosis and other immune cell surface responses. He is globally recognised as an expert in image analysis and microscopy training, as well as an emerging technologist with expertise in big data processing, analysis and storage. Nicholas works with researchers to help optimise their image analysis workflows by writing and updating code and connecting new infrastructures such as High-Performance Computing to projects."
   thumbnailUrl: nicholas_condon.jpg
   rockstar: false
   ribbon:
@@ -137,12 +137,12 @@
   social:
 -
   id: 47
-  name: Keeva
-  surname: Connolly
-  pronouns: (she/her)
+  name: "Keeva"
+  surname: "Connolly"
+  pronouns: "(she/her)"
   company:
-  title: Scientific Business Analyst
-  bio: Keeva Connolly is a scientific business analyst with the Australian BioCommons, and works full time on the ARGA project. As part of her role, she speaks with researchers to better understand their challenges when searching for genomic data and how they can be addressed. Before starting at the Australian BioCommons, she studied a Bachelor of Genetics (Hons) at the Australian National University and worked for the Department of Agriculture, Water and the Environment (now DAFF) in plant biosecurity.
+  title: "Scientific Business Analyst"
+  bio: "Keeva Connolly is a scientific business analyst with the Australian BioCommons, and works full time on the ARGA project. As part of her role, she speaks with researchers to better understand their challenges when searching for genomic data and how they can be addressed. Before starting at the Australian BioCommons, she studied a Bachelor of Genetics (Hons) at the Australian National University and worked for the Department of Agriculture, Water and the Environment (now DAFF) in plant biosecurity."
   thumbnailUrl: Keeva-Connolly.png
   rockstar: false
   ribbon:
@@ -150,12 +150,12 @@
   social:
 -
   id: 25
-  name: Mark
-  surname: Crowe
-  pronouns: (he/him)
-  company: UQ
-  title: Skills Development Manager, QCIF
-  bio: Mark leads the Skills Development group at QCIF and runs a program of digital skills training workshops, attended by nearly 3000 researchers annually. He is an Instructor and Instructor Trainer with the Carpentries, an internation coding and data science training organisation, and is the chair of the Carpentries Trainers Leadership Committee.
+  name: "Mark"
+  surname: "Crowe"
+  pronouns: "(he/him)"
+  company: "UQ"
+  title: "Skills Development Manager, QCIF"
+  bio: "Mark leads the Skills Development group at QCIF and runs a program of digital skills training workshops, attended by nearly 3000 researchers annually. He is an Instructor and Instructor Trainer with the Carpentries, an internation coding and data science training organisation, and is the chair of the Carpentries Trainers Leadership Committee."
   thumbnailUrl: MarkCrowe.jpg
   rockstar: false
   ribbon:
@@ -163,11 +163,11 @@
   social:
 -
   id: 39
-  name: Adam
-  surname: Ewing
+  name: "Adam"
+  surname: "Ewing"
   pronouns:
   company:
-  title: Translational Bioinformatics Group Lead
+  title: "Translational Bioinformatics Group Lead"
   bio:
   thumbnailUrl: adam_ewing.jpg
   rockstar: false
@@ -176,12 +176,12 @@
   social:
 -
   id: 45
-  name: Andres
-  surname: Felipe Suarez-Castro
+  name: "Andres"
+  surname: "Felipe Suarez-Castro"
   pronouns:
-  company: Griffith
-  title: Lecturer, School of Environment and Science
-  bio: 'Dr Suarez-Castro is a spatial ecologist who uses a diverse range of spatial statistical techniques, remote sensing and geographic data to predict the ecological causes and consequences of environmental change across spatial and temporal scales. Currently, his research focuses on optimizing the selection of areas that can maximize biodiversity conservation and ecosystem service provisioning across spatial scales in human-dominated landscapes. He is engaged in multidisciplinary projects that require advanced computational skills for handling large databases and complex spatial data, as well as liaising and collaborating with a big range of stakeholders. In addition to his academic outputs that have resulted in more than 1400 citations, Dr Suarez-Castro regularly act in a range of service roles, providing advice to urban and regional planners, environmental consultants, and government institutions. '
+  company: "Griffith"
+  title: "Lecturer, School of Environment and Science"
+  bio: "Dr Suarez-Castro is a spatial ecologist who uses a diverse range of spatial statistical techniques, remote sensing and geographic data to predict the ecological causes and consequences of environmental change across spatial and temporal scales. Currently, his research focuses on optimizing the selection of areas that can maximize biodiversity conservation and ecosystem service provisioning across spatial scales in human-dominated landscapes. He is engaged in multidisciplinary projects that require advanced computational skills for handling large databases and complex spatial data, as well as liaising and collaborating with a big range of stakeholders. In addition to his academic outputs that have resulted in more than 1400 citations, Dr Suarez-Castro regularly act in a range of service roles, providing advice to urban and regional planners, environmental consultants, and government institutions."
   thumbnailUrl: andres_felipe_suarez-castro.jpg
   rockstar: false
   ribbon:
@@ -189,12 +189,12 @@
   social:
 -
   id: 13
-  name: Robert
-  surname: Fleet
-  pronouns: (he/him)
-  company: QUT
-  title: Senior Developer/Data Scientist at the Digital Observatory at QUT
-  bio: Robert Fleet is a Data Scientist and Developer at QUT's Australian Digital Observatory. With a passion for analyzing human data on the internet, he designs innovative platforms and tools for this purpose. Robert's unique research interest lies in studying MMO game data, specifically to investigate the structure of organized criminal groups. Prior to his current role, he contributed his expertise as a Data Scientist, E-Research Analyst, and Technical Lead on a cutting-edge drone surveillance project.
+  name: "Robert"
+  surname: "Fleet"
+  pronouns: "(he/him)"
+  company: "QUT"
+  title: "Senior Developer/Data Scientist at the Digital Observatory at QUT"
+  bio: "Robert Fleet is a Data Scientist and Developer at QUT's Australian Digital Observatory. With a passion for analyzing human data on the internet, he designs innovative platforms and tools for this purpose. Robert's unique research interest lies in studying MMO game data, specifically to investigate the structure of organized criminal groups. Prior to his current role, he contributed his expertise as a Data Scientist, E-Research Analyst, and Technical Lead on a cutting-edge drone surveillance project."
   thumbnailUrl: robert_fleet.jpg
   rockstar: false
   ribbon:
@@ -202,12 +202,12 @@
   social:
 -
   id: 26
-  name: Rosie
-  surname: Glynn
-  pronouns: (she/her)
-  company: QUT
-  title: Liaison Librarian (Faculty of Health)
-  bio: Rosie Glynn is the Liaison librarian for the nursing school at QUT. She has over eight years of experience in searching and methodological advice for evidence synthesis, learning design and digital literacy instruction.
+  name: "Rosie"
+  surname: "Glynn"
+  pronouns: "(she/her)"
+  company: "QUT"
+  title: "Liaison Librarian (Faculty of Health)"
+  bio: "Rosie Glynn is the Liaison librarian for the nursing school at QUT. She has over eight years of experience in searching and methodological advice for evidence synthesis, learning design and digital literacy instruction."
   thumbnailUrl: rosie_glynn.jpg
   rockstar: false
   ribbon:
@@ -215,11 +215,11 @@
   social:
 -
   id: 30
-  name: David
-  surname: Green
+  name: "David"
+  surname: "Green"
   pronouns:
-  company: UQ
-  title: HPC Manager, Research Computing Centre
+  company: "UQ"
+  title: "HPC Manager, Research Computing Centre"
   bio: ""
   thumbnailUrl: david_green.jpg
   rockstar: false
@@ -228,12 +228,12 @@
   social:
 -
   id: 41
-  name: Siddeswara
-  surname: Guru
-  pronouns: (he/him)
-  company: TERN
-  title: Program Lead
-  bio: Siddeswara Guru is a program lead of TERN Data Services and Analytics Platform. He lead a team to build data infrastructure to TERN observing and stakeholders datasets.
+  name: "Siddeswara"
+  surname: "Guru"
+  pronouns: "(he/him)"
+  company: "TERN"
+  title: "Program Lead"
+  bio: "Siddeswara Guru is a program lead of TERN Data Services and Analytics Platform. He lead a team to build data infrastructure to TERN observing and stakeholders datasets."
   thumbnailUrl: siddeswara_guru.jpg
   rockstar: false
   ribbon:
@@ -241,12 +241,12 @@
   social:
 -
   id: 46
-  name: Kathryn
-  surname: Hall
-  pronouns: (she/her)
+  name: "Kathryn"
+  surname: "Hall"
+  pronouns: "(she/her)"
   company:
-  title: Product Champion
-  bio: Kathryn Hall is the Product Champion for the Australian Reference Genome Atlas (ARGA) Project, and is part of the Atlas of Living Australia (CSIRO). She has a background in animal taxonomy, with a special focus on marine invertebrates. Kathryn has always worked to integrate genetic data with other biological data to inform her taxonomic process, and is very proud now to be overseeing the ARGA Project team as they build the ARGA platform. ARGA aims to help researchers discover data within biological and ecological contexts for all Australian biota.
+  title: "Product Champion"
+  bio: "Kathryn Hall is the Product Champion for the Australian Reference Genome Atlas (ARGA) Project, and is part of the Atlas of Living Australia (CSIRO). She has a background in animal taxonomy, with a special focus on marine invertebrates. Kathryn has always worked to integrate genetic data with other biological data to inform her taxonomic process, and is very proud now to be overseeing the ARGA Project team as they build the ARGA platform. ARGA aims to help researchers discover data within biological and ecological contexts for all Australian biota."
   thumbnailUrl: kathryn_hall.jpg
   rockstar: false
   ribbon:
@@ -254,11 +254,11 @@
   social:
 -
   id: 8
-  name: Sam
-  surname: Hames
-  pronouns: (He/Him)
-  company: UQ
-  title: Research Fellow (Computational Humanities)
+  name: "Sam"
+  surname: "Hames"
+  pronouns: "(He/Him)"
+  company: "UQ"
+  title: "Research Fellow (Computational Humanities)"
   bio:
   thumbnailUrl: SamHames.jpg
   rockstar: false
@@ -267,12 +267,12 @@
   social:
 -
   id: 31
-  name: Marlies
-  surname: Hankel
+  name: "Marlies"
+  surname: "Hankel"
   pronouns:
-  company: UQ
-  title: Senior Development and Consultation Manager (RCC) and eResearch Analyst (QCIF)
-  bio: David is a high-profile academic who appears regularly on local, national and international media (newspaper, radio and TV) commenting on the social impact of technology. Since 2005, his global audience reach will be in excess of a hundred million. David's articles published in The Conversation and republished in newspapers like the Washington Post and Chicago Tribune have reached over 2.25 million readers. His work has been translated into German, Chinese, Indonesian and Japanese.
+  company: "UQ"
+  title: "Senior Development and Consultation Manager (RCC) and eResearch Analyst (QCIF)"
+  bio: 
   thumbnailUrl: marlies_hankel.jpg
   rockstar: false
   ribbon:
@@ -280,12 +280,12 @@
   social:
 -
   id: 18
-  name: Eliza
-  surname: Howard
-  pronouns: (she/her)
+  name: "Eliza"
+  surname: "Howard"
+  pronouns: "(she/her)"
   company:
-  title: Independent consultant & facilitator
-  bio: Eliza is an independent consultant & facilitator. She is a former Fulbright Scholar (2005/2006) who post-PhD became a leader in research education and strategy. As a sole-trader consultant, she leads large projects for clients, hosts workshops for researchers, Higher Degree by Research candidates, and organisations conducting their own research projects, and develops research and project strategy. She was named a LinkedIn Top Voice in 2022 for writing extensively on 'mumemployment' and the complicated intersections between professional and family life.
+  title: "Independent consultant & facilitator"
+  bio: "Eliza is an independent consultant & facilitator. She is a former Fulbright Scholar (2005/2006) who post-PhD became a leader in research education and strategy. As a sole-trader consultant, she leads large projects for clients, hosts workshops for researchers, Higher Degree by Research candidates, and organisations conducting their own research projects, and develops research and project strategy. She was named a LinkedIn Top Voice in 2022 for writing extensively on 'mumemployment' and the complicated intersections between professional and family life."
   thumbnailUrl: eliza_howard.jpg
   rockstar: false
   ribbon:
@@ -293,24 +293,25 @@
   social:
 -
   id: 24
-  name: Catherine
-  surname: Kim
-  pronouns: (she/her)
-  company: QUT
-  title: Postdoctoral researcher, School of Earth and Atmospheric Sciences, Queensland University of Technology
-  bio: Catherine is a postdoctoral researcher in the School of Earth and Atmospheric Sciences at the Queensland University of Technology. Currently, she is modelling generation of coral rubble across the Great Barrier Reef for the Reef Restoration and Adaptation Program.
+  name: "Catherine"
+  surname: "Kim"
+  pronouns: "(she/her)"
+  company: "QUT"
+  title: "Postdoctoral researcher, School of Earth and Atmospheric Sciences, Queensland University of Technology"
+  bio: "Catherine is a postdoctoral researcher in the School of Earth and Atmospheric Sciences at the Queensland University of Technology. Currently, she is modelling generation of coral rubble across the Great Barrier Reef for the Reef Restoration and Adaptation Program."
   thumbnailUrl: CatherineKim.jpg
   rockstar: false
-  ribbon: '    - {abbr: "School of Earth and Atmospheric Sciences, QUT", title: "School of Earth and Atmosphereic Sciences, QUT", url: "https://www.qut.edu.au/about/faculty-of-science/school-of-earth-and-atmospheric-sciences"}'
+  ribbon: 
+    - {abbr: "SEAS, QUT", title: "School of Earth and Atmosphereic Sciences, QUT", url: "https://www.qut.edu.au/about/faculty-of-science/school-of-earth-and-atmospheric-sciences"}
   social:
 -
   id: 10
-  name: Sara
-  surname: King
-  pronouns: (she/her)
-  company: AARNet
-  title: Training and Engagement Lead
-  bio: Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone.
+  name: "Sara"
+  surname: "King"
+  pronouns: "(she/her)"
+  company: "AARNet"
+  title: "Training and Engagement Lead"
+  bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
   thumbnailUrl: sara_king.jpg
   rockstar: false
   ribbon:
@@ -318,12 +319,12 @@
   social:
 -
   id: 33
-  name: Eduardo
-  surname: Klein
+  name: "Eduardo"
+  surname: "Klein"
   pronouns:
-  company: UTAS
-  title: Marine Ecology Researcher
-  bio: With over 30 years of experience in tropical marine ecology and conservation, Eduardo Klein has worked extensively in the Caribbean region and more recently in the GBR. He has established strong connections with multilateral organisations that specialise in biodiversity conservation and data, such as OBIS and the marine program of the Convention for Biological Diversity. Currently, he leads the Reef Data Services & Infrastructure program at IMOS.
+  company: "UTAS"
+  title: "Marine Ecology Researcher"
+  bio: "With over 30 years of experience in tropical marine ecology and conservation, Eduardo Klein has worked extensively in the Caribbean region and more recently in the GBR. He has established strong connections with multilateral organisations that specialise in biodiversity conservation and data, such as OBIS and the marine program of the Convention for Biological Diversity. Currently, he leads the Reef Data Services & Infrastructure program at IMOS."
   thumbnailUrl: Eduardo-Klein.jpg
   rockstar: false
   ribbon:
@@ -331,12 +332,12 @@
   social:
 -
   id: 48
-  name: Kasia
-  surname: Koziara
+  name: "Kasia"
+  surname: "Koziara"
   pronouns:
   company:
-  title: Senior Data Analyst, Institute for Teaching and Learning Innovation, UQ
-  bio: 'Kasia is an experienced data professional across multiple sectors: academic, non-profit and government. She is skilled in data extraction, modelling, and analysis with a passion for higher education, STEM outreach and public engagement. She holds a PhD in Computational Chemistry from UQ.'
+  title: "Senior Data Analyst, Institute for Teaching and Learning Innovation, UQ"
+  bio: "Kasia is an experienced data professional across multiple sectors: academic, non-profit and government. She is skilled in data extraction, modelling, and analysis with a passion for higher education, STEM outreach and public engagement. She holds a PhD in Computational Chemistry from UQ."
   thumbnailUrl: Kasia-Koziara.jpg
   rockstar: false
   ribbon:
@@ -344,12 +345,12 @@
   social:
 -
   id: 40
-  name: Caitie
-  surname: Kuempel
+  name: "Caitie"
+  surname: "Kuempel"
   pronouns:
-  company: Griffith
-  title: Lecturer, School of Environment and Science
-  bio: I am a conservation scientist with interests in sustainable seafood, land-sea interactions, and conservation planning. I am passionate about finding ways to meet the needs of the growing human population while minimising impacts on the environment – particularly in the world’s oceans. I completed my PhD at the University of Queensland in protected area design and evaluation, followed by post-doctoral positions at NCEAS UC Santa Barbara mapping impacts of the global food system and University of Queensland exploring ways to manage and monitor climate resilient reefs to benefit people and nature. I also holds degrees in marine biology (M.S.), environmental science (B.S.) and French (B.A.).
+  company: "Griffith"
+  title: "Lecturer, School of Environment and Science"
+  bio: "I am a conservation scientist with interests in sustainable seafood, land-sea interactions, and conservation planning. I am passionate about finding ways to meet the needs of the growing human population while minimising impacts on the environment – particularly in the world’s oceans. I completed my PhD at the University of Queensland in protected area design and evaluation, followed by post-doctoral positions at NCEAS UC Santa Barbara mapping impacts of the global food system and University of Queensland exploring ways to manage and monitor climate resilient reefs to benefit people and nature. I also holds degrees in marine biology (M.S.), environmental science (B.S.) and French (B.A.)."
   thumbnailUrl: caitie_kuempel.jpg
   rockstar: false
   ribbon:
@@ -357,12 +358,12 @@
   social:
 -
   id: 28
-  name: Ashar
-  surname: Malik
-  pronouns: (he/him)
-  company: UQ
-  title: Postdoctoral researcher, School of Earth and Atmospheric Sciences, Queensland University of Technology
-  bio: 'Ashar completed his PhD, in 2018, in the area of computational biochemistry from Massey University in Auckland, New Zealand and has since been working as a postdoc, first at the Bioinformatics Institute at the Agency for Science, Technology and Research in Singapore and currently at Baker Heart and Diabetes Institute, Melbourne and the University of Queensland, Brisbane. His primary work focuses on exploring polymorphisms in the human genome and their phenotypic effects. Additionally he also explores the area of structural phylogenetics and quantum computing. He is also a science communication enthusiast and loves to engage with incoming researchers on potential new computational methodologies that can be employed to enhance the quality of research. He is also an instructor with Software Carpentry and routinely conducts scientific computing workshops. (Twitter/Instagram: @Proteinmechanic)'
+  name: "Ashar"
+  surname: "Malik"
+  pronouns: "(he/him)"
+  company: "UQ"
+  title: "Postdoctoral researcher, School of Earth and Atmospheric Sciences, Queensland University of Technology"
+  bio: "Ashar completed his PhD, in 2018, in the area of computational biochemistry from Massey University in Auckland, New Zealand and has since been working as a postdoc, first at the Bioinformatics Institute at the Agency for Science, Technology and Research in Singapore and currently at Baker Heart and Diabetes Institute, Melbourne and the University of Queensland, Brisbane. His primary work focuses on exploring polymorphisms in the human genome and their phenotypic effects. Additionally he also explores the area of structural phylogenetics and quantum computing. He is also a science communication enthusiast and loves to engage with incoming researchers on potential new computational methodologies that can be employed to enhance the quality of research. He is also an instructor with Software Carpentry and routinely conducts scientific computing workshops. (Twitter/Instagram: @Proteinmechanic)"
   thumbnailUrl: ashar_malik.jpg
   rockstar: false
   ribbon:
@@ -371,15 +372,12 @@
   social:
 -
   id: 32
-  name: Lachlan
-  surname: McKinnie
+  name: "Lachlan"
+  surname: "McKinnie"
   pronouns:
-  company: UniSC
-  title: PhD Student
-  bio: |-
-    I am a PhD student at the University of the Sunshine Coast researching red algal genetics and metabolic pathway reconstruction using bioinformatics. My work involves the functional annotation and investigation of genomes and transcriptomes, and I regularly code in Python for my research, including web design using Python Flask.
-
-    ORCiD: 0000-0002-4996-5941
+  company: "UniSC"
+  title: "PhD Student"
+  bio: "I am a PhD student at the University of the Sunshine Coast researching red algal genetics and metabolic pathway reconstruction using bioinformatics. My work involves the functional annotation and investigation of genomes and transcriptomes, and I regularly code in Python for my research, including web design using Python Flask. ORCiD: 0000-0002-4996-5941"
   thumbnailUrl: lachlan_mckinnie.jpg
   rockstar: false
   ribbon:
@@ -387,12 +385,12 @@
   social:
 -
   id: 20
-  name: Rani
-  surname: McLennan
+  name: "Rani"
+  surname: "McLennan"
   pronouns:
   company:
-  title: Copyright Information Officer
-  bio: 'Rani McLennan is the Copyright Information Officer at Queensland University of Technology (QUT) and the Open Educational Resource (OER) Collective Project Officer at the Council of Australian University Librarians (CAUL). She has over a decade of experience in public, school, and academic libraries. Her interests include the communication of complex information through text and visuals and openly licensed image collections. '
+  title: "Copyright Information Officer"
+  bio: "Rani McLennan is the Copyright Information Officer at Queensland University of Technology (QUT) and the Open Educational Resource (OER) Collective Project Officer at the Council of Australian University Librarians (CAUL). She has over a decade of experience in public, school, and academic libraries. Her interests include the communication of complex information through text and visuals and openly licensed image collections."
   thumbnailUrl: RaniMcLennan.jpg
   rockstar: false
   ribbon:
@@ -400,12 +398,12 @@
   social:
 -
   id: 12
-  name: Simon
-  surname: Musgrave
-  pronouns: (he/him)
-  company: UQ
-  title: Engagement Lead for the Language Data Commons of Australia project
-  bio: Simon Musgrave is Engagement Lead for the Language Data Commons of Australia (University of Queensland) and an Adjunct Research Fellow (Monash University). Starting as a syntactician specialising in Austronesian languages, his research interests extended to cover areas including language endangerment, communication in medical settings and the use of technology for linguistic research. This last interest, through work on the Australian National Corpus project led to research on the history of Australian English including Irish influences. His work has appeared in journals such as Language, Oceanic Linguistics and the Australian Journal of Linguistics as well as in numerous edited collections.
+  name: "Simon"
+  surname: "Musgrave"
+  pronouns: "(he/him)"
+  company: "UQ"
+  title: "Engagement Lead for the Language Data Commons of Australia project"
+  bio: "Simon Musgrave is Engagement Lead for the Language Data Commons of Australia (University of Queensland) and an Adjunct Research Fellow (Monash University). Starting as a syntactician specialising in Austronesian languages, his research interests extended to cover areas including language endangerment, communication in medical settings and the use of technology for linguistic research. This last interest, through work on the Australian National Corpus project led to research on the history of Australian English including Irish influences. His work has appeared in journals such as Language, Oceanic Linguistics and the Australian Journal of Linguistics as well as in numerous edited collections."
   thumbnailUrl: simon_musgrave.jpg
   rockstar: false
   ribbon:
@@ -413,25 +411,25 @@
   social:
 -
   id: 27
-  name: Emma
-  surname: Nelms
-  pronouns: (she/her)
-  company: QUT
-  title: Liaison Librarian (Faculty of Health)
-  bio: Emma Nelms is a liaison librarian for QUT Business School, Oodgeroo Unit & Carumba Institute, as well as AI champion and Library Workshops coordinator. Her professional interests include digital literacy, decolonisation and empowering users.
+  name: "Emma"
+  surname: "Nelms"
+  pronouns: "(she/her)"
+  company: "QUT"
+  title: "Liaison Librarian (Faculty of Health)"
+  bio: "Emma Nelms is a liaison librarian for QUT Business School, Oodgeroo Unit & Carumba Institute, as well as AI champion and Library Workshops coordinator. Her professional interests include digital literacy, decolonisation and empowering users."
   thumbnailUrl: emma_nelms.png
   rockstar: false
   ribbon:
     - {abbr: "QUT", title: "QUT Library", url: "https://www.library.qut.edu.au/"}
   social:
 -
-  id: 15
-  name: Boyd
-  surname: Nguyen
-  pronouns: (he/him)
-  company: QUT
-  title: Queensland University of Technology, Digital Observatory, Research Data Analyst
-  bio: Boyd Nguyen is Research Data Analyst at QUT's Australian Digital Observatory and the developer of youte, a tool used to collect YouTube metadata and comments.
+  id: 15"
+  name: "Boyd"
+  surname: "Nguyen"
+  pronouns: "(he/him)"
+  company: "QUT"
+  title: "Queensland University of Technology, Digital Observatory, Research Data Analyst"
+  bio: "Boyd Nguyen is Research Data Analyst at QUT's Australian Digital Observatory and the developer of youte, a tool used to collect YouTube metadata and comments."
   thumbnailUrl: boyd_nguyen.jpg
   rockstar: false
   ribbon:
@@ -439,24 +437,24 @@
   social:
 -
   id: 34
-  name: Senn
-  surname: Oon
+  name: "Senn"
+  surname: "Oon"
   pronouns:
   company:
-  title: Research Assistant
-  bio: Senn Oon (they/them) is studying a Master of Information Science (Extended) at Curtin University with the ultimate aim of becoming a university librarian. By day, you can find them assisting in QCIF's coding workshops and thinking about data management. By night, you can find them making games and cuddling cats.
+  title: "Research Assistant"
+  bio: "Senn Oon (they/them) is studying a Master of Information Science (Extended) at Curtin University with the ultimate aim of becoming a university librarian. By day, you can find them assisting in QCIF's coding workshops and thinking about data management. By night, you can find them making games and cuddling cats."
   thumbnailUrl: senn_oon.jpg
   rockstar: false
   ribbon:
   social:
 -
   id: 19
-  name: Sonia
-  surname: Ramza
+  name: "Sonia"
+  surname: "Ramza"
   pronouns:
   company:
-  title: User Support Manager for the Nectar Cloud
-  bio: Sonia Ramza is the User Support Manager for the Nectar Cloud, previously having been in training & community roles.
+  title: "User Support Manager for the Nectar Cloud"
+  bio: "Sonia Ramza is the User Support Manager for the Nectar Cloud, previously having been in training & community roles."
   thumbnailUrl: SoniaRamza.jpg
   rockstar: false
   ribbon:
@@ -464,12 +462,12 @@
   social:
 -
   id: 43
-  name: Cameron
-  surname: Rutter
+  name: "Cameron"
+  surname: "Rutter"
   pronouns:
-  company: QUT
-  title: University Copyright Officer
-  bio: Cameron Rutter is the acting University Copyright Officer at Queensland University of Technology. He has been working in academic libraries for over fifteen years across a wide range of roles.
+  company: "QUT"
+  title: "University Copyright Officer"
+  bio: "Cameron Rutter is the acting University Copyright Officer at Queensland University of Technology. He has been working in academic libraries for over fifteen years across a wide range of roles."
   thumbnailUrl: cameron_rutter.png
   rockstar: false
   ribbon:
@@ -477,12 +475,12 @@
   social:
 -
   id: 11
-  name: Martin
-  surname: Schweinberger
-  pronouns: (he/him)
-  company: UQ
-  title: Lecturer in Applied Linguistics
-  bio: Martin Schweinberger is Lecturer in Applied Linguistics at the University of Queensland (UQ) and part-time Associate Professor in the AcqVA-Aurora Center at the Arctic University of Norway in Tromsø. At UQ, Martin is co-directing the Language Technology and Data Analysis Laboratory (LADAL) and Chief Investigator of the Australian Text Analytics Platform (ATAP) as well as advisory committee member of the Language Data Commons of Australia (LDaCA). Martin considers himself a quantitative corpus linguist specialized in quantitative, computational analyses of text and speech data.
+  name: "Martin"
+  surname: "Schweinberger"
+  pronouns: "(he/him)"
+  company: "UQ"
+  title: "Lecturer in Applied Linguistics"
+  bio: "Martin Schweinberger is Lecturer in Applied Linguistics at the University of Queensland (UQ) and part-time Associate Professor in the AcqVA-Aurora Center at the Arctic University of Norway in Tromsø. At UQ, Martin is co-directing the Language Technology and Data Analysis Laboratory (LADAL) and Chief Investigator of the Australian Text Analytics Platform (ATAP) as well as advisory committee member of the Language Data Commons of Australia (LDaCA). Martin considers himself a quantitative corpus linguist specialized in quantitative, computational analyses of text and speech data."
   thumbnailUrl: martin_schweinberger.jpg
   rockstar: false
   ribbon:
@@ -491,12 +489,12 @@
   social:
 -
   id: 16
-  name: Sharron
-  surname: Stapleton
-  pronouns: (she/her)
-  company: Griffith
-  title: Research Library Specialist
-  bio: Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor and strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer.
+  name: "Sharron"
+  surname: "Stapleton"
+  pronouns: "(she/her)"
+  company: "Griffith"
+  title: "Research Library Specialist"
+  bio: "Sharron is a Research Library Specialist at Griffith Library providing training and advice to researchers on finding external data and primary sources for research and preparing data for analysis, visualisation and publishing. Sharron is a certified Data Carpentry instructor and strong supporter of open research for societal benefit and is regularly involved in ResBaz as a trainer."
   thumbnailUrl: SharronStapleton.jpg
   rockstar: false
   ribbon:
@@ -504,12 +502,12 @@
   social:
 -
   id: 44
-  name: Bran
-  surname: Stokes
-  pronouns: (he/they)
+  name: "Bran"
+  surname: "Stokes"
+  pronouns: "(he/they)"
   company:
-  title: Program Manager at ABCN
-  bio: Bran (he/they) has a passion for helping others self-improve. He has a background in both law and journalism and is currently working for a not-for-profit as a facilitator and program manager. As his day-to-day involves upskilling high school students and adults on transferable skills.
+  title: "Program Manager at ABCN"
+  bio: "Bran (he/they) has a passion for helping others self-improve. He has a background in both law and journalism and is currently working for a not-for-profit as a facilitator and program manager. As his day-to-day involves upskilling high school students and adults on transferable skills."
   thumbnailUrl: bran-stokes.png
   rockstar: false
   ribbon:
@@ -517,12 +515,11 @@
   social:
 -
   id: 49
-  name: Boyd
-  surname: Tarlinton
-  pronouns: (he/him)
-  company: ""
-  title: Senior Data Analyst
-  bio: Boyd Tarlinton is a Senior Data Analyst in the Supply Chain Innovation team at the Department of Agriculture and Fisheries (Queensland). Boyd has wide-ranging experience in the analysis of biological data, and a passion for reproducible research.
+  name: "Boyd"
+  surname: "Tarlinton"
+  pronouns: "(he/him)"
+  title: "Senior Data Analyst"
+  bio: "Boyd Tarlinton is a Senior Data Analyst in the Supply Chain Innovation team at the Department of Agriculture and Fisheries (Queensland). Boyd has wide-ranging experience in the analysis of biological data, and a passion for reproducible research."
   thumbnailUrl: boyd-tarlinton.jpg
   rockstar: false
   ribbon:
@@ -530,15 +527,14 @@
   social: null
 -
   id: 36
-  name: Shern
-  surname: Tee
+  name: "Shern"
+  surname: "Tee"
   pronouns:
   company:
-  title: Lecturer at Griffith University
-  bio: |-
-    I am a physicist and coder who specializes in all molecular dynamics simulations weird and unusual. I currently focus on developing new theoretical methods in constant potential molecular dynamics and nonequilibrium molecular dynamics, together with implementations in LAMMPS using C++.
+  title: "Lecturer at Griffith University"
+  bio: "I am a physicist and coder who specializes in all molecular dynamics simulations weird and unusual. I currently focus on developing new theoretical methods in constant potential molecular dynamics and nonequilibrium molecular dynamics, together with implementations in LAMMPS using C++.
 
-    I am also a passionate Research Software Engineer. Current academic pathways provide little recognition or progression for the work RSEs, like myself, put into developing open source software and making it accessible to the wider research community. I hope to somehow help to change that! I’ve joined the RSE Association of Australia and New Zealand and I’m keeping an eye out for opportunities to contribute.
+    I am also a passionate Research Software Engineer. Current academic pathways provide little recognition or progression for the work RSEs, like myself, put into developing open source software and making it accessible to the wider research community. I hope to somehow help to change that! I’ve joined the RSE Association of Australia and New Zealand and I’m keeping an eye out for opportunities to contribute."
   thumbnailUrl: Shern_Tee.jpg
   rockstar: false
   ribbon:
@@ -546,12 +542,12 @@
   social:
 -
   id: 29
-  name: David
-  surname: Tuffley
+  name: "David"
+  surname: "Tuffley"
   pronouns:
   company:
-  title: Senior Lecturer, School of Information and Communication Technology
-  bio: "David is a Senior Lecturer in Applied Ethics and CyberSecurity at Griffith University's School of Information & Communication Technology. David's research focus is on the social impact of technology, with particular interest in how Artificial Intelligence will affect the world of employment in the coming years. How can people leverage the power of\n AI to prosper in a changing employment environment.  He has published widely in the mainstream media on these topics and is a sought-after \"techsplainer\" on national radio/TV with a regular segment on ABC Radio Brisbane/Queensland. Since 2005, his global audience reach \nwill be in excess of a hundred million including publications in The Conversation and republished in newspapers like the Washington Post and Chicago Tribune. His work has been translated into German, Chinese, Indonesian and Japanese."
+  title: "Senior Lecturer, School of Information and Communication Technology"
+  bio: "David is a high-profile academic who appears regularly on local, national and international media (newspaper, radio and TV) commenting on the social impact of technology. Since 2005, his global audience reach will be in excess of a hundred million. David's articles published in The Conversation and republished in newspapers like the Washington Post and Chicago Tribune have reached over 2.25 million readers. His work has been translated into German, Chinese, Indonesian and Japanese."
   thumbnailUrl: david_tuffley.jpg
   rockstar: false
   ribbon:
@@ -559,12 +555,12 @@
   social:
 -
   id: 21
-  name: Valentina
-  surname: Urrutia Guada
+  name: "Valentina"
+  surname: "Urrutia Guada"
   pronouns:
-  company: UQ
-  title: Senior Technology Trainer
-  bio: Valentina is a Technology Trainer at the University of Queensland Library
+  company: "UQ"
+  title: "Senior Technology Trainer"
+  bio: "Valentina is a Technology Trainer at the University of Queensland Library"
   thumbnailUrl: valentina_urrutia-guada.png
   rockstar: false
   ribbon:
@@ -572,36 +568,36 @@
   social:
 -
   id: 50
-  name: Shari
-  surname: Walsh
-  pronouns: (she/her)
+  name: "Shari"
+  surname: "Walsh"
+  pronouns: "(she/her)"
   company: ""
-  title: Psychologist and career development practitioner
-  bio: Dr Shari Walsh is an experienced psychologist and career development practitioner who has extensive experience working HDR candidates, supervisors and academics. Shari focusses assisting researchers build and maintain positive psychological wellbeing, effective communication and relationship skills, and career confidence during their research roles and beyond. Feedback from Shari's workshops and webinars indicate that attendees highly value her warm and engaging style, her understanding and insight of issues impacting researchers, her practical approach, and the skills and strategies she offers to facilitate optimal functioning.
+  title: "Psychologist and career development practitioner"
+  bio: "Dr Shari Walsh is an experienced psychologist and career development practitioner who has extensive experience working HDR candidates, supervisors and academics. Shari focusses assisting researchers build and maintain positive psychological wellbeing, effective communication and relationship skills, and career confidence during their research roles and beyond. Feedback from Shari's workshops and webinars indicate that attendees highly value her warm and engaging style, her understanding and insight of issues impacting researchers, her practical approach, and the skills and strategies she offers to facilitate optimal functioning."
   thumbnailUrl: shari_walsh.jpg
   rockstar: false
   ribbon: null
   social: null
 -
   id: 9
-  name: Belinda
-  surname: Weaver
-  pronouns: (she/her)
+  name: "Belinda"
+  surname: "Weaver"
+  pronouns: "(she/her)"
   company:
   title:
-  bio: Belinda Weaver is a science student at The University of Queensland. She collaborated with other Carpentries' instructors to run Software Carpentry workshops in Brisbane from 2015, both standalone and as part of annual Research Bazaar events. She has taught scores of Software Carpentry workshops and a number of instructor trainer workshops. She previously worked as the Community and Communications Lead for Software Carpentry. This lesson is currently being integrated into the Library Carpentry curriculum.
+  bio: "Belinda Weaver is a science student at The University of Queensland. She collaborated with other Carpentries' instructors to run Software Carpentry workshops in Brisbane from 2015, both standalone and as part of annual Research Bazaar events. She has taught scores of Software Carpentry workshops and a number of instructor trainer workshops. She previously worked as the Community and Communications Lead for Software Carpentry. This lesson is currently being integrated into the Library Carpentry curriculum."
   thumbnailUrl: belinda_weaver.jpg
   rockstar: false
   ribbon:
   social:
 -
   id: 23
-  name: Nicholas
-  surname: Wiggins
-  pronouns: (he/him)
-  company: UQ
-  title: Senior Technology Trainer
-  bio: Nicholas is a Technology Trainer at the Univeristy of Queensland Library. He has a background in Archaeology, IT, GIS, Ecology, and Palaeoecology. He currently runs the UQ R User Group, and provides training in R, QGIS, Python, Git, and a variety of other research related software. He is always open to learn more.
+  name: "Nicholas"
+  surname: "Wiggins"
+  pronouns: "(he/him)"
+  company: "UQ"
+  title: "Senior Technology Trainer"
+  bio: "Nicholas is a Technology Trainer at the Univeristy of Queensland Library. He has a background in Archaeology, IT, GIS, Ecology, and Palaeoecology. He currently runs the UQ R User Group, and provides training in R, QGIS, Python, Git, and a variety of other research related software. He is always open to learn more."
   thumbnailUrl: nicholas_wiggins.png
   rockstar: false
   ribbon:
@@ -609,12 +605,12 @@
   social:
 -
   id: 38
-  name: Susan
-  surname: Wilson
+  name: "Susan"
+  surname: "Wilson"
   pronouns:
   company:
-  title: RDM Specialist, UQ Library
-  bio: Susan Wilson is a Librarian and Research Data Management Specialist at the University of Queensland, within the Scholarly Communication and Repository Services team. Susan has been involved in data management since 2013 and is responsible for delivering research support and data management services to researchers, including developing skills to support FAIR data and open research practices.
+  title: "RDM Specialist, UQ Library"
+  bio: "Susan Wilson is a Librarian and Research Data Management Specialist at the University of Queensland, within the Scholarly Communication and Repository Services team. Susan has been involved in data management since 2013 and is responsible for delivering research support and data management services to researchers, including developing skills to support FAIR data and open research practices."
   thumbnailUrl: susan_wilson.jpg
   rockstar: false
   ribbon:
@@ -622,12 +618,12 @@
   social:
 -
   id: 37
-  name: Fei
-  surname: Yu
+  name: "Fei"
+  surname: "Yu"
   pronouns:
-  company: UQ
-  title: Library Project Coordinator, UQ Library
-  bio: Mrs Fei Yu is a Research Data Management Specialist in Research Data Services team, UQ Library. She has extensive experience in assisting academics and students in finding and using information in many subject areas. In 2011 she joined Scholarly Communication and Repository Service team working in bibliometrics and then later on in research data management area. She has been providing training and support to research community on how to best practice managing research data and conducting responsible research in accordance with FAIR and CARE principles.
+  company: "UQ"
+  title: "Library Project Coordinator, UQ Library"
+  bio: "Mrs Fei Yu is a Research Data Management Specialist in Research Data Services team, UQ Library. She has extensive experience in assisting academics and students in finding and using information in many subject areas. In 2011 she joined Scholarly Communication and Repository Service team working in bibliometrics and then later on in research data management area. She has been providing training and support to research community on how to best practice managing research data and conducting responsible research in accordance with FAIR and CARE principles."
   thumbnailUrl: Yu_Fei.jpg
   rockstar: false
   ribbon:
@@ -635,12 +631,12 @@
   social:
 -
   id: 35
-  name: Min
-  surname: Zhao
+  name: "Min"
+  surname: "Zhao"
   pronouns:
   company:
-  title: Senior Research Fellow, Bioinformatics and Genomics
-  bio: Dr. Min Zhao has about 20 years of experience in the field of bioinformatics and genomics. His research focuses on the investigation of regulatory machines in aquatic genomes and disease genomes. In addition to 4 review manuscripts, he has published 90 research papers in peer-reviewed international journals including 50 first and corresponding author papers in total. In total, his papers have been cited over 4000+ times (H-index 31). About 50% of his publications are presented in the top 10% most cited papers worldwide in Scopus database. Additionally, ten of his manuscripts have been published in very high profile journals (top 5%; including Nature, Nature communication, cell research, American Journal of Respiratory and Critical Care Medicine, Nucleic Acids Research, Molecular ecology resource). The research articles include author contributions from a diversity of institutions/universities external from USC and International (primarily USA, Japan, China, and Thailand). He currently leads as Chief Investigator 1 ARC Discovery Projects (with USC as administering organisation), and is co-contributor for Reef2050 grant.
+  title: "Senior Research Fellow, Bioinformatics and Genomics"
+  bio: "Dr. Min Zhao has about 20 years of experience in the field of bioinformatics and genomics. His research focuses on the investigation of regulatory machines in aquatic genomes and disease genomes. In addition to 4 review manuscripts, he has published 90 research papers in peer-reviewed international journals including 50 first and corresponding author papers in total. In total, his papers have been cited over 4000+ times (H-index 31). About 50% of his publications are presented in the top 10% most cited papers worldwide in Scopus database. Additionally, ten of his manuscripts have been published in very high profile journals (top 5%; including Nature, Nature communication, cell research, American Journal of Respiratory and Critical Care Medicine, Nucleic Acids Research, Molecular ecology resource). The research articles include author contributions from a diversity of institutions/universities external from USC and International (primarily USA, Japan, China, and Thailand). He currently leads as Chief Investigator 1 ARC Discovery Projects (with USC as administering organisation), and is co-contributor for Reef2050 grant."
   thumbnailUrl: MinZhao.jpg
   rockstar: false
   ribbon:
@@ -648,12 +644,12 @@
   social:
 -
   id: 42
-  name: Alex
-  surname: de Sá
+  name: "Alex"
+  surname: "de Sá"
   pronouns:
-  company: UQ
-  title: Postdoctoral researcher at the Computational Biology and Clinical Informatics
-  bio: 'Alex holds a PhD, in 2019, in Computer Science from the Federal University of Minas Gerais (UFMG), Brazil. He is a postdoctoral researcher at the Computational Biology and Clinical Informatics laboratory at the Baker Heart and Diabetes Institute, with an honorary fellowship at the University of Queensland. His research is centered on bio(chem)informatics, health informatics and automated machine learning (AutoML). Particularly, he is interested in automating data science, i.e., employing optimisation methods to select proper machine learning algorithms and models for any dataset of interest. Currently, he is employing this knowledge in chemical, medical and biological data. (Twitter/LinkedIn: @alexgcsa).'
+  company: "UQ"
+  title: "Postdoctoral researcher at the Computational Biology and Clinical Informatics"
+  bio: "Alex holds a PhD, in 2019, in Computer Science from the Federal University of Minas Gerais (UFMG), Brazil. He is a postdoctoral researcher at the Computational Biology and Clinical Informatics laboratory at the Baker Heart and Diabetes Institute, with an honorary fellowship at the University of Queensland. His research is centered on bio(chem)informatics, health informatics and automated machine learning (AutoML). Particularly, he is interested in automating data science, i.e., employing optimisation methods to select proper machine learning algorithms and models for any dataset of interest. Currently, he is employing this knowledge in chemical, medical and biological data. (Twitter/LinkedIn: @alexgcsa)."
   thumbnailUrl: Alex-De-Sa.jpg
   rockstar: false
   ribbon:
