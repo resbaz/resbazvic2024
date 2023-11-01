@@ -19,7 +19,7 @@
   hidden: false
   description: <p>This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc.</p><p>The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more.</p><p>Topics covered include:</p><ul><li>Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files)</li><li>Merging channels, and dealing with multiple channel images</li><li>Adjusting Brightness & Contrast and using histograms</li><li>Adding scale to images & adding scale bars</li><li>Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views)</li><li>Basic Measurements (Area, Intensity, Shape descriptors, Line Scans)</li><li>Creating Selections (Manually and Automatically)</li><li>Brief introduction to Machine Learning tools available in FIJI</li></ul>
 -
-  title: Web archiving for data collection 2Ha
+  title: Web archiving for data collection
   stream: Internet Content and AI
   themes: "3"
   id: 93
