@@ -484,7 +484,7 @@
   surname: Yu
   pronouns:
   company: UQ
-  title: Library Project Coordinator
+  title: Library Project Coordinator, UQ Library
   bio: Mrs Fei Yu is a Research Data Management Specialist in Research Data Services team, UQ Library. She has extensive experience in assisting academics and students in finding and using information in many subject areas. In 2011 she joined Scholarly Communication and Repository Service team working in bibliometrics and then later on in research data management area. She has been providing training and support to research community on how to best practice managing research data and conducting responsible research in accordance with FAIR and CARE principles.
   thumbnailUrl: Yu_Fei.jpg
   rockstar: false
@@ -497,11 +497,12 @@
   surname: Wilson
   pronouns:
   company:
-  title: RDM Specialist
-  bio:
+  title: RDM Specialist, UQ Library
+  bio: Susan Wilson is a Librarian and Research Data Management Specialist at the University of Queensland, within the Scholarly Communication and Repository Services team. Susan has been involved in data management since 2013 and is responsible for delivering research support and data management services to researchers, including developing skills to support FAIR data and open research practices.
   thumbnailUrl: susan_wilson.jpg
   rockstar: false
   ribbon:
+    - {abbr: "UQL", title: "UQ Library", url: "https://web.library.uq.edu.au/"}
   social:
 -
   id: 39
