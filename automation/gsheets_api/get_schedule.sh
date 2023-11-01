@@ -44,17 +44,20 @@ if [[ $sheet_interval -gt 30 ]]; then
 export $(cat .spreadsheet_info | xargs) && curl -H "Authorization: Bearer $ACCESS_TOKEN" \
 	-o "raw_sessions.json" \
 	"https://sheets.googleapis.com/v4/spreadsheets/$SPREADSHEET_ID/values/$RANGE1"
-  jq -r '.values' raw_sessions.json | bash yq1_sessions.yq > ../../_data/sessions.yml
 # request speakers
 export $(cat .spreadsheet_info | xargs) && curl -H "Authorization: Bearer $ACCESS_TOKEN" \
 	-o "raw_speakers.json" \
 	"https://sheets.googleapis.com/v4/spreadsheets/$SPREADSHEET_ID/values/$RANGE2"
-  jq -r '.values' raw_speakers.json | bash yq2_speakers.yq > ../../_data/speakers.yml
   sheet_time=$time_now
 else
   echo "Not updating from spreadsheet ($sheet_interval s since last update)"
   sheet_time=$last_sheet_time  
 fi
+
+# always run jq and yq to rapidly iterate post-processors
+
+jq -r '.values' raw_sessions.json | bash yq1_sessions.yq > ../../_data/sessions.yml
+jq -r '.values' raw_speakers.json | bash yq2_speakers.yq > ../../_data/speakers.yml
 
 echo "Last-token-request-time: $(date --date '@'$token_time)" > $STAMPFILE
 echo "Last-sheet-update-time: $(date --date '@'$sheet_time)" >> $STAMPFILE
