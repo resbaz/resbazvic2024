@@ -1,5 +1,5 @@
 -
-  title: Introduction to image analysis with FIJI (1)
+  title: Introduction to image analysis with FIJI
   stream: Research Computing
   themes: "6"
   id: 46
@@ -16,7 +16,7 @@
   speakers: [7]
   subtype: Workshop
   service:
-  hidden: false
+  hidden: true
   description: <p>This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc.</p><p>The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more.</p><p>Topics covered include:</p><ul><li>Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files)</li><li>Merging channels, and dealing with multiple channel images</li><li>Adjusting Brightness & Contrast and using histograms</li><li>Adding scale to images & adding scale bars</li><li>Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views)</li><li>Basic Measurements (Area, Intensity, Shape descriptors, Line Scans)</li><li>Creating Selections (Manually and Automatically)</li><li>Brief introduction to Machine Learning tools available in FIJI</li></ul>
 -
   title: Web archiving for data collection
@@ -241,7 +241,7 @@
   hidden: false
   description: <p>The area of quantum machine learning is advancing at a rapid pace. This workshop is designed to introduce quantum computing and quantum machine learning to researchers new to this cutting-edge area. This hands-on workshop will start by introducing support vector classifiers from a classical machine learning perspective and then show how quantum algorithms can be used to enhance their performance. At the end of the workshop, the attendees will have a basic understanding of quantum algorithms using IBM Quantum computers and will have run algorithms to improve the performance of classical support vector classifiers using quantum kernels.</p>
 -
-  title: 'Programming with Python 1: Variables, files and plots'
+  title: Introductory Programming with Python
   stream: Python and Panels
   themes: "1"
   id: 11
@@ -249,7 +249,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: <p>This three-session workshop gives a basic introduction to programming with the Python language -- people with no prior programming experience especially welcome! Participants will get hands-on experience writing a Python notebook to automate some common data analysis tasks. The three sessions will cover how to:</p><ol><li>start using Python and import data tables from text files</li><li>create plots to visualize data, and use lists and loops to repeat actions</li><li>write logical tests and custom functions for more powerful code</li></ol><p>Ideally participants should install Python on their own computers, but browser-based access will be provided as an option. Installation details will be provided soon. The workshop will be based on the Software Carpentry course <a href="https://swcarpentry.github.io/python-novice-inflammation/">Programming with Python</a>.</p>
 -
   title: 'Programming with Python 2: lists and loops'
   stream: Python and Panels
@@ -258,7 +258,7 @@
   speakers: [36]
   subtype: Workshop
   service:
-  hidden: false
+  hidden: true
   description: null
 -
   title: 'Programming with Python 3: flow control and functions'
@@ -268,7 +268,7 @@
   speakers: [36]
   subtype: Workshop
   service:
-  hidden: false
+  hidden: true
   description: null
 -
   title: FAIR/CARE panel
