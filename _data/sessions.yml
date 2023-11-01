@@ -40,9 +40,9 @@
   description: <p>Do you find your wellbeing gets compromised during the hurly burly research process? How do you look after yourself when you are busy and have multiple demands?</p><p>This session focusses on strategies which can boost and maintain your wellbeing in the long term.</p><p>Content includes:</p><ul><li>Small daily wellbeing actions</li><li>Research management and boundary setting</li><li>Building support networks</li></ul>
 -
   title: Collecting and analysing YouTube data 
-  stream: Internet Content and AI
-  themes: "3"
-  id: 53
+  stream: Data Literacy, Openness and Frontiers
+  themes: "4"
+  id: 94
   speakers: [15, 13, 14]
   subtype: Workshop
   service:
@@ -352,9 +352,9 @@
   description: null
 -
   title: Network know-how & data handling
-  stream: Data Literacy, Openness and Frontiers
-  themes: "4"
-  id: 94
+  stream: Internet Content and AI
+  themes: "3"
+  id: 53
   speakers: [10]
   subtype: Workshop
   service:
@@ -569,7 +569,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: <p>Rather than technical upskilling, this workshop focuses on transferable skills that compliment research (as well other areas). We will be examining failure, personal strengths and personal values, both in a general context and by way of self examination. There will be a 15-minute Q&A at the end where participants can ask about any transferable (often called 'soft') skills.</p>
+  description: <p>Rather than technical upskilling, this workshop focuses on transferable skills that complement research (as well other areas). We will be examining failure, personal strengths and personal values, both in a general context and by way of self examination. There will be a 15-minute Q&A at the end where participants can ask about any transferable (often called 'soft') skills.</p>
 -
   title: 'UQRUG presents: Cool but useless'
   stream: Research Computing
