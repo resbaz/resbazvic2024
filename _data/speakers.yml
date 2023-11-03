@@ -84,6 +84,19 @@
     - {abbr: "Sci Comms", title: "Science Communicator: jackwang.com.au", url: "https://jackwang.com.au"}
   social:
 -
+  id: 54
+  name: Damian
+  surname: Almeida
+  pronouns: (he/him)
+  company: Gale
+  title: Training and Digital Communications Executive
+  bio: Damian Almeida is a Training and Digital Communications Executive at Gale, based in Melbourne, Australia and is responsible for assisting Gale’s Australian, New Zealand and Southeast Asia customers with any training that is required on the Gale product line and is also responsible for The Gale Digital Scholar Lab in the Australian and New Zealand region. He has been with Cengage for over 15years working in sales and production roles prior to joining Gale as a dedicated Trainer.
+  thumbnailUrl: damian_almeida.png
+  rockstar: false
+  ribbon:
+    - {abbr: "Gale", title: "Gale", url: "https://www.gale.com/intl"}
+  social: null
+-
   id: 17
   name: Betsy
   surname: Alpert
@@ -162,17 +175,30 @@
     - {abbr: "Skills Development, QCIF", title: "Skills Development, QCIF", url: "https://www.qcif.edu.au/skills-development/"}
   social:
 -
+  id: 53
+  name: Emilia
+  surname: Decker
+  pronouns: (she/her)
+  company: Griffith
+  title: eResearch Analyst
+  bio: Emilia has completed her PhD at Griffith University in environmental science and ecoacoustics. Now part of the Griffith University eResearch and Specialised Advisory team, Emilia is passionate about research, science communication and everything related to data. 
+  thumbnailUrl: EmiliaDecker.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "Griffith", title: "eResearch & Specialised Advisory, Griffith University", url: "https://www.griffith.edu.au/eresearch-services"}
+  social: null
+-
   id: 39
   name: Adam
   surname: Ewing
-  pronouns:
-  company:
-  title: Translational Bioinformatics Group Lead
-  bio:
-  thumbnailUrl: adam_ewing.jpg
+  pronouns: (he/him)
+  company: UQ
+  title: Group Leader, Translational Bioinformatics
+  bio: 'A/Prof Adam Ewing leads the Translational Bioinformatics group at Mater Research Institute - University of Queensland. His group develops and applies software tools backed by laboratory expertise to better understand the genome, transcriptome, and epigenome in a broad range of contexts. '
+  thumbnailUrl: adam-ewing.jpg
   rockstar: false
   ribbon:
-    - {abbr: "UQ", title: "Mater Research Institute, UQ", url: "https://imos.org.au/facilities/aodn/"}
+    - {abbr: "MRI-UQ", title: "Mater Research Institute-UQ", url: "https://www.materresearch.org.au/"}
   social:
 -
   id: 45
@@ -500,7 +526,7 @@
   thumbnailUrl: SharronStapleton.jpg
   rockstar: false
   ribbon:
-    - {abbr: "Griffith", title: "Griffith Library", url: "https://www.griffith.edu.au/library"}
+    - {abbr: "QUT", title: "QUT Library", url: "https://www.library.qut.edu.au/"}
   social:
 -
   id: 44
@@ -659,3 +685,27 @@
   ribbon:
     - {abbr: "Baker Institute", title: "Baker Heart and Diabetes Institute, Melbourne", url: "https://www.baker.edu.au/"}
   social:
+-
+  id: 52
+  name: Karen
+  surname: Cavu (she/her)
+  pronouns: (he/him)
+  company: null
+  title: null
+  bio: null
+  thumbnailUrl: null
+  rockstar: null
+  ribbon: null
+  social: null
+-
+  id: 51
+  name: Anthony
+  surname: Kimpton
+  pronouns: (he/him)
+  company: null
+  title: null
+  bio: null
+  thumbnailUrl: null
+  rockstar: null
+  ribbon: null
+  social: null
