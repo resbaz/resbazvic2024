@@ -20,7 +20,6 @@ registration confirmation email.
 
 | Workshop | Date  | Time|  Link |
 | --- | --- | --- |--- |
-|Introductory Programming with Python | 	Tue 21 Nov &nbsp; | 9:00 am	 |  [Book 
-a place](https://events.humanitix.com/session-1-tuesday-9-00-10-30)|
+|Introductory Programming with Python | 	Tue 21 Nov &nbsp; | 9:00 am	 |  [Book a place](https://events.humanitix.com/session-1-tuesday-9-00-10-30)|
 Programming with Python | 	Tue 21 Nov &nbsp; | 
 11:00 am	 |  [Book a place](https://events.humanitix.com/session-1-tuesday-11-00-12-30)|
