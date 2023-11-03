@@ -207,7 +207,21 @@
   subtype: Workshop
   service:
   hidden: false
-  description: null
+  description: "The study of phylogeny provides insights into the evolutionary relationships between organisms, and the construction of phylogenetic trees 
+is a 
+fundamental tool in this field. This workshop introduces the concepts of phylogeny, gene orthologues, the OrthoFinder software, and the usage of the 
+Interactive Tree of Life (iTOL) for visualizing and annotating these trees. Phylogeny is the exploration of the evolutionary history and relatedness of 
+different species or genes. Gene orthologues, which have evolved from a common ancestral gene and are present across species, can be identified using 
+OrthoFinder. This widely-used software employs sequence similarity and gene presence/absence patterns to infer orthology relationships, enabling 
+comprehensive analyses. To run OrthoFinder, a set of protein sequence FASTA files from multiple species is required. This software can be installed in 
+remote Linux server or accessed through web-based platforms. By following a few simple commands under Linux command line environments, OrthoFinder 
+analyzes the data and generates useful outputs, including gene trees, species trees, and orthogroup information. Both gene trees and species trees can be 
+inferred using OrthoFinder. Gene trees provide insights into the evolutionary relationships between orthologous genes, while species trees depict the 
+relationships between species, which could be visualized by the Interactive Tree of Life (iTOL). As an intuitive web-based tool used for visualizing 
+phylogenetic trees, iTOL allows users to upload tree files and customize their appearance with various features such as color schemes, branch styles, and 
+labels. This enhances the interpretation and presentation of phylogenetic relationships, making complex information more accessible. The combination of 
+these tools opens up new avenues in evolutionary biology research, allowing for a comprehensive understanding of the complex patterns that underlie the 
+saga of life."
 -
   title: 'Programming with Python 2: lists and loops'
   stream: Python and Panels
