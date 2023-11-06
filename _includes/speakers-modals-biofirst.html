@@ -45,6 +45,7 @@
 						</div>
 						{% if site.showSessions %}
 							{% for session in site.data.sessions %}
+							{% if session.hidden == false %}
 								{% for session_speaker in session.speakers %}
 									{% if session_speaker == speaker.id %}
 										<h4>{{ session.title }}</h4>
@@ -65,6 +66,7 @@
 										{% endif %}
 									{% endif %}
 								{% endfor %}		
+							{% endif %}
 							{% endfor %}
 							<hr>
 						{% endif %}
