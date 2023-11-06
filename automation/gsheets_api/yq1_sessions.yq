@@ -1,3 +1,4 @@
+o=$(cat followon.yml)
 yq -oy -P '.[] |= array_to_map' $1 | \
 yq -oy '(.[].0 | key) = "title" | 
         (.[].4 | key) = "id" | 
@@ -7,7 +8,8 @@ yq -oy '(.[].0 | key) = "title" |
         (.[].8 | key) = "hidden" |
         (.[].9 | key) = "description" |
         (.[].2 | key) = "themes" | del(.[].1) |
-        del(.[].3) | del( .[] | select(.title == "") ) | sort_by(.themes, .title)' | \
+        del(.[].3) | del( .[] | select(.title == "") ) | 
+        sort_by(.themes, .title)' |
 sed 's/^  id: "\(.*\)"/  id: \1/' | \
 sed 's/^  themes: "\(.*\)"/  themes: [\1]/' | \
 sed 's/^  themes: \([0-9].*[0-9]$\)/  themes: [\1]/' | \
