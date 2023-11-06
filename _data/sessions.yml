@@ -208,14 +208,14 @@
   description: ""
   10: "1"
 -
-  title: Introducing computational thinking 
+  title: 'Introducing computational thinking AND Research infrastructure: The secret third thing'
   themes: [1, 2]
   id: 31
-  speakers: [9]
+  speakers: [9, 10, 55]
   subtype: Workshop
   service:
   hidden: false
-  description: <p>This workshop introduces computational thinking as a precursor to learning how to write code in programming languages like R or Python. It will cover the steps involved in breaking down complex problems into computable chunks.</p>
+  description: '<p>Two one-hour workshops in one slot!</p><p><b>Introducing computational thinking:</b> This 1 hour workshop introduces computational thinking as a precursor to learning how to write code in programming languages like R or Python. It will cover the steps involved in breaking down complex problems into computable chunks.</p><p><b>Research infrastructure: the third thing</b> Research infrastructure -- the facilities, resources or services that foster and facilitate innovation -- is the invisible foundation underpinning moden research. As an HDR student or ECR -- are you aware of research infrastructure at your institution? What services, resources, and facilities can you access as an HDR? Even more importantly, could you turn research infrastructure into a career?</p><p>This two-part workshop will help you answer these questions, and provide information about the secret third career option: not research, not professional, but an excellent option for HDRs across many fields. Firstly, participants will discover (for themselves!) information about their own institutions: what services/training exist, where it’s advertised, how the institution handles RI, and who manages it. Then we will present success stories of people moving from research fields into RI, and help the participants consider if an RI career is right for them.</p>'
   10: "1"
 -
   title: Introduction to Jupyter Notebooks 
@@ -502,7 +502,7 @@
 -
   title: Boosting your wellbeing
   themes: [5]
-  id: 84
+  id: 85
   speakers: [50]
   subtype: Workshop
   service:
@@ -679,12 +679,3 @@
   hidden: false
   description: <p>Learn more about how you use the ARDC Nectar Cloud to improve your research! A walkthrough will be provided of the different services available & their benefits:</p><ul><li>Virtual Desktop Service</li><li>National GPU/large memory service</li><li>BinderHub</li><li>JupyterHub Service</li><li>Nectar Cloud Dashboard</li></ul>
   10: "6"
--
-  title: 
-  themes: []
-  id: 106
-  speakers: [55]
-  subtype: Workshop
-  hidden: false
-  description:
-

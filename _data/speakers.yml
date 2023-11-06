@@ -136,6 +136,18 @@
     - {abbr: "Griffith", title: "Australian Rivers Institute, Griffith University", url: "https://www.griffith.edu.au/australian-rivers-institute"}
   social:
 -
+  id: 52
+  name: Karen
+  surname: Cavu
+  pronouns: (she/her)
+  company: QUT
+  title: HDR Career Educator
+  bio: <p>Karen is a highly experienced educator, sessional academic with QUT online, online moderator with the eGrad School, and careers educator with over 15 years' experience in higher education program design and delivery at numerous Australian institutions. Currently studying an MPhil, she holds a master's degree in educational leadership, and post-graduate qualifications in both Career Development and Human Resource Management. She is a Fellow of the Higher Education Academy, and a Professional Member of the National Association of Graduate Careers Advisory Services.</p><p>Adding more than a decade spent working in outsourced human resource consulting, recruitment, and training roles, Karen understands the changing world of work across both academia and industry. As a certified leadership coach, she specializes in the provision of careers, peer-to-peer and executive leadership coaching for clients such as the Victorian Government's Digital Jobs Program, Hudson Global, Singapore University, NetExpat, and helloMonday.</p>
+  thumbnailUrl: karen-cavu.jpg
+  rockstar: false
+  ribbon: null
+  social: null
+-
   id: 7
   name: Nicholas
   surname: Condon
@@ -330,6 +342,19 @@
   ribbon: '    - {abbr: "School of Earth and Atmospheric Sciences, QUT", title: "School of Earth and Atmosphereic Sciences, QUT", url: "https://www.qut.edu.au/about/faculty-of-science/school-of-earth-and-atmospheric-sciences"}'
   social:
 -
+  id: 51
+  name: Anthony
+  surname: Kimpton
+  pronouns: (he/him)
+  company: UniSQ
+  title: Urban Planning Lecturer
+  bio: Anthony is a quantitative land use and transport planner, and former senior data scientist at the Australian Bureau of Statistics and web application developer for the Australian Transport Research Cloud. His overarching research objectives are to improve the sustainability of communities, cities, and regions through smart, evidence-based land use and transport development and design. He knows very little about rasters but knows his way around points, networks, polygons, big data, and spatial modelling. He is happiest when he can work solely with R, rMarkdown, Shiny, and Docker for microservices, and developing PlanTech that lowers the quantitative expertise barrier in planning and that supports fair and sustainable urban and regional development.
+  thumbnailUrl: anthony-kimpton.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "UniSQ", title: "UniSQ School of Surveying and Built Environment", url: "https://www.unisq.edu.au/about-unisq/schools-sections/academic-affairs/school-of-surveying-and-built-environment"}
+  social: null
+-
   id: 10
   name: Sara
   surname: King
@@ -468,7 +493,7 @@
   name: Senn
   surname: Oon
   pronouns:
-  company:
+  company: QUT
   title: Research Assistant
   bio: Senn Oon (they/them) is studying a Master of Information Science (Extended) at Curtin University with the ultimate aim of becoming a university librarian. By day, you can find them assisting in QCIF's coding workshops and thinking about data management. By night, you can find them making games and cuddling cats.
   thumbnailUrl: senn_oon.jpg
@@ -546,7 +571,7 @@
   name: Boyd
   surname: Tarlinton
   pronouns: (he/him)
-  company: ""
+  company: DAF Qld
   title: Senior Data Analyst
   bio: Boyd Tarlinton is a Senior Data Analyst in the Supply Chain Innovation team at the Department of Agriculture and Fisheries (Queensland). Boyd has wide-ranging experience in the analysis of biological data, and a passion for reproducible research.
   thumbnailUrl: boyd-tarlinton.jpg
@@ -559,12 +584,9 @@
   name: Shern
   surname: Tee
   pronouns:
-  company:
+  company: Griffith
   title: Lecturer at Griffith University
-  bio: |-
-    I am a physicist and coder who specializes in all molecular dynamics simulations weird and unusual. I currently focus on developing new theoretical methods in constant potential molecular dynamics and nonequilibrium molecular dynamics, together with implementations in LAMMPS using C++.
-
-    I am also a passionate Research Software Engineer. Current academic pathways provide little recognition or progression for the work RSEs, like myself, put into developing open source software and making it accessible to the wider research community. I hope to somehow help to change that! I’ve joined the RSE Association of Australia and New Zealand and I’m keeping an eye out for opportunities to contribute.
+  bio: Shern Tee is a lecturer at Griffith University who pretends to research molecular dynamics for materials science while secretly infecting his colleagues, students, and fellow academics with the love of experimentation, data management, shell scripting, and jazz. He works hard at helping academics to first adopt Python as much as they can, and then avoid Python as much as they can. (If that doesn't make sense, ask him in person at ResBaz!)
   thumbnailUrl: Shern_Tee.jpg
   rockstar: false
   ribbon:
@@ -575,7 +597,7 @@
   name: David
   surname: Tuffley
   pronouns:
-  company:
+  company: UQ
   title: Senior Lecturer, School of Information and Communication Technology
   bio: David is a Senior Lecturer in Applied Ethics and CyberSecurity at Griffith University's School of Information & Communication Technology. David's research focus is on the social impact of technology, with particular interest in how Artificial Intelligence will affect the world of employment in the coming years. How can people leverage the power of AI to prosper in a changing employment environment.  He has published widely in the mainstream media on these topics and is a sought-after "techsplainer" on national radio/TV with a regular segment on ABC Radio Brisbane/Queensland. Since 2005, his global audience reach will be in excess of a hundred million including publications in The Conversation and republished in newspapers like the Washington Post and Chicago Tribune. His work has been translated into German, Chinese, Indonesian and Japanese.
   thumbnailUrl: david_tuffley.jpg
@@ -638,7 +660,7 @@
   name: Susan
   surname: Wilson
   pronouns:
-  company:
+  company: UQ
   title: RDM Specialist, UQ Library
   bio: Susan Wilson is a Librarian and Research Data Management Specialist at the University of Queensland, within the Scholarly Communication and Repository Services team. Susan has been involved in data management since 2013 and is responsible for delivering research support and data management services to researchers, including developing skills to support FAIR data and open research practices.
   thumbnailUrl: susan_wilson.jpg
@@ -685,39 +707,3 @@
   ribbon:
     - {abbr: "Baker Institute", title: "Baker Heart and Diabetes Institute, Melbourne", url: "https://www.baker.edu.au/"}
   social:
--
-  id: 52
-  name: Karen
-  surname: Cavu
-  pronouns: (she/her)
-  company: null
-  title: null
-  bio: null
-  thumbnailUrl: null
-  rockstar: null
-  ribbon: null
-  social: null
--
-  id: 51
-  name: Anthony
-  surname: Kimpton
-  pronouns: (he/him)
-  company: null
-  title: null
-  bio: null
-  thumbnailUrl: null
-  rockstar: null
-  ribbon: null
-  social: null
--
-  id: 55
-  name: Eve
-  surname: Ansell
-  company: QCIF
-  title: null
-  bio: null
-  thumbnailUrl: null
-  rockstar: null
-  ribbon: null
-  social: null
-
