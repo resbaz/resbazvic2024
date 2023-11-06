@@ -17,13 +17,14 @@ the links below to go to the relevant booking pages. You will need to have your 
 order number** handy when booking - this is just below the QR code in your ResBaz
 registration confirmation email.
 
-### VERY IMPORTANT
+**VERY IMPORTANT**  
 Three of the workshops (Introductory Programming with Python, R for scientific analysis, 
 and Introduction to image analysis with FIJI) run over multiple sessions, and you are 
 expected to attend all sessions if you register for these subjects. You only need to 
 register for the first session, but that booking will apply to all sessions. **DO NOT** 
 book for other workshops at the same times.
 
+&nbsp;
 
 | Session | Workshop |&nbsp; &nbsp; Date  |&nbsp; &nbsp; Time|&nbsp; &nbsp;  Link |
 | --- | --- | --- | --- |--- |
