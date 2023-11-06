@@ -26,7 +26,7 @@ book for other workshops at the same times.
 
 &nbsp;
 
-| `Session   `| Workshop | Date  | Time| Link |
+| Session   | Workshop | Date  | Time| Link |
 | --- | --- | --- | --- |--- |
 |   |   |  |   |
 | _Session 1_ |Programming with Python<br>R for scientific analysis<br>Helping HASS students answer the question: Do you need the digital in your research?<br>Evaluating AI apps for your literature reviews<br>Dealing with impostor syndrome: You are not alone<br>Your research toolkit in the cloud | Tue 21 Nov  | 9:00 am	 |  [Book a place](https://events.humanitix.com/session-1-tuesday-9-00-10-30)|
