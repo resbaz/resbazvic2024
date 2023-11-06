@@ -707,3 +707,14 @@
   ribbon:
     - {abbr: "Baker Institute", title: "Baker Heart and Diabetes Institute, Melbourne", url: "https://www.baker.edu.au/"}
   social:
+-
+  id: 55
+  name: Eve
+  surname: Ansell
+  company: QCIF
+  title: 
+  bio: 
+  thumbnailUrl: eve-ansell.jpeg
+  rockstar: false
+  ribbon:
+  social:
