@@ -17,15 +17,6 @@
   hidden: true
   description: null
 -
-  title:
-  themes: []
-  id: 
-  speakers: []
-  subtype: ""
-  service: ""
-  hidden: true
-  description: null
--
   title: Afternoon tea
   themes: []
   id: 105
@@ -97,6 +88,15 @@
   service: true
   hidden: true
   description: null
+-
+  title: 'Research infrastructure: The secret third thing'
+  themes: []
+  id: 2001
+  speakers: [10, 55]
+  subtype: Workshop
+  service:
+  hidden: false
+  description: '<p>Research infrastructure -- the facilities, resources or services that foster and facilitate innovation -- is the invisible foundation underpinning moden research. As an HDR student or ECR -- are you aware of research infrastructure at your institution? What services, resources, and facilities can you access as an HDR? Even more importantly, could you turn research infrastructure into a career?</p><p>This two-part workshop will help you answer these questions, and provide information about the secret third career option: not research, not professional, but an excellent option for HDRs across many fields. Firstly, participants will discover (for themselves!) information about their own institutions: what services/training exist, where it’s advertised, how the institution handles RI, and who manages it. Then we will present success stories of people moving from research fields into RI, and help the participants consider if an RI career is right for them.</p>'
 -
   title: Ethical AI panel
   themes: '#N/A'
@@ -208,15 +208,21 @@
   description: ""
   10: "1"
 -
-  title: 'Introducing computational thinking AND Research infrastructure: The secret third thing'
+  title: Introducing computational thinking
   themes: [1, 2]
   id: 31
-  speakers: [9, 10, 55]
+  speakers: [9]
   subtype: Workshop
   service:
   hidden: false
-  description: '<p>Two one-hour workshops in one slot!</p><p><b>Introducing computational thinking:</b> This 1 hour workshop introduces computational thinking as a precursor to learning how to write code in programming languages like R or Python. It will cover the steps involved in breaking down complex problems into computable chunks.</p><p><b>Research infrastructure: the third thing</b> Research infrastructure -- the facilities, resources or services that foster and facilitate innovation -- is the invisible foundation underpinning moden research. As an HDR student or ECR -- are you aware of research infrastructure at your institution? What services, resources, and facilities can you access as an HDR? Even more importantly, could you turn research infrastructure into a career?</p><p>This two-part workshop will help you answer these questions, and provide information about the secret third career option: not research, not professional, but an excellent option for HDRs across many fields. Firstly, participants will discover (for themselves!) information about their own institutions: what services/training exist, where it’s advertised, how the institution handles RI, and who manages it. Then we will present success stories of people moving from research fields into RI, and help the participants consider if an RI career is right for them.</p>'
+  description: <p>This workshop introduces computational thinking as a precursor to learning how to write code in programming languages like R or Python. It will cover the steps involved in breaking down complex problems into computable chunks.</p>
   10: "1"
+  followon:
+    title: 'Research infrastructure: The secret third thing (1hr)'
+    themes: [6]
+    speakers: [10, 55]
+    subtype: Workshop
+    description: '<p>Research infrastructure -- the facilities, resources or services that foster and facilitate innovation -- is the invisible foundation underpinning moden research. As an HDR student or ECR -- are you aware of research infrastructure at your institution? What services, resources, and facilities can you access as an HDR? Even more importantly, could you turn research infrastructure into a career?</p><p>This two-part workshop will help you answer these questions, and provide information about the secret third career option: not research, not professional, but an excellent option for HDRs across many fields. Firstly, participants will discover (for themselves!) information about their own institutions: what services/training exist, where it’s advertised, how the institution handles RI, and who manages it. Then we will present success stories of people moving from research fields into RI, and help the participants consider if an RI career is right for them.</p>'
 -
   title: Introduction to Jupyter Notebooks 
   themes: [1, 2]

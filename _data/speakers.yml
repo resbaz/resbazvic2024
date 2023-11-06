@@ -110,6 +110,18 @@
     - {abbr: "DO", title: "Digital Observatory", url: "https://www.digitalobservatory.net.au/"}
   social:
 -
+  id: 55
+  name: Eve
+  surname: Ansell
+  pronouns: (she/her)
+  company: QCIF
+  title: Business Support Manager
+  bio: ""
+  thumbnailUrl: eve-ansell.jpg
+  rockstar: false
+  ribbon: null
+  social: null
+-
   id: 14
   name: Mat
   surname: Bettinson

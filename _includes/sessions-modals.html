@@ -77,6 +77,74 @@
 								{% endfor %}
 							{% endfor %}
 						</div>
+						{% if session.followon != null %}
+						<h4>{{ session.followon.title }}</h4>
+						{% if session.followon.subtype != null %}
+						<span class="theme-metadata">{{ session.followon.subtype }}</span>
+						{% endif %}
+						{% if session.followon.language != null %}
+						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.followon.language }}</span>
+						{% endif %}
+						{% if session.followon.complexity != null %}
+						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.followon.complexity }}</span>
+						{% endif %}
+						{% if session.followon.length != null %}
+						<span class="theme-metadata"><span class="caption">Length: </span>{{ session.followon.length }}</span>
+						{% endif %}
+						{% if session.followon.capacity != null %}
+						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.followon.capacity }}</span>
+						{% endif %}
+						{% if session.followon.registration_link != null %}
+						<span class="theme-metadata"><a href="{{ session.followon.registration_link }}">Registration link</a></span>
+						{% endif %}
+						{% if session.followon.video %}
+						<div class="theme-video embed-responsive embed-responsive-16by9">
+						    <iframe class="embed-responsive-item" src="{{ session.followon.video }}"></iframe>
+						</div>
+						{% endif %}
+						<p class="theme-description">{{ session.followon.description }}</p>
+						{% if session.followon.presentation %}
+						<a class="theme-presentation" href="{{ session.followon.presentation }}" title="Presentation" target="_blank">View materials</a>
+						{% endif %}
+						<hr>
+						<div class="people-details">
+							{% for session_speaker in session.followon.speakers %}
+								{% for speaker in site.data.speakers %}
+									{% if session_speaker == speaker.id %}
+									<div class="row">
+										<div class="col-md-2 col-sm-2">
+											<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+										</div>
+										<div class="col-md-10 col-sm-10 details">
+											<p class="name">{{ speaker.name }} {{ speaker.surname }}
+												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+											</p>
+											{% if speaker.ribbon != null %}
+											<div class="modal-ribbon-wrapper">
+					                            {% for ribbon in speaker.ribbon %}
+					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+					                            {% endfor %}
+					                        </div>
+					                        {% endif %}
+											<p class="about">{{ speaker.bio }}</p>
+											<ul class="social">
+												{% for social in speaker.social %}
+													<li>
+														<a href="{{ social["link"] }}" target="_blank">
+															<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+																<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+															</svg>
+														</a>
+													</li>
+												{% endfor %}
+											</ul>
+										</div>
+									</div>
+									{% endif %}
+								{% endfor %}
+							{% endfor %}
+						</div>
+						{% endif %}
 					</div>
 				</div>
 			</div>
