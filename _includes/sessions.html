@@ -13,7 +13,7 @@
                     <div class="grid-item {% for theme in session.themes %}theme_{{theme}} {% endfor %}">
                         <h5>{{ session.title  }}</h5>
                         <p>{% if session.subtype != null %}
-						<span class="theme-metadata"><span class="caption"></span>{{ session.subtype }}</span>
+						<span class="theme-metadata">{{ session.subtype }}</span>
 						{% endif %}</p>
                         <p>{% if session.complexity != null %}
 						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.complexity }}</span>
