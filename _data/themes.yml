@@ -1,41 +1,41 @@
 -
   id: 6
   name: "Research Computing"
-  color: "#EB5B0E"
+  color: "#1e90ff"
   fontColor: "#000000"
 
 -
   id: 3
   name: "Digital Humanities"
-  color: "#97d700"
+  color: "#0000ff"
   fontColor: "#000000"
 
 -
   id: 1
   name: "Learning and Using Python"
-  color: "#26EBB0"
+  color: "#00ff00"
   fontColor: "#000000"
 
 -
   id: 2
   name: "Learning and Using R"
-  color: "#EB3100"
+  color: "#40e0d0"
   fontColor: "#000000"
 
 -
   id: 4
   name: "Data Literacy, Openness and Frontiers"
-  color: "#440022"
+  color: "#c71585"
   fontColor: "#000000"
 
 -
   id: 5
   name: "Personal and Career Development"
-  color: "#5599AA"
+  color: "#ffd700"
   fontColor: "#000000"
 
 -
   id: 0
-  name: "Keystory Talks"
-  color: "#00599A"
+  name: "Keystory Talk"
+  color: "#ff0000"
   fontColor: "#000000"
