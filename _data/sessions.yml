@@ -679,3 +679,12 @@
   hidden: false
   description: <p>Learn more about how you use the ARDC Nectar Cloud to improve your research! A walkthrough will be provided of the different services available & their benefits:</p><ul><li>Virtual Desktop Service</li><li>National GPU/large memory service</li><li>BinderHub</li><li>JupyterHub Service</li><li>Nectar Cloud Dashboard</li></ul>
   10: "6"
+-
+  title: 
+  themes: []
+  id: 106
+  speakers: [55]
+  subtype: Workshop
+  hidden: false
+  description:
+
