@@ -93,21 +93,21 @@ rockstarSpeakersTitle: "Keystory speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Michie Building (building 9), The University of Queensland"
-eventLocationLink: "https://goo.gl/maps/wRM7Hw6LGUnkebkcA"
-eventStreetAddress: "9 Chancellors Place"
-eventAddressLocality: "The University of Queensland - St Lucia Campus"
-eventAddressLocalityRegion: "St Lucia, Brisbane"
-eventPostalCode: "4072"
-eventAddressCountry: "Australia"
-eventStartTime: "2023-11-21T09:00"
-eventDoorTime: "09:00"
-eventEndTime: "2023-11-23T17:00"
-eventPlaceCoordinates: "-27.497270750611534, 153.01185796853596"
-mapCenterCoordinates: "-27.497270750611534, 153.01185796853596"
-mapMobileCenterCoordinates: "-27.497270750611534, 153.01185796853596"
-
+#locationBlockTitle: "Location"
+#eventLocationName: "Michie Building (building 9), The University of Queensland"
+#eventLocationLink: "https://goo.gl/maps/wRM7Hw6LGUnkebkcA"
+#eventStreetAddress: "9 Chancellors Place"
+#eventAddressLocality: "The University of Queensland - St Lucia Campus"
+#eventAddressLocalityRegion: "St Lucia, Brisbane"
+#eventPostalCode: "4072"
+#eventAddressCountry: "Australia"
+#eventStartTime: "2023-11-21T09:00"
+#eventDoorTime: "09:00"
+#eventEndTime: "2023-11-23T17:00"
+#eventPlaceCoordinates: "-27.497270750611534, 153.01185796853596"
+#mapCenterCoordinates: "-27.497270750611534, 153.01185796853596"
+#mapMobileCenterCoordinates: "-27.497270750611534, 153.01185796853596"
+#
 # Venue Block
 # venueBlockTitle: "Past Events"
 # venueBigImage: "wisteria.jpg"
@@ -118,10 +118,10 @@ mapMobileCenterCoordinates: "-27.497270750611534, 153.01185796853596"
 # venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
 
 # Tweets Feed Block
-tweetsFeedImage: "PurpleF_ResbazQld_NathCampus.jpg"
-tweetsFeedTitle: "What's the latest?"
-twitterHashTag: "ResBazQld"
-twitterFeed: "https://twitter.com/ResBazQld"
+#tweetsFeedImage: "PurpleF_ResbazQld_NathCampus.jpg"
+#tweetsFeedTitle: "What's the latest?"
+#twitterHashTag: "ResBazQld"
+#twitterFeed: "https://twitter.com/ResBazQld"
 
 # Partners Block
 # organizersTitle: "Organisers"
