@@ -148,14 +148,14 @@
   description: <p>Video-based learning is built upon Mayer’s multimedia theory of learning, which emphasises the value of flexible communication skills to lower the burden of cognitive load for diverse audiences.  Online multimedia can be leveraged for science communication, but the production of high-quality online resources has significant resource implications.  This project evaluated large undergraduate science courses that embedded over 100 hours of video content from 2020-2022 to determine best-practice guidelines for producing effective online multimedia.  Participant survey and interview results revealed broad agreement with the value of segmenting information, presenter presence, and mixed perspectives in science videos.  However individual student preferences varied on the extent of presenters’ on-screen visibility, use of graphics, and subtitling.  Video analytics revealed a decrease in viewer retention as each video progresses, but this rate of decline can be slowed through on-screen text, animations, and camera angle changes. Together this data provides an evidence-based framework for designing science videos that will engage different online audiences and disseminate your research.</p>
   10: "0"
 -
-  title: The bush, the cloud, and the research software engineer
+  title: From Research Platforms to Commercial Platforms
   themes: [0]
   id: 1006
   speakers: [6]
   subtype: Talk
   service:
   hidden: false
-  description: <p>Talk title coming soon -- watch this space!</p>
+  description: "What lessons can be learnt when transitioning from a research based environment to a commercial environment and how we at Ceres Tag were able to transform a research product into an international commercial product."
   10: "0"
 -
   title: 'Unlocking innovation: The science of research commercialisation'
