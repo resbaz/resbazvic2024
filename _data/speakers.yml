@@ -730,3 +730,15 @@
   rockstar: false
   ribbon:
   social:
+-
+  id: 56
+  name: Chun
+  surname: Ouyang
+  company: QUT
+  title: Associate Professor, School of Information Systems, Faculty of Science
+  bio: Associate Professor Ouyang is an active researcher, aiming for research outcomes of high quality and impact; with interests in Explainable AI, Predictive Analytics, and AI Robustness. Professor Ouyang has been awarded five Category 1 Australian Competitive Grants, including four ARC Discovery Projects and one Australia-China Science and Research Fund project. 
+  thumbnailUrl: ChunOuyang.jpg
+  rockstar: false
+  ribbon:
+      - {abbr: "QUT", title: "QUT School of Information Systems", url: "https://www.qut.edu.au/about/faculty-of-science/school-of-information-systems"}
+  social:
