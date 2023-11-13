@@ -45,11 +45,6 @@
        endTime: "17:00",
        sessionIds: [31,12,33,34,35,36]
     }
-    - {
-      startTime: "17:00",
-      endTime: "18:30",
-      sessionIds: [1034]
-    }
 -
   date: "2023-11-22"
   dateReadable: "Wed 22nd Nov 2023"
@@ -96,16 +91,20 @@
       endTime: "14:30",
       sessionIds: [1004]
     }
-    - {startTime: "14:30", endTime: "15:00", sessionIds: [105]}
+    - {
+      startTime: "14:30", 
+      endTime: "15:00", 
+      sessionIds: [105]
+    }
     - {
       startTime: "15:00",
       endTime: "17:00",
       sessionIds: [61,62,63,64,65,66]
     }
     - {
-      startTime: "17:00",
-      endTime: "18:30",
-      sessionIds: [1042]
+      startTime: "17:30",
+      endTime: "19:30",
+      sessionIds: [2]
     }
 -
   date: "2023-11-23"
