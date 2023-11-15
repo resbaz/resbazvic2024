@@ -627,7 +627,7 @@
   title: 'RIMReP data management system: All GBR data in one single place'
   themes: [6]
   id: 96
-  speakers: [33]
+  speakers: [33, 57]
   subtype: Workshop
   service:
   hidden: false
