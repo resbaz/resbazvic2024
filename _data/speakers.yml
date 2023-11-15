@@ -721,17 +721,6 @@ He has long been using computers to 'figure stuff out' and enjoys working with r
     - {abbr: "Baker Institute", title: "Baker Heart and Diabetes Institute, Melbourne", url: "https://www.baker.edu.au/"}
   social:
 -
-  id: 55
-  name: Eve
-  surname: Ansell
-  company: QCIF
-  title: 
-  bio: 
-  thumbnailUrl: eve-ansell.jpeg
-  rockstar: false
-  ribbon:
-  social:
--
   id: 56
   name: Chun
   surname: Ouyang
@@ -742,4 +731,16 @@ He has long been using computers to 'figure stuff out' and enjoys working with r
   rockstar: false
   ribbon:
       - {abbr: "QUT", title: "QUT School of Information Systems", url: "https://www.qut.edu.au/about/faculty-of-science/school-of-information-systems"}
+  social:
+-
+  id: 57
+  name: Denisse
+  surname: Fierro-Arcos
+  company: UTas
+  title: 
+  bio: Denisse is an Ecuadorian marine scientist completing a PhD at the University of Tasmania. Her research focuses on assessing the suitability of Earth System Models on ecological research in the Southern Ocean. She also works with the DMS team as a Data Officer where she focuses on developing notebooks showing the use of the DMS data and services. Denisse programs in R and Python and enjoy teaching others how to program, she has been involved with groups like the Carpentries and the R-Ladies and has co-organised ocean themed hackathons online and in Australia.
+  thumbnailUrl: denisse_fierroarcos.png
+  rockstar: false
+  ribbon:
+      - {abbr: "UTas", title: "University of Tasmania", url: "https://www.utas.edu.au"}
   social:
