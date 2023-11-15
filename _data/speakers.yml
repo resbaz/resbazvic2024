@@ -736,23 +736,12 @@ He has long been using computers to 'figure stuff out' and enjoys working with r
   id: 57
   name: Denisse
   surname: Fierro-Arcos
-<<<<<<< HEAD
-  company: UTas
-  title: 
+  company: UTAS
+  title: Marine Ecology Researcher
   bio: Denisse is an Ecuadorian marine scientist completing a PhD at the University of Tasmania. Her research focuses on assessing the suitability of Earth System Models on ecological research in the Southern Ocean. She also works with the DMS team as a Data Officer where she focuses on developing notebooks showing the use of the DMS data and services. Denisse programs in R and Python and enjoy teaching others how to program, she has been involved with groups like the Carpentries and the R-Ladies and has co-organised ocean themed hackathons online and in Australia.
   thumbnailUrl: denisse_fierroarcos.png
   rockstar: false
   ribbon:
       - {abbr: "UTas", title: "University of Tasmania", url: "https://www.utas.edu.au"}
+      - {abbr: "AODN", title: "Australian Ocean Data Network", url: "https://imos.org.au/facilities/aodn/"}
   social:
-=======
-  pronouns:
-  company: UTAS
-  title: Marine Ecology Researcher
-  bio: Denisse is an Ecuadorian marine scientist completing a PhD at the University of Tasmania. Her research focuses on assessing the suitability of Earth System Models on ecological research in the Southern Ocean. She also works with the DMS team as a Data Officer where she focuses on developing notebooks showing the use of the DMS data and services. Denisse programs in R and Python and enjoy teaching others how to program, she has been involved with groups like the Carpentries and the R-Ladies and has co-organised ocean themed hackathons online and in Australia.
-  thumbnailUrl: denisse-fierro-arcos.png
-  rockstar: false
-  ribbon:
-    - {abbr: "AODN", title: "Australian Ocean Data Network", url: "https://imos.org.au/facilities/aodn/"}
-  social:
->>>>>>> 9b9a10a5afd16c5c6f98af9ee6a6c6a8fa47ef56
