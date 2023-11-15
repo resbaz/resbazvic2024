@@ -1,13 +1,4 @@
 -
-  title:
-  themes: []
-  id: 
-  speakers: []
-  subtype: ""
-  service: ""
-  hidden: true
-  description: null
--
   title: Social evening at Belltop Cafe, featuring "90 Seconds of Research Impact" presentations
   themes: []
   id: 2
@@ -650,7 +641,7 @@
   subtype: Workshop
   service:
   hidden: false
-  description: ""
+  description: <p>Learn how to enhance your effectiveness in using high-performance computing (HPC) resources, by improving the resilience and utility of your HPC job scripts using shell scripting techniques.</p>
   10: "6"
 -
   title: TERN services to share, discover and access ecosystem data 
