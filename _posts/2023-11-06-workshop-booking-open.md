@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Book your workshop places"
-date:   2021-11-06
+date:   2023-11-06
 isStaticPost: false
 image: balloons.jpg
 ---
