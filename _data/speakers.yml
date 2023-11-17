@@ -745,3 +745,17 @@ He has long been using computers to 'figure stuff out' and enjoys working with r
       - {abbr: "UTas", title: "University of Tasmania", url: "https://www.utas.edu.au"}
       - {abbr: "AODN", title: "Australian Ocean Data Network", url: "https://imos.org.au/facilities/aodn/"}
   social:
+-
+  id: 58
+  name: Guido
+  surname: Zuccon
+  company: UQ
+  title: Professor, School of Electrical Engineering and Computer Science; Faculty of Engineering, Architecture and Information Technology
+  bio: Professor Guido Zuccon is a Professorial Research Fellow at The University of Queensland, Electrical Engineering and Computer Science School, the AI DIrector for the Queensland Digital Health Centre (QDHeC), an Affiliate Professor at the UQ Centre for Health Services Research, Faculty of Medicine, and an Honorary Reader at Strathclyde University (UK). Guido's main research interests are Information Retrieval, Health Search, Formal Models of Search and Search Interaction, and Health Data Science. He has successfully attracted funding from the ARC via an ARC Discovery Early Career Research Award Fellowship and an ARC Discoverty Project. His research has also been funded by Google (Google Research Awards program), Grain Research and Development Corporation (GRDC), Microsoft (Microsoft Azure for Research Award), the CSIRO (research gifts and PhD Students Top-up scholarships), the Australian Academy of Science (FASIC program), the European Science Foundation, and Neusoft Corporation. Guido has published more than 100 peer-reviewed research articles at conferences and in journals, in information retrieval and health informatics, and his research on people using search engines to seek health advice on the web has been widely disseminated by the media.
+  thumbnailUrl: guido-zuccon.jpeg
+  rockstar: false
+  ribbon:
+      - {abbr: "ielab", title: "The Information Engineering Lab", url: "http://ielab.io/people/guido-zuccon"}
+      - {abbr: "UQ EECS", title: "School of Engineering and Computer Science", url: "https://eecs.uq.edu.au/"}
+      - {abbr: "UQ EAIT", title: "Faculty of Engineering, Architecture and Information Technology", url: "https://www.eait.uq.edu.au/"}
+  social:
