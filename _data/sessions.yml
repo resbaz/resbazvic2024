@@ -88,7 +88,7 @@
   description: null
 -
   title: 'Research infrastructure: The secret third thing'
-  themes: []
+  themes: [5, 6]
   id: 2001
   speakers: [10, 55]
   subtype: Workshop
@@ -217,7 +217,7 @@
   10: "1"
   followon:
     title: 'Research infrastructure: The secret third thing (1hr)'
-    themes: [6]
+    themes: [5, 6]
     speakers: [10, 55]
     subtype: Workshop
     description: '<p>Research infrastructure -- the facilities, resources or services that foster and facilitate innovation -- is the invisible foundation underpinning moden research. As an HDR student or ECR -- are you aware of research infrastructure at your institution? What services, resources, and facilities can you access as an HDR? Even more importantly, could you turn research infrastructure into a career?</p><p>This two-part workshop will help you answer these questions, and provide information about the secret third career option: not research, not professional, but an excellent option for HDRs across many fields. Firstly, participants will discover (for themselves!) information about their own institutions: what services/training exist, where it’s advertised, how the institution handles RI, and who manages it. Then we will present success stories of people moving from research fields into RI, and help the participants consider if an RI career is right for them.</p>'
