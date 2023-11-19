@@ -759,3 +759,41 @@ He has long been using computers to 'figure stuff out' and enjoys working with r
       - {abbr: "UQ EECS", title: "School of Engineering and Computer Science", url: "https://eecs.uq.edu.au/"}
       - {abbr: "UQ EAIT", title: "Faculty of Engineering, Architecture and Information Technology", url: "https://www.eait.uq.edu.au/"}
   social:
+-
+  id: 59
+  name: Giulio
+  surname: Pitroso 
+  company: Griffith
+  title: PhD Student in Sociology 
+  bio: Giulio Pitroso is a PhD student in sociology at Griffith University. He is researching the depiction of organised crime in computer games.
+  thumbnailUrl: giulio_pitroso.jpg
+  rockstar: false
+  ribbon:
+      - {abbr: "Griffith", title: "Griffith University", url: "https://www.griffith.edu.au/"} 
+      - {abbr: "HLSS", title: "The School of Humanities, Languages and Social Science", url: "https://www.griffith.edu.au/arts-education-law/school-humanities-languages-social-science/research/research-students"}
+  social:
+  -
+  id: 60
+  name: Kelly 
+  surname: Hou 
+  company: UQ
+  title: PhD Student in Health Sciences
+  bio: Kelly Hou is a PhD student in health sciences at UQ. Her research looks at the use of apps in health care.
+  thumbnailUrl: gkelly_hou.jpg
+  rockstar: false
+  ribbon:
+      - {abbr: "UQ", title: "University of Queesland", url: "https://www.uq.edu.au/"} 
+  social:
+  -
+  id: 60
+  name: Christina 
+  surname: Maxwell 
+  company: UQ
+  title: PhD Student in Psychology
+  bio: Christina Maxwell is a PhD student in psychology at UQ who is interested in online discussions of gender.
+  thumbnailUrl: christina_maxwell.jpg
+  rockstar: false
+  ribbon:
+      - {abbr: "UQ", title: "UQ Psychology", url: "https://psychology.uq.edu.au/"} 
+      - {abbr: "SIGN", title: "Social Identity and Groups Network (SIGN)", url: "https://sign.centre.uq.edu.au/"}
+  social:
