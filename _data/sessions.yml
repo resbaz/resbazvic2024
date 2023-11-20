@@ -216,7 +216,7 @@
   description: <p>This workshop introduces computational thinking as a precursor to learning how to write code in programming languages like R or Python. It will cover the steps involved in breaking down complex problems into computable chunks.</p>
   10: "1"
   followon:
-    title: 'Research infrastructure: The secret third thing (1hr)'
+    title: 'Research infrastructure: The secret third thing'
     themes: [5, 6]
     speakers: [10, 55]
     subtype: Workshop
@@ -581,6 +581,7 @@
   subtype: Workshop
   service:
   hidden: false
+  location: 'Room 222'
   description: <p>The Carpentries Instructor Training program is an internationally renowed model for training instuctors to deliver hands-on applied digital skills courses. In this workshop, we will explore some of the key points from this program, which can be easily and immediately applied to help anyone become a better instructor, teacher, or coach.</p>
   10: "5"
 -
@@ -671,6 +672,7 @@
   subtype: Workshop
   service:
   hidden: false
+  location: 'Room 220'
   description: <p>The 18th Century is often referred to as the Age of Enlightenment however, the age also saw some of the darkest and most violent crimes on a global scale. Slave trading and human trafficking were rampant and on a global scale, empires rose and fell &amp; new nations were born. Using Gale&rsquo;s Primary Source materials from the 18th Century together with the Gale Digital Scholar Lab, researchers and academics are constantly discovering new details about this Enlightened era.</p><p>The Gale Digital Scholar Lab offers a straightforward entry point into Digital Humanities for new researchers and for more experienced scholars, the Lab provides access to large data sets that can be easily mined and exported for use in custom applications and open-source analytical tools. With the Lab, Gale has created a research platform to help bridge the gap that often exists between primary sources that are available in the library and the research needs and workflows of faculty and students.</p><p>Digital humanists will be less inclined to bypass the library and seek content from open web sources or create their own data sets through unreliable and painstaking processes. As an extension of your primary source collections, Gale Digital Scholar Lab will encourage the use of archival holdings to support broader research needs.</p>
   10: "6"
 -

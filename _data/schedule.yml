@@ -2,18 +2,18 @@
   date: "2023-11-21"
   dateReadable: "Tuesday 21st Nov 2023"
   tracks: 
-    - {title: "R1", color: "#2E8B57"}
-    - {title: "R2", color: "#e91e63"}
-    - {title: "R3", color: "#48D1CC"}
-    - {title: "R4", color: "#FF00FF"}
-    - {title: "R5", color: "#FF8C00"}
-    - {title: "R6", color: "#48D1CC"}
+    - {title: "210", color: "#2E8B57"}
+    - {title: "211", color: "#e91e63"}
+    - {title: "216", color: "#48D1CC"}
+    - {title: "218", color: "#FF00FF"}
+    - {title: "220", color: "#FF8C00"}
+    - {title: "222", color: "#48D1CC"}
   timeslots:
     - {startTime: "08:00", endTime: "09:00", sessionIds: [101]}
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [11,12,13,14,15,16]
+      sessionIds: [12,14,11,15,13,16]
     }
     - {
       startTime: "10:30",
@@ -23,7 +23,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [11,12,23,24,25,26]
+      sessionIds: [12,23,11,25,26,24]
     }
     - {
       startTime: "12:30",
@@ -43,18 +43,18 @@
     - {startTime: "14:30", endTime: "15:00", sessionIds: [105]}
     - {startTime: "15:00",
        endTime: "17:00",
-       sessionIds: [31,12,33,34,35,36]
+       sessionIds: [12,33,36,35,34,31]
     }
 -
   date: "2023-11-22"
   dateReadable: "Wed 22nd Nov 2023"
   tracks: 
-    - {title: "R1", color: "#2E8B57"}
-    - {title: "R2", color: "#e91e63"}
-    - {title: "R3", color: "#48D1CC"}
-    - {title: "R4", color: "#FF00FF"}
-    - {title: "R5", color: "#FF8C00"}
-    - {title: "R6", color: "#48D1CC"}
+    - {title: "210", color: "#2E8B57"}
+    - {title: "211", color: "#e91e63"}
+    - {title: "216", color: "#48D1CC"}
+    - {title: "218", color: "#FF00FF"}
+    - {title: "220", color: "#FF8C00"}
+    - {title: "222", color: "#48D1CC"}
   timeslots:
     - {
       startTime: "08:00",
@@ -64,7 +64,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [11,12,43,44,45,46]
+      sessionIds: [12,44,11,46,43,45]
     }
     - {
       startTime: "10:30",
@@ -74,7 +74,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [51,12,53,54,55,56]
+      sessionIds: [12,51,55,46,53,54]
     }
     - {
       startTime: "12:30",
@@ -99,7 +99,7 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: [61,62,63,64,65,66]
+      sessionIds: [64,61,63,66,62,65]
     }
     - {
       startTime: "17:30",
@@ -110,12 +110,12 @@
   date: "2023-11-23"
   dateReadable: "Thursday 23rd November 2023"
   tracks: 
-    - {title: "R1", color: "#2E8B57"}
-    - {title: "R2", color: "#e91e63"}
-    - {title: "R3", color: "#48D1CC"}
-    - {title: "R4", color: "#FF00FF"}
-    - {title: "R5", color: "#FF8C00"}
-    - {title: "R6", color: "#48D1CC"}
+    - {title: "210", color: "#2E8B57"}
+    - {title: "211", color: "#e91e63"}
+    - {title: "216", color: "#48D1CC"}
+    - {title: "218", color: "#FF00FF"}
+    - {title: "220", color: "#FF8C00"}
+    - {title: "222", color: "#48D1CC"}
   timeslots:
     - {
       startTime: "08:00",
@@ -125,7 +125,7 @@
     - {
       startTime: "09:00",
       endTime: "10:30",
-      sessionIds: [71,72,73,74,75,76]
+      sessionIds: [72,71,73,75,76,74]
     }
     - {
       startTime: "10:30",
@@ -135,7 +135,7 @@
     - {
       startTime: "11:00",
       endTime: "12:30",
-      sessionIds: [84,85,86]
+      sessionIds: [84,86,85]
     }
     - {
       startTime: "12:30",
@@ -156,6 +156,6 @@
     - {
       startTime: "15:00",
       endTime: "17:00",
-      sessionIds: [91,92,93,94,95,96]
+      sessionIds: [93,92,91,95,96,94]
     }
 
