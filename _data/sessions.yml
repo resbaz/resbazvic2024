@@ -242,7 +242,7 @@
   description: <p>The goal of this workshop is to provide some foundations in chrono-urbanisms and spatial network analyses with OSM and GTFS data to generate isochrones, public transport routes, travel time matrices, shortest network routes all of which can vary according to a range of parameters including transport modes, walking and cycling speeds, tolerable cyclist level of traffic stress, time of departure etc. The packages used will include tidyverse, sf, tmap, and r5r.</p>
   10: "2"
 -
-  title: Introduction to spatial analysis in R 
+  title: 'Introduction to spatial analysis in R *'
   themes: [2]
   id: 92
   speakers: [22, 23, 24, 45]
