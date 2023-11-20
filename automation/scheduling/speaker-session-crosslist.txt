@@ -233,9 +233,9 @@ session-id: 25
   title: "TERN Services to share, discover and access Ecosystem data" 
   description: "The aim of the workshop is to show case services available at TERN to submit, discover and access ecosystem data across TERN. The participants will learn about services available at TERN and get an overview on how to publish data at TERN, learn to use data dashboards and data discovery portal. The workshop will be interactive and demo-based."
 
-  Rob    McLellan 
+  Robert    McLellan 
 session-id: 1001
-  title: "Rob McLellan" 
+  title: "Robert McLellan" 
   description: ""
 
   Rachel    Huang 
