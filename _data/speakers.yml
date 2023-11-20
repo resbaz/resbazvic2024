@@ -381,19 +381,6 @@ He has long been using computers to 'figure stuff out' and enjoys working with r
     - {abbr: "AARNet", title: "AARNet", url: "https://www.aarnet.edu.au/aarnet-trainer-workshops"}
   social:
 -
-  id: 33
-  name: Eduardo
-  surname: Klein
-  pronouns:
-  company: UTAS
-  title: Marine Ecology Researcher
-  bio: With over 30 years of experience in tropical marine ecology and conservation, Eduardo Klein has worked extensively in the Caribbean region and more recently in the GBR. He has established strong connections with multilateral organisations that specialise in biodiversity conservation and data, such as OBIS and the marine program of the Convention for Biological Diversity. Currently, he leads the Reef Data Services & Infrastructure program at IMOS.
-  thumbnailUrl: Eduardo-Klein.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "AODN", title: "Australian Ocean Data Network", url: "https://imos.org.au/facilities/aodn/"}
-  social:
--
   id: 48
   name: Kasia
   surname: Koziara
@@ -731,19 +718,6 @@ He has long been using computers to 'figure stuff out' and enjoys working with r
   rockstar: false
   ribbon:
       - {abbr: "QUT", title: "QUT School of Information Systems", url: "https://www.qut.edu.au/about/faculty-of-science/school-of-information-systems"}
-  social:
--
-  id: 57
-  name: Denisse
-  surname: Fierro-Arcos
-  company: UTAS
-  title: Marine Ecology Researcher
-  bio: Denisse is an Ecuadorian marine scientist completing a PhD at the University of Tasmania. Her research focuses on assessing the suitability of Earth System Models on ecological research in the Southern Ocean. She also works with the DMS team as a Data Officer where she focuses on developing notebooks showing the use of the DMS data and services. Denisse programs in R and Python and enjoy teaching others how to program, she has been involved with groups like the Carpentries and the R-Ladies and has co-organised ocean themed hackathons online and in Australia.
-  thumbnailUrl: denisse_fierroarcos.png
-  rockstar: false
-  ribbon:
-      - {abbr: "UTas", title: "University of Tasmania", url: "https://www.utas.edu.au"}
-      - {abbr: "AODN", title: "Australian Ocean Data Network", url: "https://imos.org.au/facilities/aodn/"}
   social:
 -
   id: 58

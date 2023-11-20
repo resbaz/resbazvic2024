@@ -8,7 +8,7 @@
 -
   title:
   themes: []
-  id: 
+  id: 100000 
   speakers: []
   subtype: ""
   service: ""
@@ -24,7 +24,7 @@
   hidden: true
   description: null
 -
-  title: Introduction to processing, visualization and mapping of spatial data in R 
+  title: 'Introduction to processing, visualization and mapping of spatial data in R *'
   themes: []
   id: 0
   speakers: [45]
@@ -166,7 +166,7 @@
   description: <p>There are many reasons a researcher should think about the commercialisation of their research, from tangibly solving the world's biggest problems, to creating more industry engagement and increasing funding opportunities in the future. Join Rachel in this session to discover the many reasons why research commercialisation matters, and explore the pathways to commercialise research. This is basically a crash course in research commercialisation mixed with a dash of personal reflections from Rachel’s entrepreneurship and research commercialisation experience so far. The goal of this session is for you to walk away feeling inspired and encouraged and hopefully thinking about how your research can be commercialised.</p>
   10: "0"
 -
-  title: Generating graphs using Python and ChatGPT 
+  title: 'Generating graphs using Python and ChatGPT *'
   themes: [1]
   id: 51
   speakers: [32]
@@ -176,7 +176,7 @@
   description: <p>ChatGPT has quickly become an incredibly useful tool for coders and data scientists. This workshop will explore using ChatGPT in conjunction with Python programming to generate graphs from numerical data.</p>
   10: "1"
 -
-  title: Introductory Programming with Python
+  title: 'Introductory Programming with Python *'
   themes: [1]
   id: 11
   speakers: [36]
@@ -232,7 +232,7 @@
   description: <p>This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data.</p><p>You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research.</p><ul><li>Describe what Jupyter Notebooks are, what they do and how they work.</li><li>Define and explain terms related to coding and cloud computing (jargon busting).</li><li>Learn about online options for using Jupyter Notebooks.</li><li>Demonstrate how Jupyter Notebooks fit into the research landscape.</li><li>Recognise and apply some basic Markdown, Python and/or R commands.</li><li>Open a Jupyter Notebook, perform some basic programming tasks and save it for later.</li></ul>
   10: "1"
 -
-  title: Introduction to chrono-urbanism and spatial networks in R
+  title: 'Introduction to chrono-urbanism and spatial networks in R *'
   themes: [2]
   id: 62
   speakers: [51]
@@ -252,7 +252,7 @@
   description: <p>The goal of this course is to provide introductory training in spatial data processing, visualization, and mapping using R. The course focuses on a small set of popular packages for these tasks, many of which are drawn from a collection of packages called tidyverse. We will explain the new capabilities of packages terra and sf, why they should be used instead of other alternatives such as raster and sp,  and how packages with strong dependencies on rgdal, rgeos and maptools (recently archived on CRAN) must be either upgraded to use sf, terra or other alternatives.  We'll also create some graphs to summarize the data and explore options for map generation.We will also cover common problems you might encounter in R spatial, and how to solve them.</p>
   10: "2"
 -
-  title: Introductory R for scientific analysis
+  title: 'Introductory R for scientific analysis *'
   themes: [2]
   id: 12
   speakers: [40, 24, 53]
@@ -262,7 +262,7 @@
   description: '<p>In this introductory workshop we will overview how and why to use R and RStudio. In this you will also learn the important foundations to setting up a good R Project, how to interact within RStudio and learn the fundamentals of using R for your research.</p><pThis part 1 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.</p><p>This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.</p><p>This workshop is based on the Carpentries course: <a href="https://datacarpentry.org/R-ecology-lesson/">Data Analysis and Visualization in R for Ecologists</a>.</p>'
   10: "2"
 -
-  title: 'R Shiny Essentials: From Data to Interactive Dashboards'
+  title: 'R Shiny Essentials: From Data to Interactive Dashboards *'
   themes: [2]
   id: 72
   speakers: [48]
@@ -342,7 +342,7 @@
   description: <p>Use tools like Git, Quarto, and renv to ensure that your R code can be shared and reproduced by coworkers, collaborators, and readers. Learn and implement best practices that you can apply to your current and future projects, in R and beyond.</p>
   10: "6"
 -
-  title: AI summarisation and retrieval pipelines for research 
+  title: 'AI summarisation and retrieval pipelines for research *'
   themes: [3]
   id: 33
   speakers: [13]
@@ -352,7 +352,7 @@
   description: <p>This workshop will introduce some ways to use AI as part of analytic pipelines to work with data. Some examples will be used but participants can bring their own data as well.</p>
   10: "3"
 -
-  title: Demystifying AI for research 
+  title: 'Demystifying AI for research *'
   themes: [3]
   id: 23
   speakers: [13]
@@ -444,7 +444,7 @@
   description: <p>Building on the Introduction to data cleaning with OpenRefine workshop, learn advanced data wrangling skills including combining tabular datasets, geolocating data, and “what if” exploration using OpenRefine.</p><p>On completion of this workshop, participants should be able to:</p><ul><li>extend data with additional variables from other data</li><li>visualise geographic locations using Geo.json resulting in an interactive map</li><li>create a webpage to display the geographically visualised data using Github.</li></ul>
   10: "4"
 -
-  title: Evaluating AI apps for your literature reviews
+  title: 'Evaluating AI apps for your literature reviews *'
   themes: [4]
   id: 14
   speakers: [26, 27]
@@ -534,7 +534,7 @@
   description: <p>If you've ever felt like you're a fraud and worried that people will find out sooner or later ⁠—</p><p>If you feel like you don't belong and you have to work harder than everyone else to try to fit in ⁠—</p><p>Then come along to this workshop about impostor syndrome and meet others who feel the same way.</p><p>Here, we'll discuss what impostor syndrome is, how it affects us, and what we can do to manage it.</p>
   10: "5"
 -
-  title: 'Guided networking session '
+  title: 'Guided networking session *'
   themes: [5]
   id: 25
   speakers: [2]
@@ -554,7 +554,7 @@
   description: <p>If you've discovered a new skill to be excited about at this year's ResBaz and you want to keep learning with the aid of someone else —</p><p>If you've found that one of the skills you already have is in demand and you've like to help others learn it —</p><p>Then come along to this informal matchup session where you can meet potential mentors or mentees. We'll also discuss key considerations of a mentoring relationship and how to make it work.</p><p>To get the most out of this session, we recommend you think of both a field you would like to seek mentoring in, and a field you would be willing to offer mentorship in. It's okay if you're not an expert as long as you're excited to share your skills!</p>
   10: "5"
 -
-  title: 'Show ''em what you''ve got: building an authentic profile for academic and industry impact'
+  title: 'Show ''em what you''ve got: building an authentic profile for academic and industry impact *'
   themes: [5]
   id: 55
   speakers: [52]
@@ -564,7 +564,7 @@
   description: <p>Are you an academic who's unsure how to share your research impact or reach wider audiences with your work? Frustrated that industry doesn't speak "academese" and you don't speak "business"? Trying to widen your network online without becoming <i>that</i> person who spams "cringe" posts on social media?</p><p>This workshop is for you! We'll talk about how you can:</p><ul><li>learn social-media-savvy and authentically leverage your networks</li><li>create opportunities to promote yourself without "selling" anything</li><li>paint a compelling picture of your skills and knowledge -- without the academic jargon</li><li>"talk industry" with non-academics about outcomes and business goals</li></ul><p>Come and get a fresh view of your work to inspire the non-academics (and academics!) in your life.</p>
   10: "5"
 -
-  title: 'Transferable skills: Understanding failure, strengths and values'
+  title: 'Transferable skills: Understanding failure, strengths and values *'
   themes: [5]
   id: 35
   speakers: [44]
@@ -574,7 +574,7 @@
   description: <p>Rather than technical upskilling, this workshop focuses on transferable skills that complement research (as well other areas). We will be examining failure, personal strengths and personal values, both in a general context and by way of self examination. There will be a 15-minute Q&A at the end where participants can ask about any transferable (often called 'soft') skills.</p>
   10: "5"
 -
-  title: 'Uplift your instructing skills: Hints and tips from The Carpentries instructor program'
+  title: 'Uplift your instructing skills: Hints and tips from The Carpentries instructor program *'
   themes: [5]
   id: 85
   speakers: [25]
@@ -585,7 +585,7 @@
   description: <p>The Carpentries Instructor Training program is an internationally renowed model for training instuctors to deliver hands-on applied digital skills courses. In this workshop, we will explore some of the key points from this program, which can be easily and immediately applied to help anyone become a better instructor, teacher, or coach.</p>
   10: "5"
 -
-  title: Introduction to image analysis with FIJI
+  title: 'Introduction to image analysis with FIJI *'
   themes: [6]
   id: 46
   speakers: [7]
@@ -605,7 +605,7 @@
   description: <p>This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc.</p><p>The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more.</p><p>Topics covered include:</p><ul><li>Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files)</li><li>Merging channels, and dealing with multiple channel images</li><li>Adjusting Brightness & Contrast and using histograms</li><li>Adding scale to images & adding scale bars</li><li>Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views)</li><li>Basic Measurements (Area, Intensity, Shape descriptors, Line Scans)</li><li>Creating Selections (Manually and Automatically)</li><li>Brief introduction to Machine Learning tools available in FIJI</li></ul>
   10: "6"
 -
-  title: Nanopore sequencing in human genomics
+  title: 'Nanopore sequencing in human genomics *'
   themes: [6]
   id: 66
   speakers: [39]
@@ -631,7 +631,7 @@
   speakers: [33, 57]
   subtype: Workshop
   service:
-  hidden: false
+  hidden: true
   description: <p>In this workshop, the instructors will guide participants in discovering and collecting relevant socio-economic, physical, chemical, and biological data for the Great Barrier Reef using the RIMReP Data Management System. The instructors will provide analysis notebook examples to explore the DMS data collections and demonstrate how to use simple temporal and geographical filters to obtain data. Moreover, we will provide customizable recipes for specific research questions. By the end of the workshop, participants will be able to use DMS data and metadata services to extract data from multiple collections in standard formats. To participate in this workshop, a minimum level of expertise in data analysis is required. Additionally, knowledge of Python and/or R programming language is required. Participants must bring their own laptops with the necessary software already installed (we will inform them later about the required non-commercial software)</p>
   10: "6"
 -
@@ -665,7 +665,7 @@
   description: <p>Transitioning from running your calculations on a desktop to running them on HPC needs consideration of using the command line, queues and sharing resources. These are the obvious changes. However, there are many small changes like considering where your input and output are coming from and need to be stored, how to get to your output if you are used to seeing it on your screen. This workshop will go through some of these less obvious things that you need to consider and watch put for when moving your calculations from a desktop to a HPC. There is no need to have HPC access as this workshop will use demonstrations that participants can just watch and follow. This is aimed at those with no HPC experience and even those who are only starting out on their journey on doing calculations on their desktops.</p>
   10: "6"
 -
-  title: Using the Gale Digital Scholar Lab to explore primary sources in the Age of Enlightenment, 18th Century
+  title: 'Using the Gale Digital Scholar Lab to explore primary sources in the Age of Enlightenment, 18th Century *'
   themes: [6]
   id: 86
   speakers: [54]
