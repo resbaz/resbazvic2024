@@ -312,7 +312,7 @@
   description: '<p>In this workshop we will explore the many ways that you can visualise your data for analysis and presentating using the package ggplot2.</p><p>This part 5 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.</p><p>This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.</p><p>This workshop is based on the Carperntries course: <a href="https://datacarpentry.org/R-ecology-lesson/">Data Analysis and Visualization in R for Ecologists</a></p>'
   10: "2"
 -
-  title: 'UQRUG presents: Cool but Useless (and a Hacky Hour)'
+  title: 'UQRUG presents: Cool but Useless R Packages (and a Hacky Hour)'
   themes: [2]
   id: 65
   speakers: [23]
