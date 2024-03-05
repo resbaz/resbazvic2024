@@ -1,0 +1,166 @@
+- 
+  date: "2022-11-01"
+  dateReadable: "Tuesday 1st Nov 2022"
+  tracks: 
+    - {title: "N53 0.56 (Up one level from ground)", color: "#2E8B57"}
+    - {title: "N53 0.58 (Up one level from ground)", color: "#e91e63"}
+    - {title: "N53 0.59 (Up one level from ground)", color: "#48D1CC"}
+    - {title: "N53_0.60 (Up one level from ground)", color: "#FF00FF"}
+    - {title: "N53_0.62 (Up one level from ground)", color: "#FF8C00"}
+    - {title: "N53_0.63 (Up one level from ground)", color: "#48D1CC"}
+
+  timeslots:
+    - {
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionIds: [101]
+    }
+    - {
+      startTime: "09:00",
+      endTime: "10:30",
+      sessionIds: [1001,1002,1003,1000,1009,1010]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [102]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:30",
+      sessionIds: [1018,1002,1004,1005,1009,1010]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [104]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:30",
+      sessionIds: [105,1051,1052]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "15:00",
+      sessionIds: [106]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "17:00",
+      sessionIds: [1012,1038,1013,1006,1009,1015]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "18:30",
+      sessionIds: [1034]
+    }
+-
+  date: "2022-11-02"
+  dateReadable: "Wed 2nd Nov 2022"
+  tracks: 
+    - {title: "N53 0.56 (Up one level from ground)", color: "#2E8B57"}
+    - {title: "N53 0.58 (Up one level from ground)", color: "#e91e63"}
+    - {title: "N53 0.59 (Up one level from ground)", color: "#48D1CC"}
+    - {title: "N53 0.60 (Up one level from ground)", color: "#FF00FF"}
+    - {title: "N53 0.62 (Up one level from ground)", color: "#FF8C00"}
+    - {title: "N53 0.63 (Up one level from ground)", color: "#48D1CC"}
+    - {title: "N53 Joint Minus 1 rooms (Ground Floor)", color: "#FF00FF"}
+  timeslots:
+    - {
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionIds: [101]
+    }
+    - {
+      startTime: "09:00",
+      endTime: "10:30",
+      sessionIds: [1000,1040,1036,10071,1009,1019,1000]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [102]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:30",
+      sessionIds: [1017,1016,1020,10072,1009,1019,1000]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [104]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:30",
+      sessionIds: [105,1053,1054]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "15:00",
+      sessionIds: [106]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "17:00",
+      sessionIds: [1000,1041,1021,1032,1000,1019,1024]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "18:30",
+      sessionIds: [1042]
+    }
+-
+  date: "2022-11-03"
+  dateReadable: "Thursday 3rd November"
+  tracks: 
+    - {title: "N53 0.56 (Up one level from ground)", color: "#2E8B57"}
+    - {title: "N53 0.58 (Up one level from ground)", color: "#e91e63"}
+    - {title: "N53 0.59 (Up one level from ground)", color: "#48D1CC"}
+    - {title: "N53 0.60 (Up one level from ground)", color: "#FF00FF"}
+    - {title: "N53 0.62 (Up one level from ground)", color: "#FF8C00"}
+    - {title: "N53 0.63 (Up one level from ground)", color: "#48D1CC"}
+  timeslots:
+    - {
+      startTime: "08:00",
+      endTime: "09:00",
+      sessionIds: [101]
+    }
+    - {
+      startTime: "09:00",
+      endTime: "10:30",
+      sessionIds: [1033,1031,1026,1008,1000,1019]
+    }
+    - {
+      startTime: "10:30",
+      endTime: "11:00",
+      sessionIds: [102]
+    }
+    - {
+      startTime: "11:00",
+      endTime: "12:30",
+      sessionIds: [1025,1031,1035,1008,1028,1019]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:30",
+      sessionIds: [104]
+    }
+    - {
+      startTime: "13:30",
+      endTime: "14:30",
+      sessionIds: [105,1055,1056]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "15:00",
+      sessionIds: [106]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "17:00",
+      sessionIds: [1000,1039,1030,1000,1000,1019]
+    }
+

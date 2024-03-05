@@ -1,0 +1,380 @@
+- 
+  id: 1
+  name: "Dr Paula Andrea"
+  surname: "Martinez"
+  title: "Software Project Coordinator, ARDC"
+  bio: "Dr Paula Andrea Martinez is the Software Project Coordinator at the Australian Research Data Commons (ARDC). She leads projects that improve the recognition of research software and research software authors. She is also an advocate of open science and diversity and active in various community projects such as the Research Software Alliance (ReSA), the Visible Research Software Interest Group (VRS), the Association of Research Software Engineers in Australia and New Zealand (RSE AUNZ)."
+  thumbnailUrl: "Pau-Jacaranda.png"
+  rockstar: true
+  ribbon:
+    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+    - {abbr: "RSE AUNZ", title: "Association of Research Software Engineers in Australia and New Zealand", url: "https://rse-aunz.github.io/"}
+    - {abbr: "ReSA", title: "Research Software Alliance", url: "https://www.researchsoft.org/"}
+    - {abbr: "VRS", title: "Visible Research Software Interest Group", url: "https://sites.google.com/ardc.edu.au/visible-research-software"}
+-
+  id: 2
+  name: "Andrew"
+  surname: "White"
+  title: "Data Consultant, ARDC"
+  bio: "Andrew (Andy) White works for the Australian Research Data Commons (ARDC) as an Engagements Data Consultant. His role is to provide engagements with ARDC partners on activities related to national data management infrastructure including facilitating the Data Repositories Community of Practice, State based Data Roundtables and FAIR workshops. "
+  thumbnailUrl: "AWhite.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au"}
+-
+  id: 3
+  name: "Indi"
+  surname: "Tansey"
+  title: "Chief Officer of People, Products and Planet, LUMINAIR"
+  title: "Director, Women in Tech"
+  bio: "I use strategy and design as a force for good, to create tools and systems that help purposeful, values-driven leaders make better decisions."
+  thumbnailUrl: "IndyTansey.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "WiT", title: "Women in Tech", url: "https://wit.org.au/"}
+    - {abbr: "LUMINAIR", title: "LUMINAIR", url: "https://www.luminair.com.au/"}
+-
+  id: 4
+  name: "Dr Melina"
+  surname: "Vidoni"
+  title: "Lecturer at ANU"
+  bio: "Dr Vidoni is a newly joined academic (Lecturer, eq. to Assistant Professor) at the Australian National University in the CECS School of Computing, where she continues her domestic and international collaborations with Canada and Germany. Dr Vidoni’s main research interests are mining software repositories, technical debt, software development, and empirical software engineering when applied to data science and scientific software."
+  thumbnailUrl: "MelinaVidoni.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "ANU", title: "ANU", url: "https://melvidoni.rbind.io/"}
+    - {abbr: "rOpenSci", title: "rOpenSci", url: "https://ropensci.org/blog/2019/01/31/more_editors/"}
+-
+  id: 5
+  name: "Amy"
+  surname: "Walduck"
+  title: "Coordinator, Digital Library Initiatives, State Library of Queensland"
+  bio: "Amy Walduck is a librarian, an extrovert, a creative and has embraced a colourful career across state, academic, special, and public libraries. As a creative problem-solver, she thrives in busy, collaborative environments working with passionate people. At State Library of Queensland, Amy is currently working on digital, open data and collections as data initiatives such as the Digital Collections Catalyst and Making Meaning: Collections as Data Symposium. "
+  thumbnailUrl: "AmyWalduck.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "SQL", title: "State Library of Queensland", url: "https://www.slq.qld.gov.au/"}
+-
+  id: 6
+  name: "Dr Cameron"
+  surname: "Hyde"
+  title: "Software EngineerSoftware Engineer, QCIF"
+  bio: " Cameron graduated with a PhD in genomics at the University of the Sunshine Coast in 2020, where his research in non-model organisms motivated the development of new tools for data mining and sharing of transcriptome data. Today he works as a bioinformatician and software developer for the Queensland Cyber Infrastructure Foundation (QCIF) building tools and resources for biological data analysis."
+  thumbnailUrl: "CamHyde.png"
+  rockstar: true
+  ribbon:
+    - {abbr: "QCIF", title: "QCIF", url: "https://www.qcif.edu.au/"}
+-
+  id: 7
+  name: "Dr Adi"
+  surname: "Gafni"
+  title: "Director, Data, Analytics, and Custom Solutions, Children's Health Queensland Hospital and Health Service"
+  bio: "I graduated in 2012 with a B.Sc. in Industrial Engineering and Management, with a major in Information Systems and specialised in Business Intelligence. <br>In April 2018, I completed a Graduate Diploma of Data Science, and in November 2021 I completed an Executive MBA.  My graduation project as an industrial engineer got me my first BI developer job and I have been in different roles in the BI space across fisheries, fitness, finance and now health industries, ever since. I chose this path as it brings together aspects like systems thinking, design thinking, creativity, and science to solve big and meaningful problems across multiple domains and industries, all aspects that I greatly enjoy. <br>In my current role, I am the Director of Data, Analytics, and Custom Solutions (DACS) at Children's Health Queensland (CHQ).<br>Evolving from leading self to leading teams and functions has been a fantastic journey and a very rewarding one, as it allows me to contribute through leadership and partnerships to the development of others and to the overall mission of the organisations I am working for, and more importantly to their consumers."
+  thumbnailUrl: "AdiGafnibi.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "CHQ", title: "Children's Health Queensland Hospital and Health Service", url: "https://www.childrens.health.qld.gov.au/"}
+-
+  id: 8
+  name: "Rhetta"
+  surname: "Chappell"
+  title: "Acting Director, Relational Insights Data Lab (RIDL)"
+  bio: "Rhetta has a strong background in data analytics, statistical standards, data collection, reporting and survey design. Originally from Canada, she previously worked for the National Centre for Vocational Education Research as researcher and project officer. Rhetta is a strong proponent of open source technologies and women in STEM and can often be found presenting and enjoying the free pizza at events in the data science and technology scenes in Brisbane. After completing a degree in Anthropology, Rhetta has gone on to complete post graduate study in data science and machine learning."
+  thumbnailUrl: "RhettaChap.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "RIDL", title: "Relational Insights Data Lab", url: "ridl.com.au"}
+    - {abbr: "Griffith", title: "Griffith Uni", url: "griffith.edu.au"}
+-
+  id: 9
+  name: "Dr. Alexander"
+  surname: "Wailan"
+  title: "Bioinformatician, QoVAX SET Program, Queensland Health"
+  bio: "I'm a highly social and energetic personality with a high analytical and strategic mindset. For my personal work I am a mental health advocate while professionally I am a bioinformatician.</br></br>With the 10 years experience in computational & bioinformatics analysis my international career was recognised by being awarded on a 30 under 30 international outstanding young scientist. I have a strong determination and discipline to strategically complete tasks at a high quality and efficient manner. I also have a strong mentoring skill set with an emphasis on skillset development, complimented with improvisation, creativity and organisation skills and high communication skills. I'm flexible and versatile with the capacity to grasp new concepts efficiently and have a strong interest in mental health to achieve high performance."
+  thumbnailUrl: "AlexanderWailan.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Qld Health", title: "Qld Health", url: "health.qld.gov.au"}
+-
+  id: 10
+  name: "Dr. Ali"
+  surname: "Chauvenet"
+  title: "Senior Lecturer, School of Environment and Science, Griffith University"
+  bio: "Dr Ali Chauvenet is a conservation scientist interested in protecting biodiversity from extinction by making the best decisions for the conservation and management of species and ecosystems. Her PhD was conferred by Imperial College London, UK, in 2013. She then worked as an ecological modeller for the British government until 2014, followed by a post-doctoral Research Fellowship at the University of Queensland, Brisbane. In 2018, she became a lecturer in the School of Environment and Science at Griffith University, and a member of the Centre for Planetary Health and Food Security. Her research currently focuses on measuring the benefits of protected areas for biodiversity and human well-being through a combination of spatial ecology, data science, and computer simulations. She teaches environmental data analytics and R programming to undergraduate students. In 2021, she developed an R Shiny app for an industry partner to help them make conservation decisions based on spatial analyses."
+  thumbnailUrl: "AliChauvenet.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Griffith University School of Environment and Science", title: "Griffith University School of Environment and Science", url: "https://www.griffith.edu.au/griffith-sciences/school-environment-science"}
+-
+  id: 11
+  name: "Amanda"
+  surname: "Miotto"
+  title: "Senior eResearch Analyst, Griffith University/Queensland Cyber Infrastructure Foundation"
+  bio: "Amanda Miotto is a Senior eResearch Analyst for Griffith University and QCIF. She started off in the field of Bioinformatics and learnt to appreciate the beauty of science before discovering the joys of coding. She is also heavily involved in Software Carpentry, Hacky Hours and ResBaz, and has developed on platforms around HPC and scientific portals."
+  thumbnailUrl: "AmandaMiotto.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "eResearch Services, Griffith University", title: "eResearch Services Griffith University", url: "https://www.griffith.edu.au/eresearch-services"}
+    - {abbr: "eResearch Analysts, QCIF", title: "eResearch Analysts, QCIF", url: "https://www.qcif.edu.au/support/eresearch-analysts/"}
+-
+  id: 12
+  name: "Dr. Sam"
+  surname: "Hames"
+  title: "Research Fellow, School of Languages and Culture, University of Queensland"
+  bio:
+  thumbnailUrl: "SamHames.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "School of Languages and Cultures, UQ", title: "School of Languages and Cultures, UQ", url: "https://languages-cultures.uq.edu.au/"}
+-
+  id: 13
+  name: "Clare"
+  surname: "Van Dorssen"
+  title: "Knowledge Translator and Impact Coordinator, School of Health Sciences and Social Work"
+  bio: 'Clare is a Knowledge Translator and Impact Coordinator with the Healthy Primary Care team in the School of Health Sciences and Social Work. With a Master’s in Science Communication Outreach, Clare has experience in creating interactive STEM demonstrations to entertain audiences of all ages.'
+  thumbnailUrl: "ClareVanDorssen.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Lessons for work: things we can learn from kids and science", title: "Lessons for work: things we can learn from kids and science", url: "https://www.griffith.edu.au/engage/professional-learning/content-centre/lessons-for-work-things-we-can-learn-from-kids-and-science"}
+    - {abbr: "School of Health Sciences and Social Work, Griffith University", title: "School of Health Sciences and Social Work, Griffith University", url: "https://www.griffith.edu.au/griffith-health/school-health-sciences-social-work"}
+-
+  id: 14
+  name: "Emilia"
+  surname: "Decker"
+  title: "Business Analyst, EcoCommons Australia"
+  bio: "Emilia is an environmental scientist who wrote her PhD thesis on using ecoacoustics as a monitoring tool for freshwater systems and presented it at TEDx Byron Bay. As the Business & Scientific Analyst for EcoCommons, she reviews requirements and testing plans to ensure the EcoCommons platform is meeting planned milestones."
+  thumbnailUrl: "EmiliaDecker.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "EcoCommons Australia", title: "EcoCommons Australia", url: "https://www.ecocommons.org.au/"}
+-
+  id: 15
+  name: "Sonia"
+  surname: "Ramza"
+  title: "Australian Research Data Commons (ARDC)"
+  bio: "Sonia is the Cloud Skills Specialist at the ARDC. She provides year round Cloud training, maintains documentation and contributes to user support initiatives."
+  thumbnailUrl: "SoniaRamza.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "ARDC", title: "ARDC", url: "https://ardc.edu.au/"}
+    - {abbr: "NCRIS", title: "NCRIS", url: "https://www.education.gov.au/ncris"}
+-
+  id: 16
+  name: "Angela"
+  surname: "Ellis"
+  title: "Queensland Health"
+  bio: "Angela Ellis is a highly motivated Registered Nurse (RN) with 40+ years’ experience spanning medical, two private enterprises, women’s health, sexual health, and health promotion initiatives to socially diverse populations, building networks and mentoring future leaders. In the last 14 years Angela was a Hospital in the Home (HITH) Clinical Nurse. Her doctoral thesis on HITH RN scope in practice has identified challenges currently facing HITH RNs. Remaining passionate about nursing practice, as a HITH Society Australasia board executive representing nursing, she is leading discussions on nursing issues with the board and the project group to critically review HITH nursing skills, roles, and attributes with the aim this body of work will guide and enhance HITH RN capacity in Australian nursing, thus implementing her thesis recommendations in building a HITH nursing career and integrated education pathway."
+  thumbnailUrl: "AngelaEllis.jpg"
+  rockstar: true
+-
+  id: 17
+  name: "Jessica"
+  surname: "Stokes-Parish"
+  title: "Assistant Professor, Faculty of Health Sciences and Medicine, Bond University"
+  bio: "Jessica is a practicing intensive care nurse and educator, who holds a PhD in Medical Education. In addition to 13+ years of bedside nursing, her areas of work include health professions workforce development, including policy, education, and science communication. She is an experienced science communicator and shares her work at @j_stokesparish on all platforms."
+  thumbnailUrl: "JessicaStokesParish.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Faculty of Health Sciences and Medicine, Bond University", title: "Faculty of Health Sciences and Medicine, Bond University", url: "https://bond.edu.au/about-bond/academia/faculty-health-sciences-medicine"}
+-
+  id: 18
+  name: "Sharron"
+  surname: "Stapleton"
+  title: "Library Research Specialist, Griffith University"
+  bio: "Sharron & Ben provide training and advice to Griffith University researchers on open access publishing, finding external data and primary sources for research and preparing data for analysis and visualisation."
+  thumbnailUrl: "SharronStapleton.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Research services, Griffith University Library", title: "Research services, Griffith University Library", url: "https://www.griffith.edu.au/library/researcher-services"}
+-
+  id: 19
+  name: "Dr. Dan"
+  surname: "Jess"
+  title: "Senior Lecturer, Australian College of Strategic Marketers"
+  bio: "Dr Dan Jess is a strategic marketing and leadership specialist, and practice-based researcher with 16+ years’ experience leading award-winning digital marketing agencies. He is currently completing a second research doctorate at USQ, exploring the strategic ambidexterity construct and how it operates in an Australian Chief Marketing Officer capability context. He holds academic positions at the Australian College of Strategic Marketers and Australian College of Vocal Arts, and is currently CEO at Fragment Digital. Qualifications include: DSM (USA), MBA (Strategic Marketing)."
+  thumbnailUrl: "DanJess.jpg"
+  rockstar: true
+  ribbon:
+-
+  id: 20
+  name: "Dr. Tony"
+  surname: "Howes"
+  title: "Honorary Associate Professor, School of Chemical Engineering, University of Queensland"
+  bio: "Tony Howes is an honorary academic in the School of Chemical Engineering at The University of Queensland. As a Python enthusiast and Orienteering tragic, Folium is a wonderful tool for the two interests together."
+  thumbnailUrl: "TonyHowes.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "School of Chemical Engineering, UQ", title: "School of Chemical Engineering, UQ", url: "https://chemeng.uq.edu.au/"}
+-
+  id: 21
+  name: "James"
+  surname: "Todd"
+  title: "Assistant Professor of Data Analytics, Bond Business School, Bond University"
+  bio: "James is an Assistant Professor of Data Analytics at Bond University. His research focuses on how data can be used to improve decision-making in organisations, particularly in the healthcare sector."
+  thumbnailUrl: "JamesTodd.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Bond Business School", title: "Bond Business School", url: "https://bond.edu.au/about-bond/academia/bond-business-school"}
+-
+  id: 22
+  name: "Julie"
+  surname: "Somers"
+  title: "Digital Capability Advisor, Academic Engagement Services, Griffith University"
+  bio: ""
+  thumbnailUrl: "JulieSomers.jpg"
+  rockstar: true
+  ribbon:
+-
+  id: 23
+  name: "Tati"
+  surname: "Viegas-Gurry"
+  title: "Change and Communications Manager, Research, Specialised and Data Foundations, Griffith University"
+  bio: "I am a training and project delivery professional specialising in business best practices by establishing, implementing, and monitoring change, controls and training in projects for clients in private and public sectors across various industries. With 20 years across national and international organisations, where project budgets range from $100K to $100 million, I am qualified in Business Administration, Project Management, Training and Assessment, Change Management (Prosci) and Prince2; knowledge of PMBOK, Agile, SCRUM, Scheduling (EVM), Finance, EDRMS, and ERP Systems. I am passionate about supporting people on journeys of change in fast-paced environments. I am fluent in Brazilian Portuguese and Spanish and a big advocate of diversity. I enjoy helping graduates and professionals achieve their career goals and crafting beadwork in my spare time."
+  thumbnailUrl: "TatiGurry.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Digital Solutions, Griffith University", title: "Digital Solutions, Griffith University", url: "https://www.griffith.edu.au/digital-solutions"}
+-
+  id: 24
+  name: "Dr. Nicole"
+  surname: "Fortuna"
+  title: "Postdoctoral Research Fellow, School of Biological Sciences, University of Queensland"
+  bio: "I completed my PhD in 2021 where I modelled the evolution of host-parasite coevolution. Currently I am a postdoc for the CoE for Pant Success where I am developing models of plant hormone interactions."
+  thumbnailUrl: "NicoleFortuna.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "School of Biological Sciences, UQ", title: "School of Biological Sciences, UQ", url: "https://biological-sciences.uq.edu.au/"}
+-
+  id: 25
+  name: "Katya"
+  surname: "Henry"
+  title: "University Copyright Officer, Queensland University of Technology"
+  bio: "Katya Henry is the University Copyright Officer at Queensland University of Technology (QUT) and the Creative Commons Global Network Representative for the Creative Commons Australia Chapter. She is a passionate advocate for open access and open education and is deeply committed to the role librarians play in enabling access to information."
+  thumbnailUrl: "KatyaHenry.jpg"
+  rockstar: true
+  ribbon:
+-
+  id: 26
+  name: "Dr. Sara"
+  surname: "King"
+  title: "Training and Engagement Lead, Australia's Academic and Research Network"
+  bio: "Dr Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is currently working on creating reusable guidance information for Jupyter Notebooks and other AARNet services to be adapted for Carpentry training workshops. She is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone."
+  thumbnailUrl: "SaraKing.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "AARNet", title: "AARNET", url: "https://www.aarnet.edu.au/"}
+-
+  id: 27
+  name: "Nica"
+  surname: "Tsakmakis"
+  title: "Senior Library Coordinator, Library Academic and Research Services, Australian Catholic University"
+  bio: "Nica Tsakmakis is a Senior Librarian at Australian Catholic University and Co-Convenor of the CAUL Digital Dexterity Champions Community of Practice. With a heavy humanities background she fell into Digital Dexterity and discovered a real passion for exploring and sharing all things digital from Library Carpentries to VR in the classroom."
+  thumbnailUrl: "NicaTsakmakis.jpg"
+  rockstar: true
+  ribbon:
+-
+  id: 28
+  name: "Mathew"
+  surname: "Fletcher"
+  title: "Liaison Librarian, Faculty of Business and Law, Queensland University of Technology"
+  bio: "Mathew Fletcher is a Librarian for Economics & Finance at QUT with an interest in scientometrics and knowledge representation."
+  thumbnailUrl: "MathewFletcher.jpg"
+  rockstar: true
+  ribbon:
+-
+  id: 29
+  name: "Dr. Quentin"
+  surname: "Pope"
+  title: "Liaison Librarian, Faculty of Business and Law, Queensland University of Technology"
+  bio: "Dr Quentin Pope, Law Librarian at QUT, has a PhD in Biological Sciences and has published over 40 scientific papers. She has a special interest in history of ideas and representations of knowledge networks."
+  thumbnailUrl: "QuentinPope.jpg"
+  rockstar: true
+  ribbon:  
+-
+  id: 30
+  name: "Dr. Min"
+  surname: "Zhao"
+  title: "Senior Research Fellow, Bioinformatics and Genomics"
+  bio: "Dr. Min Zhao has about 20 years of experience in the field of bioinformatics and genomics. His research focuses on the investigation of regulatory machines in aquatic genomes and disease genomes. In addition to 4 review manuscripts, he has published 90 research papers in peer-reviewed international journals including 50 first and corresponding author papers in total. In total, his papers have been cited over 4000+ times (H-index 31). About 50% of his publications are presented in the top 10% most cited papers worldwide in Scopus database. Additionally, ten of his manuscripts have been published in very high profile journals (top 5%; including Nature, Nature communication, cell research, American Journal of Respiratory and Critical Care Medicine, Nucleic Acids Research, Molecular ecology resource). The research articles include author contributions from a diversity of institutions/universities external from USC and International (primarily USA, Japan, China, and Thailand). He currently leads as Chief Investigator 1 ARC Discovery Projects (with USC as administering organisation), and is co-contributor for Reef2050 grant."
+  thumbnailUrl: "MinZhao.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Centre for Bioinnovation, USC", title: "Centre for Bioinnovation, USC", url: "https://www.usc.edu.au/research/centre-for-bioinnovation"}
+-
+  id: 31
+  name: "Zachary"
+  surname: "Crockett"
+  title: "Biosciences Division, Oak Ridge National Laboratory"
+  bio:
+  thumbnailUrl: "ZacharyCrockett.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Oak Ridge National Laboratory", title: "Oak Ridge National Laboratory", url: "https://www.ornl.gov/"}
+-
+  id: 32
+  name: "Dr. Mark"
+  surname: "Crowe"
+  title: "Skills Development Manager, QCIF"
+  bio: "Mark Crowe is the Skills Development Manager with QCIF, and is an Instructor and an Instructor-Trainer with The Carpentries, an international digital skills training organisation. Since the start of the pandemic, Mark has held a ridiculous number of Zoom meetings, including having organised and hosted over 180 online training workshops for nearly 5000 participants."
+  thumbnailUrl: "MarkCrowe.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Skills Development, QCIF", title: "Skills Development, QCIF", url: "https://www.qcif.edu.au/skills-development/"}
+-
+  id: 33
+  name: "Dr. Ido"
+  surname: "Bar"
+  title: "Research Fellow, Centre for Planetary Health and Food Security, Griffith University"
+  bio: "I am a lecturer (Biosciences) and a research fellow at the Centre for Planetary Health and Food Security (formerly EFRI), with strong knowledge, skills and expertise in molecular biology, genomics and bioinformatics. My research foci are crop genomics, crop-pathogen molecular interactions and development of novel pathogen diagnostics methods. I aspire to develop applied research solutions in tight collaboration with the agriculture and aquaculture industries to overcome diseases and other production bottlenecks to help future food security. My group has several ongoing projects suitable for Capstone and WIL projects, as well as Honours and PhD programs, please contact me if interested in any of the research areas above. As a lecturer, I am responsible to develop, deliver and convene under/postgraduate level academic courses, including Introduction to Bioinformatics (3030NSC), Molecular Biology (2012NSC) and Scientific Data Analysis (6003ESC). I have initiated and I am coordinating the “Bioinformatics@Griffith” group, providing essential support, training resources and networking opportunities to HDR students and researchers using bioinformatics from multiple disciplines across the University."
+  thumbnailUrl: "IdoBar.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Centre for Planetary Health and Food Security, Griffith University", title: "Centre for Planetary Health and Food Security, Griffith University", url: "https://www.griffith.edu.au/centre-planetary-health-food-security"} 
+-
+  id: 34
+  name: "Dr. Nicholas"
+  surname: "Condon"
+  title: "Senior Microscopist, Institute for Molecular Bioscience, University of Queensland"
+  bio: "Nicholas Condon is a cell biologist, microscopist and imaging scientist. He has expertise in using advanced light microscopy and novel image analysis techniques to make discoveries. He is developing custom image analysis pipelines, and high-performance computing pipelines for the processing and analysis of complex big datasets from modern microscopes. He is an expert in many light microscopy technologies as well as the associated image analysis methods for both 2D and 3D data. Nicholas is currently supported by a 5-year Chan Zuckerberg Initiative Imaging Scientist fellowship to support the teaching and training of users around microscopy and data analysis. Deborah is a biomedical engineer, immunologist and imaging scientist. She has experience with intravital multiphoton microscopy, preclinical imaging using MRI, PET and CT, as well as microscopy and flow cytometry based immune assays. Deborah has developed image analysis pipelines for dynamic imaging, immune microenvironments, and most currently a fluorescence lifetime imaging analysis program. Deborah is interested in developing machine learning programs for image analysis."
+  thumbnailUrl: "NicholasCondon.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Institute for Molecular Bioscience, UQ", title: "Institute for Molecular Bioscience, UQ", url: "https://imb.uq.edu.au/"}
+-
+  id: 35
+  name: "Belinda"
+  surname: "Weaver"
+  title: "Head of Library Academic Engagement Services, Academic Engagement Services, Griffith University"
+  bio: "Belinda Weaver is a certified Software Carpentry instructor who has taught more than 40 workshops."
+  thumbnailUrl: "BelindaWeaver.jpg"
+  rockstar: true
+  ribbon:
+-
+  id: 36
+  name: "Alice"
+  surname: "Miller"
+  title: "Senior Data Scientist/Developer, Digital Observatory, Queensland University of Technology"
+  bio: "Alice is a data scientist with a background in social science research."
+  thumbnailUrl: "AliceMiller.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "Digital Observatory, QUT", title: "Digital Observatory, QUT", url: "https://www.qut.edu.au/digital-observatory"}
+- 
+  id: 37
+  name: "Rani"
+  surname: "McLennan"
+  title: "Copyright Information Officer, Queensland University of Technology"
+  bio: "Rani McLennan is the Copyright Information Officer at Queensland University of Technology (QUT) and the Open Educational Resource (OER) Collective Project Officer at the Council of Australian University Librarians (CAUL). She has over a decade of experience in public, school, and academic libraries. Her interests include the communication of complex information through text and visuals and openly licensed image collections."
+  thumbnailUrl: "RaniMcLennan.jpg"
+  rockstar: true
+  ribbon:
+- 
+  id: 38
+  name: "Dr. Catherine"
+  surname: "Kim"
+  title: "Postdoctoral researcher, School of Earth and Atmospheric Sciences, Queensland University of Technology"
+  bio: "Catherine is a postdoctoral researcher in the School of Earth and Atmospheric Sciences at the Queensland University of Technology. Currently, she is modelling generation of coral rubble across the Great Barrier Reef for the Reef Restoration and Adaptation Program."
+  thumbnailUrl: "CatherineKim.jpg"
+  rockstar: true
+  ribbon:
+    - {abbr: "School of Earth and Atmosphereic Sciences, QUT", title: "School of Earth and Atmosphereic Sciences, QUT", url: "https://www.qut.edu.au/about/faculty-of-science/school-of-earth-and-atmospheric-sciences"}

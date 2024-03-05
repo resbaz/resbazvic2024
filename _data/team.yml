@@ -1,0 +1,11 @@
+- 
+  id: 0
+  name: ""
+  surname: ""
+  title: ""
+  thumbnailUrl: 
+  team: true
+  ribbon: 
+    - {abbr: "", title: ""}
+  social: 
+    - {name: "", link: ""}
