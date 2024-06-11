@@ -1,0 +1,223 @@
+# Plugins
+plugins:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+future: true # Enable future posts (date > current date)
+
+
+# Site Settings
+title: "Research Bazaar Queensland"
+email: "mailto:resbaz@qcif.edu.au"
+description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
+baseurl: "/resbaz2022qld"
+url: "https://resbaz.github.io/resbaz2022qld"
+permalink: "/blog/:title"
+#googleAnalyticsTrackingId: "UA-43643469-5"
+#googleAnalyticsSiteUrl: "matty-plumski.github.io"
+#siteVerification: "xOlzoaCacKCBpEsxW4st40F89pI="
+
+
+# Organizer Info
+organizerName: "Amanda Miotto"
+organizerAlternateName: "QCIF"
+# organizerDescription: " "
+# organizerEmail: "mark.crowe@qcif.edu.au" 
+organizerLogo: "/img/seo/QCIF_Logo_web-copy.jpg"
+organizerLink: "https://www.qcif.edu.au/"
+
+# Head
+metaKeywords: "event, resbaz, research, bazaar, brisbane, queensland, digital, skills, upskilling, hdr, ecr, eresearch, resbazqld, resbazbris"
+twitterAccount: "@ResBazQld"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+
+# Documents
+c4pUrl: "mailto:a.miotto@griffith.edu.au"
+c4sponsorsUrl: "https://www.qcif.edu.au"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/news/", text: "News"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/transport/", text: "Getting here"}
+ - {permalink: "/partners/", text: "Partners & Sponsors"}
+ - {permalink: "/registration/", text: "Register"}
+# - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
+ - {permalink: "/cod/", text: "Code of Conduct"}
+#bottomNavigationLinks:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
+#rightNavigationButtons:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Contact us"}
+
+# Hero Block
+heroImage: "QCA shoot LM-0026Darker.jpg"
+heroTitle: "Research Bazaar Queensland"
+eventDate: "Nov 1-3 2022"
+
+
+
+# About Block
+aboutTitle: "About ResBaz Queensland"
+aboutSubtitle: "Conference"
+aboutText: "<p>The Research Bazaar is a worldwide festival promoting the digital literacy at the centre of modern research. Throughout 2022, events will be held at a number of university campuses around the world.</p>
+
+<p>Hosted in 2022 by Griffith University, the 2022 Queensland Research Bazaar will be a three-day intensive conference where researchers will come together to up-skill in 'next generation digital research tools and skills'. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+
+<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research Masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>.
+
+<p>ResBaz Qld encourages wearing a mask if you are not able to social distance.  Please follow the current COVID requirements around isolating.</p>"
+
+# Statistic Block
+# statisticBlockImage: "statistic.jpg"
+# statisticBlock:
+#  - {count: "100", specialCharacter: "+", info: "attendees", detail: ""}
+#  - {count: "50", specialCharacter: "+", info: "hours", detail: ""}
+#  - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
+#  - {count: "3", specialCharacter: "", info: "parallel streams", detail: ""}
+
+# Latest News Block
+# latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "Wattle_ResbazQld_NathCampus.jpg"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Keystory speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "N53 Level 0 (directly behind library), Nathan Campus, Griffith University"
+eventLocationLink: "https://goo.gl/maps/VBJA7bbp3Qp6FB9a6"
+eventStreetAddress: "170 Kessels rd"
+eventAddressLocality: "Griffith University - Nathan Campus"
+eventAddressLocalityRegion: "Nathan, Brisbane"
+eventPostalCode: "4101"
+eventAddressCountry: "Australia"
+eventStartTime: "2022-11-01T09:00"
+eventDoorTime: "09:00"
+eventEndTime: "2022-11-03T17:00"
+eventPlaceCoordinates: "-27.551685966721287, 153.05350886072333"
+mapCenterCoordinates: "-27.551685966721287, 153.05350886072333"
+mapMobileCenterCoordinates: "-27.551685966721287, 153.05350886072333"
+
+# Venue Block
+# venueBlockTitle: "Past Events"
+# venueBigImage: "wisteria.jpg"
+# venueSmallImage2: "wisteria.jpg"
+# venueSmallImage1: "wisteria.jpg"
+# venueSmallImage3: "wisteria.jpg"
+# venueTitle: "ResBaz 2022 "
+# venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
+
+# Tweets Feed Block
+tweetsFeedImage: "PurpleF_ResbazQld_NathCampus.jpg"
+tweetsFeedTitle: "What's the latest?"
+twitterHashTag: "ResBazQld"
+twitterFeed: "https://twitter.com/ResBazQld"
+
+# Partners Block
+# organizersTitle: "Organisers"
+# partnersTitle: "Partners"
+# partnersC4sponsorsButton: "See you next year!"
+# partnersLink: ""
+
+# Subscribe Block
+# subscribeImage: "subscribe.jpg"
+# subscribeTitle: "Subscribe for updates"
+# subscribeAction: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform"
+# subscribeInfo: ""
+
+# Tickets Block
+# ticketsTitle: "Pricetable"
+# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+# ticketsOffers: -
+#  name: "Early Bird"
+#   price: " "
+#  priceCurrency: " "
+#  ticketsNumber: " "
+#  ribbon: "-5%"
+#   buyButtonLink: " "
+#  buyButtonText: " "
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-25T10:00"
+# validThrough: "2014-09-30T23:59"
+#  -
+#   name: "Last Chance"
+#   price: " "
+#  priceCurrency: " "
+#   ticketsNumber: " "
+#   ribbon: "-20%"
+#  featured: true
+#   buyButtonLink: " "
+#   buyButtonText: "Buy Now"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-10-01T00:00"
+#   validThrough: "2014-10-23T23:59"
+#   disabled: true
+# -
+#   name: "Student"
+#   price: " "
+#   priceCurrency: " "
+#   ticketsNumber: " "
+#   buyButtonLink: " /"
+#   buyButtonText: "Buy Now"
+#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#   soldOutText: "Sold Out"
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
+ - {link: "https://www.qcif.edu.au/", icon: "site"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", icon: "mail"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   #- {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
+ -
+  title: "Gold Sponsors"
+  links:
+    - {link: "https://aws.amazon.com/anz-public-sector/", text: "AWS", imageUrl: "../img/organizers/AWS_logo_RGB.png"}
+ -    
+  title: "Silver Sponsor"
+  links:
+   - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "GALE", imageUrl: "../img/organizers/gale_trans.png"}
+   - {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
+ -  
+  title: "Collaborating Institutes"
+  links:
+   - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
+   - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
+   - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
+   - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
+   - {text: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {text: "Bond University", description: "Bond University", link: "https://www.bond.edu.au/", imageUrl: "../img/organizers/bond-university-logo.png"}
+ -  
+  title: "Contacts"
+  links:
+   - {link: "mailto:resbaz@qcif.edu.au", text: "resbaz@qcif.edu.au"}
+#   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfTwkZaRlKULFQrnY66P2MJSpYeUyS2eJ3RPcqMDNHy1QxmyA/viewform", text: "Volunteer as a helper for ResBaz"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+# blogTitle: "Latest news"
+# blogCommentsEnabled: false
+# discusShortName: "resbazqld"
+
+# Speakers List Block
+showSessions: true
