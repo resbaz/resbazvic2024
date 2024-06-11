@@ -50,9 +50,8 @@ navigationLinks:
 # - {link: "https://www.eventbrite.com/o/monash-eresearch-centre-80527865623", text: "Register"}
  - {permalink: "/news/", text: "News"}
 # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
- - {permalink: "/schedule/", text: "Program"}
-#  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+#  - {permalink: "/schedule/", text: "Program"}
+#  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Location"}
 #  - {permalink: "/partners/", text: "Partners & Sponsors"}
