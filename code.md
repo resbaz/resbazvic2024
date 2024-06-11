@@ -2,7 +2,7 @@
 layout: post
 title: Research Bazaar Policies and Code of Conduct
 permalink: /cod/
-image: stones.jpg
+image: discussion.jpg
 isStaticPost: true
 ---
 ##### Research Bazaar Policies and Code of Conduct
@@ -70,4 +70,4 @@ Anti-harassment officers will be happy to help attendees contact police or crisi
 
 We value your attendance. We expect participants to follow these rules at the Research Bazaar venue, any related social events, and online forums.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/cod.jpg" style="display:none">
