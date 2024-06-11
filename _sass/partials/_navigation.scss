@@ -11,16 +11,18 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     @media (min-width: 768px) and (max-width: 991px) {
         padding: 13px 0 0 34px;
     }
-    &.after-scroll {
-        padding-top: 0;
-        box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
-        .overlay {
-            opacity: 1;
-        }
-    }
+    box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
+
+    // &.after-scroll {
+    //     padding-top: 0;
+    //     box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
+    //     .overlay {
+    //         opacity: 1;
+    //     }
+    // }
     .overlay {
-        opacity: 0;
-        transition: $base-transition;
+        opacity: 1;
+        // transition: $base-transition;
     }
 }
 .logo-header {
@@ -30,12 +32,12 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     @media (max-width: 767px) {
         transform: translateX(-45px);
     }
-    .top-header.after-scroll & {
+    // .top-header.after-scroll & {
         transform: translateY(1px);
         @media (max-width: 767px) {
             transform: translateX(-45px);
         }    
-    }
+    // }
     .logo {
         display: inline-block;
         float: left;
@@ -86,12 +88,12 @@ nav {
             margin: 20px 0 0 5px;
             transform: translateY(0);  
         }
-        .top-header.after-scroll & {
+        // .top-header.after-scroll & {
             transform: translateY(20px);  
             @media (max-width: 767px) {
                 transform: translateY(0);  
             }
-        }
+        // }
     }
     li {
         display: inline-block;
@@ -122,7 +124,7 @@ nav {
                     color: $main-color;
                 }
             }
-            .top-header.after-scroll & {
+            // .top-header.after-scroll & {
                 color: $nav-scroll-color;
                 @media (max-width: 767px) {
                     top: 20px;
@@ -133,7 +135,7 @@ nav {
                         color: $main-color;
                     }
                 }
-            }
+            // }
         }
     }
 }
@@ -156,7 +158,8 @@ nav {
 .icon-menu {
     width: 20px;
     height: 20px;
-    fill: #e6e6e6;
+    // fill: #e6e6e6;
+    fill: #464646;
     .top-header.after-scroll & {
         fill: #464646;
     }

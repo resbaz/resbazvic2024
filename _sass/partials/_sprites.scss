@@ -2,6 +2,7 @@
     background-image: url($logos-sprite);
     background-repeat: no-repeat;
     background-size: contain;
+    background-position-y: center;
 
     /* All commented out as no longer using multiple SVGs for the logo */
     &.logo-dark {

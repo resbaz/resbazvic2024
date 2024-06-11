@@ -11,11 +11,12 @@ future: true # Enable future posts (date > current date)
 
 
 # Site Settings
-title: "Research Bazaar Queensland"
-email: "mailto:resbaz@qcif.edu.au"
+title: "Research Bazaar Victoria"
+email: "mailto:ResBazVIC-l@monash.edu"
 description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
-baseurl: "/resbaz2023qld"
-url: "https://resbaz.github.io/resbaz2023qld/"
+baseurl: "/resbazvic2024"
+# url: "https://resbaz.github.io/resbaz2024victoria/"
+url: "https://resbaz.github.io/resbazvic2024/" 
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "matty-plumski.github.io"
@@ -23,58 +24,70 @@ permalink: "/blog/:title"
 
 
 # Organizer Info
-organizerName: "Mark Crowe"
-organizerAlternateName: "QCIF"
+organizerName: "Angelika Dibijo"
+organizerAlternateName: "Monash"
 # organizerDescription: " "
-organizerEmail: "resbaz@qcif.edu.au" 
-organizerLogo: "/img/seo/QCIF_Logo_web-copy.jpg"
-organizerLink: "https://www.qcif.edu.au/"
+organizerEmail: "ResBazVIC-l@monash.edu" 
+organizerLogo: ""
+organizerLink: "https://www.monash.edu/researchinfrastructure/eresearch"
 
 # Head
-metaKeywords: "event, resbaz, research, bazaar, brisbane, queensland, digital, skills, upskilling, hdr, ecr, eresearch, resbazqld, resbazbris"
-twitterAccount: "@ResBazQld"
-instagramAccount: "@ResBazQld"
+metaKeywords: "event, resbaz, research, bazaar, victoria, melbourne, digital, skills, upskilling, hdr, ecr, eresearch, resbazvic, resbazmelb"
+twitterAccount: "@MonasheResearch"
+#instagramAccount: "@ResBazQld"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
 # Documents
-c4pUrl: "mailto:mark.crowe@qcif.edu.au"
-c4sponsorsUrl: "https://www.qcif.edu.au"
+c4pUrl: "mailto:ResBazVIC-l@monash.edu"
+c4sponsorsUrl: "https://www.monash.edu/researchinfrastructure/eresearch"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/registration/", text: "Register"}
- - {link: "https://events.humanitix.com/resbazqld-2023", text: "Register"}
+# - {link: "https://events.humanitix.com/resbazqld-2023", text: "Register"}
+# - {link: "https://www.eventbrite.com/o/monash-eresearch-centre-80527865623", text: "Register"}
  - {permalink: "/news/", text: "News"}
- - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
+ - {permalink: "/schedule/", text: "Program"}
+#  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sessions/", text: "Sessions"}
- - {permalink: "/transport/", text: "Getting here"}
- - {permalink: "/partners/", text: "Partners & Sponsors"}
-# - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
+# - {permalink: "/sessions/", text: "Sessions"}
+ - {permalink: "/transport/", text: "Location"}
+#  - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {permalink: "/cod/", text: "Code of Conduct"}
+# rightNavigationButtons:
+#  - {permalink: "/program/", text: "Program"}
+#  - {link: "https://www.eventbrite.com.au/e/resbaz-sydney-2023-tickets-707597462057", text: "Register"}
+ 
+ # - {link: "https://twitter.com/resbazqld", text: "Follow us for updates"}
    # bottomNavigationLinks:
   # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
 #rightNavigationButtons:
 # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved - volunteer here!"}
 
+
 # Hero Block
-heroImage: "160273_02_OCTOBER_2018_JACKHARLEM-944_v02.jpg"
-heroTitle: "Research Bazaar Queensland"
-eventDate: "Nov 21-23 2023"
+heroImage: "melbourne.jpg"
+heroTitle: "Research Bazaar Victoria"
+eventDate: "Nov 26-28 2024"
 
 
 
 # About Block
-aboutTitle: "About ResBaz Queensland"
+aboutTitle: "About ResBaz Victoria"
 aboutSubtitle: "A festival of digital research"
-aboutText: "<p>ResBaz is more than a conference - it's a three day festival of digital research training, where researchers from all disciplines come together to learn new skills in an interactive, collaborative and above all fun setting. Featuring workshops, talks, discussion sessions, networking and plenty of social activities, ResBazQld provides participatory training spanning nearly fifty different topics of cutting-edge digital research tools and techniques. </p>
+aboutText: "<p>The Research Bazar is a dynamic forum designed to empower researchers with cutting-edge digital research tools and skills. Much like a bustling marketplace or bazaar, ResBaz provides a vibrant platform where researchers from diverse disciplines converge to enhance their capabilities, exchange knowledge, and foster meaningful connections.</p>
 
-<p>ResBazQld is now in its seventh year, and in 2023 is hosted by The University of Queensland, with partner events held at university campuses around Australia and across the world. In the spirit of a marketplace or bazaar, ResBaz is a highly participatory event where researchers from many different disciplines can learn, share knowledge and skills, and have fun!</p>
+<p>ResBaz Victoria 2024 will be a face-to-face event hosted by the Monash University eResearch Centre. With a strong emphasis on participation and collaboration, ResBaz offers an immersive experience where individuals can learn, share, and network, driving innovation and collaboration across the research community.</p>
 
-<p>Who should attend? Researchers at ALL levels from ALL disciplines. PhD candidates, research Masters students and early career researchers are especially encouraged to attend. Research technologists and research software engineers who support researchers to do their job should also come along! Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>."
+<p>Researchers at ALL levels from ALL disciplines are invited! PhD candidates, research master’s students and early career researchers are especially encouraged to attend. Research technologists and software engineers supporting researchers to do their jobs should also come along!</p>
+
+<p>Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
+
+# <p>You can view the program <a href='http://127.0.0.1:4000/resbazvic2024/schedule/'>here</a> and register <a href='https://www.eventbrite.com.au/'>here</a>.</p>"
+
 
 # Statistic Block
 # statisticBlockImage: "statistic.jpg"
@@ -94,20 +107,20 @@ rockstarSpeakersTitle: "Keystory speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Michie Building (building 9), The University of Queensland"
-eventLocationLink: "https://goo.gl/maps/wRM7Hw6LGUnkebkcA"
-eventStreetAddress: "9 Chancellors Place"
-eventAddressLocality: "The University of Queensland - St Lucia Campus"
-eventAddressLocalityRegion: "St Lucia, Brisbane"
-eventPostalCode: "4072"
-eventAddressCountry: "Australia"
-eventStartTime: "2023-11-21T09:00"
-eventDoorTime: "09:00"
-eventEndTime: "2023-11-23T17:00"
-eventPlaceCoordinates: "-27.497270750611534, 153.01185796853596"
-mapCenterCoordinates: "-27.497270750611534, 153.01185796853596"
-mapMobileCenterCoordinates: "-27.497270750611534, 153.01185796853596"
+# locationBlockTitle: "Location"
+# eventLocationName: "Learning and Teaching Building, Monash University Clayton"
+# eventLocationLink: "https://maps.app.goo.gl/CnW7cjSEtHyMy5pT8"
+# eventStreetAddress: "19 Ancora Imparo Wy"
+# eventAddressLocality: "Monash University - Clayton Campus"
+# eventAddressLocalityRegion: "Clayton, VIC"
+# eventPostalCode: "3168"
+# eventAddressCountry: "Australia"
+# eventStartTime: "2024-11-26T09:00"
+# eventDoorTime: "09:00"
+# eventEndTime: "2024-11-28T17:00"
+# eventPlaceCoordinates: "-27.497270750611534, 153.01185796853596"
+# mapCenterCoordinates: "-27.497270750611534, 153.01185796853596"
+# mapMobileCenterCoordinates: "-27.497270750611534, 153.01185796853596"
 #
 # Venue Block
 # venueBlockTitle: "Past Events"
@@ -119,13 +132,13 @@ mapMobileCenterCoordinates: "-27.497270750611534, 153.01185796853596"
 # venueFeatures: ["Mix of online and in-person events", "Network and collaborate","Sessions streamed across Queensland"]
 
 # Tweets Feed Block
-tweetsFeedImage: "PurpleF_ResbazQld_NathCampus.jpg"
-tweetsFeedTitle: "What's the latest?"
-twitterHashTag: "ResBazQld"
-twitterFeed: "https://twitter.com/ResBazQld"
+# tweetsFeedImage: "PurpleF_ResbazQld_NathCampus.jpg"
+# tweetsFeedTitle: "What's the latest?"
+# twitterHashTag: "ResBazVic"
+# twitterFeed: "https://twitter.com/MonasheResearch"
 
 # Partners Block
-# organizersTitle: "Organisers"
+organizersTitle: "Partners"
 # partnersTitle: "Partners"
 # partnersC4sponsorsButton: "See you next year!"
 # partnersLink: ""
@@ -179,43 +192,44 @@ twitterFeed: "https://twitter.com/ResBazQld"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/ResBazQld", icon: "twitter"}
- - {link: "https://instagram.com/ResBazQld", icon: "instagram"}
- - {link: "https://www.linkedin.com/events/resbazqld7107577402066694145/comments/", icon: "linkedin"}
- - {link: "https://www.qcif.edu.au/", icon: "site"}
- - {link: "https://forms.gle/5Kc4QUkhibvuopA48", icon: "mail"}
+ - {link: "https://twitter.com/MonasheResearch", icon: "twitter"}
+# - {link: "https://instagram.com/ResBazQld", icon: "instagram"}
+# - {link: "https://www.linkedin.com/events/resbazqld7107577402066694145/comments/", icon: "linkedin"}
+ - {link: "https://www.monash.edu/researchinfrastructure/eresearch", icon: "site"}
+ - {link: "mailto:ResBazVIC-l@monash.edu", icon: "email"}
+
+ # icon > hand > volunteer form 
 footerBlocks:
- -
+ #-
   #title: "Links"
   #links:
    #- {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
  -
   title: "National ResBaz Sponsors"
   links:
-   - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
+  #  - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
    - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
- -
-  title: "Gold Sponsors"
-  links:
-   - {link: "https://learningresources.sagepub.com/home", text: "SAGE Publications", imageUrl: "../img/organizers/sage2023.png"}
- -    
-#  title: "Silver Sponsor"
-#  links:
-#   #- {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
-# -  
+#  -
+#   title: "Gold Sponsors"
+#   links:
+#    - {link: "https://learningresources.sagepub.com/home", text: "SAGE Publications", imageUrl: "../img/organizers/sage2023.png"}
+#  -    
+#   title: "Silver Sponsor"
+#   links:
+#    - {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
+ -  
   title: "Collaborating Institutes"
   links:
-   - {text: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/uq.jpg"}
-   - {text: "QCIF", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png"}
-   - {link: "griffith.edu.au", text: "Griffith University", imageUrl: "https://www.griffith.edu.au/_globaldesigns/gen-10/images/griffith-logo-2.svg"}
-   - {text: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
-   - {text: "UniSC", description: "Sunshine Coast Uni", link: "https://www.usc.edu.au/", imageUrl: "../img/organizers/USC_Name.PNG"}
+   - {text: "Monash University", description: "Monash", link: "https://www.monash.edu/researchinfrastructure/eresearch", imageUrl: "../img/organizers/uq.jpg"}
+
  -  
-  title: "Contacts"
+  title: "Contacts for inquries"
   links:
-   - {link: "mailto:resbaz@qcif.edu.au", text: "resbaz@qcif.edu.au"}
-   - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Volunteer as a helper for ResBaz"}
-   - {link: "https://forms.gle/xxukxNN5FNFMEoZV9", text: "Submit a workshop for ResBaz"}
+   - {link: "mailto:ResBazVIC-l@monash.edu", text: "ResBazVIC-l@monash.edu"}
+   - {link: "https://forms.gle/2Qf7oZXSKiqLideUA", text: "Volunteer as a helper for ResBaz"}
+   - {link: "https://forms.gle/ZrPTPWCVNm4THPWb6", text: "Submit a workshop for ResBaz"} 
+   - {link: "https://forms.gle/W1YJgWhutMqimrcJ7", text: "Submit a poster for ResBaz Poster Session"} 
+   
  -
   title: "FAQ"
   links:
