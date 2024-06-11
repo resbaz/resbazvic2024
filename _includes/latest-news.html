@@ -7,7 +7,8 @@
 				{% for post in site.posts limit:6 %}
                     {% assign postUrl = site.baseurl | append: post.url %} 
 					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
-						<h6>{{ post.title }}</h6>
+						<h6><b>{{ post.title }}</b></h6>
+						<p>{{post.subtitle}}</p>
 						<p class="post-body">{{ post.content | strip_html | truncate: 250 }} <a href="{{ postUrl }}">continue reading</a></p>
 					</div>
                 {% endfor %}

@@ -31,7 +31,7 @@
   elements:
     - {name: "ARDC", description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
 -
-  group: "Institutions"
+  group: "Organiser"
   elements: 
      - {name: "eResearch Center", description: "Monash eReserach Centre", link: "https://www.monash.edu/researchinfrastructure/eresearch/", imageUrl: "../img/organizers/Monash_Black_RGB.png"}
     #  - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
