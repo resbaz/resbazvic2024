@@ -69,7 +69,7 @@ Participants asked to stop any harassing behaviors are expected to comply immedi
 
 If a participant engages in harassing behaviors, the workshop moderator may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the ResBaz volunteer team immediately. If you are being harassed by a workshop moderator or otherwise don’t feel safe reporting to them, please use our [Code of Conduct incident report form](https://docs.google.com/forms/d/e/1FAIpQLSdFB3GBmdqTVGy_snvnOWYLo_NM5qpIy3opPYu9R4QipboBsw/viewform?usp=sf_link). The ResBaz Victoria Code of Conduct Subcommittee will follow up promptly.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the ResBaz volunteer team immediately. If you are being harassed by a workshop moderator or otherwise don’t feel safe reporting to them, please use our [Code of Conduct incident report form](https://forms.gle/kpbRUYFwYRFRzKQ47). The ResBaz Victoria Code of Conduct Subcommittee will follow up promptly.
 
 ResBaz volunteers will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
