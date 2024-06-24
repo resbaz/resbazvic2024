@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Bazaar Policies and Code of Conduct
-permalink: /cod/
+permalink: /codeofconduct/
 image: discussion.jpg
 isStaticPost: true
 ---
