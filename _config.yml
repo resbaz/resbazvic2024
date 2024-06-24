@@ -55,7 +55,7 @@ navigationLinks:
 # - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Location"}
 #  - {permalink: "/partners/", text: "Partners & Sponsors"}
- - {permalink: "/cod/", text: "Code of Conduct"}
+ - {permalink: "/codeofconduct/", text: "Code of Conduct"}
 # rightNavigationButtons:
 #  - {permalink: "/program/", text: "Program"}
 #  - {link: "https://www.eventbrite.com.au/e/resbaz-sydney-2023-tickets-707597462057", text: "Register"}
