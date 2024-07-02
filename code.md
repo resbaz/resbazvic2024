@@ -12,7 +12,7 @@ Coming to ResBaz? Please read our policies (recording, reporting and anti-harass
 
 Throughout these policies, we refers to the Research Bazaar team of volunteers. This includes members of the organising committee, workshop instructors and helpers, session facilitators and background technical hosts.
 
-By registering to attend a workshop or presentation at the Victoria Research Bazaar, **you agree to be bound by these policies and Code of Conduct.**
+By registering to attend a workshop or presentation at the Research Bazaar Victoria, **you agree to be bound by these policies and Code of Conduct.**
 
 
 #### Code of Conduct
@@ -28,6 +28,13 @@ The Research Bazaar is a learning environment where everyone is welcome. It’s 
 **Be respectful.** Participants come from a huge range of backgrounds and experience levels. Everyone should feel comfortable to ask for the help they need to understand the discussion. Listen and support others to learn. Remember that everyone here has their own field of expertise.
 
 **Be kind to others.** Be careful and respectful in the words that you choose to use. Do not insult or put down other participants or their background.
+
+#### Photography/video/audio recording policy
+
+We will be taking photographs and (potentially) videos of sessions (formal and social) at ResBaz. These images and recordings may be used to promote the conference and other activities by the Research Bazaar Vic team.
+If you do not wish to be photographed, please let the organisers know about this.
+If someone indicates that they do not wish to be photographed, respect their wishes and delete any photographs you have taken that include them. This includes group shots and photographs where they appear in the background.
+
 
 #### Recording policy
 
@@ -69,7 +76,7 @@ Participants asked to stop any harassing behaviors are expected to comply immedi
 
 If a participant engages in harassing behaviors, the workshop moderator may take any action they deem appropriate, including warning the offender or expulsion from the event.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the ResBaz volunteer team immediately. If you are being harassed by a workshop moderator or otherwise don’t feel safe reporting to them, please use our [Code of Conduct incident report form](https://forms.gle/kpbRUYFwYRFRzKQ47). The ResBaz Victoria Code of Conduct Subcommittee will follow up promptly.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the ResBaz volunteer team immediately. If you are being harassed by a workshop moderator or otherwise don’t feel safe reporting to them, please use our [Code of Conduct incident report form](https://forms.gle/kpbRUYFwYRFRzKQ47). The ResBazVic Code of Conduct Subcommittee will follow up promptly.
 
 ResBaz volunteers will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
