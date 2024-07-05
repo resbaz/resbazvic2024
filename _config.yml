@@ -13,7 +13,7 @@ future: true # Enable future posts (date > current date)
 # Site Settings
 title: "Research Bazaar Victoria"
 email: "mailto:ResBazVIC-l@monash.edu"
-description: "Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
+description: "Run by a team from Monash eResearch Centre, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship."
 baseurl: "/resbazvic2024"
 # url: "https://resbaz.github.io/resbaz2024victoria/"
 url: "https://resbaz.github.io/resbazvic2024/" 

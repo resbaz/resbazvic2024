@@ -35,11 +35,6 @@ We will be taking photographs and (potentially) videos of sessions (formal and s
 If you do not wish to be photographed, please let the organisers know about this.
 If someone indicates that they do not wish to be photographed, respect their wishes and delete any photographs you have taken that include them. This includes group shots and photographs where they appear in the background.
 
-
-#### Recording policy
-
-We will record all presentations and keystory talks offered through the general registration program. We intend to publish these recordings and any slides together after the event, and make them available through this website. Workshops will not be recorded.
-
 #### Reporting/blogging/social media policy
 
 We encourage all ResBaz attendees to join the conversation on Twitter before, during and after the conference using *#ResBazVic*. We also encourage attendees to discuss their experiences by blogging or writing pieces for their home institution blogs and newsletters if appropriate. We will be covering the conference by live-tweeting and blogging. Attendees are reminded that the Code of Conduct and Anti-Harassment policy extend to online interactions associated with the Research Bazaar.
