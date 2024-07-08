@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Bazaar Victoria</title>
-    <description>Run by a team of volunteers from south-east Queensland universities, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship.</description>
+    <description>Run by a team from Monash eResearch Centre, Research Bazaar (ResBaz for short) is a skill- and community-building festival where HDR students and early career researchers come together to learn the latest in digital research tools and digital scholarship.</description>
     <link>http://118.138.242.96:4000/resbazvic2024/</link>
     <atom:link href="http://118.138.242.96:4000/resbazvic2024/feed.xml" rel="self" type="application/rss+xml" />
     
