@@ -51,7 +51,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
 # - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
 #  - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/registration/", text: "Program"}
+ - {permalink: "/program/", text: "Program"}
 #  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Location"}
