@@ -205,13 +205,14 @@ footerBlocks:
   #links:
    #- {link: "https://www.flickr.com/photos/bystandr/", text: "All site background images copyright Dr Nick"}
  -
-  title: "National ResBaz Sponsors"
+  title: "National Sponsors"
   links:
   #  - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
    - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
-#  -
-#   title: "Gold Sponsors"
-#   links:
+ -
+  title: "Gold Sponsors"
+  links:
+   - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
 #    - {link: "https://learningresources.sagepub.com/home", text: "SAGE Publications", imageUrl: "../img/organizers/sage2023.png"}
 #  -    
 #   title: "Silver Sponsor"
