@@ -49,7 +49,7 @@ navigationLinks:
 # - {link: "https://events.humanitix.com/resbazqld-2023", text: "Register"}
 # - {link: "https://www.eventbrite.com/o/monash-eresearch-centre-80527865623", text: "Register"}
  - {permalink: "/news/", text: "News"}
-# - {link: "https://forms.gle/5Kc4QUkhibvuopA48", text: "Get involved"}
+ - {link: "https://redcap.link/resbazvic2024", text: "Get involved"}
 #  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/program/", text: "Program"}
 #  - {permalink: "/speakers/", text: "Speakers"}
@@ -226,9 +226,9 @@ footerBlocks:
   title: "Contacts for inquries"
   links:
    - {link: "mailto:ResBazVIC-l@monash.edu", text: "ResBazVIC-l@monash.edu"}
-   - {link: "https://forms.gle/2Qf7oZXSKiqLideUA", text: "Volunteer as a helper for ResBaz"}
-   - {link: "https://forms.gle/ZrPTPWCVNm4THPWb6", text: "Submit a workshop for ResBaz"} 
-   - {link: "https://forms.gle/W1YJgWhutMqimrcJ7", text: "Submit a poster for ResBaz Poster Session"} 
+   - {link: "https://redcap.link/resbazvic2024", text: "Volunteer as a helper for ResBaz"}
+   - {link: "https://redcap.link/resbazvic2024", text: "Submit a workshop for ResBaz"} 
+   - {link: "https://redcap.link/resbazvic2024", text: "Submit a poster for ResBaz Poster Session"} 
    
  -
   title: "FAQ"

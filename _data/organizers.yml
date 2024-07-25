@@ -27,13 +27,18 @@
 
 
 -
-  group: "Sponsors"
+  group: "National Sponsors"
   elements:
-    - {name: "ARDC", description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+    - {name: "", description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+-
+  group: "Gold Sponsors"
+  elements: 
+    - {name: "", description: "GALE", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "../img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
+    #- {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
 -
   group: "Organiser"
   elements: 
-     - {name: "eResearch Center", description: "Monash eReserach Centre", link: "https://www.monash.edu/researchinfrastructure/eresearch/", imageUrl: "../img/organizers/Monash_Black_RGB.png"}
+    - {name: "eResearch", description: "Monash eResearch Centre", link: "https://www.monash.edu/researchinfrastructure/eresearch/", imageUrl: "../img/organizers/Monash_Black_RGB.png"}
     #  - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
     #  - {name: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/UQlogo-Purple-rgb.png"} 
     #  - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
