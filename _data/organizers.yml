@@ -38,7 +38,7 @@
 -
   group: "Organiser"
   elements: 
-    - {name: "eResearch", description: "Monash eResearch Centre", link: "https://www.monash.edu/researchinfrastructure/eresearch/", imageUrl: "../img/organizers/Monash_Black_RGB.png"}
+    - {name: "eResearch", description: "Monash eResearch", link: "https://www.monash.edu/researchinfrastructure/eresearch/", imageUrl: "../img/organizers/Monash_Black_RGB.png"}
     #  - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}
     #  - {name: "The University of Queensland", description: "UQ", link: "https://www.uq.edu.au/", imageUrl: "../img/organizers/UQlogo-Purple-rgb.png"} 
     #  - {name: "QUT", description: "QUT", link: "https://www.qut.edu.au/", imageUrl: "../img/organizers/QUT.gif"}
