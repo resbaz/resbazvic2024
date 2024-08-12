@@ -231,7 +231,7 @@ footerBlocks:
    - {link: "mailto:ResBazVIC-l@monash.edu", text: "ResBazVIC-l@monash.edu"}
    - {link: "https://redcap.link/resbazvic2024", text: "Volunteer as a helper for ResBaz"}
    - {link: "https://redcap.link/resbazvic2024", text: "Submit a workshop for ResBaz"} 
-   - {link: "https://redcap.link/ResBaz Vic2024", text: "Submit a poster for ResBaz Poster Session"} 
+   - {link: "https://redcap.link/resbazvic2024", text: "Submit a poster for ResBaz Poster Session"} 
    
  -
   title: "FAQ"
