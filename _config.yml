@@ -80,11 +80,15 @@ aboutTitle: "About ResBaz Victoria"
 aboutSubtitle: "A festival of digital research"
 aboutText: "<p>The Research Bazaar is a dynamic forum designed to empower researchers with cutting-edge digital research tools and skills. Much like a bustling marketplace or bazaar, ResBaz provides a vibrant platform where researchers from diverse disciplines converge to enhance their capabilities, exchange knowledge, and foster meaningful connections.</p>
 
-<p>ResBaz Victoria 2024 will be a face-to-face event hosted by the Monash University eResearch. With a strong emphasis on participation and collaboration, ResBaz offers an immersive experience where individuals can learn, share, and network, driving innovation and collaboration across the research community.</p>
+<p>Join us for an engaging, in-person event that emphasizes participation and collaboration. ResBaz Victoria 2024 is more than just a conference—it's an immersive experience where researchers can learn, share, and network, fostering innovation and collaboration across the research community.</p>
 
-<p>Researchers at ALL levels from ALL disciplines are invited! PhD candidates, research master’s students and early career researchers are especially encouraged to attend. Research technologists and software engineers supporting researchers to do their jobs should also come along!</p>
+<p><b>We welcome researchers at ALL levels, from ALL disciplines, and from ALL Australian Research Institutes!</b> Whether you're a PhD candidate, a research master’s student, an early career researcher, or a research technologist or software engineer supporting research, this event is for you. Come be part of the conversation and help drive the future of research forward!</p>
 
 <p>Sessions at this year's ResBaz will offer a brief practical introduction to a broad selection of topics and tools related to digital research practice relevant across the disciplines.</p>"
+
+# <p>ResBaz Victoria 2024 will be a face-to-face event hosted by the Monash University eResearch. With a strong emphasis on participation and collaboration, ResBaz offers an immersive experience where individuals can learn, share, and network, driving innovation and collaboration across the research community.</p>
+
+# <p>Researchers at ALL levels from ALL disciplines are invited! PhD candidates, research master’s students and early career researchers are especially encouraged to attend. Research technologists and software engineers supporting researchers to do their jobs should also come along!</p>
 
 # <p>You can view the program <a href='http://127.0.0.1:4000/resbazvic2024/schedule/'>here</a> and register <a href='https://www.eventbrite.com.au/'>here</a>.</p>"
 
@@ -215,9 +219,9 @@ footerBlocks:
    - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
 #    - {link: "https://learningresources.sagepub.com/home", text: "SAGE Publications", imageUrl: "../img/organizers/sage2023.png"}
 #  -    
-#   title: "Silver Sponsor"
-#   links:
-#    - {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
+  title: "Silver Sponsor"
+  links:
+   - {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
  -  
   title: "Collaborating Institutes"
   links:
