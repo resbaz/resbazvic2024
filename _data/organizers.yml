@@ -34,7 +34,10 @@
   group: "Gold Sponsors"
   elements: 
     - {name: "", description: "GALE", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "../img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}
-    #- {name: "AARNet", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
+-
+  group: "Silver Sponsors"
+  elements: 
+    - {name: "", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
 -
   group: "Organiser"
   elements: 
