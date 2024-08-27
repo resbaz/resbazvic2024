@@ -1,41 +1,49 @@
 -
-  id: 6
-  name: "Research Computing"
+  id: 1
+  name: "Diversity and Inclusion in Research & Digital Platforms"
   color: "#1e90ff"
   fontColor: "#000000"
-
--
-  id: 3
-  name: "Digital Humanities"
-  color: "#0000ff"
-  fontColor: "#000000"
-
--
-  id: 1
-  name: "Learning and Using Python"
-  color: "#00ff00"
-  fontColor: "#000000"
-
 -
   id: 2
-  name: "Learning and Using R"
-  color: "#40e0d0"
+  name: "Genomics"
+  color: "#00ff00"
   fontColor: "#000000"
-
+-
+  id: 3
+  name: "Imaging & visualisation"
+  color: "#ff0000"
+  fontColor: "#000000"
 -
   id: 4
-  name: "Data Literacy, Openness and Frontiers"
+  name: "Modelling and simulations"
+  color: "#c71585"
+  fontColor: "#000000"
+-
+  id: 5
+  name: "Machine learning & AI"
+  color: "#1e90ff"
+  fontColor: "#000000"
+-
+  id: 6
+  name: "Digital technologies for humanities"
+  color: "#00ff00"
+  fontColor: "#000000"
+-
+  id: 7
+  name: "(Health) data management"
+  color: "#ff0000"
+  fontColor: "#000000"
+-
+  id: 8
+  name: "Cybersecurity"
   color: "#c71585"
   fontColor: "#000000"
 
--
-  id: 5
-  name: "Personal and Career Development"
-  color: "#ffd700"
-  fontColor: "#000000"
+  
 
--
-  id: 0
-  name: "Keystory Talk"
-  color: "#ff0000"
-  fontColor: "#000000"
+
+
+
+
+
+

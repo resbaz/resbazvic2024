@@ -1,0 +1,31 @@
+-
+  id: 1
+  name: "Talk"
+  color: "#1e90ff"
+  fontColor: "#000000"
+
+-
+  id: 2
+  name: "Workshop"
+  color: "#00ff00"
+  fontColor: "#000000"
+-
+  id: 3
+  name: "Key Story"
+  color: "#ff0000"
+  fontColor: "#000000"
+-
+  id: 4
+  name: "Panel Discussion"
+  color: "#c71585"
+  fontColor: "#000000"
+-
+  id: 5
+  name: "Others"
+  color: "#c71585"
+  fontColor: "#000000"
+- 
+  id: 6
+  name: "Multisession"
+  color: "#c71585"
+  fontColor: "#000000"

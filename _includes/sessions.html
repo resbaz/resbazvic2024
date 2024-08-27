@@ -11,38 +11,67 @@
             {% for session in site.data.sessions %}
                 {% if session.id != 301 and session.id != 503 and session.id != 000 and session.hidden != true %} 
                     <div class="grid-item {% for theme in session.themes %}theme_{{theme}} {% endfor %}">
+
                         <h5>{{ session.title  }}</h5>
-                        <p>{% if session.subtype != null %}
+                        <!-- <p>{% if session.subtype != null %}
 						<span class="theme-metadata">{{ session.subtype }}</span>
-						{% endif %}</p>
-                        <p>{% if session.complexity != null %}
-						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.complexity }}</span>
-						{% endif %}</p>
-						<p>{% if session.length != null %}
-						<span class="theme-metadata"><span class="caption">Length: </span>{{ session.length }}</span>
-						{% endif %}</p>
-						<p>{% if session.capacity != null %}
-						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.capacity }}</span>
-						{% endif %}</p>
+						{% endif %}</p> -->
+                        
+                        
+                        <p class="theme-metadata">
+                            {% for speaker in site.data.speakers %}
+                                {% for session_speaker in session.speakers %}
+                                    {% if session_speaker == speaker.id %}
+                                        {{speaker.title}} {{speaker.name}} {{speaker.surname}}
+                                        <br>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endfor %}
+                        
+                        </p>
+
+                        <div class="slot-type">
+                            {% for type in site.data.types %}
+                                {% for session_type in session.types %}
+                                    {% if session_type == type.id %}
+                                    <div style="background-color:{{type.color}}12; color: {{type.fontColor}}; border-color: {{type.color}};">
+                                        {{type.name}} 
+                                    </div>
+                                    {% endif %}
+                                {% endfor %}
+                            {% endfor %}
+                        </div>
+
+
+                        {% if session.complexity != null %}
+						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.complexity }}</span><br>
+						{% endif %}
+						{% if session.length != null %}
+						<span class="theme-metadata"><span class="caption">Length: </span>{{ session.length }}</span><br>
+						{% endif %}
+						{% if session.capacity != null %}
+						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.capacity }}</span><br>
+						{% endif %}
                         <p>{% if session.recorded != null %}
                         <span class="theme-metadata"><span class="caption">Recorded: </span>{{ session.recorded }}</span>
                         {% endif %}</p>
                         <p>{% if session.registration_link != null %}
                             <span class="theme-metadata"><a href="{{ session.registration_link }}">Registration link</a></span>
                         {% endif %}</p>
-                        <hr />
+                        
+                        <hr/>
                         <span class="text-body">{{ session.description }}</span>
-                        <div class="slot-theme">
+                        <!-- <div class="slot-topic">
                             {% for theme in site.data.themes %}
                                 {% for session_theme in session.themes %}
                                     {% if session_theme == theme.id %}
-                                    <div style="background-color:{{theme.color}}12; color: {{theme.fontColor}}; border-color: {{theme.color}};">
+                                    <div style="background-color:rgb(235, 235, 235); border-color: lightgrey;">
                                         {{theme.name}}
                                     </div>
                                     {% endif %}
                                 {% endfor %}
                             {% endfor %}
-                        </div>
+                        </div> -->
                     </div>
                 {% endif %}
             {% endfor %}

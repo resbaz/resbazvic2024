@@ -24,14 +24,14 @@
   hidden: true
   description: null
 -
-  title: 'Introduction to processing, visualization and mapping of spatial data in R *'
+  title: 'Cybersecurity awareness and practices when developing research software'
   themes: []
   id: 0
   speakers: [45]
-  subtype: Workshop
+  subtype: Talks
   service:
   hidden: false
-  description: <p>The goal of this course is to provide introductory training in spatial data processing, visualization, and mapping using R. The course focuses on a small set of popular packages for these tasks, many of which are drawn from a collection of packages called tidyverse. We will explain the new capabilities of packages terra and sf, why they should be used instead of other alternatives such as raster and sp,  and how packages with strong dependencies on rgdal, rgeos and maptools (recently archived on CRAN) must be either upgraded to use sf, terra or other alternatives.  We'll also create some graphs to summarize the data and explore options for map generation.</p>
+  description: 
 -
   title: Knowledge bazaar
   themes: []
@@ -87,15 +87,6 @@
   hidden: true
   description: null
 -
-  title: 'Research infrastructure: The secret third thing'
-  themes: [5, 6]
-  id: 2001
-  speakers: [10, 55]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: '<p>Research infrastructure -- the facilities, resources or services that foster and facilitate innovation -- is the invisible foundation underpinning moden research. As an HDR student or ECR -- are you aware of research infrastructure at your institution? What services, resources, and facilities can you access as an HDR? Even more importantly, could you turn research infrastructure into a career?</p><p>This two-part workshop will help you answer these questions, and provide information about the secret third career option: not research, not professional, but an excellent option for HDRs across many fields. Firstly, participants will discover (for themselves!) information about their own institutions: what services/training exist, where it’s advertised, how the institution handles RI, and who manages it. Then we will present success stories of people moving from research fields into RI, and help the participants consider if an RI career is right for them.</p>'
--
   title: Ethical AI panel
   themes: '#N/A'
   id: '#N/A'
@@ -105,583 +96,239 @@
   hidden: true
   description: ""
   10: '#N/A'
+
 -
-  title: 'Digital data for HASS and Indigenous researchers: ‘people’ behind the data'
-  themes: [0]
-  id: 1001
-  speakers: [1]
-  subtype: Talk
-  service:
-  hidden: false
-  description: <p>Humanities, Arts, and Social Sciences (HASS) research data plays a crucial role in advancing our comprehension of culture, society, and human well-being. In 2020, the HASS and Indigenous Research Data Commons (HASS and I RDC) Program was established with the objective of establishing a comprehensive digital research infrastructure for HASS and Indigenous researchers and communities. Key strands of the HASS&I RDC that have been developed to date include:</p><ul><li>Language Data Commons of Australia,</li><li>Integrated Research Infrastructure for Social Sciences,</li><li>Improving Indigenous Research Capabilities,</li><li>Community Data Lab.</li></ul><p>This interconnected network of people, data resources, and research tools is bound together by shared technical standards, distributed technical systems, deliberate governance frameworks, open-source tools, and extensive training provisions. It is essential to emphasize that the program is firmly committed to Indigenous data governance and sovereignty, which underpin its fundamental principles. This presentation will anthropomorphise the condition of digital HASS data to highlight the individuals, families and cultural groups represented within ‘people’ data. The audience will gain insights into the challenges associated with reclaiming cultural heritage, achieved through rigorous exploration of Aboriginal languages, stories, art, and identity. Additionally, we will explore the recontextualization of historic research within a contemporary framework.</p>
-  10: "0"
--
-  title: Digital research infrastructure - Building 'datascopes' for 21st century discovery and the role of research infrastructure in the future
-  themes: [0]
-  id: 1003
-  speakers: [3]
-  subtype: Talk
-  service:
-  hidden: false
-  description: <p>Digital research infrastructure has become paramount for the advancement of all scientific research and innovation. We explore the fundamental shifts requiring greater coordination and connections across the entire data lifecycle (technology and processes) within and between research organisations. We will highlight the importance of enhancing digital skills across the research workforce and raise awareness of the national research infrastructures to effectively develop and manage connections in Australia.</p>
-  10: "0"
--
-  title: Hopefully good and some definitively bad advice for researchers in the digital AI age
-  themes: [0]
-  id: 1005
-  speakers: [5]
-  subtype: Talk
-  service:
-  hidden: false
-  description: <p>Researchers are expected to know their field inside out and be on top of the application domains the research they are doing can benefit. This requirement can be a challenging endeavour at the best of times, but has become extraordinarily chaotic in light of the pace of recent developments in the digital domain, particularly in areas like artificial intelligence, and their increasingly wide reaching consequences. How is our way of doing research being disrupted, both positively and negatively? Are the things we’re researching even relevant anymore, given the rapid change in the application domains where that research might be used? Questions like these can make even the most self-assured researcher doubt their path forwards. A sensible action to take in such circumstances is to ask experienced peers for advice, but what was “sensible” and valid advice even five years ago isn’t necessarily good advice today. In my talk, I’ll present insights and advice, both good and bad, for how to successfully navigate current changes, drawing upon my experiences advising industry, government and research sectors.</p>
-  10: "0"
--
-  title: 'Online science communication: an evidence-based guide on how to get started'
-  themes: [0]
-  id: 1004
-  speakers: [4]
-  subtype: Talk
-  service:
-  hidden: false
-  description: <p>Video-based learning is built upon Mayer’s multimedia theory of learning, which emphasises the value of flexible communication skills to lower the burden of cognitive load for diverse audiences.  Online multimedia can be leveraged for science communication, but the production of high-quality online resources has significant resource implications.  This project evaluated large undergraduate science courses that embedded over 100 hours of video content from 2020-2022 to determine best-practice guidelines for producing effective online multimedia.  Participant survey and interview results revealed broad agreement with the value of segmenting information, presenter presence, and mixed perspectives in science videos.  However individual student preferences varied on the extent of presenters’ on-screen visibility, use of graphics, and subtitling.  Video analytics revealed a decrease in viewer retention as each video progresses, but this rate of decline can be slowed through on-screen text, animations, and camera angle changes. Together this data provides an evidence-based framework for designing science videos that will engage different online audiences and disseminate your research.</p>
-  10: "0"
--
-  title: From Research Platforms to Commercial Platforms
-  themes: [0]
-  id: 1006
-  speakers: [6]
-  subtype: Talk
-  service:
-  hidden: false
-  description: "What lessons can be learnt when transitioning from a research based environment to a commercial environment and how we at Ceres Tag were able to transform a research product into an international commercial product."
-  10: "0"
--
-  title: 'Unlocking innovation: The science of research commercialisation'
-  themes: [0]
+  title: 'Cybersecurity awareness and practices when developing research software'
+  types: [1]
+  themes: [8]
   id: 1002
-  speakers: [2]
-  subtype: Talk
-  service:
+  speakers: [3]
   hidden: false
-  description: <p>There are many reasons a researcher should think about the commercialisation of their research, from tangibly solving the world's biggest problems, to creating more industry engagement and increasing funding opportunities in the future. Join Rachel in this session to discover the many reasons why research commercialisation matters, and explore the pathways to commercialise research. This is basically a crash course in research commercialisation mixed with a dash of personal reflections from Rachel’s entrepreneurship and research commercialisation experience so far. The goal of this session is for you to walk away feeling inspired and encouraged and hopefully thinking about how your research can be commercialised.</p>
-  10: "0"
+  description: '<p></p>'
+  complexity:
+  length: 30 minutes
+  capacity: Limited
 -
-  title: 'Generating graphs using Python and ChatGPT *'
-  themes: [1]
-  id: 51
-  speakers: [32]
-  subtype: Workshop
-  service:
+  title: 'Key Story Talks'
+  types: [3]
+  id: 1003
+  speakers: [4]
   hidden: false
-  description: <p>ChatGPT has quickly become an incredibly useful tool for coders and data scientists. This workshop will explore using ChatGPT in conjunction with Python programming to generate graphs from numerical data.</p>
-  10: "1"
+  description: <p></p>
+  complexity:
+  length: 30 minutes
+  capacity: Limited
 -
-  title: 'Introductory Programming with Python *'
-  themes: [1]
-  id: 11
-  speakers: [36]
-  subtype: Workshop
-  service:
+  title: Digital Scholar Lab - GALE
+  types: [2]
+  id: 1004
+  speakers: [5,6]
   hidden: false
-  description: <p>This three-session workshop gives a basic introduction to programming with the Python language -- people with no prior programming experience especially welcome! Participants will get hands-on experience writing a Python notebook to automate some common data analysis tasks. The three sessions will cover how to:</p><ol><li>start using Python and import data tables from text files</li><li>create plots to visualize data, and use lists and loops to repeat actions</li><li>write logical tests and custom functions for more powerful code</li></ol><p>Ideally participants should install Python on their own computers, but browser-based access will be provided as an option. Installation details will be provided soon. The workshop will be based on the Software Carpentry course <a href="https://swcarpentry.github.io/python-novice-inflammation/">Programming with Python</a>.</p>
-  10: "1"
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
 -
-  title: 'Programming with Python 2: lists and loops'
-  themes: [1]
-  id: 21
-  speakers: [36]
-  subtype: Workshop
-  service:
-  hidden: true
-  description: ""
-  10: "1"
--
-  title: 'Programming with Python 3: flow control and functions'
-  themes: [1]
-  id: 41
-  speakers: [36]
-  subtype: Workshop
-  service:
-  hidden: true
-  description: ""
-  10: "1"
--
-  title: Introducing computational thinking
-  themes: [1, 2]
-  id: 31
-  speakers: [9]
-  subtype: Workshop
-  service:
+  title: Research Data Governance
+  types: [1, 2]
+  id: 1005
+  speakers: [7]
   hidden: false
-  description: <p>This workshop introduces computational thinking as a precursor to learning how to write code in programming languages like R or Python. It will cover the steps involved in breaking down complex problems into computable chunks.</p>
-  10: "1"
-  followon:
-    title: 'Research infrastructure: The secret third thing'
-    themes: [5, 6]
-    speakers: [10, 55]
-    subtype: Workshop
-    description: '<p>Research infrastructure -- the facilities, resources or services that foster and facilitate innovation -- is the invisible foundation underpinning moden research. As an HDR student or ECR -- are you aware of research infrastructure at your institution? What services, resources, and facilities can you access as an HDR? Even more importantly, could you turn research infrastructure into a career?</p><p>This two-part workshop will help you answer these questions, and provide information about the secret third career option: not research, not professional, but an excellent option for HDRs across many fields. Firstly, participants will discover (for themselves!) information about their own institutions: what services/training exist, where it’s advertised, how the institution handles RI, and who manages it. Then we will present success stories of people moving from research fields into RI, and help the participants consider if an RI career is right for them.</p>'
+  description: <p></p>
+  complexity:
+  length: 1.5 hour
+  capacity: Limited
 -
-  title: Introduction to Jupyter Notebooks 
-  themes: [1, 2]
-  id: 61
-  speakers: [10, 12]
-  subtype: Workshop
-  service:
+  title: Tools for for visualising beyond 3D
+  types: [2]
+  id: 1006
+  speakers: [3]
   hidden: false
-  description: <p>This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data.</p><p>You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research.</p><ul><li>Describe what Jupyter Notebooks are, what they do and how they work.</li><li>Define and explain terms related to coding and cloud computing (jargon busting).</li><li>Learn about online options for using Jupyter Notebooks.</li><li>Demonstrate how Jupyter Notebooks fit into the research landscape.</li><li>Recognise and apply some basic Markdown, Python and/or R commands.</li><li>Open a Jupyter Notebook, perform some basic programming tasks and save it for later.</li></ul>
-  10: "1"
+  description: <p></p>
+  complexity:
+  length: 3 hours (multi-session)
+  capacity: Limited
 -
-  title: 'Introduction to chrono-urbanism and spatial networks in R *'
-  themes: [2]
-  id: 62
-  speakers: [51]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>The goal of this workshop is to provide some foundations in chrono-urbanisms and spatial network analyses with OSM and GTFS data to generate isochrones, public transport routes, travel time matrices, shortest network routes all of which can vary according to a range of parameters including transport modes, walking and cycling speeds, tolerable cyclist level of traffic stress, time of departure etc. The packages used will include tidyverse, sf, tmap, and r5r.</p>
-  10: "2"
--
-  title: 'Introduction to spatial analysis in R *'
-  themes: [2]
-  id: 92
-  speakers: [22, 23, 24, 45]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>The goal of this course is to provide introductory training in spatial data processing, visualization, and mapping using R. The course focuses on a small set of popular packages for these tasks, many of which are drawn from a collection of packages called tidyverse. We will explain the new capabilities of packages terra and sf, why they should be used instead of other alternatives such as raster and sp,  and how packages with strong dependencies on rgdal, rgeos and maptools (recently archived on CRAN) must be either upgraded to use sf, terra or other alternatives.  We'll also create some graphs to summarize the data and explore options for map generation.We will also cover common problems you might encounter in R spatial, and how to solve them.</p>
-  10: "2"
--
-  title: 'Introductory R for scientific analysis *'
-  themes: [2]
-  id: 12
-  speakers: [40, 24, 53]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: '<p>In this introductory workshop we will overview how and why to use R and RStudio. In this you will also learn the important foundations to setting up a good R Project, how to interact within RStudio and learn the fundamentals of using R for your research.</p><pThis part 1 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.</p><p>This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.</p><p>This workshop is based on the Carpentries course: <a href="https://datacarpentry.org/R-ecology-lesson/">Data Analysis and Visualization in R for Ecologists</a>.</p>'
-  10: "2"
--
-  title: 'R Shiny Essentials: From Data to Interactive Dashboards *'
-  themes: [2]
-  id: 72
-  speakers: [48]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>In this workshop we will provide an introduction to R Shiny, and how you can use it to create web apps, and more interactive data visualisations. We will go over how to build a basic Shiny application, and cover the best practices and resources when approaching Shiny.</p>
-  10: "2"
--
-  title: 'R for scientific analysis: Introduction to R (continued)'
-  themes: [2]
-  id: 22
-  speakers: [40, 24, 53]
-  subtype: Workshop
-  service:
-  hidden: true
-  description: '<p>In this workshop we will continue the overview of how and why to use R and RStudio. In this you will also learn the important foundations to setting up a good R Project, how to interact within RStudio and learn the fundamentals of using R for your research.</p><p>This part 2 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.</p><p>This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.</p><p>This workshop is based on the Carpentries course: <a href="https://datacarpentry.org/R-ecology-lesson/">Data Analysis and Visualization in R for Ecologists</a></p>'
-  10: "2"
--
-  title: 'R for scientific analysis: Manipulate data'
-  themes: [2]
-  id: 42
-  speakers: [40, 24, 53]
-  subtype: Workshop
-  service:
-  hidden: true
-  description: '<p>In this workshop we will look at data transformation and data tidying using the dplyr and tidyr packages. You will learn how to turn raw and messy data into something you can begin to analyse and visualise.</p><p>This part 4 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.</p><p>This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.</p><p>This workshop is based on the Carpentries course: <a href="https://datacarpentry.org/R-ecology-lesson/">Data Analysis and Visualization in R for Ecologists</a></p>'
-  10: "2"
--
-  title: 'R for scientific analysis: Starting with data'
-  themes: [2]
-  id: 32
-  speakers: [40, 24, 53]
-  subtype: Workshop
-  service:
-  hidden: true
-  description: '<p>In this data focused workshop, we will learn to bring your data into R, load packages, and learn the basics of data frames.</p><p>This part 3 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.</p><p>This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.</p><p>This workshop is based on the Carperntries course: <a href="https://datacarpentry.org/R-ecology-lesson/">Data Analysis and Visualization in R for Ecologists</a></p>'
-  10: "2"
--
-  title: 'R for scientific analysis: Visualising data'
-  themes: [2]
-  id: 52
-  speakers: [40, 24, 53]
-  subtype: Workshop
-  service:
-  hidden: true
-  description: '<p>In this workshop we will explore the many ways that you can visualise your data for analysis and presentating using the package ggplot2.</p><p>This part 5 of a 5-part workshop. We will start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files. We will also show you the structure of data frames, how to deal with factors and how to add/remove rows and columns. By the end of the workshops participants will have an overview of how to run their R code, calculate summary statistics, and to use the R package {tidyverse} to manipulate and visualise their data.</p><p>This workshop is suitable for early career researchers, undergraduates and professionals who have a keen interest to learn how to code in R . This course is very suitable for researchers, students and practitioners who have no or little R experience and coding skills. It is also well suited for people who would like to refresh their coding skills in R.</p><p>This workshop is based on the Carperntries course: <a href="https://datacarpentry.org/R-ecology-lesson/">Data Analysis and Visualization in R for Ecologists</a></p>'
-  10: "2"
--
-  title: 'UQRUG presents: Cool but Useless R Packages (and a Hacky Hour)'
-  themes: [2]
-  id: 65
-  speakers: [23]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>The UQ R User Group (<a href="https://uqrug.netlify.app/">UQRUG</a>) is a gathering for R users of all skills, to help each other solve problems, to share resources and tips, and to simply hang out with a nice community.</p><p>Our main purpose is to serve as a drop-in help session for help with R and RStudio, but to keep things interesting we will briefly highlight a useful tool, function or package each week.</p><p>In this special ResBaz edition of UQRUG we will be looking at some Cool but Useless ways we can use R. Coding and acaedmia can get stuffy and work focused, so this month we're going to play with some more entertaining R packages, which can hopefully make the learning process a bit more interesting.</p>
-  10: "5"
--
-  title: Unlock the power of text analytics with LADAL 
-  themes: [2, 3]
-  id: 63
-  speakers: [11]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p.>Join us for a practical workshop where you'll explore the capabilities of text analytics using the resources provided by the Language Technology and Data Analysis Laboratory (LADAL). Through hands-on demonstrations in R, you'll gain essential skills in natural language processing and learn how to extract valuable insights from text data. Discover diverse approaches and concepts that will empower your research. Plus, get practical advice on data processing, analytics, and visualisation to elevate your research with LADAL's text analytics resources.</p>
-  10: "3"
--
-  title: Reproducible research in R
-  themes: [2, 6]
-  id: 36
-  speakers: [49]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>Use tools like Git, Quarto, and renv to ensure that your R code can be shared and reproduced by coworkers, collaborators, and readers. Learn and implement best practices that you can apply to your current and future projects, in R and beyond.</p>
-  10: "6"
--
-  title: 'AI summarisation and retrieval pipelines for research *'
+  title: Creating effecting Data Plots
+  types: [1]
   themes: [3]
-  id: 33
-  speakers: [13]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>This workshop will introduce some ways to use AI as part of analytic pipelines to work with data. Some examples will be used but participants can bring their own data as well.</p>
-  10: "3"
--
-  title: 'Demystifying AI for research *'
-  themes: [3]
-  id: 23
-  speakers: [13]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>This workshop (talk with some demo) will introduce LLMs and AI for research. The presentation will talk about what LLMs can and cannot do as well as the risks presented by LLMs for research. This is a low code intro to using AI for research.</p>
-  10: "3"
--
-  title: 'Helping HASS students answer the question: Do you need the digital in your research?'
-  themes: [3]
-  id: 13
-  speakers: [12, 59, 60, 61]
-  subtype: Panel
-  service:
-  hidden: false
-  description: <p>In the first semester of 2023, the Australian Text Analytics Program (with support from The University of Queensland Graduate School) ran a Graduate Digital Research Fellowship program. The program was open to post-graduate students based in SE Qld; of the four participants, three were from UQ and one was from Griffith. The application process encouraged potential fellows to think of projects which were related to but not directly part of their main research project and which would require them to develop skills in digital research methods. One of the participants also carried out a placement with AARNet under a UQ program for HDR students.</p><p>This session will be a panel discussion including the two leaders of the program, our AARNet colleague, and the four fellows, discussing issues including (but not limited to):</p><ul><li>How do digital research methods fit in a variety of HASS disciplines?</li><li>How receptive are established scholars in those disciplines to new methods?</li><li>What did we all learn from this experience?</li><li>Was the additional burden worth it for our fellows - were their research lives enriched or just made more complicated?</li></ul>
-  10: "3"
--
-  title: Network know-how & data handling
-  themes: [3]
-  id: 53
-  speakers: [10]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>This workshop will include jargon busting and topics such as network literacy and data movement solutions. You will learn about networks, integrated tools, active research data management, data movement and where all these things fit in the researcher’s toolkit.</p><p>By the end of this workshop, you should be able to:</p><ul><li>Understand the basic differences between the different Internet technologies and connection types and in Australia and how to make the most of them.</li><li>Describe and define different network and data movement concepts (jargon busting).</li><li>Perform speed, ping, and traceroute tests to check your Internet connection.</li><li>Calculate data transfer times.</li><li>Understand various network and connectivity constraints.</li><li>Transfer large amounts of data via the network.</li><li>Search for more advanced options for data movement and know where to go for help.</li></ul>
-  10: "3"
--
-  title: Web archiving for data collection
-  themes: [3]
-  id: 93
+  id: 1007
   speakers: [8]
-  subtype: Workshop
-  service:
   hidden: false
-  description: <p>This workshop will cover using web archiving as a data collection method for the web and social media in research projects. It will cover:</p><ol><li>An overview of what web archiving is, and why it is usually preferable to web scraping and screen recording.</li><li>Case studies of 2-3 different projects using web archiving approaches for data collection.</li><li>Practical session/demo<ul><li> Collecting data with archiveweb.page for a specific purpose</li><li>Replaying data with archiveweb.page for qualitative analysis</li><li>Extracting data from collected archives for quantitative analysis</li></ul></li></ol>
-  10: "3"
+  description: '<p></p>'
+  complexity:
+  length: 1 hour
+  capacity: Limited
 -
-  title: Collecting and analysing YouTube and Newstalk data 
-  themes: [3, 4]
-  id: 94
-  speakers: [15, 13, 14]
-  subtype: Workshop
-  service:
+  title: Data Linkage 
+  types: [2]
+  id: 1008
+  speakers: [9]
   hidden: false
-  description: <p>This workshop will introduce researchers to tools and methods to collect and analyse YouTube metadata (video title, description, comments, etc.). We will walk attendees through using a open source tool called 'youte' to collect and tidy YouTube metadata, then doing some basic text analytics on the collected data. The workshop is aimed at researchers/students with little to no programming background.</p>
-  10: "4"
+  description: <p></p>
+  complexity:
+  length: 2 hours
+  capacity: Limited
 -
-  title: 'Data organisation in spreadsheets for researchers '
-  themes: [3, 4]
-  id: 44
+  title: Intro to Python
+  types: [2]
+  id: 1009
+  speakers: [10]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 5 hours (multi-session)
+  capacity: Limited
+-
+  title: Diversity and Inclusion in Research & Digital Platforms
+  types: [4]
+  id: 1010
+  speakers: [11,12,13,26,27]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
+-
+  title: Key Story Talks
+  types: [3]
+  id: 1011
+  speakers: [14]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 30 minutes
+  capacity: Limited
+
+-
+  title: REDCap vs Qualtrics Plus (Digital technologies for humanities & (Health) data management) 
+  types: [2]
+  themes: []
+  id: 1012
+  speakers: [15]
+  hidden: false
+  description: '<p></p>'
+  complexity:
+  length: 1 hour
+  capacity: Limited
+-
+  title: Supporting Digital Research in one of the largest Go8 Uni  
+  types: [1]
+  id: 1013
   speakers: [16]
-  subtype: Workshop
-  service:
   hidden: false
-  description: |-
-    <p>Learn: </p><p><ul><li>good data entry practices and formatting data tables in spreadsheets</li><li>how to avoid common formatting mistakes</li><li>approaches for handling dates in spreadsheets</li><li>basic quality control and data manipulation in spreadsheets.</li></ul></p>
-    <p>Explore how to structure data in a way that computers can read it.  This workshop is based on the Data Carpentry workshop for Social Scientists.</p>
-  10: "4"
+  description: <p></p>
+  complexity:
+  length: 30 minutes
+  capacity: Limited
 -
-  title: 'How Bazaar, How Bazaar: Let''s think about ChatGPT, et.al'
-  themes: [3, 6]
-  id: 71
-  speakers: [18, 13, 14, 56, 58]
-  subtype: Panel
-  service:
-  hidden: false
-  description: '<p>Hosted by an experienced facilitator but an AI noob, this is a participatory workshop guiding attendees through their reactions and thoughts on ChatGPT as researchers and academics. Attendees will be taken through a series of exercises to help them strategise how to manage this and similar technologies in their research and mentorship of more junior researchers. Topics and discussions include:</p><ul><li>Chat GPT: What is it and what does it mean for academia</li><li>It''s not going away, so do we embrace it with open arms or a net?</li><li>Integrity, honesty, and reliability</li><li>Won''t somebody think of the children?! (What will this mean for the future?)</li></ul>'
-  10: "1"
--
-  title: Storing and querying your research data with a database 
-  themes: [3, 6]
-  id: 73
+  title: Intro to Gadi 
+  types: [2]
+  id: 1014
   speakers: [17]
-  subtype: Workshop
-  service:
   hidden: false
-  description: <p>Are you wanting to step outside the spreadsheet and try a new way of storing your structured data? In this workshop, you'll learn how to load tabular data into a locally stored database; search, query, and transform your data; and export from that database or connect to it with other tools. All software used will be open source and using standard formats and protocols. No prior experience or coding skills required, but Python and R examples will be additionally available to those who use those languages.</p>
-  10: "3"
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
 -
-  title: 'Advanced data wrangling with OpenRefine '
-  themes: [4]
-  id: 74
-  speakers: [16]
-  subtype: Workshop
-  service:
+  title: Python for HPC
+  types: [2]
+  id: 1015
+  speakers: [18]
   hidden: false
-  description: <p>Building on the Introduction to data cleaning with OpenRefine workshop, learn advanced data wrangling skills including combining tabular datasets, geolocating data, and “what if” exploration using OpenRefine.</p><p>On completion of this workshop, participants should be able to:</p><ul><li>extend data with additional variables from other data</li><li>visualise geographic locations using Geo.json resulting in an interactive map</li><li>create a webpage to display the geographically visualised data using Github.</li></ul>
-  10: "4"
+  description: <p></p>
+  complexity:
+  length: 3 hours (multi-session)
+  capacity: Limited
 -
-  title: 'Evaluating AI apps for your literature reviews *'
-  themes: [4]
-  id: 14
-  speakers: [26, 27]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>In this workshop learn how to critically assess AI tools that can assist with brainstorming ideas & summarising the literature.</p><p>Understand more about how they work, their limitations and discuss the new ways they can be embedded into research practice</p>
-  10: "4"
--
-  title: Exploring genomic data with the Australian Reference Genome Atlas 
-  themes: [4]
-  id: 24
-  speakers: [46, 47]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: '<p>The Australian Reference Genome Atlas (ARGA) is a recently launched online platform for genomic data discovery across non-human, eukaryotic organisms. It indexes and aggregates data from a range of repositories, including NCBI GenBank, Barcode of Life Data system (BOLD) and Bioplatforms Australia''s data portal, enabling users to search across multiple sources from a centralised portal. Where possible, genomic data are intersected with specimen information available from formalised collections (e.g. museums, herbaria) to supplement relevant metadata.</p><p>This workshop will feature a demo of the ARGA platform, giving an overview of its uses and allowing time for questions and discussions. The workshop will cover how ARGA can help to: </p><ul><li>visualise and explore geographic occurrences of specimens (both with and without derived sequence data)</li><li>investigate the metadata available for each step in the chain of events between specimen collection and data deposition to help assess and compare sequences</li><li>discover genomic data for species according to thematic, ecological or trait groupings, such as threatened species, crop wild relatives, or poisonous and venomous species</li><li>determine summary statistics for genomic data availability across taxonomic clades or in thematic groupings (e.g. proportion of frog species with genome assemblies available, proportion of threatened Australian species with any available genomic data)</li></ul>'
-  10: "4"
--
-  title: FAIR and CARE data principles for responsible and ethical research
-  themes: [4]
-  id: 34
-  speakers: [36, 37, 38]
-  subtype: Panel
-  service:
-  hidden: false
-  description: <p>Research data has the most impact when it can be easily shared and reused, benefiting both the individuals who have produced this data and the research community at large. The FAIR Principles help researchers manage their data for widespread reusability, especially in machine-readable ways. The CARE principles extend data management to recognize and empower Indigenous peoples, so that Indigenous data sharing leads to greater innovation and self-determination in their communities.</p> <p>This workshop will introduce the FAIR and CARE principles and examples of their application at the University of Queensland, followed by a discussion where attendees can reflect on how these principles might apply to their own work.</p>
-  10: "4"
--
-  title: 'Introduction to data cleaning with OpenRefine '
-  themes: [4]
-  id: 54
-  speakers: [16]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>Learn basic data cleaning techniques in this hands-on workshop, working with structured text data and using open source software OpenRefine.</p><p>On completion of this workshop, participants should be able to:</p><ul><li>explore data through facets and filters</li><li>implement "tidy data" principles</li><li>clean, organise, and prepare data for analysis</li><li>use basic features of OpenRefine</li><li>extract and reuse a reproducible script to repeat processing on similar data</li></ul>
-  10: "4"
--
-  title: Quantum machine learning 
-  themes: [4]
-  id: 64
-  speakers: [28, 42]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>The area of quantum machine learning is advancing at a rapid pace. This workshop is designed to introduce quantum computing and quantum machine learning to researchers new to this cutting-edge area. This hands-on workshop will start by introducing support vector classifiers from a classical machine learning perspective and then show how quantum algorithms can be used to enhance their performance. At the end of the workshop, the attendees will have a basic understanding of quantum algorithms using IBM Quantum computers and will have run algorithms to improve the performance of classical support vector classifiers using quantum kernels.</p>
-  10: "4"
--
-  title: 'Statistics proficiency: Brainstorm about needs, resources and gaps'
-  themes: [4, 5]
-  id: 45
-  speakers: [21]
-  subtype: Panel
-  service:
-  hidden: false
-  description: <p>Researchers at any stage of their career, and from every field of knowledge are invited to join us in this brainstorm to openly discuss the theme of skill development in statistics for researchers.</p><p>This collaborative discussion aims to unravel the needs researchers face in developing statistical proficiency, while also delving into the array of resources they currently have access to.</p><p>The conversation can then progress to identification of gaps, and brainstorm possible resources and opportunities to meet those gaps.</p><p>By pooling together insights from varied experiences, we aspire to identify the most effective types of resources and opportunities for breaching those gaps.</p>
-  10: "5"
--
-  title: Boosting your wellbeing
-  themes: [5]
-  id: 84
-  speakers: [50]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>Do you find your wellbeing gets compromised during the hurly burly research process? How do you look after yourself when you are busy and have multiple demands?</p><p>This session focusses on strategies which can boost and maintain your wellbeing in the long term.</p><p>Content includes:</p><ul><li>Small daily wellbeing actions</li><li>Research management and boundary setting</li><li>Building support networks</li></ul>
-  10: "5"
--
-  title: Copyright considerations for human researchers
-  themes: [5]
-  id: 75
-  speakers: [20, 43]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>This interactive session will demystify some of the questions you might have about copyright and your research. We will explore how to use other’s copyright material legally, and how to protect your own copyright, touching on AI creations and legal challenges. We’ll take a look at publishing agreements, Creative Commons licensing, provide some strategies on retaining your rights, and more.</p>
-  10: "5"
--
-  title: 'Dealing with impostor syndrome: You are not alone'
-  themes: [5]
-  id: 15
-  speakers: [34]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>If you've ever felt like you're a fraud and worried that people will find out sooner or later ⁠—</p><p>If you feel like you don't belong and you have to work harder than everyone else to try to fit in ⁠—</p><p>Then come along to this workshop about impostor syndrome and meet others who feel the same way.</p><p>Here, we'll discuss what impostor syndrome is, how it affects us, and what we can do to manage it.</p>
-  10: "5"
--
-  title: 'Guided networking session *'
-  themes: [5]
-  id: 25
-  speakers: [2]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>Networking is an important aspect for the career development of PhDs - both to create collaborations and find future job opportunities. However, it is a softskill not thought in university courses. I facilitate guided networking sessions for organisations and think it will benefit PhDs greatly too. The participants will practise "openness, kindness and honesty" through a series of guided discussions around the following topics:</p><ul><li>using meaningful questions to guide small groups of participants to get to know each other </li><li>facilitate groups to share their challenges and help each other with their challenges</li><li> Determine their own values </li><li>Use their values to revisit their challenges </li><li>Reflecting on networking experience and their learnings</li></ul>
-  10: "5"
--
-  title: Looking for ongoing 1-on-1 mentorship after ResBaz? Start here! 
-  themes: [5]
-  id: 95
-  speakers: [34]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>If you've discovered a new skill to be excited about at this year's ResBaz and you want to keep learning with the aid of someone else —</p><p>If you've found that one of the skills you already have is in demand and you've like to help others learn it —</p><p>Then come along to this informal matchup session where you can meet potential mentors or mentees. We'll also discuss key considerations of a mentoring relationship and how to make it work.</p><p>To get the most out of this session, we recommend you think of both a field you would like to seek mentoring in, and a field you would be willing to offer mentorship in. It's okay if you're not an expert as long as you're excited to share your skills!</p>
-  10: "5"
--
-  title: 'Show ''em what you''ve got: building an authentic profile for academic and industry impact *'
-  themes: [5]
-  id: 55
-  speakers: [52]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>Are you an academic who's unsure how to share your research impact or reach wider audiences with your work? Frustrated that industry doesn't speak "academese" and you don't speak "business"? Trying to widen your network online without becoming <i>that</i> person who spams "cringe" posts on social media?</p><p>This workshop is for you! We'll talk about how you can:</p><ul><li>learn social-media-savvy and authentically leverage your networks</li><li>create opportunities to promote yourself without "selling" anything</li><li>paint a compelling picture of your skills and knowledge -- without the academic jargon</li><li>"talk industry" with non-academics about outcomes and business goals</li></ul><p>Come and get a fresh view of your work to inspire the non-academics (and academics!) in your life.</p>
-  10: "5"
--
-  title: 'Transferable skills: Understanding failure, strengths and values *'
-  themes: [5]
-  id: 35
-  speakers: [44]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>Rather than technical upskilling, this workshop focuses on transferable skills that complement research (as well other areas). We will be examining failure, personal strengths and personal values, both in a general context and by way of self examination. There will be a 15-minute Q&A at the end where participants can ask about any transferable (often called 'soft') skills.</p>
-  10: "5"
--
-  title: 'Uplift your instructing skills: Hints and tips from The Carpentries instructor program *'
-  themes: [5]
-  id: 85
-  speakers: [25]
-  subtype: Workshop
-  service:
-  hidden: false
-  location: 'Room 222'
-  description: <p>The Carpentries Instructor Training program is an internationally renowed model for training instuctors to deliver hands-on applied digital skills courses. In this workshop, we will explore some of the key points from this program, which can be easily and immediately applied to help anyone become a better instructor, teacher, or coach.</p>
-  10: "5"
--
-  title: 'Introduction to image analysis with FIJI *'
-  themes: [6]
-  id: 46
-  speakers: [7]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc.</p><p>The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more.</p><p>Topics covered include:</p> <ul><li>Opening/saving/closing Images (.tifs and Bio-Formats compatible files)</li><li>Merging channels, and dealing with multiple channel images</li><li>Adjusting brightness & contrast and using histograms</li><li>Adding scale to images & adding scale bars</li><li>Image stacks (montages, projections, re-slicing, orthogonal views)</li><li>Basic measurements (area, intensity, shape descriptors, line scans)</li><li>Creating selections (manually and automatically)</li><li>Brief introduction to machine learning tools available in FIJI</li></ul>
-  10: "6"
--
-  title: Introduction to image analysis with FIJI (2)
-  themes: [6]
-  id: 56
-  speakers: [7]
-  subtype: Workshop
-  service:
-  hidden: true
-  description: <p>This workshop provides a foundation to the open-source image analysis program, FIJI (FIJI Is Just ImageJ). It is intended for people who have never used the program before, or require a re-fresher on how to open images, merge channels, perform projections etc.</p><p>The workshop will involve worked examples with demo datasets provided but is easily translatable to many different fields with prior workshop participants from fields including Life Sciences, Chemistry, Archaeology, Forensics, Museums & Anthropology and many more.</p><p>Topics covered include:</p><ul><li>Opening/Saving/Closing Images (.tifs and Bio-Formats compatible files)</li><li>Merging channels, and dealing with multiple channel images</li><li>Adjusting Brightness & Contrast and using histograms</li><li>Adding scale to images & adding scale bars</li><li>Image Stacks (Montages, Projections, Re-Slicing, Orthogonal Views)</li><li>Basic Measurements (Area, Intensity, Shape descriptors, Line Scans)</li><li>Creating Selections (Manually and Automatically)</li><li>Brief introduction to Machine Learning tools available in FIJI</li></ul>
-  10: "6"
--
-  title: 'Nanopore sequencing in human genomics *'
-  themes: [6]
-  id: 66
-  speakers: [39]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>This workshop will cover applications of nanopore sequencing that are relevant to human genomics (and would readily translate to other species as well). Topics covered will include basecalling, epigenetic analysis, variant analysis, genome assembly, and long-read transcriptomics.</p>
-  10: "6"
--
-  title: Phylogenomics analysis based on Linux command line environment
-  themes: [6]
-  id: 91
-  speakers: [35]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: '<p>A 90 minutes workshop will be held for the phylogenomics analysis on large-scale whole genome data. We will lead participants through a series of computational exercises having the following goals: </p><p>- NCBI genome database download (SRA toolkit) and basic Linux command line (wget download).</p><p>- Construct orthologous gene assignments using OrthoFinder.</p><p>- Display, annotate and visualize phylogenetics trees by using iTOL (Interactive Tree Of Life)</p><p>Participants are encouraged to work with their own NGS-based genome/transcriptome datasets, but sample datasets will also be provided and analyzed. </p>'
-  10: "1"
--
-  title: 'RIMReP data management system: All GBR data in one single place'
-  themes: [6]
-  id: 96
-  speakers: [33, 57]
-  subtype: Workshop
-  service:
-  hidden: true
-  description: <p>In this workshop, the instructors will guide participants in discovering and collecting relevant socio-economic, physical, chemical, and biological data for the Great Barrier Reef using the RIMReP Data Management System. The instructors will provide analysis notebook examples to explore the DMS data collections and demonstrate how to use simple temporal and geographical filters to obtain data. Moreover, we will provide customizable recipes for specific research questions. By the end of the workshop, participants will be able to use DMS data and metadata services to extract data from multiple collections in standard formats. To participate in this workshop, a minimum level of expertise in data analysis is required. Additionally, knowledge of Python and/or R programming language is required. Participants must bring their own laptops with the necessary software already installed (we will inform them later about the required non-commercial software)</p>
-  10: "6"
--
-  title: Shell basics for HPC
-  themes: [6]
-  id: 76
-  speakers: [30]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>Learn how to enhance your effectiveness in using high-performance computing (HPC) resources, by improving the resilience and utility of your HPC job scripts using shell scripting techniques.</p>
-  10: "6"
--
-  title: TERN services to share, discover and access ecosystem data 
-  themes: [6]
-  id: 43
-  speakers: [41]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>The aim of the workshop is to show case services available at TERN to submit, discover and access ecosystem data across TERN. The participants will learn about services available at TERN and get an overview on how to publish data at TERN, learn to use data dashboards and data discovery portal. The workshop will be interactive and demo-based.</p>
-  10: "3"
--
-  title: Tips for moving from desktop to HPC 
-  themes: [6]
-  id: 26
-  speakers: [31]
-  subtype: Workshop
-  service:
-  hidden: false
-  description: <p>Transitioning from running your calculations on a desktop to running them on HPC needs consideration of using the command line, queues and sharing resources. These are the obvious changes. However, there are many small changes like considering where your input and output are coming from and need to be stored, how to get to your output if you are used to seeing it on your screen. This workshop will go through some of these less obvious things that you need to consider and watch put for when moving your calculations from a desktop to a HPC. There is no need to have HPC access as this workshop will use demonstrations that participants can just watch and follow. This is aimed at those with no HPC experience and even those who are only starting out on their journey on doing calculations on their desktops.</p>
-  10: "6"
--
-  title: 'Using the Gale Digital Scholar Lab to explore primary sources in the Age of Enlightenment, 18th Century *'
-  themes: [6]
-  id: 86
-  speakers: [54]
-  subtype: Workshop
-  service:
-  hidden: false
-  location: 'Room 220'
-  description: <p>The 18th Century is often referred to as the Age of Enlightenment however, the age also saw some of the darkest and most violent crimes on a global scale. Slave trading and human trafficking were rampant and on a global scale, empires rose and fell &amp; new nations were born. Using Gale&rsquo;s Primary Source materials from the 18th Century together with the Gale Digital Scholar Lab, researchers and academics are constantly discovering new details about this Enlightened era.</p><p>The Gale Digital Scholar Lab offers a straightforward entry point into Digital Humanities for new researchers and for more experienced scholars, the Lab provides access to large data sets that can be easily mined and exported for use in custom applications and open-source analytical tools. With the Lab, Gale has created a research platform to help bridge the gap that often exists between primary sources that are available in the library and the research needs and workflows of faculty and students.</p><p>Digital humanists will be less inclined to bypass the library and seek content from open web sources or create their own data sets through unreliable and painstaking processes. As an extension of your primary source collections, Gale Digital Scholar Lab will encourage the use of archival holdings to support broader research needs.</p>
-  10: "6"
--
-  title: Your research toolkit in the cloud 
-  themes: [6]
-  id: 16
+  title: From featureCounts to cellCounts - building highly efficient tools for sequencing data quantification
+  types: [1]
+  id: 1016
   speakers: [19]
-  subtype: Workshop
-  service:
   hidden: false
-  description: <p>Learn more about how you use the ARDC Nectar Cloud to improve your research! A walkthrough will be provided of the different services available & their benefits:</p><ul><li>Virtual Desktop Service</li><li>National GPU/large memory service</li><li>BinderHub</li><li>JupyterHub Service</li><li>Nectar Cloud Dashboard</li></ul>
-  10: "6"
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
+-
+  title: "Socially Responsible AI/ML"
+  types: [1, 2]
+  id: 1017
+  speakers: [20]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 2 hours (multi-session)
+  capacity: Limited
+-
+  title: "Evaluating AI apps for Literature review"
+  types: [1, 2]
+  id: 1018
+  speakers: [21]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
+-
+  title: "Machine Learning eResearch Platform (MLeRP)"
+  types: [1, 2]
+  id: 1019
+  speakers: [22]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
+-
+  title: "AI for Time Series Analysis/ Forecasting"
+  types: [1, 2]
+  id: 1020
+  speakers: [23]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 4 hours (multi-session)
+  capacity: Limited
+-
+  title: "Globus - intro demo & hands on workshop by AARNet"
+  types: [2]
+  id: 1021
+  speakers: [24]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
+-
+  title: "Data Movement, highlighting FileSender and Globus as tools (for beginners)"
+  types: [2]
+  id: 1022
+  speakers: [24]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited  
+-
+  title: General Theoretical talk on what algorithms are doing (CyroEM)
+  types: [1]
+  id: 1023
+  speakers: [25]
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited 
+-
+  title: "Analysing microscopy data"
+  types: [2]
+  id: 1024
+  speakers: [25]
+  hidden: false
+  description: <p>Attendees require a laptop and access to M3</p>
+  complexity:
+  length: 1 hour
+  capacity: Limited 
+

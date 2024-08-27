@@ -275,3 +275,40 @@ time {
     border-radius: 17px;
     margin: 3px;
 }
+
+#topics {
+    font-size: 15px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.slot-topic>div {
+    padding: 0.5rem;
+    display: inline-block;
+    border-style: solid;
+    margin: 3px;
+}
+
+
+
+#types {
+    font-size: 15px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.slot-type>div {
+    padding: 0.5rem;
+    display: inline-block;
+    border-style: solid;
+    border-radius: 17px;
+    margin: 3px;
+}
