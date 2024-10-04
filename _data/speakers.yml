@@ -279,7 +279,7 @@
   id: 24		
   title: 
   name: Sara	
-  surname: King
+  surname: King (AARNet)
   company: 
   role:
   bio: 
@@ -316,6 +316,66 @@
   title:
   name: Tara
   surname: Stewardson  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+-
+  id: 28	
+  title: 
+  name: Andrew 	
+  surname: Harrison  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+-
+  id: 29
+  title:
+  name: Susie
+  surname: Philips
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+-
+  id: 30
+  title:
+  name: Sophie
+  surname: Wright  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+-
+  id: 31
+  title:
+  name: Ines
+  surname: Sincock
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+-
+  id: 32
+  title:
+  name: Peter
+  surname: Reynolds  
   company: 
   role:
   bio: 

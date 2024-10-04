@@ -30,7 +30,7 @@
   speakers: [45]
   subtype: Talks
   service:
-  hidden: false
+  hidden: true
   description: 
 -
   title: Knowledge bazaar
@@ -98,21 +98,35 @@
   10: '#N/A'
 
 -
-  title: 'Cybersecurity awareness and practices when developing research software'
-  types: [1]
+  title: 'Hands on Cyber - build it and break it'
+  types: [1, 2]
   themes: [8]
   id: 1002
-  speakers: [3]
+  speakers: [3] # Luke Bampton
   hidden: false
   description: '<p></p>'
   complexity:
-  length: 30 minutes
+  length: 1 hour 30 minutes
   capacity: Limited
+
+# -
+#   title: 'Key Story Talks'
+#   types: [3]
+#   themes: 
+#   id: 1003
+#   speakers: [] # Christian Jacob
+#   hidden: false
+#   description: <p></p>
+#   complexity:
+#   length: 30 minutes
+#   capacity: Limited
+
 -
   title: 'Key Story Talks'
   types: [3]
+  themes: 
   id: 1003
-  speakers: [4]
+  speakers: [4] # Rashina
   hidden: false
   description: <p></p>
   complexity:
@@ -121,8 +135,9 @@
 -
   title: Digital Scholar Lab - GALE
   types: [2]
+  themes: 
   id: 1004
-  speakers: [5,6]
+  speakers: [5,6] # Darren Brain & Damian Almeida
   hidden: false
   description: <p></p>
   complexity:
@@ -131,18 +146,21 @@
 -
   title: "Research Data Management: A non-technical, foundational introduction."
   types: [1, 2]
+  themes:
   id: 1005
-  speakers: [7]
+  speakers: [7] # Patrick Splawa-Neyman
   hidden: false
   description: <p></p>
   complexity:
   length: 1.5 hour
   capacity: Limited
+
 -
   title: Tools for visualising beyond 3D
   types: [2]
+  themes: [3]
   id: 1006
-  speakers: [8]
+  speakers: [8] # Dianne Cook
   hidden: false
   description: <p></p>
   complexity:
@@ -153,7 +171,7 @@
   types: [1]
   themes: [3]
   id: 1007
-  speakers: [8]
+  speakers: [8] # Dianne Cook
   hidden: false
   description: '<p></p>'
   complexity:
@@ -162,8 +180,9 @@
 -
   title: Data Linkage 
   types: [2]
+  themes: 
   id: 1008
-  speakers: [9]
+  speakers: [9] # A/Prof Nadine Andrew
   hidden: false
   description: <p></p>
   complexity:
@@ -172,8 +191,9 @@
 -
   title: Intro to Python
   types: [2]
+  themes: [3, 5]
   id: 1009
-  speakers: [10]
+  speakers: [10] # Juan Nunez
   hidden: false
   description: <p></p>
   complexity:
@@ -182,8 +202,9 @@
 -
   title: Diversity and Inclusion in Research & Digital Platforms
   types: [4]
+  themes: [1]
   id: 1010
-  speakers: [11,12,13,26,27]
+  speakers: [11,12,13,26,27] # Kiowa Scott-Hurley, et al
   hidden: false
   description: <p></p>
   complexity:
@@ -192,8 +213,9 @@
 -
   title: Key Story Talks
   types: [3]
+  themes: 
   id: 1011
-  speakers: [14]
+  speakers: [14] # A/Prof James Trauer 
   hidden: false
   description: <p></p>
   complexity:
@@ -203,9 +225,9 @@
 -
   title: REDCap vs Qualtrics Plus (Digital technologies for humanities & (Health) data management) 
   types: [2]
-  themes: []
+  themes: [7]
   id: 1012
-  speakers: [15]
+  speakers: [15] # Di Brown
   hidden: false
   description: '<p></p>'
   complexity:
@@ -214,8 +236,9 @@
 -
   title: Supporting Digital Research in one of the largest Go8 Uni  
   types: [1]
+  themes: [1, 6]
   id: 1013
-  speakers: [16]
+  speakers: [16] # Dr. Amr Hassan
   hidden: false
   description: <p></p>
   complexity:
@@ -224,16 +247,18 @@
 -
   title: Intro to Gadi 
   types: [2]
+  themes: 
   id: 1014
   speakers: [17]
   hidden: false
   description: <p></p>
   complexity:
-  length: 1 hour
+  length: 1.5 hour
   capacity: Limited
 -
   title: Python for HPC
   types: [2]
+  themes: [4, 5]
   id: 1015
   speakers: [18]
   hidden: false
@@ -244,8 +269,9 @@
 -
   title: From featureCounts to cellCounts - building highly efficient tools for sequencing data quantification
   types: [1]
+  themes: 
   id: 1016
-  speakers: [19]
+  speakers: [19] # Yang Liao
   hidden: false
   description: <p></p>
   complexity:
@@ -254,8 +280,9 @@
 -
   title: "Socially Responsible AI/ML"
   types: [1, 2]
+  themes: [5]
   id: 1017
-  speakers: [20]
+  speakers: [20] # Dr. Jathan Sadowski (FIT)
   hidden: false
   description: <p></p>
   complexity:
@@ -264,8 +291,9 @@
 -
   title: "Evaluating AI apps for Literature review"
   types: [1, 2]
+  themes: [5]
   id: 1018
-  speakers: [21]
+  speakers: [30, 31, 32] # Sophie Wright, Ines Sincock, Peter Reynolds 
   hidden: false
   description: <p></p>
   complexity:
@@ -274,61 +302,77 @@
 -
   title: "Machine Learning eResearch Platform (MLeRP)"
   types: [1, 2]
+  themes: [5]
   id: 1019
-  speakers: [22]
+  speakers: [22] # Mitchell Hargrave
   hidden: false
   description: <p></p>
   complexity:
   length: 1 hour
   capacity: Limited
 -
-  title: "AI for Time Series Analysis/ Forecasting"
+  title: "Time Series Forecasting with Machine Learning Techniques"
   types: [1, 2]
+  themes: [5]
   id: 1020
-  speakers: [23]
+  speakers: [23] # Dr. Christoph Bergmeir (FIT)
   hidden: false
   description: <p></p>
   complexity:
   length: 4 hours (multi-session)
   capacity: Limited
 -
-  title: "Globus - intro demo & hands on workshop by AARNet"
+  title: "Globus - Intro Demo & Hands On Workshop"
   types: [2]
+  themes:
   id: 1021
-  speakers: [24]
+  speakers: [24] # Sara King
   hidden: false
   description: <p></p>
   complexity:
   length: 1 hour
   capacity: Limited
 -
-  title: "Data Movement, highlighting FileSender and Globus as tools (for beginners)"
+  title: "Data Movement, Highlighting FileSender and Globus as Tools"
   types: [2]
+  themes:
   id: 1022
-  speakers: [24]
+  speakers: [24] # Sara King
   hidden: false
   description: <p></p>
   complexity:
   length: 1 hour
   capacity: Limited  
 -
-  title: General Theoretical talk on what algorithms are doing (CyroEM)
+  title: General Overview into The Theoretical Aspects of Single Particle Cryo Electron Microscopy
   types: [1]
+  themes:
   id: 1023
-  speakers: [25]
+  speakers: [25] # Dr. Matthew Belousoff
   hidden: false
   description: <p></p>
   complexity:
   length: 1 hour
   capacity: Limited 
 -
-  title: "Analysing microscopy data"
+  title: "Hands On Analysis of Microscopy data: Micrographs to 2D classification in RELION"
   types: [2]
+  themes:
   id: 1024
-  speakers: [25]
+  speakers: [25]  # Dr. Matthew Belousoff
   hidden: false
   description: <p>Attendees require a laptop and access to M3</p>
   complexity:
   length: 1 hour
   capacity: Limited 
-
+-
+  title: "Making research outputs (publications, data sets, NTROs etc) open access"
+  types: [2]
+  themes:
+  id: 1025
+  speakers: [28, 29]  # Andrew Harrison and Susie Philips
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited 
