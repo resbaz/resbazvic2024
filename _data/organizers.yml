@@ -38,6 +38,8 @@
   group: "Silver Sponsors"
   elements: 
     - {name: "", description: "Australian Research Network", link: "https://www.aarnet.edu.au/", imageUrl: "../img/organizers/aarnet.png"}
+    - {name: "", description: "DataDirect Network", link: "https://www.ddn.com/", imageUrl: "../img/organizers/DDN.jpg"}
+
 -
   group: "Organiser"
   elements: 
