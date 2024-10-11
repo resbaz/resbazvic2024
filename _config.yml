@@ -85,7 +85,11 @@ aboutText: "
 
 <p><b>We welcome researchers from ALL over Australia, at ALL levels, and from ALL disciplines! </b>
 Whether you're a PhD candidate, a research master's student, an early career researcher, or a research technologist or software engineer supporting research, this event is for you.</p>
-"
+
+<br>
+
+<h6> The General Admission registration is now open! </h6>
+<h6> Please check the confirmed programs <a href='http://127.0.0.1:4000/resbazvic2024/schedule/'>here</a> and register <a href='https://shop.monash.edu/research-bazaar-2024-general-admission.html'>here</a> to secure your spot!</h6>"
 
 # "<p>The Research Bazaar is a dynamic forum designed to empower researchers with cutting-edge digital research tools and skills. Much like a bustling marketplace or bazaar, ResBaz provides a vibrant platform where researchers from diverse disciplines converge to enhance their capabilities, exchange knowledge, and foster meaningful connections.</p>
 
@@ -99,7 +103,7 @@ Whether you're a PhD candidate, a research master's student, an early career res
 
 # <p>Researchers at ALL levels from ALL disciplines are invited! PhD candidates, research master’s students and early career researchers are especially encouraged to attend. Research technologists and software engineers supporting researchers to do their jobs should also come along!</p>
 
-# <p>You can view the program <a href='http://127.0.0.1:4000/resbazvic2024/schedule/'>here</a> and register <a href='https://www.eventbrite.com.au/'>here</a>.</p>"
+
 
 
 # Statistic Block
