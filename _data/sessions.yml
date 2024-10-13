@@ -106,7 +106,7 @@
   hidden: false
   description: '<p></p>'
   complexity:
-  length: 1 hour 30 minutes
+  length: 2 hours
   capacity: Limited
 
 # -
@@ -189,11 +189,11 @@
   length: 2 hours
   capacity: Limited
 -
-  title: Intro to Python
+  title: Intro to R
   types: [2]
   themes: [3, 5]
   id: 1009
-  speakers: [10] # Juan Nunez
+  speakers: [10, 33] # Paul Harrison, Andrew Perry
   hidden: false
   description: <p></p>
   complexity:
@@ -223,7 +223,7 @@
   capacity: Limited
 
 -
-  title: REDCap vs Qualtrics Plus (Digital technologies for humanities & (Health) data management) 
+  title: The Great Debate - REDCap vs Qualtrics Plus
   types: [2]
   themes: [7]
   id: 1012
@@ -315,7 +315,7 @@
   types: [1, 2]
   themes: [5]
   id: 1020
-  speakers: [23] # Dr. Christoph Bergmeir (FIT)
+  speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
   hidden: false
   description: <p></p>
   complexity:
@@ -376,3 +376,64 @@
   complexity:
   length: 1 hour
   capacity: Limited 
+
+-
+  title: "HTML, Javascript, SVG, D3: a foot in the door"
+  types: [2]
+  themes: [3]
+  id: 1026
+  speakers: [10] # Paul Harrison
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1.5 hours
+  capacity: Limited
+
+-
+  title: Key Story Talks
+  types: [3]
+  themes: 
+  id: 1027
+  speakers: [34] # Dr Kit Huckvale 
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 30 minutes
+  capacity: Limited
+
+-
+  title: "Major Initiatives & Grant Writing (what's expected from Major research program applications and initiatives)"
+  types: [1]
+  themes: []
+  id: 1028
+  speakers: [36, 37] # Shirin Jambhulkar, Neil Owens 
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
+
+-
+  title: "Making Sense of Textual Data: From Foundational NLP to Generative Language Models"
+  types: [2]
+  themes: [5]
+  id: 1029
+  speakers: [38] # Dr. Zhuang Li  
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 2 hours (multi-session)
+  capacity: Limited
+
+
+-
+  title: "Introduction to Regular Expressions (Regex)"
+  types: [2]
+  themes: [5]
+  id: 1030
+  speakers: [39] # Simon Michnowicz
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 3 hours (multi-session)
+  capacity: Limited

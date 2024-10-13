@@ -108,9 +108,9 @@
   social:
 -
   id: 10
-  title:
-  name: Juan	
-  surname: Nunez-Iglesias
+  title: Dr.
+  name: Paul	
+  surname: Harrison
   company: 
   role:
   bio: 
@@ -383,3 +383,97 @@
   rockstar: true
   ribbon:
   social:
+
+-
+  id: 33
+  title: Dr.
+  name: Andrew
+  surname: Perry  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 34
+  title: Dr.
+  name: Kit
+  surname: Huckvale  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 35
+  title: Dr.
+  name: Abishek 
+  surname: Sriramulu  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 36
+  title:
+  name: Shirin 
+  surname: Jambhulkar
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 37
+  title: 
+  name: Neil    
+  surname: Owens  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 38
+  title: Dr. 
+  name: Zhuang     
+  surname: Li  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 39
+  title:
+  name: Simon     
+  surname: Michnowicz  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+
+   
