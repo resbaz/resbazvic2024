@@ -328,7 +328,7 @@
   title: 
   name: Andrew 	
   surname: Harrison  
-  company: 
+  company: Monash Library
   role:
   bio: 
   thumbnailUrl: 
@@ -340,7 +340,7 @@
   title:
   name: Susie
   surname: Philips
-  company: 
+  company: Monash Library
   role:
   bio: 
   thumbnailUrl: 
@@ -475,5 +475,213 @@
   ribbon:
   social:
 
+-
+  id: 40
+  title: Dr.   
+  name: Debjit     
+  surname: Bhowmick  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
 
+-
+  id: 41
+  title:   
+  name: Riccardo      
+  surname: Bonacci  
+  company: 
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
    
+-
+  id: 42
+  title: Prof.
+  name: Rob J     
+  surname: Hyndman  
+  company: Department of Econometrics & Business Statistics
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 43
+  title: 
+  name: Linda 
+  surname: Kalejs  
+  company:
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 44
+  title: 
+  name:  Nick
+  surname: May  
+  company:
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 45
+  title: 
+  name: Sam 
+  surname: Ryan  
+  company:
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 46
+  title: 
+  name: Eva   
+  surname: Fisch  
+  company:
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+
+-
+  id: 47
+  title: 
+  name: Maria del Mar    
+  surname: Quiroga  
+  company:  University of Melbourne
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 48
+  title: 
+  name: Nicole   
+  surname: Clayton  
+  company:  
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 49
+  title: 
+  name: Tim    
+  surname: Powers  
+  company:  
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 50
+  title: 
+  name: David    
+  surname: Shipman  
+  company:  
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 51
+  title: 
+  name: Simon    
+  surname: Musgrave  
+  company:  
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+ 
+-
+  id: 52
+  title: 
+  name: Kit    
+  surname: Greenhill  
+  company:  
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 53
+  title: 
+  name: Meirian    
+  surname: Lovelace-Tozer   
+  company:  
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 54
+  title: 
+  name: Cooper     
+  surname: Smout  
+  company:  
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 55
+  title: 
+  name: Kevon     
+  surname: Graham  
+  company:  
+  role:
+  bio: 
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+ 

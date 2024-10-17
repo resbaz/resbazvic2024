@@ -15,7 +15,7 @@
   hidden: true
   description: null
 -
-  title: Afternoon tea
+  title: Networking - Afternoon Tea
   themes: []
   id: 105
   speakers:
@@ -42,7 +42,7 @@
   hidden: true
   description: null
 -
-  title: Lunch and stalls
+  title: Networking - Lunch
   themes: []
   id: 104
   speakers:
@@ -59,15 +59,7 @@
   service:
   hidden: false
   description: null
--
-  title: Morning tea
-  themes: []
-  id: 102
-  speakers:
-  subtype:
-  service: true
-  hidden: true
-  description: null
+
 -
   title: 'News talk: beyond Twitter '
   themes: []
@@ -78,14 +70,67 @@
   hidden: true
   description: <p>We discuss the new post-Twitter social media landscape and ramifications for research. Then we introduce NewsTalk, a data bank of public reader comments, and how this platform can answer many of the same research questions in Australia. In this workshop we discuss the ethics procedures to gain access to NewsTalk, and we show how to use the tool including finding news stories and download data bundles of reader comments. We also describe the output data format and examine some of the participant's suggestions of public topics in the NewsTalk data.</p>
 -
-  title: Registration (in the foyer)
+  title: Registration
   themes: []
   id: 101
+  speakers: Ground Floor (GF) Learning & Teaching Building 19 Ancora Imparo Way, Clayton VIC 3168
+  subtype:
+  service: true
+  hidden: true
+  description: null
+-
+  title: Networking - Morning Tea
+  themes: []
+  id: 102
   speakers:
   subtype:
   service: true
   hidden: true
   description: null
+
+-
+  title: Morning tea and Book Launch Event
+  themes: []
+  id: 103
+  speakers:
+  subtype:
+  service: true
+  hidden: true
+  description: null
+
+-
+  title: TBC
+  themes: []
+  id: 0001
+  speakers:
+  subtype:
+  service: true
+  hidden: true
+  description: null
+
+-
+  title: Poster Session & Networking drinks
+  themes: []
+  id: 1110
+  speakers:
+  subtype:
+  service: true
+  hidden: true
+  description: null
+
+-
+  title: 'Opening Remarks'
+  types: []
+  themes: []
+  id: 1000
+  speakers: [1, 2] # Professor David Powell, Professor Jacek J. Jasieniak
+  hidden: true
+  description: '<p></p>'
+  complexity:
+  length:
+  capacity:
+
+
 -
   title: Ethical AI panel
   themes: '#N/A'
@@ -97,29 +142,33 @@
   description: ""
   10: '#N/A'
 
+
+
+
+##################################################################
 -
-  title: 'Hands on Cyber - build it and break it'
+  title: 'Hands on Cyber - Build it and Break it'
   types: [1, 2]
   themes: [8]
   id: 1002
-  speakers: [3] # Luke Bampton
+  speakers: [3, 55] # Luke Bampton, Kevon Graham
   hidden: false
   description: '<p></p>'
   complexity:
   length: 2 hours
   capacity: Limited
 
-# -
-#   title: 'Key Story Talks'
-#   types: [3]
-#   themes: 
-#   id: 1003
-#   speakers: [] # Christian Jacob
-#   hidden: false
-#   description: <p></p>
-#   complexity:
-#   length: 30 minutes
-#   capacity: Limited
+-
+  title: 'Key Story Talks'
+  types: [3]
+  themes: 
+  id: 1001
+  speakers: [42] # Christian Jacob
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 30 minutes
+  capacity: Limited
 
 -
   title: 'Key Story Talks'
@@ -166,6 +215,19 @@
   complexity:
   length: 3 hours (multi-session)
   capacity: Limited
+
+-
+  title: (cont.) Tools for visualising beyond 3D 
+  types: [2]
+  themes: [3]
+  id: 1006a
+  speakers: [8] # Dianne Cook
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 3 hours (multi-session)
+  capacity: Limited
+
 -
   title: Creating effecting Data Plots
   types: [1]
@@ -199,12 +261,25 @@
   complexity:
   length: 5 hours (multi-session)
   capacity: Limited
+
+-
+  title: (cont.) Intro to R 
+  types: [2]
+  themes: [3, 5]
+  id: 1009a
+  speakers: [10, 33] # Paul Harrison, Andrew Perry
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 5 hours (multi-session)
+  capacity: Limited
+
 -
   title: Diversity and Inclusion in Research & Digital Platforms
   types: [4]
   themes: [1]
   id: 1010
-  speakers: [11,12,13,26,27] # Kiowa Scott-Hurley, et al
+  speakers: [11,12,13,26,27, 48] # Kiowa Scott-Hurley, et al
   hidden: false
   description: <p></p>
   complexity:
@@ -227,7 +302,7 @@
   types: [2]
   themes: [7]
   id: 1012
-  speakers: [15] # Di Brown
+  speakers: [15, 49] # Di Brown, Tim Powers
   hidden: false
   description: '<p></p>'
   complexity:
@@ -266,6 +341,19 @@
   complexity:
   length: 3 hours (multi-session)
   capacity: Limited
+
+-
+  title: (cont.) Python for HPC
+  types: [2]
+  themes: [4, 5]
+  id: 1015a
+  speakers: [18]
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 3 hours (multi-session)
+  capacity: Limited
+
 -
   title: From featureCounts to cellCounts - building highly efficient tools for sequencing data quantification
   types: [1]
@@ -321,6 +409,19 @@
   complexity:
   length: 4 hours (multi-session)
   capacity: Limited
+
+-
+  title: "(cont.) Time Series Forecasting with Machine Learning Techniques"
+  types: [1, 2]
+  themes: [5]
+  id: 1020a
+  speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 4 hours (multi-session)
+  capacity: Limited
+
 -
   title: "Globus - Intro Demo & Hands On Workshop"
   types: [2]
@@ -425,6 +526,17 @@
   length: 2 hours (multi-session)
   capacity: Limited
 
+-
+  title: "(cont.) Making Sense of Textual Data: From Foundational NLP to Generative Language Models"
+  types: [2]
+  themes: [5]
+  id: 1029a
+  speakers: [38] # Dr. Zhuang Li  
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 2 hours (multi-session)
+  capacity: Limited
 
 -
   title: "Introduction to Regular Expressions (Regex)"
@@ -436,4 +548,176 @@
   description: <p></p>
   complexity:
   length: 3 hours (multi-session)
+  capacity: Limited
+
+-
+  title: "(cont.) Introduction to Regular Expressions (Regex)"
+  types: [2]
+  themes: [5]
+  id: 1030a
+  speakers: [39] # Simon Michnowicz
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 3 hours (multi-session)
+  capacity: Limited
+
+-
+  title: "Handling spatial data and making professional maps using QGIS"
+  types: [2]
+  themes: []
+  id: 1031
+  speakers: [40] # Dr. Debjit Bhowmick 
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 2 hours (multi-session)
+  capacity: Limited
+
+-
+  title: "(cont.) Handling spatial data and making professional maps using QGIS"
+  types: [2]
+  themes: []
+  id: 1031a
+  speakers: [40] # Dr. Debjit Bhowmick 
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 2 hours (multi-session)
+  capacity: Limited
+
+-
+  title: "Building a Neural Network!"
+  types: [2]
+  themes: []
+  id: 1032
+  speakers: [41] # Riccardo Bonacci
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 2 hours (multi-session)
+  capacity: Limited
+
+-
+  title: "(cont.) Building a Neural Network!"
+  types: [2]
+  themes: []
+  id: 1032a
+  speakers: [41] # Riccardo Bonacci
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 2 hours (multi-session)
+  capacity: Limited
+
+
+
+-
+  title: "TBC"
+  types: [1, 2]
+  themes: []
+  id: 1111
+  speakers: [] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 4 hours (multi-session)
+  capacity: Limited
+
+-
+  title: "Drop-in Session - Coding"
+  types: []
+  themes: []
+  id: 1033
+  speakers: [43,44,45,46] # Linda Kalejs, Nick May, Sam Ryan, Eva Fisch
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
+
+-
+  title: "Empowering HASS researchers in digital methodologies"
+  types: []
+  themes: []
+  id: 1034
+  speakers: [47] # Maria del Mar Quiroga
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 30 minutes
+  capacity: Limited
+
+
+-
+  title: "Introduction to Jax - Lessons learned from the summer2 performance journey"
+  types: []
+  themes: []
+  id: 1035
+  speakers: [50] #  David Shipman
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 30 minutes
+  capacity: Limited
+
+
+-
+  title: "Exploring text using concordances"
+  types: []
+  themes: []
+  id: 1036
+  speakers: [51] #  Simon Musgrave
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 2 hours
+  capacity: Limited
+
+-
+  title: "Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons"
+  types: []
+  themes: []
+  id: 1037
+  speakers: [52, 51] #  Kit Greenhill and Simon Musgrave
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 2 hours (multi-sessions)
+  capacity: Limited
+
+-
+  title: "(cont.) Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons"
+  types: []
+  themes: []
+  id: 1037a
+  speakers: [52, 51] #  Kit Greenhill and Simon Musgrave
+  hidden: true
+  description: <p></p>
+  complexity:
+  length: 2 hours (multi-sessions)
+  capacity: Limited
+
+-
+  title: "Accelerate Your Research with the ARDC Nectar Research Cloud"
+  types: []
+  themes: []
+  id: 1038
+  speakers: [53] #  Meirian Lovelace-Tozer
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
+  capacity: Limited
+
+-
+  title: "WISDOM: An open value accounting framework for diverse communities"
+  types: []
+  themes: []
+  id: 1039
+  speakers: [54] #  Cooper Smout
+  hidden: false
+  description: <p></p>
+  complexity:
+  length: 1 hour
   capacity: Limited
