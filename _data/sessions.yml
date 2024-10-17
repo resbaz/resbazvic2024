@@ -626,7 +626,7 @@
 
 -
   title: "Drop-in Session - Coding"
-  types: []
+  types: [2]
   themes: []
   id: 1033
   speakers: [43,44,45,46] # Linda Kalejs, Nick May, Sam Ryan, Eva Fisch
@@ -638,7 +638,7 @@
 
 -
   title: "Empowering HASS researchers in digital methodologies"
-  types: []
+  types: [1]
   themes: []
   id: 1034
   speakers: [47] # Maria del Mar Quiroga
@@ -651,7 +651,7 @@
 
 -
   title: "Introduction to Jax - Lessons learned from the summer2 performance journey"
-  types: []
+  types: [1]
   themes: []
   id: 1035
   speakers: [50] #  David Shipman
@@ -664,7 +664,7 @@
 
 -
   title: "Exploring text using concordances"
-  types: []
+  types: [2]
   themes: []
   id: 1036
   speakers: [51] #  Simon Musgrave
@@ -676,7 +676,7 @@
 
 -
   title: "Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons"
-  types: []
+  types: [2]
   themes: []
   id: 1037
   speakers: [52, 51] #  Kit Greenhill and Simon Musgrave
@@ -688,7 +688,7 @@
 
 -
   title: "(cont.) Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons"
-  types: []
+  types: [2]
   themes: []
   id: 1037a
   speakers: [52, 51] #  Kit Greenhill and Simon Musgrave
@@ -700,7 +700,7 @@
 
 -
   title: "Accelerate Your Research with the ARDC Nectar Research Cloud"
-  types: []
+  types: [1]
   themes: []
   id: 1038
   speakers: [53] #  Meirian Lovelace-Tozer
@@ -712,7 +712,7 @@
 
 -
   title: "WISDOM: An open value accounting framework for diverse communities"
-  types: []
+  types: [1]
   themes: []
   id: 1039
   speakers: [54] #  Cooper Smout
