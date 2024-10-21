@@ -12,6 +12,29 @@
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
 						<h4>{{ session.title }}</h4>
+
+						<p> 
+							{% for type in site.data.types %}
+								{% for session_type in session.types %}
+									{% if session_type == type.id %}
+										{% if session.types.size == forloop.index %}
+												{{ type.name }} 
+										{% else %}
+												{{ type.name}} + 
+										{% endif %}
+
+									{% endif %}
+								{% endfor %}    
+							{% endfor %}
+						</p>
+						
+						{% if "2a" in session.types %}
+							<p>"2a" is in the session types.</p>
+						{% else %}
+							<p>"2a" is not in the session types.</p>
+						{% endif %}
+
+
 						{% if session.subtype != null %}
 						<span class="theme-metadata">{{ session.subtype }}</span>
 						{% endif %}
@@ -38,11 +61,15 @@
 						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
 						</div>
 						{% endif %}
+						<hr>
+						{% if session.description %}
 						<p class="theme-description">{{ session.description }}</p>
+						<hr>
+						{% endif %}
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View materials</a>
 						{% endif %}
-						<hr>
+						
 						<div class="people-details">
 							{% for session_speaker in session.speakers %}
 								{% for speaker in site.data.speakers %}
@@ -55,7 +82,15 @@
 											<p class="name">
 												
 												{{ speaker.title }} {{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.role }}, {{ speaker.company }}</span>
+												<span class="position">
+													{% for speaker_company in speaker.company %}
+														{% if speaker.company.size == forloop.index %}
+															{{ speaker.role[forloop.index0] }}, {{ speaker.company[forloop.index0] }}
+														{% else %}
+															{{ speaker.role[forloop.index0] }}, {{ speaker.company[forloop.index0] }} and 
+														{% endif %}
+                                                    {% endfor %}
+												</span>
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
@@ -122,7 +157,15 @@
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+												<span class="position">
+													{% for speaker_company in speaker.company %}
+														{% if speaker.company.size == forloop.index %}
+															{{ speaker.role[forloop.index0] }}, {{ speaker.company[forloop.index0] }}
+														{% else %}
+															{{ speaker.role[forloop.index0] }}, {{ speaker.company[forloop.index0] }} and 
+														{% endif %}
+													{% endfor %}
+												</span>
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">

@@ -51,10 +51,10 @@ $small-label-width: 80px;
 }
 .timeslot {
     background: #fff;
-    border-top: $schedule-border;
-    border-left: $schedule-border;
+    // border-top: $schedule-border;
+    // border-left: $schedule-border;
     &:last-child {
-        border-bottom: $schedule-border;
+        // border-bottom: $schedule-border;
     }
 }
 .track-header {
@@ -65,7 +65,8 @@ $small-label-width: 80px;
     }
 }
 .track-header-label {
-    position: absolute;
+    // position: absolute;
+    border: $schedule-border;
     padding: 10px 15px 20px;
     width: $label-width;
     text-align: left;
@@ -94,7 +95,6 @@ $small-label-width: 80px;
     border: $schedule-border;
     @media (max-width: 767px) {
         font-size: 28px;
-        display: none;
     }
 }
 .time-element {
@@ -107,7 +107,7 @@ $small-label-width: 80px;
     transition: $base-transition;
     @media (max-width: 767px) {
         display: block;
-        // margin-left: $small-label-width;
+        margin-left: $small-label-width;
     }
 }
 .slot-title {
@@ -123,17 +123,18 @@ $small-label-width: 80px;
     @extend .slot-title;
 }
 .track-header-slot {
+    border: $schedule-border;
     padding: 10px 15px 10px;
     text-align: left;
     transition: $base-transition;
-    border-right: $schedule-border;
+    // border-right: $schedule-border;
     user-select: none;
     @media (max-width: 767px) {
         border-top: 0;
-        border-left: $schedule-border;
+        // border-left: $schedule-border;
     }
     &:first-child {
-        border-left: $schedule-border;
+        // border-left: $schedule-border;
         @media (max-width: 767px) {
             border-top: 0;
         }
@@ -145,7 +146,7 @@ $small-label-width: 80px;
     cursor: pointer;
     border: $schedule-border;
     @media (max-width: 767px) {
-        border-top: $schedule-border;
+        // border-top: $schedule-border;
     }
     &.blank-col {
         cursor: default;
@@ -163,8 +164,7 @@ $small-label-width: 80px;
     background: #ccc;
 }
 .slot-content {
-    align-content: center;
-    padding: 20px 15px 25px;
+    padding: 20px 15px 30px;
     min-height: 120px;
     background: #fff;
     transform: translateY(0);
@@ -193,15 +193,16 @@ $small-label-width: 80px;
     margin-top: 15px;
 }
 
+
 .gridbox-wrapper{
     display: grid;
-    grid-template-columns: auto auto auto auto;
-    grid-template-columns: repeat(4, 1fr); 
+    // grid-template-columns: auto auto auto auto;
+    grid-template-columns: $label-width repeat(4, 1fr); 
 }
 
+
 .grid-rows-1{
-    grid-template-columns: repeat(1, 1fr); 
-    width: 100%;
+    grid-template-rows: repeat(1, 1fr); 
     // grid-template-rows: repeat(1, 250px);
     // background-color: red;
 }
@@ -216,17 +217,72 @@ $small-label-width: 80px;
     // border: 1px solid black;
 }
 
-.timeslot-wrapper {
-    display: flex; /* Enables flexbox layout */
-    // justify-content: space-between; /* Adjusts spacing between the items */
+
+@media (max-width: 767px) {
+    .gridbox-wrapper {
+        grid-template-columns: 1fr; // Single column layout
+    }
+
+    .schedule-table {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 60px;
+    }
+
+    .slot-title {
+        font-size: 16px; 
+    }
+
+    .slot-content {
+        padding: 10px; 
+    }
+
+    .speaker-img {
+        width: 30px;
+        height: 30px; 
+    }
+
+    .speaker-name {
+        margin-left: 40px; 
+    }
+    
+    .some-non-essential-class {
+        display: none; 
+    }
 }
 
-// .gridbox-wrapper-time, .timeslot-elements {
-//     flex: 1; /* Ensures both elements take equal space */
-//     margin-right: 10px; /* Adjust as necessary for spacing */
-// }
 
-.gridbox-wrapper-time {
-    display: grid;
-    // margin-right: 20px; /* Add right margin for the time wrapper */
+// Define your media query for mobile devices
+@media (max-width: 767px) {
+    .gridbox-wrapper {
+        display: grid; // Use grid layout
+        grid-template-columns: 1fr; // Set to one column
+    }
+
+    .schedule-table {
+        // Ensure the schedule table behaves properly in mobile view
+        display: flex; // Change to flex if necessary
+        flex-direction: column; // Stack rows vertically
+    }
+
+    .timeslot {
+        // Ensure timeslots also stack vertically
+        display: block; // Ensure timeslots occupy full width
+        width: 100%; // Full width for each timeslot
+    }
+
+    .track-header-slot {
+        // Stack header slots as well
+        display: block; // Ensure header slots stack
+        width: 100%; // Full width for each header
+    }
+
+    // Adjustments for slot titles and content for readability
+    .slot-title {
+        font-size: 16px; // Adjust font size for mobile
+    }
+
+    .slot-content {
+        padding: 10px; // Adjust padding
+    }
 }

@@ -9,9 +9,16 @@
   name: "Workshop"
   color: "#00ff00"
   fontColor: "#000000"
+
+-
+  id: 2a
+  name: "Workshop (multi-session)"
+  color: "#00ff00"
+  fontColor: "#000000"
+
 -
   id: 3
-  name: "Key Story"
+  name: "Key Story Talk"
   color: "#ff0000"
   fontColor: "#000000"
 -

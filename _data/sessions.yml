@@ -15,7 +15,7 @@
   hidden: true
   description: null
 -
-  title: Networking - Afternoon Tea
+  title: Networking - Afternoon Tea - Poster Viewing
   themes: []
   id: 105
   speakers:
@@ -42,12 +42,12 @@
   hidden: true
   description: null
 -
-  title: Networking - Lunch
+  title: Networking - Lunch - Poster Viewing
   themes: []
   id: 104
   speakers:
   subtype:
-  service:
+  service: true
   hidden: true
   description: null
 -
@@ -78,8 +78,9 @@
   service: true
   hidden: true
   description: null
+  location:  Ground Floor (GF) Learning & Teaching Building 19 Ancora Imparo Way, Clayton VIC 3168
 -
-  title: Networking - Morning Tea
+  title: Networking - Morning Tea - Poster Viewing
   themes: []
   id: 102
   speakers:
@@ -89,7 +90,7 @@
   description: null
 
 -
-  title: Morning tea and Book Launch Event
+  title: Networking - Morning Tea 
   themes: []
   id: 103
   speakers:
@@ -125,7 +126,7 @@
   id: 1000
   speakers: [1, 2] # Professor David Powell, Professor Jacek J. Jasieniak
   hidden: true
-  description: '<p></p>'
+  description:
   complexity:
   length:
   capacity:
@@ -153,31 +154,31 @@
   id: 1002
   speakers: [3, 55] # Luke Bampton, Kevon Graham
   hidden: false
-  description: '<p></p>'
+  description: 
   complexity:
   length: 2 hours
   capacity: Limited
 
 -
-  title: 'Key Story Talks'
+  title: 'Key Story Talk'
   types: [3]
   themes: 
   id: 1001
-  speakers: [42] # Christian Jacob
+  speakers: [42] # Rob Hyndman
   hidden: false
-  description: <p></p>
+  description: "I will demonstrate the digital tools that underpin the efficiency and reproducibility of my research workflow. Utilizing GitHub as the platform for version control and collaboration, and R as a foundational tool, I leverage the renv package for managing project-specific R dependencies, and the targets package to avoid unnecessary computation. I employ Quarto for generating multiple versions of my research papers for online repositories and journal submissions, ensuring seamless integration of code and text, without duplication. I'll illustrate the workflow using a recent paper I coauthored on <a href='https://robjhyndman.com/publications/fits.html'>Forecasting Interrupted Time Series</a>."
   complexity:
   length: 30 minutes
   capacity: Limited
 
 -
-  title: 'Key Story Talks'
+  title: 'Key Story Talk'
   types: [3]
   themes: 
   id: 1003
   speakers: [4] # Rashina
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -188,7 +189,7 @@
   id: 1004
   speakers: [5,6] # Darren Brain & Damian Almeida
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited
@@ -199,43 +200,43 @@
   id: 1005
   speakers: [7] # Patrick Splawa-Neyman
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1.5 hour
   capacity: Limited
 
 -
-  title: Tools for visualising beyond 3D
-  types: [2]
+  title: Tools for visualising beyond 3D*
+  types: [2a]
   themes: [3]
   id: 1006
   speakers: [8] # Dianne Cook
   hidden: false
-  description: <p></p>
+  description: "This is for scientists and data science practitioners who regularly work with high-dimensional data and models and are interested in learning how to better visualise them. You will learn about recognising structure in high-dimensional data, including clusters, outliers, non-linear relationships, and how this can be used with methods such as supervised classification, cluster analysis and non-linear dimension reduction."
   complexity:
-  length: 3 hours (multi-session)
+  length: 3 hours 
   capacity: Limited
 
 -
-  title: (cont.) Tools for visualising beyond 3D 
-  types: [2]
+  title: (cont.) Tools for visualising beyond 3D* 
+  types: [2a]
   themes: [3]
   id: 1006a
   speakers: [8] # Dianne Cook
   hidden: true
-  description: <p></p>
+  description: 
   complexity:
-  length: 3 hours (multi-session)
+  length: 3 hours 
   capacity: Limited
 
 -
-  title: Creating effecting Data Plots
+  title: Creating Effective Data Plots
   types: [1]
   themes: [3]
   id: 1007
   speakers: [8] # Dianne Cook
   hidden: false
-  description: '<p></p>'
+  description: "Defining your data plots using a grammar of graphics makes them into statistics. As such, you can use computational tooling to conduct tests for the presence of patterns and determine if a particular plot design is more powerful than another. This talk will explain how to approach this, including for biological data."
   complexity:
   length: 1 hour
   capacity: Limited
@@ -246,32 +247,32 @@
   id: 1008
   speakers: [9] # A/Prof Nadine Andrew
   hidden: false
-  description: <p></p>
+  description: "A wealth of health data is collected and stored electronically, yet much of this data remains siloed and underutilised. Maximising the use of improved electronic data collections, linkage systems that enable data to be linked at the person-level and analytic advancements have great potential to maximise data sharing and increase the potential for ‘big data’ research. Opportunities exist to better deliver higher-impact research at scale through capacity building and knowledge sharing in data linkage.<br><br>This workshop will introduce how large datasets can be reliably linked and used to provide novel insights, using health research as an example. Attendees will also be introduced to M-Link, a community of practice developed to support and oversee data linkage practice at Monash University. Areas of focus include: knowledge sharing; ethics, governance and data security; analytic training; technical support and access to external administrative datasets."
   complexity:
   length: 2 hours
   capacity: Limited
 -
-  title: Intro to R
-  types: [2]
+  title: Intro to R*
+  types: [2a]
   themes: [3, 5]
   id: 1009
   speakers: [10, 33] # Paul Harrison, Andrew Perry
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
-  length: 5 hours (multi-session)
+  length: 5 hours 
   capacity: Limited
 
 -
-  title: (cont.) Intro to R 
-  types: [2]
+  title: (cont.) Intro to R*
+  types: [2a]
   themes: [3, 5]
   id: 1009a
   speakers: [10, 33] # Paul Harrison, Andrew Perry
   hidden: true
-  description: <p></p>
+  description: 
   complexity:
-  length: 5 hours (multi-session)
+  length: 5 hours 
   capacity: Limited
 
 -
@@ -281,18 +282,18 @@
   id: 1010
   speakers: [11,12,13,26,27, 48] # Kiowa Scott-Hurley, et al
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited
 -
-  title: Key Story Talks
+  title: Key Story Talk
   types: [3]
   themes: 
   id: 1011
   speakers: [14] # A/Prof James Trauer 
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -304,18 +305,18 @@
   id: 1012
   speakers: [15, 49] # Di Brown, Tim Powers
   hidden: false
-  description: '<p></p>'
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited
 -
   title: Supporting Digital Research in one of the largest Go8 Uni  
   types: [1]
-  themes: [1, 6]
+  themes: [6]
   id: 1013
   speakers: [16] # Dr. Amr Hassan
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -326,32 +327,32 @@
   id: 1014
   speakers: [17]
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1.5 hour
   capacity: Limited
 -
-  title: Python for HPC
-  types: [2]
+  title: Python for HPC*
+  types: [2a]
   themes: [4, 5]
   id: 1015
   speakers: [18]
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
-  length: 3 hours (multi-session)
+  length: 3 hours 
   capacity: Limited
 
 -
-  title: (cont.) Python for HPC
-  types: [2]
+  title: (cont.) Python for HPC*
+  types: [2a]
   themes: [4, 5]
   id: 1015a
   speakers: [18]
   hidden: true
-  description: <p></p>
+  description: 
   complexity:
-  length: 3 hours (multi-session)
+  length: 3 hours 
   capacity: Limited
 
 -
@@ -361,7 +362,7 @@
   id: 1016
   speakers: [19] # Yang Liao
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited
@@ -372,9 +373,9 @@
   id: 1017
   speakers: [20] # Dr. Jathan Sadowski (FIT)
   hidden: false
-  description: <p></p>
+  description: "This workshop will expand our understanding of AI/ML by placing the design and application of these technologies in a broader societal context. Through group discussion of the participant’s own projects and interests, we will consider the human values, ethical choices, and social motives that are integral parts of technical systems. This will allow us to critically question how and why we build AI/ML, what its purposes and uses should be, and how to ensure it achieves socially beneficial outcomes. Through collective reflection, participants gain greater skills for thinking more deeply (and differently) about their own projects and responsibilities."
   complexity:
-  length: 2 hours (multi-session)
+  length: 2 hours 
   capacity: Limited
 -
   title: "Evaluating AI apps for Literature review"
@@ -383,7 +384,7 @@
   id: 1018
   speakers: [30, 31, 32] # Sophie Wright, Ines Sincock, Peter Reynolds 
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited
@@ -394,32 +395,32 @@
   id: 1019
   speakers: [22] # Mitchell Hargrave
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited
 -
-  title: "Time Series Forecasting with Machine Learning Techniques"
-  types: [1, 2]
+  title: "Time Series Forecasting with Machine Learning Techniques*"
+  types: [1, 2a]
   themes: [5]
   id: 1020
   speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
   hidden: false
-  description: <p></p>
+  description: "In this workshop, we will look into time series forecasting with machine learning techniques. Time series forecasting has traditionally been a field of Econometrics and Statistics, but over the last decade, machine learning methods have become competitive and are now oftentimes the methods of choice for forecasting problems. Generic machine learning models such as neural networks, and CNNs. Transformers usually need to be adapted to work well for forecasting tasks, and also other topics like evaluation and benchmarking are not trivial and require special attention. <br><br> In this workshop, we will aim to discuss where the field of forecasting is right now, and how machine and in particular deep learning can work for forecasting. We will also touch on the newest developments around foundational models for forecasting and will discuss several specialised subtopics of forecasting, with a theory and a practice session."
   complexity:
-  length: 4 hours (multi-session)
+  length: 4 hours 
   capacity: Limited
 
 -
-  title: "(cont.) Time Series Forecasting with Machine Learning Techniques"
-  types: [1, 2]
+  title: "(cont.) Time Series Forecasting with Machine Learning Techniques*"
+  types: [1, "2a"]
   themes: [5]
   id: 1020a
   speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
   hidden: true
-  description: <p></p>
+  description: "In this workshop, we will look into time series forecasting with machine learning techniques. Time series forecasting has traditionally been a field of Econometrics and Statistics, but over the last decade, machine learning methods have become competitive and are now oftentimes the methods of choice for forecasting problems. Generic machine learning models such as neural networks, and CNNs. Transformers usually need to be adapted to work well for forecasting tasks, and also other topics like evaluation and benchmarking are not trivial and require special attention. <br><br> In this workshop, we will aim to discuss where the field of forecasting is right now, and how machine and in particular deep learning can work for forecasting. We will also touch on the newest developments around foundational models for forecasting and will discuss several specialised subtopics of forecasting, with a theory and a practice session."
   complexity:
-  length: 4 hours (multi-session)
+  length: 4 hours 
   capacity: Limited
 
 -
@@ -429,7 +430,7 @@
   id: 1021
   speakers: [24] # Sara King
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited
@@ -440,18 +441,18 @@
   id: 1022
   speakers: [24] # Sara King
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited  
 -
-  title: General Overview into The Theoretical Aspects of Single Particle Cryo Electron Microscopy
+  title: A General Overview into The Theoretical Aspects of Single Particle Cryo-Electron Microscopy
   types: [1]
   themes:
   id: 1023
   speakers: [25] # Dr. Matthew Belousoff
   hidden: false
-  description: <p></p>
+  description: "Single particle cryo-electron microscopy is fast becoming the premier technique for the structural determination of protein structures. The session run by Dr. Matthew Belousoff will involve a lecture providing the theoretical framework for the technique followed by a practical hands-on session (in the context of the MASSIVE High performance compute cluster) to analyse some electron micrograph images and obtain an intermediate resolution 3D reconstruction of an antibody."
   complexity:
   length: 1 hour
   capacity: Limited 
@@ -473,7 +474,7 @@
   id: 1025
   speakers: [28, 29]  # Andrew Harrison and Susie Philips
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited 
@@ -485,19 +486,19 @@
   id: 1026
   speakers: [10] # Paul Harrison
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1.5 hours
   capacity: Limited
 
 -
-  title: Key Story Talks
+  title: Key Story Talk
   types: [3]
   themes: 
   id: 1027
   speakers: [34] # Dr Kit Huckvale 
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -509,105 +510,105 @@
   id: 1028
   speakers: [36, 37] # Shirin Jambhulkar, Neil Owens 
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited
 
 -
-  title: "Making Sense of Textual Data: From Foundational NLP to Generative Language Models"
-  types: [2]
+  title: "Making Sense of Textual Data: From Foundational NLP to Generative Language Models*"
+  types: [2a]
   themes: [5]
   id: 1029
   speakers: [38] # Dr. Zhuang Li  
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
-  length: 2 hours (multi-session)
+  length: 2 hours 
   capacity: Limited
 
 -
-  title: "(cont.) Making Sense of Textual Data: From Foundational NLP to Generative Language Models"
-  types: [2]
+  title: "(cont.) Making Sense of Textual Data: From Foundational NLP to Generative Language Models*"
+  types: [2a]
   themes: [5]
   id: 1029a
   speakers: [38] # Dr. Zhuang Li  
   hidden: true
-  description: <p></p>
+  description: 
   complexity:
-  length: 2 hours (multi-session)
+  length: 2 hours 
   capacity: Limited
 
 -
-  title: "Introduction to Regular Expressions (Regex)"
-  types: [2]
+  title: "Introduction to Regular Expressions (Regex)*"
+  types: [2a]
   themes: [5]
   id: 1030
   speakers: [39] # Simon Michnowicz
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
-  length: 3 hours (multi-session)
+  length: 3 hours 
   capacity: Limited
 
 -
-  title: "(cont.) Introduction to Regular Expressions (Regex)"
-  types: [2]
+  title: "(cont.) Introduction to Regular Expressions (Regex)*"
+  types: [2a]
   themes: [5]
   id: 1030a
   speakers: [39] # Simon Michnowicz
   hidden: true
-  description: <p></p>
+  description: 
   complexity:
-  length: 3 hours (multi-session)
+  length: 3 hours 
   capacity: Limited
 
 -
-  title: "Handling spatial data and making professional maps using QGIS"
-  types: [2]
+  title: "Handling spatial data and making professional maps using QGIS*"
+  types: [2a]
   themes: []
   id: 1031
   speakers: [40] # Dr. Debjit Bhowmick 
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
-  length: 2 hours (multi-session)
+  length: 2 hours 
   capacity: Limited
 
 -
-  title: "(cont.) Handling spatial data and making professional maps using QGIS"
-  types: [2]
+  title: "(cont.) Handling spatial data and making professional maps using QGIS*"
+  types: [2a]
   themes: []
   id: 1031a
   speakers: [40] # Dr. Debjit Bhowmick 
   hidden: true
-  description: <p></p>
+  description: 
   complexity:
-  length: 2 hours (multi-session)
+  length: 2 hours 
   capacity: Limited
 
 -
-  title: "Building a Neural Network!"
-  types: [2]
+  title: "Building a Neural Network!*"
+  types: [2a]
   themes: []
   id: 1032
   speakers: [41] # Riccardo Bonacci
   hidden: false
-  description: <p></p>
+  description: "Neural networks (or perceptrons) have become increasingly popular over the last 30 years, and have been shown to be multidisciplinary. The original idea for the neural network stems from a simplistic interpretation of how our brain works, with neurons (or nodes) sending signals to other neurons, which in turn ’activate’ (or ’fire’) to send an output signal. This is truly an over-simplified model of how our brain works, though the mathematical description of this network has shown itself to be extremely flexible in learning structures and patterns from large data sets. This is to an extent that they are known as universal interpolaters.<br><br>In this workshop, we will build step-by-step our own neural networks to test on mock data. We will also compare the performance of the networks we created to ones created by PyTorch, which is a common machine learning library used on Python. This workshop will be performed using Python on a jupyter notebook."
   complexity:
-  length: 2 hours (multi-session)
+  length: 2 hours 
   capacity: Limited
 
 -
-  title: "(cont.) Building a Neural Network!"
-  types: [2]
+  title: "(cont.) Building a Neural Network!*"
+  types: [2a]
   themes: []
   id: 1032a
   speakers: [41] # Riccardo Bonacci
   hidden: true
-  description: <p></p>
+  description: 
   complexity:
-  length: 2 hours (multi-session)
+  length: 2 hours 
   capacity: Limited
 
 
@@ -619,9 +620,9 @@
   id: 1111
   speakers: [] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
   hidden: true
-  description: <p></p>
+  description: 
   complexity:
-  length: 4 hours (multi-session)
+  length: 4 hours 
   capacity: Limited
 
 -
@@ -631,7 +632,7 @@
   id: 1033
   speakers: [43,44,45,46] # Linda Kalejs, Nick May, Sam Ryan, Eva Fisch
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited
@@ -643,7 +644,7 @@
   id: 1034
   speakers: [47] # Maria del Mar Quiroga
   hidden: false
-  description: <p></p>
+  description: "In 2022, at the University of Melbourne, we established the HASS Taskforce: an initiative to help researchers in the Humanities, Arts, and Social Sciences strengthen their digital research literacy through targeted, hands-on digital training and support. In this session, we will discuss the challenges and opportunities in working towards a more digitally engaged, capable, and empowered humanities, arts, and social science academy."
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -656,7 +657,7 @@
   id: 1035
   speakers: [50] #  David Shipman
   hidden: false
-  description: <p></p>
+  description: <p>Our team focuses on the development of epidemiological time-series models using Python, often in time-critical contexts, so our work requires a combination of fast execution and rapid, expressive model development.  This talk is about the journey our primary modelling toolkit, <a href="https://github.com/monash-emu/summer2">Summer2</a> has taken, particularly with regards to performance, and how we arrived at  <a href="https://jax.readthedocs.io/">Jax</a> - a fast, auto-differentiating compiler from Google, which now forms the basis for much of our new model development.</p><p>There will be a technical introduction to Jax and its surrounding ecosystem, a discussion of our experiences in converting existing modelling code, and finally, how it influences our design choices and modelling work (plus some important lessons learned along the way!) </p><p>While the technical content of this talk relates to numerical computing in Python, it aims to be broadly accessible to anyone with an interest in modelling or the software development process in general.</p>
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -667,33 +668,33 @@
   types: [2]
   themes: []
   id: 1036
-  speakers: [51] #  Simon Musgrave
+  speakers: [52] #  Simon Musgrave
   hidden: false
-  description: <p></p>
+  description: "Concordances are a very useful tool for anyone who works with textual data. Concordancing tools (also referred to as Keyword in Context or KWIC tools) provide us with a listing of all occurrences of a word in a text along with some surrounding context. A concordance is therefore an excellent starting point to explore how a word is used in a text. Most KWIC tools also have the capability to sort results according to the context of the instances, by preceding words or following words or a combination of the two and these capabilities allow us to extract more specific information from concordances. <br><br> In this workshop, you will:<br><ul class='theme-description'><li>be introduced to tools for building concordances, </li>  <li>be shown examples of how simple and complex concordances can be used to answer questions, </li>  <li>have the chance to explore text using concordances, either text you bring or data that is provided.</li> </ul>"
   complexity:
   length: 2 hours
   capacity: Limited
 
 -
-  title: "Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons"
-  types: [2]
+  title: "Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons*"
+  types: [2a]
   themes: []
   id: 1037
-  speakers: [52, 51] #  Kit Greenhill and Simon Musgrave
+  speakers: [51, 52] #  Kit Greenhill and Simon Musgrave
   hidden: false
-  description: <p></p>
+  description: "Get hands-on with 2 tools from the ARDC HASS and Indigenous Research Data Commons, the Crate-O metadata editor and the Trove Data guide. After 2 forty minute deep dives, learn how other parts of the Research Data Commons help researchers solve another 8 research challenges, in a series of 5-minute lighting tours. <br> <br>By the end of the session, you will know how to use a tool to package your research data and its metadata together in an <a href='https://www.researchobject.org/ro-crate/' >RO-Crate</a> and be better equipped to locate and manipulate data from the National Library's Trove research portal. You will also have new leads for research with Indigenous data; social media data; data about creative arts; and social sciences data."
   complexity:
   length: 2 hours (multi-sessions)
   capacity: Limited
 
 -
-  title: "(cont.) Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons"
-  types: [2]
+  title: "(cont.) Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons*"
+  types: [2a]
   themes: []
   id: 1037a
   speakers: [52, 51] #  Kit Greenhill and Simon Musgrave
   hidden: true
-  description: <p></p>
+  description: "Get hands-on with 2 tools from the ARDC HASS and Indigenous Research Data Commons, the Crate-O metadata editor and the Trove Data guide. After 2 forty minute deep dives, learn how other parts of the Research Data Commons help researchers solve another 8 research challenges, in a series of 5-minute lighting tours. <br> <br>By the end of the session, you will know how to use a tool to package your research data and its metadata together in an <a href='https://www.researchobject.org/ro-crate/' >RO-Crate</a> and be better equipped to locate and manipulate data from the National Library's Trove research portal. You will also have new leads for research with Indigenous data; social media data; data about creative arts; and social sciences data."
   complexity:
   length: 2 hours (multi-sessions)
   capacity: Limited
@@ -705,7 +706,7 @@
   id: 1038
   speakers: [53] #  Meirian Lovelace-Tozer
   hidden: false
-  description: <p></p>
+  description: "Does your computer struggle with your research workload? Would you like to access extra resources and share a computer with collaborators?<br><br> Whether it's data analysis, simulation, or other computing work, the ARDC Nectar Research Cloud provides researchers with more computational power. This service gives you access to fast, secure, and powerful cloud computers, helping you to accelerate your research!"
   complexity:
   length: 1 hour
   capacity: Limited
@@ -717,7 +718,7 @@
   id: 1039
   speakers: [54] #  Cooper Smout
   hidden: false
-  description: <p></p>
+  description: 
   complexity:
   length: 1 hour
   capacity: Limited

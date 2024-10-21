@@ -3,10 +3,10 @@
   title: Prof.
   name: David
   surname: Powell
-  company: Monash eResearch
-  role: Director
+  company: ["Monash eResearch"]
+  role: ["Director"]
   bio: 
-  thumbnailUrl: 
+  thumbnailUrl: "DavidPowell.JPG"
   rockstar: true
   ribbon:
   social:
@@ -15,10 +15,10 @@
   title: Prof.
   name: Jacek
   surname: J. Jasieniak 
-  company: Research Infrastructure
-  role: Pro Vice-Chancellor 
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Pro Vice-Chancellor (Research Infrastructure)"]
+  bio: Jacek Jasieniak completed a Bachelor of Science (1st Class Honours) from Flinders University (2003, University Medal) and PhD from the University of Melbourne (2008, Chancellor’s Prize) under the supervision of Prof. Paul Mulvaney. He then undertook postdoctoral work as an OCE fellow at the Commonwealth Scientific and Industrial Research Organisation (CSIRO) with Dr Scott Watkins and Dr Ezio Rizzardo (2008-11) and was a Fulbright Fellow with Nobel Laureate, Prof. Alan Heeger, at the University of California Santa Barbara (2011-12). In 2012 he returned to CSIRO, progressing to a Senior Research Scientist and then Group Leader. In 2015 he moved to Monash University as an Associate Professor, where he was also appointed Director of the cross-disciplinary Monash Energy Institute. In 2020 he was promoted to Full Professor and also became the Associate Dean of Research for the Faculty of Engineering. In December 2021, Jacek was promoted to the role of Pro Vice-Chancellor (Research Infrastructure) at Monash University.
+  thumbnailUrl: JacekJasieniak.jpeg
   rockstar: true
   ribbon:
   social:
@@ -27,8 +27,8 @@
   title: 
   name: Luke
   surname: Bampton
-  company: 
-  role: 
+  company: []
+  role: []
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -39,10 +39,10 @@
   title: Prof.
   name: Rashina
   surname: Hoda
-  company: 
-  role: Associate Dean, Equity Diversity and Inclusion
+  company: ["Monash University"]
+  role: ["Associate Dean, Equity Diversity and Inclusion"]
   bio: 
-  thumbnailUrl: 
+  thumbnailUrl: RashinaHoda_MU.png
   rockstar: true
   ribbon:
   social:
@@ -51,8 +51,8 @@
   title: 
   name: Darren
   surname: Brain
-  company: GALE
-  role: 
+  company: ["GALE"]
+  role: []
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -63,8 +63,8 @@
   title:
   name: Damian
   surname: Almeida
-  company: GALE
-  role:
+  company: ["GALE"]
+  role: []
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -75,8 +75,8 @@
   title:
   name: Patrick 
   surname: Splawa-Neyman
-  company:
-  role:
+  company: ["Monash eResearch"]
+  role: []
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -87,10 +87,10 @@
   title: Prof.
   name: Dianne 
   surname: Cook
-  company:
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Professor of Statistics in Econometrics and Business Statistics"]
+  bio: Dianne Cook is a Professor of Statistics in Econometrics and Business Statistics at Monash University in Melbourne, Australia. She has a PhD in Statistics from Rutgers University. Her research focuses on statistical graphics, which involves interactive visualisation of high-dimensional data, and statistical inference for data visualisation. In her role at Monash University, she regularly teaches courses on machine learning and data analysis, and she has conducted workshops on data visualisation.
+  thumbnailUrl: DianneCook_MU.png
   rockstar: true
   ribbon:
   social:
@@ -99,10 +99,10 @@
   title: A/Prof.
   name: Nadine 	
   surname: Andrew
-  company: 
-  role: 
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University", "National Centre for Healthy Ageing"]
+  role: ["Senior Researcher", "Research Data Lead" ]
+  bio: A/Prof Nadine Andrew is a senior researcher at Monash University and Research Data Lead for the National Centre for Healthy Ageing. She is nationally recognised as a leader in generating and translating knowledge in the application of big data to health services research through data linkage, leading a number of large grant-funded projects in this area. She is chair of the Monash Helix data linkage community of practice (M-Link), running workshops through Data Fluency, hosting bi-annual events with external speakers from government and other external organisations, and providing resources and support for Monash researchers wanting to access linked data.
+  thumbnailUrl: NadineAndrew_MU.png
   rockstar: true
   ribbon:
   social:
@@ -159,8 +159,8 @@
   title: A/Prof.	
   name: James
   surname: Trauer
-  company: Department of Epidemiology and Preventive Medicine
-  role: Head, Epidemiological Modelling Unit
+  company: ["Monash University"]
+  role: ["Head, Epidemiological Modelling Unit Department of Epidemiology and Preventive Medicine"]
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -231,10 +231,10 @@
   title: Dr.
   name: Jathan
   surname: Sadowski
-  company: Faculty of IT Monash University
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Senior Lecturer and ARC DECRA Fellow in the Emerging Technologies Research Lab"]
+  bio: Jathan Sadowski is a Senior Lecturer and ARC DECRA Fellow in the Emerging Technologies Research Lab, Department of Human-Centred Computing, Faculty of Information Technology at Monash University. His work analyses the political economy and social impacts of technology, with a specific focus on the development of risk governance systems in the insurance industry.
+  thumbnailUrl: JathanSadowski_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -256,7 +256,7 @@
   title: 
   name: Mitchell 	
   surname: Hargreaves
-  company: 
+  company: ["Monash eResearch"]
   role:
   bio: 
   thumbnailUrl: 
@@ -268,10 +268,10 @@
   title: Dr. 	
   name: Christoph 	
   surname: Bergmeir
-  company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["University of Granada, Spain", "Monash University"]
+  role: ["María Zambrano (Senior) Fellow", "Adjunct Senior Research Fellow"]
+  bio: "Christoph Bergmeir is a María Zambrano (Senior) Fellow in the Department of Computer Science and Artificial Intelligence at the University of Granada, Spain, and an Adjunct Senior Research Fellow in the Department of Data Science and Artificial Intelligence at Monash University. Before this, he was a Visiting Research Data Scientist at Meta Inc. (formerly Facebook Inc.) in California in the US, and a Senior Lecturer at Monash University. He has a track record of working in forecasting for capacity planning, sustainable energy, and supply chain, and has led teams that have delivered systems for short-term power production forecasting of wind and solar farms, and energy price forecasting. Christoph holds a PhD in Computer Science from the University of Granada, and an M.Sc. degree in Computer Science from the University of Ulm, Germany. He has over 5,800 citations and an h-index of 30. He has received more than AUD 2.7 million in external research funding. Four of his publications on time series forecasting over the last years have been Clarivate Web of Science Highly Cited Papers (top 1% of their research field)."
+  thumbnailUrl: ChristophBergmeir_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -292,10 +292,10 @@
   title: Dr. 	
   name: Matthew 	
   surname: Belousoff  
-  company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash Institute of Pharmaceutical Sciences"]
+  role: ["Senior Research Scientist"]
+  bio: "Dr. Matthew Belousoff is a senior research scientist at the Monash Institute of Pharmaceutical Sciences. His scientific interests are in the field of structural biology, where he has used both X-ray diffractions as well as cryogenic electron microscopy techniques to examine the molecular structures of everything from archeal ribosomes to mammalian G-coupled protein receptors."
+  thumbnailUrl: MattBelousoff_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -304,7 +304,7 @@
   title:
   name: Gin
   surname: Tan
-  company: Monash eResearch
+  company: ["Monash eResearch"]
   role:
   bio: 
   thumbnailUrl: 
@@ -328,7 +328,7 @@
   title: 
   name: Andrew 	
   surname: Harrison  
-  company: Monash Library
+  company: ["Monash University"]
   role:
   bio: 
   thumbnailUrl: 
@@ -340,7 +340,7 @@
   title:
   name: Susie
   surname: Philips
-  company: Monash Library
+  company: ["Monash University"]
   role:
   bio: 
   thumbnailUrl: 
@@ -415,10 +415,10 @@
   title: Dr.
   name: Abishek 
   surname: Sriramulu  
-  company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Tymestack"]
+  role: ["Founder of Tymestack"]
+  bio: "Abishek Sriramulu is the Founder of Tymestack, a forward-thinking startup focused on advancing AI-driven forecasting and optimization solutions. With both a PhD and a Master's in Data Science from Monash University, Dr. Sriramulu has dedicated his career to harnessing artificial intelligence for improved decision-making and enhanced outcomes.<br><br>Specialising in forecasting, Dr. Sriramulu brings extensive experience in developing and deploying production-grade machine learning systems across a variety of industries. His research interests span graph neural networks, multi-modal analytics, and constrained machine learning, with a clear focus on addressing complex, real-world challenges. Passionate about making cutting-edge AI technologies more accessible, Dr. Sriramulu is committed to driving meaningful impact across diverse applications."
+  thumbnailUrl: AbishekSriramulu.png
   rockstar: true
   ribbon:
   social:
@@ -467,7 +467,7 @@
   title:
   name: Simon     
   surname: Michnowicz  
-  company: 
+  company: ["Monash eResearch"]
   role:
   bio: 
   thumbnailUrl: 
@@ -493,10 +493,10 @@
   title:   
   name: Riccardo      
   surname: Bonacci  
-  company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["PhD candidate"]
+  bio: Riccardo Bonacci is a PhD candidate at Monash university in the school of Physics and Astronomy. He is a part of the LHCb collaboration, a particle physics experiment situated at the Large Hadron Collider at CERN (Geneva, Switzerland). His research focuses on analysing data taken from the LHCb, and using this to study particles containing the beauty and charm quarks.
+  thumbnailUrl: RiccardoBonacci_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -506,10 +506,10 @@
   title: Prof.
   name: Rob J     
   surname: Hyndman  
-  company: Department of Econometrics & Business Statistics
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Professor of Statistics"]
+  bio: Rob J Hyndman FAA FASSA is a Professor of Statistics in the Department of Econometrics and Business Statistics at Monash University, and an elected Fellow of both the Australian Academy of Science and the <a href='https://socialsciences.org.au/academy-fellow/?sId=0032v00003JxrvjAAB'> Academy of Social Sciences in Australia</a>. He is the author of over 200 research papers and 5 books in statistical science. In 2007, he received the <a href='https://www.science.org.au/past-winners/2007-awardees#moran'>Moran medal</a> from the Australian Academy of Science for his contributions to statistical research, especially in the area of statistical forecasting. In 2021, he received the <a href='https://www.statsoc.org.au/Pitman-Medal-Recipients'> Pitman medal </a> from the Statistical Society of Australia. For over 30 years, Rob has maintained an active consulting practice, assisting hundreds of companies and organizations around the world. He has won awards for his research, teaching, consulting and graduate supervision.
+  thumbnailUrl: RobHyndman_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -569,13 +569,13 @@
 
 -
   id: 47
-  title: 
+  title: Dr.
   name: Maria del Mar    
   surname: Quiroga  
-  company:  University of Melbourne
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Melbourne Data Analytics Platform"]
+  role: ["Senior Research Data Specialist"]
+  bio: Dr. Maria del Mar Quiroga is a Senior Research Data Specialist at the Melbourne Data Analytics Platform, where she works with researchers across all faculties and domains to bring the benefits of data-led methods to their fields. She is currently leading the HASS Taskforce, an exciting initiative that aims to empower and inspire researchers in the Humanities, Arts, and Social Sciences to embrace the potential of digital methodologies and create communities of practice and peer support.
+  thumbnailUrl: MariadelMarQuiroga_UoM.jpg
   rockstar: true
   ribbon:
   social:
@@ -611,10 +611,10 @@
   title: 
   name: David    
   surname: Shipman  
-  company:  
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash EMU (Epidemiological Modelling Unit)"]
+  role: ["Lead Software Engineer"]
+  bio: David Shipman is the lead software engineer at Monash EMU (Epidemiological Modelling Unit).  He has worked in the (rather niche!) field of modelling platform development for several decades, across multiple domains including finance, hydrology, and epidemiology.  He specialises in Python, numerical computing and expressive domain-specific APIs, with an interest in signal processing and compiler development.  He eventually realised that code is a means to an end - the real work is understanding users and what they want to express - then building tools to empower them.
+  thumbnailUrl: DavidShipman_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -622,25 +622,26 @@
 -
   id: 51
   title: 
-  name: Simon    
-  surname: Musgrave  
-  company:  
-  role:
-  bio: 
-  thumbnailUrl: 
+  name: Kit    
+  surname: Greenhill  
+  company: ["Australian Research Data Commons (ARDC)"]
+  role: ["Skills Development Lead (HASS & Indigenous)"]
+  bio: Kit Greenhill is ARDC’s Skills Development Lead (HASS & Indigenous). She helps researchers build better skills to create, analyse and retain HASS and Indigenous data. She applies expertise developed as a university lecturer and a professional librarian to support HASS and Indigenous researchers and data custodians to build communities identifying and addressing skills gaps. 
+  thumbnailUrl: KitGreenhill_ARDC.JPG
   rockstar: true
   ribbon:
-  social:
- 
+  social: [{ name: "ORCID", link: "https://orcid.org/0000-0001-9357-6006" }]
+
+
 -
   id: 52
   title: 
-  name: Kit    
-  surname: Greenhill  
-  company:  
-  role:
-  bio: 
-  thumbnailUrl: 
+  name: Simon    
+  surname: Musgrave  
+  company:  ["Language Data Commons of Australia"]
+  role: ["Training and Communication Lead"]
+  bio: Simon Musgrave is the Training and Communication Lead for the Language Data Commons of Australia and an Adjunct Research Fellow in the School of Languages, Literatures, Cultures and Linguistics, Monash University. Starting as a syntactician specialising in Austronesian languages, his research interests extended to cover areas including language endangerment, communication in medical settings and the use of technology for linguistic research. This last interest, through work on the Australian National Corpus project, led to work in the digital humanities and to his current work in research infrastructure for the humanities.
+  thumbnailUrl: SimonMusgrave_UQ.jpg
   rockstar: true
   ribbon:
   social:
@@ -650,13 +651,14 @@
   title: 
   name: Meirian    
   surname: Lovelace-Tozer   
-  company:  
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Australian Research Data Commons (ARDC)"]
+  role: ["Skills Development Lead (Services)"]
+  bio: Meirian Lovelace-Tozer is a Skills Development Lead (Services) at the Australian Research Data Commons (ARDC). With over 10 years of experience in education, Meirian is committed to making an impact through empowering Australian research communities with a competitive advantage. Meirian delivers training and resources that support researchers to effectively leverage ARDC services. For more information and to contact Meirian, please visit https://meirian.gitbook.io/home
+
+  thumbnailUrl: MeirianLovelace-Tozer_ARDC.jpg
   rockstar: true
   ribbon:
-  social:
+  social: https://meirian.gitbook.io/home
 
 -
   id: 54
