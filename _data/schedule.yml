@@ -1,6 +1,6 @@
 - 
   date: "2024-11-26"
-  dateReadable: "Tuesday 26th Nov 2024"
+  dateReadable: "Tue 26th Nov 2024"
   tracks: 
     - {title: "Room TBC", color: "#2E8B57"}
     - {title: "Room TBC", color: "#e91e63"}
@@ -35,7 +35,7 @@
       startTime: "15:00",
       endTime: "17:00",
       rowscount: 4,
-      sessionIds: [1006a, 1008, 1009a, 1034, 1017],
+      sessionIds: [1006a, 1008, 1009b, 1034, 1017],
       cols_start: [1, 1, 1, 4, 1], 
       cols_end:   [5, 5, 4, 5, 5]
     }
@@ -69,7 +69,7 @@
       }
     
      - {startTimes: ["12:30"], endTimes: ["13:30"], startTime: "12:30", endTime: "13:30", sessionIds: [104], rowscount: 1, cols: [4]}
-     - {startTimes: ["13:30"], endTimes: ["14:30"], startTime: "13:30", endTime: "14:30", sessionIds: [1029, 1022, 1009a, 1015], cols: [4]}
+     - {startTimes: ["13:30"], endTimes: ["14:30"], startTime: "13:30", endTime: "14:30", sessionIds: [1029, 1022, 1009c, 1015], cols: [4]}
      - {startTimes: ["14:30"], endTimes: ["15:00"], startTime: "14:30", endTime: "15:00", sessionIds: [105], rowscount: 1, cols: [4]}
 
      - {
@@ -109,14 +109,14 @@
      
     
      - {startTimes: ["12:30"], endTimes: ["13:30"], startTime: "12:30", endTime: "13:30", sessionIds: [104], rowscount: 1, cols: [4]}
-     - {startTimes: ["13:30"], endTimes: ["14:30"], startTime: "13:30", endTime: "14:30", sessionIds: [1030, 1038, 1039, 1020a], cols: [4]}
+     - {startTimes: ["13:30"], endTimes: ["14:30"], startTime: "13:30", endTime: "14:30", sessionIds: [1030, 1038, 1039, 1020b], cols: [4]}
      - {startTimes: ["14:30"], endTimes: ["15:00"], startTime: "14:30", endTime: "15:00", sessionIds: [105], rowscount: 1, cols: [4]}
 
      - {
         startTimes: ["15:00", "15:30", "16:00", "16:30"], endTimes: ["15:30", "16:00", "16:30", "17:00"], startTime: "15:00",
         endTime: "17:00",
         rowscount: 4,
-        sessionIds: [1030a, 1023, 1024, 1002, 1020a, 0001, 1028],
+        sessionIds: [1030a, 1023, 1024, 1002, 1020c, 0001, 1028],
         cols_start: [1, 1, 3, 1, 1, 2, 3], 
         cols_end:   [5, 3, 5, 5, 2, 3, 5]
       }

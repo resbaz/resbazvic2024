@@ -1,75 +1,4 @@
 -
-  title: Social evening at Belltop Cafe, featuring "90 Seconds of Research Impact" presentations
-  themes: []
-  id: 2
-  speakers: []
-  hidden: true
-  description: null  
--
-  title:
-  themes: []
-  id: 100000 
-  speakers: []
-  subtype: ""
-  service: ""
-  hidden: true
-  description: null
--
-  title: Networking - Afternoon Tea - Poster Viewing
-  themes: []
-  id: 105
-  speakers:
-  subtype:
-  service: true
-  hidden: true
-  description: null
--
-  title: 'Cybersecurity awareness and practices when developing research software'
-  themes: []
-  id: 0
-  speakers: [45]
-  subtype: Talks
-  service:
-  hidden: true
-  description: 
--
-  title: Knowledge bazaar
-  themes: []
-  id: 201
-  speakers:
-  subtype:
-  service:
-  hidden: true
-  description: null
--
-  title: Networking - Lunch - Poster Viewing
-  themes: []
-  id: 104
-  speakers:
-  subtype:
-  service: true
-  hidden: true
-  description: null
--
-  title: Mega Hacky Hour
-  themes: []
-  id: 0
-  speakers: []
-  subtype: Workshop
-  service:
-  hidden: false
-  description: null
-
--
-  title: 'News talk: beyond Twitter '
-  themes: []
-  id: 0
-  speakers: []
-  subtype: Workshop
-  service:
-  hidden: true
-  description: <p>We discuss the new post-Twitter social media landscape and ramifications for research. Then we introduce NewsTalk, a data bank of public reader comments, and how this platform can answer many of the same research questions in Australia. In this workshop we discuss the ethics procedures to gain access to NewsTalk, and we show how to use the tool including finding news stories and download data bundles of reader comments. We also describe the output data format and examine some of the participant's suggestions of public topics in the NewsTalk data.</p>
--
   title: Registration
   themes: []
   id: 101
@@ -79,6 +8,8 @@
   hidden: true
   description: null
   location:  Ground Floor (GF) Learning & Teaching Building 19 Ancora Imparo Way, Clayton VIC 3168
+  time:  08.00 - 09.00
+
 -
   title: Networking - Morning Tea - Poster Viewing
   themes: []
@@ -88,6 +19,7 @@
   service: true
   hidden: true
   description: null
+  time:  10.30 - 11.00
 
 -
   title: Networking - Morning Tea 
@@ -98,6 +30,29 @@
   service: true
   hidden: true
   description: null
+  time:  10.30 - 11.00
+
+-
+  title: Networking - Lunch - Poster Viewing
+  themes: []
+  id: 104
+  speakers:
+  subtype:
+  service: true
+  hidden: true
+  description: null
+  time:  12.30 - 13.30
+
+-
+  title: Networking - Afternoon Tea - Poster Viewing
+  themes: []
+  id: 105
+  speakers:
+  subtype:
+  service: true
+  hidden: true
+  description: null
+  time:  14.30 - 15.00
 
 -
   title: TBC
@@ -118,6 +73,7 @@
   service: true
   hidden: true
   description: null
+  time:  17.00 - 19.00
 
 -
   title: 'Opening Remarks'
@@ -130,7 +86,8 @@
   complexity:
   length:
   capacity:
-
+  date:  Day 1, Tue 26th Nov 2024
+  time:  09.00 - 09.30
 
 -
   title: Ethical AI panel
@@ -158,6 +115,8 @@
   complexity:
   length: 2 hours
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024
+  time: 15.00 - 17.00
 
 -
   title: 'Key Story Talk'
@@ -170,6 +129,8 @@
   complexity:
   length: 30 minutes
   capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  09.30 - 10.00
 
 -
   title: 'Key Story Talk'
@@ -182,6 +143,9 @@
   complexity:
   length: 30 minutes
   capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  10.00 - 10.30
+
 -
   title: Digital Scholar Lab - GALE
   types: [2]
@@ -193,6 +157,9 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  11.00 - 12.00
+
 -
   title: "Research Data Management: A non-technical, foundational introduction."
   types: [1, 2]
@@ -204,6 +171,8 @@
   complexity:
   length: 1.5 hour
   capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  11.00 - 12.30
 
 -
   title: Tools for visualising beyond 3D*
@@ -216,6 +185,8 @@
   complexity:
   length: 3 hours 
   capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  13.30 - 14.30
 
 -
   title: (cont.) Tools for visualising beyond 3D* 
@@ -228,6 +199,8 @@
   complexity:
   length: 3 hours 
   capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  15.00 - 17.00
 
 -
   title: Creating Effective Data Plots
@@ -240,6 +213,9 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date:  Day 2, Wed 27th Nov 2024 
+  time:  11.00 - 12.00
+
 -
   title: Data Linkage 
   types: [2]
@@ -251,6 +227,9 @@
   complexity:
   length: 2 hours
   capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  15.00 - 17.00
+
 -
   title: Intro to R*
   types: [2a]
@@ -262,6 +241,8 @@
   complexity:
   length: 5 hours 
   capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  11.00 - 12.30
 
 -
   title: (cont.) Intro to R*
@@ -274,6 +255,36 @@
   complexity:
   length: 5 hours 
   capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  13.30 - 14.30
+
+-
+  title: (cont.) Intro to R*
+  types: [2a]
+  themes: [3, 5]
+  id: 1009b
+  speakers: [10, 33] # Paul Harrison, Andrew Perry
+  hidden: true
+  description: 
+  complexity:
+  length: 5 hours 
+  capacity: Limited
+  date:  Day 1, Tue 26th Nov 2024
+  time:  15.00 - 16.30
+
+-
+  title: (cont.) Intro to R*
+  types: [2a]
+  themes: [3, 5]
+  id: 1009c
+  speakers: [10, 33] # Paul Harrison, Andrew Perry
+  hidden: true
+  description: 
+  complexity:
+  length: 5 hours 
+  capacity: Limited
+  date:  Day 2, Wed 27th Nov 2024 
+  time:  13.30 - 14.30
 
 -
   title: Diversity and Inclusion in Research & Digital Platforms
@@ -286,6 +297,9 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date:  Day 2, Wed 27th Nov 2024 
+  time:  09.30 - 10.30
+
 -
   title: Key Story Talk
   types: [3]
@@ -297,6 +311,8 @@
   complexity:
   length: 30 minutes
   capacity: Limited
+  date:  Day 2, Wed 27th Nov 2024 
+  time:  09.00 - 09.30
 
 -
   title: The Great Debate - REDCap vs Qualtrics Plus
@@ -309,6 +325,9 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date:  Day 2, Wed 27th Nov 2024 
+  time:  11.00 - 12.00
+
 -
   title: Supporting Digital Research in one of the largest Go8 Uni  
   types: [1]
@@ -320,6 +339,9 @@
   complexity:
   length: 30 minutes
   capacity: Limited
+  date:  Day 2, Wed 27th Nov 2024 
+  time:  15.00 - 15.30
+
 -
   title: Intro to Gadi 
   types: [2]
@@ -331,6 +353,9 @@
   complexity:
   length: 1.5 hour
   capacity: Limited
+  date:  Day 2, Wed 27th Nov 2024 
+  time:  11.00 - 12.30
+
 -
   title: Python for HPC*
   types: [2a]
@@ -342,6 +367,8 @@
   complexity:
   length: 3 hours 
   capacity: Limited
+  date:  Day 2, Wed 27th Nov 2024 
+  time:  13.30 - 14.30
 
 -
   title: (cont.) Python for HPC*
@@ -354,6 +381,8 @@
   complexity:
   length: 3 hours 
   capacity: Limited
+  date:  Day 2, Wed 27th Nov 2024 
+  time:  15.00 - 17.00
 
 -
   title: From featureCounts to cellCounts - building highly efficient tools for sequencing data quantification
@@ -366,6 +395,9 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024
+  time: 09.30 - 10.30
+
 -
   title: "Socially Responsible AI/ML"
   types: [1, 2]
@@ -377,6 +409,9 @@
   complexity:
   length: 2 hours 
   capacity: Limited
+  date: Day 1, Tue 26th Nov 2024
+  time: 15.00 - 17.00
+
 -
   title: "Evaluating AI apps for Literature review"
   types: [1, 2]
@@ -388,6 +423,9 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date: Day 2, Wed 27th Nov 2024 
+  time: 11.00 - 12.00
+
 -
   title: "Machine Learning eResearch Platform (MLeRP)"
   types: [1, 2]
@@ -399,6 +437,9 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date: Day 2, Wed 27th Nov 2024 
+  time: 16.00 - 17.00
+
 -
   title: "Time Series Forecasting with Machine Learning Techniques*"
   types: [1, 2a]
@@ -410,6 +451,8 @@
   complexity:
   length: 4 hours 
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024 
+  time: 09.30 - 10.30
 
 -
   title: "(cont.) Time Series Forecasting with Machine Learning Techniques*"
@@ -422,6 +465,36 @@
   complexity:
   length: 4 hours 
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024 
+  time: 11.00 - 12.30
+
+-
+  title: "(cont.) Time Series Forecasting with Machine Learning Techniques*"
+  types: [1, "2a"]
+  themes: [5]
+  id: 1020b
+  speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
+  hidden: true
+  description: "In this workshop, we will look into time series forecasting with machine learning techniques. Time series forecasting has traditionally been a field of Econometrics and Statistics, but over the last decade, machine learning methods have become competitive and are now oftentimes the methods of choice for forecasting problems. Generic machine learning models such as neural networks, and CNNs. Transformers usually need to be adapted to work well for forecasting tasks, and also other topics like evaluation and benchmarking are not trivial and require special attention. <br><br> In this workshop, we will aim to discuss where the field of forecasting is right now, and how machine and in particular deep learning can work for forecasting. We will also touch on the newest developments around foundational models for forecasting and will discuss several specialised subtopics of forecasting, with a theory and a practice session."
+  complexity:
+  length: 4 hours 
+  capacity: Limited
+  date: Day 3, Thu 28th Nov 2024 
+  time: 13.30 - 14.30
+
+-
+  title: "(cont.) Time Series Forecasting with Machine Learning Techniques*"
+  types: [1, "2a"]
+  themes: [5]
+  id: 1020c
+  speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
+  hidden: true
+  description: "In this workshop, we will look into time series forecasting with machine learning techniques. Time series forecasting has traditionally been a field of Econometrics and Statistics, but over the last decade, machine learning methods have become competitive and are now oftentimes the methods of choice for forecasting problems. Generic machine learning models such as neural networks, and CNNs. Transformers usually need to be adapted to work well for forecasting tasks, and also other topics like evaluation and benchmarking are not trivial and require special attention. <br><br> In this workshop, we will aim to discuss where the field of forecasting is right now, and how machine and in particular deep learning can work for forecasting. We will also touch on the newest developments around foundational models for forecasting and will discuss several specialised subtopics of forecasting, with a theory and a practice session."
+  complexity:
+  length: 4 hours 
+  capacity: Limited
+  date: Day 3, Thu 28th Nov 2024 
+  time: 15.00 - 15.30
 
 -
   title: "Globus - Intro Demo & Hands On Workshop"
@@ -434,6 +507,9 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024 
+  time: 11.00 - 12.00
+
 -
   title: "Data Movement, Highlighting FileSender and Globus as Tools"
   types: [2]
@@ -445,6 +521,9 @@
   complexity:
   length: 1 hour
   capacity: Limited  
+  date: Day 2, Wed 27th Nov 2024 
+  time: 13.30 - 14.30
+
 -
   title: A General Overview into The Theoretical Aspects of Single Particle Cryo-Electron Microscopy
   types: [1]
@@ -455,7 +534,10 @@
   description: "Single particle cryo-electron microscopy is fast becoming the premier technique for the structural determination of protein structures. The session run by Dr. Matthew Belousoff will involve a lecture providing the theoretical framework for the technique followed by a practical hands-on session (in the context of the MASSIVE High performance compute cluster) to analyse some electron micrograph images and obtain an intermediate resolution 3D reconstruction of an antibody."
   complexity:
   length: 1 hour
-  capacity: Limited 
+  capacity: Limited
+  date: Day 3, Thu 28th Nov 2024  
+  time: 15.00 - 16.00
+
 -
   title: "Hands On Analysis of Microscopy data: Micrographs to 2D classification in RELION"
   types: [2]
@@ -467,6 +549,9 @@
   complexity:
   length: 1 hour
   capacity: Limited 
+  date: Day 3, Thu 28th Nov 2024  
+  time: 16.00 - 17.00
+
 -
   title: "Making research outputs (publications, data sets, NTROs etc) open access"
   types: [2]
@@ -477,7 +562,9 @@
   description: 
   complexity:
   length: 1 hour
-  capacity: Limited 
+  capacity: Limited
+  date: Day 1, Tue 26th Nov 2024  
+  time: 13.30 - 14.30
 
 -
   title: "HTML, Javascript, SVG, D3: a foot in the door"
@@ -490,6 +577,9 @@
   complexity:
   length: 1.5 hours
   capacity: Limited
+  date: Day 2, Wed 27th Nov 2024   
+  time: 15.30 - 17.00
+
 
 -
   title: Key Story Talk
@@ -502,6 +592,8 @@
   complexity:
   length: 30 minutes
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024  
+  time: 09.00 - 09.30
 
 -
   title: "Major Initiatives & Grant Writing (what's expected from Major research program applications and initiatives)"
@@ -514,6 +606,8 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024  
+  time: 16.00 - 17.00
 
 -
   title: "Making Sense of Textual Data: From Foundational NLP to Generative Language Models*"
@@ -526,6 +620,8 @@
   complexity:
   length: 2 hours 
   capacity: Limited
+  date: Day 2, Wed 27th Nov 2024   
+  time: 13.30 - 14.30
 
 -
   title: "(cont.) Making Sense of Textual Data: From Foundational NLP to Generative Language Models*"
@@ -538,6 +634,8 @@
   complexity:
   length: 2 hours 
   capacity: Limited
+  date: Day 2, Wed 27th Nov 2024   
+  time: 15.00 - 16.00
 
 -
   title: "Introduction to Regular Expressions (Regex)*"
@@ -550,6 +648,8 @@
   complexity:
   length: 3 hours 
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024   
+  time: 13.30 - 14.30  
 
 -
   title: "(cont.) Introduction to Regular Expressions (Regex)*"
@@ -562,6 +662,8 @@
   complexity:
   length: 3 hours 
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024   
+  time: 15.00 - 17.00  
 
 -
   title: "Handling spatial data and making professional maps using QGIS*"
@@ -574,6 +676,8 @@
   complexity:
   length: 2 hours 
   capacity: Limited
+  date: Day 1, Tue 26th Nov 2024   
+  time: 11.30 - 12.30 
 
 -
   title: "(cont.) Handling spatial data and making professional maps using QGIS*"
@@ -586,6 +690,8 @@
   complexity:
   length: 2 hours 
   capacity: Limited
+  date: Day 1, Tue 26th Nov 2024   
+  time: 13.30 - 14.30 
 
 -
   title: "Building a Neural Network!*"
@@ -598,6 +704,8 @@
   complexity:
   length: 2 hours 
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024   
+  time: 09.30 - 10.30 
 
 -
   title: "(cont.) Building a Neural Network!*"
@@ -610,20 +718,8 @@
   complexity:
   length: 2 hours 
   capacity: Limited
-
-
-
--
-  title: "TBC"
-  types: [1, 2]
-  themes: []
-  id: 1111
-  speakers: [] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
-  hidden: true
-  description: 
-  complexity:
-  length: 4 hours 
-  capacity: Limited
+  date: Day 3, Thu 28th Nov 2024   
+  time: 11.00 - 12.00 
 
 -
   title: "Drop-in Session - Coding"
@@ -636,6 +732,8 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date: Day 1, Day 2, Day 3
+  time: 12.00 - 13.00 
 
 -
   title: "Empowering HASS researchers in digital methodologies"
@@ -648,7 +746,8 @@
   complexity:
   length: 30 minutes
   capacity: Limited
-
+  date: Day 1, Tue 26th Nov 2024   
+  time: 16.30 - 17.00 
 
 -
   title: "Introduction to Jax - Lessons learned from the summer2 performance journey"
@@ -661,7 +760,8 @@
   complexity:
   length: 30 minutes
   capacity: Limited
-
+  date: Day 2, Wed 27th Nov 2024    
+  time: 12.00 - 12.30 
 
 -
   title: "Exploring text using concordances"
@@ -674,6 +774,8 @@
   complexity:
   length: 2 hours
   capacity: Limited
+  date: Day 2, Wed 27th Nov 2024    
+  time: 15.00 - 17.00 
 
 -
   title: "Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons*"
@@ -686,6 +788,8 @@
   complexity:
   length: 2 hours (multi-sessions)
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024   
+  time: 09.30 - 10.30 
 
 -
   title: "(cont.) Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons*"
@@ -698,6 +802,8 @@
   complexity:
   length: 2 hours (multi-sessions)
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024   
+  time: 11.00 - 12.00 
 
 -
   title: "Accelerate Your Research with the ARDC Nectar Research Cloud"
@@ -710,6 +816,8 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024   
+  time: 13.30 - 14.30 
 
 -
   title: "WISDOM: An open value accounting framework for diverse communities"
@@ -722,3 +830,5 @@
   complexity:
   length: 1 hour
   capacity: Limited
+  date: Day 3, Thu 28th Nov 2024   
+  time: 13.30 - 14.30 

@@ -116,7 +116,7 @@ $small-label-width: 80px;
     margin: 0;
     padding-right: 20px;
     @media (max-width: 767px) {
-        font-size: 12px;
+        // font-size: 12px;
     }
 }
 .track-header-title {
@@ -228,5 +228,24 @@ $small-label-width: 80px;
 
 .gridbox-wrapper-time {
     display: grid;
+    // margin-right: 20px; /* Add right margin for the time wrapper */
+}
+
+
+.mobile-details {
+    display: none;
+    @media (max-width: 767px) {
+        display: block;
+    }
+    // margin-right: 20px; /* Add right margin for the time wrapper */
+}
+
+
+
+.mobile-hidden {
+    display: block;
+    @media (max-width: 767px) {
+        display: none;
+    }
     // margin-right: 20px; /* Add right margin for the time wrapper */
 }

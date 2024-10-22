@@ -11,7 +11,7 @@
 							</svg>
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
-						<h4>{{ session.title }}</h4>
+						<h4>{{ session.title }}</h4>{{ day.dateReadable }}
 
 						<p> 
 							{% for type in site.data.types %}
@@ -28,6 +28,10 @@
 							{% endfor %}
 						</p>
 
+						{% if session.types contains "2a" %}
+							<p><b>This is a multi-session workshop and you must register for each of them</b></p>		
+						{% endif %}
+
 
 						{% if session.subtype != null %}
 						<span class="theme-metadata">{{ session.subtype }}</span>
@@ -41,9 +45,20 @@
 						{% if session.complexity != null %}
 						<span class="theme-metadata"><span class="caption">Level: </span>{{ session.complexity }}</span>
 						{% endif %}
+
+						<span class="mobile-details theme-metadata"><span class="caption"></span>
+						{{ session.date }}<br>
+						{{ session.time }}
+						
+						<br><br></span>
+
+
 						{% if session.length != null %}
-						<span class="theme-metadata"><span class="caption">Length: </span>{{ session.length }}</span>
+						<span class="theme-metadata"><span class="caption">Total Length: </span>{{ session.length }}</span>
 						{% endif %}
+
+						<span class="mobile-details"></span>
+
 						{% if session.capacity != null %}
 						<span class="theme-metadata"><span class="caption">Capacity: </span>{{ session.capacity }}</span>
 						{% endif %}

@@ -9,8 +9,8 @@
         </select>
         {% for day in site.data.schedule %}
             <div class="schedule-table col-lg-10 col-md-12 col-lg-offset-1">
-                <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
-                <div class="timeslot track-header stick-header">
+                <h4 class="schedule-table-heading mobile-hidden">{{ day.dateReadable }}</h4>
+                <div class="timeslot track-header stick-header mobile-hidden">
                     <div class="track-header-label">Day {{ forloop.index }}</div>
                     <div class="timeslot-elements flexbox-wrapper" style="margin-left: 100px;">
                         {% for track in day.tracks %}
@@ -24,6 +24,10 @@
                         </div>
                     </div>
                 </div>
+                <h4 class="schedule-table-heading timeslot track-header stick-header mobile-details" style="margin: 0px; border: none; padding: 3%;">{{ day.dateReadable }}</h4>
+                <!-- <div class="timeslot track-header stick-header mobile-details">
+                    <div class="track-header-label">Day {{ forloop.index }}</div>
+                </div> -->
                 {% for timeslot in day.timeslots %}
                 <div class="timeslot" itemtype="http://schema.org/subEvent">
 
@@ -78,7 +82,7 @@
                                             {% assign gridcol = "auto" %}
                                         {% endif %}
 
-                                        <div id="session-{{ session.id }}" class="slot col-xs-12 flexbox-item-height {% for theme in session.themes %}theme_{{theme}} {% endfor %}"   style="grid-row: {{colsstartlist[slotIndex]}}/{{colsendlist[slotIndex]}}; grid-column:{{ gridcol}}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                        <div id="session-{{ session.id }}" class="slot col-xs-12 flexbox-item-height {% for theme in session.themes %}theme_{{theme}} {% endfor %}"   style="grid-row: {{colsstartlist[slotIndex]}}/{{colsendlist[slotIndex]}}; grid-column:{{ gridcol}}" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}" >
                                             <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                             <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                                 {% if session.location != null %}
@@ -108,6 +112,7 @@
                                                     {% endfor %}
                                                 </p>
                                                
+                                                <p class="mobile-details">{{ session.time }}</p>
 
 
 
@@ -203,6 +208,7 @@
                                                 {% if session.description != null %}
                                                 <p class="service-description">{{ session.description }}</p>
                                                 {% endif %}
+                                                <p class="mobile-details service-description">{{ session.time }}</p>
                                             </div>
                                         </div>
                                         {% endif %}
