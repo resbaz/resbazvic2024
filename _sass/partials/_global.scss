@@ -120,6 +120,8 @@ time {
     }
 }
 .preloader {
+    display: grid;
+    align-content: center;
     position: fixed;
     z-index: 9999;
     top: 0;
@@ -127,13 +129,10 @@ time {
     bottom: 0;
     left: 0;
     background-color: #fff;
-    object {
-        display: inline-block;
-        position: absolute;
-        top: calc(50% - 100px);
-        left: calc(50% - 100px);
+    img {
+        justify-self: center;
+        display: block;
         width: 200px;
-        height: 200px;
     }
 }
 .loader-gplus {
