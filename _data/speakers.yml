@@ -161,7 +161,8 @@
   surname: Trauer
   company: ["Monash University"]
   role: ["Head, Epidemiological Modelling Unit Department of Epidemiology and Preventive Medicine"]
-  bio: 
+  bio: A/Prof James Trauer is an expert in infectious disease modelling, with a particular focus on COVID-19 and tuberculosis. He leads the Epidemiological Modelling Unit at Monash University, where his team uses mechanistic simulation models to guide public health strategies for infectious disease control.<br><br>His work has been important in shaping the response to the COVID-19 pandemic and informing TB control programs across the Asia-Pacific, including through extensive collaboration with the World Health Organization's Western Pacific and South-East Asia Regions. The team has recently shifted to a capacity building approach for epidemic modelling to enable locally led responses to infectious diseases. As a practising respiratory physician, James brings a clinical perspective to his research, but also remains closely involved in platform development.
+
   thumbnailUrl: JamesTrauer.jpg
   rockstar: true
   ribbon:
@@ -678,12 +679,23 @@
   title: 
   name: Kevon     
   surname: Graham  
-  company:  
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Information Security Specialist"]
+  bio: Kevon Graham is a dynamic Information Security Specialist with a strong passion for aligning application security architecture plans and processes with industry standards and business objectives. He has extensive experience in developing and testing security frameworks for cloud-based and on-premise applications, and wireless infrastructure while working within agile development environments. <br><br> Recognized for excellence in conducting comprehensive information security assessments and architecture reviews, Kevon is skilled in directing cybersecurity auditing programs along with developing network defence strategies and data protection policies. He is also adept at conducting cyber security awareness training sessions, sharing best practices for managing security testing cycles, and leading cross-functional teams to deliver secure, high-availability solutions. A proactive professional, Kevon excels at analysing security policies, identifying vulnerabilities, and implementing strategic improvements to enhance organizational security.
+  thumbnailUrl: KevonGraham_MU.png
   rockstar: true
   ribbon:
   social:
 
- 
+-
+  id: 56
+  title: 
+  name: GitLab     
+  surname:   
+  company: 
+  role: 
+  bio:
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+  social:

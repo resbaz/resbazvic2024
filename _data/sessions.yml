@@ -307,7 +307,7 @@
   id: 1011
   speakers: [14] # A/Prof James Trauer 
   hidden: false
-  description: 
+  description: "Infectious disease (ID) modelling came to the fore during the pandemic, but there are few or no qualifications to identify competence in the field. ID modellers come from a broad range of backgrounds, with mathematicians, physicists, medical doctors and others often contributing to modelling applications. The interdisciplinary nature of these teams brings the perspectives needed to execute such ID modelling analyses. Despite this, analyses typically rely on the individual modeller to write, execute and describe their model, as well as translate the results for policy.<br><br>The Epidemiological Modelling Unit (EMU) at Monash University has strived to take a different approach, including consistently including a role for a Python developer within its team structure. This has provided many benefits, which include: confidence that the code runs as intended, logistical efficiency in reporting and extending the pipeline beyond the modelling process to include the full pathway from inputs through to building the final report. Moreover, our developers have introduced us to benefits that we had not previously anticipated, such as the improved ergonomics of faster execution."
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -832,3 +832,17 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024   
   time: 13.30 - 14.30 
+
+-
+  title: "Enabling Collaborative Research and InnerSourcing with GitLab"
+  types: [1]
+  themes: []
+  id: 1040
+  speakers: [56] #  Git Lab
+  hidden: false
+  description: 
+  complexity:
+  length: 30 mins
+  capacity: Limited
+  date: Day 1, Tue 26th Nov 2024   
+  time: 11.00 - 11.30 
