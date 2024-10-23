@@ -27,10 +27,10 @@
   title: 
   name: Luke
   surname: Bampton
-  company: []
-  role: []
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Application Security Lead"]
+  bio: Luke Bampton is the Application Security Lead at Monash University, with over 12 years in the tech industry. He excels in vulnerability assessment, threat modelling, and secure coding, ensuring robust application security.<br><br>Luke’s career began in Application Support, transitioning to cyber security where he bridges the gap between development and security. He holds a Bachelor of Information Technology and Systems, alongside various cybersecurity certifications, reflecting his dedication to continuous learning and professional growth
+  thumbnailUrl: LukeBampton_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -690,12 +690,12 @@
 -
   id: 56
   title: 
-  name: GitLab     
-  surname:   
-  company: 
-  role: 
-  bio:
-  thumbnailUrl:
+  name: Tomasz     
+  surname: Skora  
+  company: ["GitLab"]
+  role: ["Staff Solution Architect"]
+  bio: Tomasz Skora is a Staff Solution Architect at GitLab, based in Melbourne. He helps organisations achieve strategic objectives, focusing on DevSecOps excellence and digital transformation. He has extensive experience in implementing and driving impactful DevSecOps initiatives, resulting in improved software delivery, compliance, and security.
+  thumbnailUrl: TomaszSkora_GL.png
   rockstar: true
   ribbon:
   social:

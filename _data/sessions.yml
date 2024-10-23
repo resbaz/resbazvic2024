@@ -111,7 +111,7 @@
   id: 1002
   speakers: [3, 55] # Luke Bampton, Kevon Graham
   hidden: false
-  description: 
+  description: Join Monash University's Application Security team to deploy and run an intentionally vulnerable web application and implement fixes within your own NECTAR cloud instance. In this workshop, you will get a peek into life as an offensive security expert and learn how easy it can be to resolve some major security flaws
   complexity:
   length: 2 hours
   capacity: Limited
