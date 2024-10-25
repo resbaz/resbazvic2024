@@ -5,7 +5,7 @@
   surname: Powell
   company: ["Monash eResearch"]
   role: ["Director"]
-  bio: 
+  bio: Professor David Powell is the Director of the Monash eResearch, where he leads initiatives to support research through digital expertise and high-end infrastructure across multiple research disciplines. Holding a PhD in Computer Science, he brings deep technical expertise to his role in research infrastructure leadership. In his previous position as Director of the Monash Bioinformatics Platform, he collaborated extensively, applying his analytical expertise to complex biological data. Before returning to Monash University in 2012, Professor Powell gained valuable industry experience leading software development teams and worked in small startup companies, where he contributed to developing innovative technological solutions.
   thumbnailUrl: "DavidPowell.JPG"
   rockstar: true
   ribbon:
@@ -259,8 +259,8 @@
   surname: Hargreaves
   company: ["Monash eResearch"]
   role:
-  bio: 
-  thumbnailUrl: 
+  bio: Mitchell Hargreaves is experienced with training and deploying deep learning models as well as building data engineering pipelines. He is passionate about reducing barriers of entry and making these tools more available for all. He is the primary developer and system administrator for Machine Learning eResearch Platform (MLeRP). 
+  thumbnailUrl: MitchellHargreaves.jpg
   rockstar: true
   ribbon:
   social:
@@ -442,10 +442,10 @@
   title: 
   name: Neil    
   surname: Owens  
-  company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Research Development Manager"]
+  bio: Dr Neil Owens is an experienced research development manager with experience in both university and medical research institute settings. He completed a PhD in cardiovascular neuroscience (UniMelb), furthering his research training with postdoctoral positions at The Florey and RMIT where he attracted Heart Foundation grants and an NHMRC Early Career Fellowship.<br><br>A change in career direction led him to the Faculty of Medicine Nursing and Health Sciences at Monash, where he developed numerous large projects. He then moved to Prince Henry’s Institute where he established and managed the grants office. Since then, he has developed funding applications in university, medical research institute, and commercial consulting settings.<br><br>In Dec 2022, he commenced his current role as Senior Manager MRFF initiatives, where he leads Monash’s development efforts aimed at increasing the amount MRFF funds secured.<br>Neil has extensive experience in developing applications for NHMRC, MRFF, ARC and philanthropy, having worked with researchers across STEM and HASS disciplines. He is passionate about positioning research that has meaning and impact for the community. Further details on Neil's experience can be found on LinkedIn.
+  thumbnailUrl: NeilOwens_MU.jpg
   rockstar: true
   ribbon:
   social:

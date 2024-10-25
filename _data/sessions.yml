@@ -349,7 +349,7 @@
   id: 1014
   speakers: [17]
   hidden: false
-  description: 
+  description:  Gadi is Australia’s most powerful CPU-based supercomputer, a highly parallel cluster comprising more than 180,000 processor cores on ten different types of compute nodes. Gadi accommodates various tasks, from running climate models to genome sequencing, designing molecules, and astrophysical modelling.<br><br>The session will introduce supercomputers, how to access Gadi, files and directories, and computing resources. Join us if you are a new user or want to refresh your knowledge of the basics of Gadi.
   complexity:
   length: 1.5 hour
   capacity: Limited
@@ -363,7 +363,7 @@
   id: 1015
   speakers: [18]
   hidden: false
-  description: 
+  description: Python is a useful programming tool for prototyping but has scalability limitations. This workshop will familiarise you with tools to scale up your Python code and adapt it for an HPC machine. <br><br>This training is for anyone with Python programming experience who needs to scale up their Python code. It will introduce the attendees to tools that can help scale their Python code (e.g., Numba and cuPY).
   complexity:
   length: 3 hours 
   capacity: Limited
@@ -377,7 +377,7 @@
   id: 1015a
   speakers: [18]
   hidden: true
-  description: 
+  description: Python is a useful programming tool for prototyping but has scalability limitations. This workshop will familiarise you with tools to scale up your Python code and adapt it for an HPC machine. <br><br>This training is for anyone with Python programming experience who needs to scale up their Python code. It will introduce the attendees to tools that can help scale their Python code (e.g., Numba and cuPY).
   complexity:
   length: 3 hours 
   capacity: Limited
@@ -433,7 +433,7 @@
   id: 1019
   speakers: [22] # Mitchell Hargrave
   hidden: false
-  description: 
+  description: The Machine Learning eResearch Platform (MLeRP) was developed to offer a premium Jupyter notebook experience backed by the power of a GPU cluster, persistent storage, and full control over your software environment. <br><br> MLeRP was designed to take advantage of the Dask and SubmitIt frameworks, allowing users to decouple a Jupyter notebook from a GPU in the cluster rather than only attaching it as a reservation. This means that we can create more user seats and have the capacity to serve more users than otherwise possible. Such flexibility provides users with the ability to offload to differently sized GPU slices or even CPU clusters from within the same notebook for different stages of their pipeline. The MLeRP service also supports batch job submission via a web portal application when they are ready for training and transitioning their code to a more classical GPU HPC environment.<br><br>In this workshop we will discuss how users like you can use MLeRP as a stepping stone, allowing you to take on cluster concepts when you’re ready and preparing you for when they eventually outgrow our platform and scale to HPC.
   complexity:
   length: 1 hour
   capacity: Limited
@@ -840,7 +840,7 @@
   id: 1040
   speakers: [56] #  Git Lab
   hidden: false
-  description: 
+  description: Discover how GitLab supports collaborative research by enabling teams to share code, data, and documentation effectively. Learn how InnerSourcing principles can promote knowledge sharing and streamline efforts across different projects.
   complexity:
   length: 30 mins
   capacity: Limited
