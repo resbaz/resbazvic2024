@@ -125,7 +125,7 @@
   id: 1001
   speakers: [42] # Rob Hyndman
   hidden: false
-  description: "I will demonstrate the digital tools that underpin the efficiency and reproducibility of my research workflow. Utilizing GitHub as the platform for version control and collaboration, and R as a foundational tool, I leverage the renv package for managing project-specific R dependencies, and the targets package to avoid unnecessary computation. I employ Quarto for generating multiple versions of my research papers for online repositories and journal submissions, ensuring seamless integration of code and text, without duplication. I'll illustrate the workflow using a recent paper I coauthored on <a href='https://robjhyndman.com/publications/fits.html'>Forecasting Interrupted Time Series</a>."
+  description: "I will demonstrate the digital tools that underpin the efficiency and reproducibility of my research workflow. Utilizing GitHub as the platform for version control and collaboration, and R as a foundational tool, I leverage the renv package for managing project-specific R dependencies, and the targets package to avoid unnecessary computation. I employ Quarto for generating multiple versions of my research papers for online repositories and journal submissions, ensuring seamless integration of code and text, without duplication. I'll illustrate the workflow using a recent paper I coauthored on <a href='https://robjhyndman.com/publications/fits.html' target=_blank>Forecasting Interrupted Time Series</a>."
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -139,7 +139,7 @@
   id: 1003
   speakers: [4] # Rashina
   hidden: false
-  description: 
+  description: "In this key story Prof. Hoda will share her passion for qualitative research, exploring the growing socio-technical nature of many research fields and its implications for researchers at all levels. She will offer insights into conducting rigorous research and achieving robust outcomes, drawn from her years of practice, reviewing, and editing qualitative and mixed methods research. Attendees can delve deeper into these concepts in her newly released Springer book, <i style='font-style: italic;'>Qualitative Research with Socio-Technical Grounded Theory</i>, available on <a href='https://link.springer.com/book/10.1007/978-3-031-60533-8' target=_blank>SpringerLink</a> and <a href='https://www.amazon.com.au/dp/3031605322/ref=cbw_us_au_dp_ags?smid=A4XRJ8S0WXSO0' target=_blank>Amazon</a>. Everyone is warmly invited to join her for the book launch immediately following her talk at ResBaz 2024."
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -153,7 +153,7 @@
   id: 1004
   speakers: [5,6] # Darren Brain & Damian Almeida
   hidden: false
-  description: 
+  description: "Text mining historical primary sources is an innovative approach that leverages computational techniques to analyse vast collections of documents, manuscripts, and artifacts from the past. This methodology facilitates the extraction of meaningful patterns, trends, and insights that might be overlooked in traditional qualitative analyses.<br><br>By applying natural language processing (NLP) and machine learning algorithms, researchers can uncover hidden relationships within historical texts, enabling a deeper understanding of societal changes, cultural dynamics, and historical narratives. The integration of text mining with digital humanities allows for the exploration of large datasets, transforming how historians and scholars engage with primary sources. <br><br>The Gale Digital Scholar Lab offers a straightforward entry point into Digital Humanities for new researchers and for more experienced scholars, the Gale Digital Scholar Lab provides access to large data sets that can be easily mined and exported for use in custom applications and open-source analytical tools. With the Gale Digital Scholar Lab, Gale has created a research platform to help bridge the gap that often exists between primary sources that are available in the library and the research needs and workflows of faculty and students. As an extension of your primary source collections, Gale Digital Scholar Lab will encourage the use of archival holdings to support broader research needs, content can be analysed in the Lab using the visualization tools available. This research can then be constructed into research articles within the Lab and published to Gale Research Showcase. <br><br>The Gale Research Showcase is an open-access repository of student-written digital scholarship. Projects in the Gale Research Showcase are write-ups of individual or group research conducted in the Gale Digital Scholar Lab. All projects are submitted via a straightforward submission form accessed via Gale Digital Scholar Lab. Submitted work is reviewed to provide feedback on methodology, providing professional visibility and experience with the peer review process. <br><br>This session will explore how the Gale Digital Scholar Lab and Gale Research showcase how students and researchers are engaging with primary sources."
   complexity:
   length: 1 hour
   capacity: Limited
@@ -235,7 +235,7 @@
   types: [2a]
   themes: [3, 5]
   id: 1009
-  speakers: [10, 33] # Paul Harrison, Andrew Perry
+  speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: false
   description: 
   complexity:
@@ -249,7 +249,7 @@
   types: [2a]
   themes: [3, 5]
   id: 1009a
-  speakers: [10, 33] # Paul Harrison, Andrew Perry
+  speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: true
   description: 
   complexity:
@@ -263,7 +263,7 @@
   types: [2a]
   themes: [3, 5]
   id: 1009b
-  speakers: [10, 33] # Paul Harrison, Andrew Perry
+  speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: true
   description: 
   complexity:
@@ -277,7 +277,7 @@
   types: [2a]
   themes: [3, 5]
   id: 1009c
-  speakers: [10, 33] # Paul Harrison, Andrew Perry
+  speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: true
   description: 
   complexity:
@@ -419,7 +419,7 @@
   id: 1018
   speakers: [30, 31, 32] # Sophie Wright, Ines Sincock, Peter Reynolds 
   hidden: false
-  description: 
+  description: "Explore cutting-edge AI-powered research tools in this interactive session. We'll dive into how AI can revolutionise your research process, from scoping literature and visualising information landscapes, to summarising key findings. Through hands-on activities and discussions, you'll explore how tools like Elicit, Consensus and Research Rabbit can be integrated into a connected workflow, each adding unique value to your research process. We'll also address important considerations such as transparency and data sources. Whether you're new to AI tools or looking to expand your toolkit, this session will offer valuable insights for researchers at all levels. Join us to share experiences, try out new tools, and explore how AI is transforming the discovery of academic literature.<br><br>Please bring your laptop to this session. All necessary tools will be accessible via a web browser, so no software installation is required. We also encourage you to come prepared with your current research topic, as you'll have the opportunity to work on it during the session."
   complexity:
   length: 1 hour
   capacity: Limited
@@ -756,7 +756,7 @@
   id: 1035
   speakers: [50] #  David Shipman
   hidden: false
-  description: <p>Our team focuses on the development of epidemiological time-series models using Python, often in time-critical contexts, so our work requires a combination of fast execution and rapid, expressive model development.  This talk is about the journey our primary modelling toolkit, <a href="https://github.com/monash-emu/summer2">Summer2</a> has taken, particularly with regards to performance, and how we arrived at  <a href="https://jax.readthedocs.io/">Jax</a> - a fast, auto-differentiating compiler from Google, which now forms the basis for much of our new model development.</p><p>There will be a technical introduction to Jax and its surrounding ecosystem, a discussion of our experiences in converting existing modelling code, and finally, how it influences our design choices and modelling work (plus some important lessons learned along the way!) </p><p>While the technical content of this talk relates to numerical computing in Python, it aims to be broadly accessible to anyone with an interest in modelling or the software development process in general.</p>
+  description: <p>Our team focuses on the development of epidemiological time-series models using Python, often in time-critical contexts, so our work requires a combination of fast execution and rapid, expressive model development.  This talk is about the journey our primary modelling toolkit, <a href="https://github.com/monash-emu/summer2" target=_blank>Summer2</a> has taken, particularly with regards to performance, and how we arrived at  <a href="https://jax.readthedocs.io/" target=_blank>Jax</a> - a fast, auto-differentiating compiler from Google, which now forms the basis for much of our new model development.</p><p>There will be a technical introduction to Jax and its surrounding ecosystem, a discussion of our experiences in converting existing modelling code, and finally, how it influences our design choices and modelling work (plus some important lessons learned along the way!) </p><p>While the technical content of this talk relates to numerical computing in Python, it aims to be broadly accessible to anyone with an interest in modelling or the software development process in general.</p>
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -784,7 +784,7 @@
   id: 1037
   speakers: [51, 52] #  Kit Greenhill and Simon Musgrave
   hidden: false
-  description: "Get hands-on with 2 tools from the ARDC HASS and Indigenous Research Data Commons, the Crate-O metadata editor and the Trove Data guide. After 2 forty minute deep dives, learn how other parts of the Research Data Commons help researchers solve another 8 research challenges, in a series of 5-minute lighting tours. <br> <br>By the end of the session, you will know how to use a tool to package your research data and its metadata together in an <a href='https://www.researchobject.org/ro-crate/' >RO-Crate</a> and be better equipped to locate and manipulate data from the National Library's Trove research portal. You will also have new leads for research with Indigenous data; social media data; data about creative arts; and social sciences data."
+  description: "Get hands-on with 2 tools from the ARDC HASS and Indigenous Research Data Commons, the Crate-O metadata editor and the Trove Data guide. After 2 forty minute deep dives, learn how other parts of the Research Data Commons help researchers solve another 8 research challenges, in a series of 5-minute lighting tours. <br> <br>By the end of the session, you will know how to use a tool to package your research data and its metadata together in an <a href='https://www.researchobject.org/ro-crate/' target=_blank>RO-Crate</a> and be better equipped to locate and manipulate data from the National Library's Trove research portal. You will also have new leads for research with Indigenous data; social media data; data about creative arts; and social sciences data."
   complexity:
   length: 2 hours (multi-sessions)
   capacity: Limited
@@ -798,7 +798,7 @@
   id: 1037a
   speakers: [52, 51] #  Kit Greenhill and Simon Musgrave
   hidden: true
-  description: "Get hands-on with 2 tools from the ARDC HASS and Indigenous Research Data Commons, the Crate-O metadata editor and the Trove Data guide. After 2 forty minute deep dives, learn how other parts of the Research Data Commons help researchers solve another 8 research challenges, in a series of 5-minute lighting tours. <br> <br>By the end of the session, you will know how to use a tool to package your research data and its metadata together in an <a href='https://www.researchobject.org/ro-crate/' >RO-Crate</a> and be better equipped to locate and manipulate data from the National Library's Trove research portal. You will also have new leads for research with Indigenous data; social media data; data about creative arts; and social sciences data."
+  description: "Get hands-on with 2 tools from the ARDC HASS and Indigenous Research Data Commons, the Crate-O metadata editor and the Trove Data guide. After 2 forty minute deep dives, learn how other parts of the Research Data Commons help researchers solve another 8 research challenges, in a series of 5-minute lighting tours. <br> <br>By the end of the session, you will know how to use a tool to package your research data and its metadata together in an <a href='https://www.researchobject.org/ro-crate/' target=_blank>RO-Crate</a> and be better equipped to locate and manipulate data from the National Library's Trove research portal. You will also have new leads for research with Indigenous data; social media data; data about creative arts; and social sciences data."
   complexity:
   length: 2 hours (multi-sessions)
   capacity: Limited
@@ -846,3 +846,21 @@
   capacity: Limited
   date: Day 1, Tue 26th Nov 2024   
   time: 11.00 - 11.30 
+
+-
+  title: "Leveraging Spatial Transcriptomics in Intestinal Diseases"
+  types: [1]
+  themes: []
+  id: 1041
+  speakers: [59, 60] #  
+  hidden: false
+  description: Shani and Andrew will be discussing their experience analysing gut regeneration and colorectal cancer (CRC) using the Nanotring GeoMx and CosMx platforms respectively. They will discuss the advantages and disadvantages of each and the types of research questions spatial transcriptomics can be used to answer. They will also share the results of some of the analyses that they have performed, with some practical suggestions for analysing your own spatial transcriptomics data.
+  complexity:
+  length: 30 mins
+  capacity: Limited
+  date: Day 2, Wed 27th Nov 2024   
+  time: 12.00 - 12.30 
+
+
+
+

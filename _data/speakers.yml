@@ -40,8 +40,8 @@
   name: Rashina
   surname: Hoda
   company: ["Monash University"]
-  role: ["Associate Dean, Equity Diversity and Inclusion"]
-  bio: 
+  role: ["Professor of Software Engineering and Associate Dean of Equity, Diversity, and Inclusion"]
+  bio: Rashina Hoda is a Professor of Software Engineering and Associate Dean of Equity, Diversity, and Inclusion at the Faculty of Information Technology, Monash University. She is an expert in qualitative empirical research and developed Socio-Technical Grounded Theory (STGT), a modern extension of sociological Grounded Theory. With nearly 20 years of experience, she investigates the human and socio-technical aspects of software engineering and artificial intelligence. Rashina has published over 150 research outputs, been awarded over $5M in research funding, received multiple awards, and serves as an Associate Editor of IEEE Transactions on Software Engineering. A champion for women in STEM, she frequently shares insights at conferences, industry events, and public platforms such as TEDx, SXSW, Agile Australia, ABC Radio National, and more, see <a href='http://rashina.com/videos' target=_blank>rashina.com</a> for more.
   thumbnailUrl: RashinaHoda_MU.png
   rockstar: true
   ribbon:
@@ -63,10 +63,10 @@
   title:
   name: Damian
   surname: Almeida
-  company: ["GALE"]
-  role: []
-  bio: 
-  thumbnailUrl: 
+  company: ["GALE ANZ"]
+  role: ["Academic Engagement Manager"]
+  bio: Damian Almeida is the Academic Engagement Manager at Gale ANZ based in Melbourne. He works with the Gale sales team to enhance customer engagement through technical training and promotion of Gale’s products and resources. <br><br>In this role, Damian helps customers maximize their usage of Gale resources. He conducts comprehensive product training sessions, both online and in-person, ensuring clients are well-equipped to utilise the offerings effectively. Additionally, he serves as the primary contact for Gale’s Text &amp; Data Mining Platform, the Gale Digital Scholar Lab, with a focus on Digital Humanities.
+  thumbnailUrl: DamianAlmeida.GALE.png
   rockstar: true
   ribbon:
   social:
@@ -111,10 +111,10 @@
   title: Dr.
   name: Paul	
   surname: Harrison
-  company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash Genomics and Bioinformatics Platform"]
+  role: ["Bioinformatician"]
+  bio: "Paul Harrison is a bioinformatician working with the Monash Genomics and Bioinformatics Platform. He received his PhD in Computer Science in 2006 at Monash University and worked for the Victorian Bioinformatics Consortium until 2014. Paul has developed several bioinformatics and data visualization packages in R, Python, and Javascript. He has also been involved in developing and running various R and bioinformatics workshops at Monash."
+  thumbnailUrl: PaulHarrison_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -390,10 +390,10 @@
   title: Dr.
   name: Andrew
   surname: Perry  
-  company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash Genomics and Bioinformatics Platform"]
+  role: ["Software Developer and Bioinformatician"]
+  bio: "Andrew Perry is a software developer and bioinformatician working within the Monash Genomics and Bioinformatics Platform. He completed his PhD in 2007 studying protein structure by Nuclear Magnetic Resonance at the University of Melbourne, followed by several years as a Postdoctoral Fellow in structural biology and structural bioinformatics at Monash University. Today he works on web application and pipeline development, and various genomics analysis and biology-centric data science projects, mostly using Python, R, TypeScript, Unix shell scripting, containerization technologies and HPC."
+  thumbnailUrl: AndrewPerry_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -696,6 +696,58 @@
   role: ["Staff Solution Architect"]
   bio: Tomasz Skora is a Staff Solution Architect at GitLab, based in Melbourne. He helps organisations achieve strategic objectives, focusing on DevSecOps excellence and digital transformation. He has extensive experience in implementing and driving impactful DevSecOps initiatives, resulting in improved software delivery, compliance, and security.
   thumbnailUrl: TomaszSkora_GL.png
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 57
+  title: 
+  name: Nitika      
+  surname: Kandhari  
+  company: ["Monash Genomics and Bioinformatics Platform"]
+  role: ["Bioinformatician"]
+  bio: Nitika Kandhari is a bioinformatician with extensive experience in genomics and computational biology, currently working with the Monash Genomics and Bioinformatics Platform. She earned her Master’s degree in Bioinformatics and is pursuing her PhD at Monash University's RNA Systems Biology Lab, analyzing high-throughput transcriptomic data. Additionally, Nitika has been actively involved in promoting data fluency within the scientific community at Monash, delivering workshops on programming in R, Python, Unix/CLI, and other essential data analysis and bioinformatics tools.
+  thumbnailUrl: NitikaKandhari_MU.jpg
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 58
+  title: 
+  name: Adele      
+  surname: Barugahare  
+  company: ["Monash Genomics and Bioinformatics Platform"]
+  role: ["Bioinformatician"]
+  bio: Adele Barugahare is a bioinformatician working with the Monash Genomics and Bioinformatics Platform and Stephen Turner’s research lab. She has extensive experience with epigenetics and transcriptomics and is an experienced R programmer. Adele has helped develop, administrate and teach multiple workshops at Monash.
+  thumbnailUrl: AdeleBarugahare_MU.JPG
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 59
+  title: Dr.
+  name: Shani      
+  surname: Amarasinghe  
+  company: ["Monash University"]
+  role: ["Bioinformatics Research Officer"]
+  bio: Shani Amarasinghe is currently working as a bioinformatics research officer with over a decade of experience, producing impactful research across various biological disciplines while raising a young family. With a career spanning >1000 citations since 2018, Shani has developed multiple bioinformatics tools used widely by the research community. After completing a PhD in bioinformatics focused on bulk transcriptomics from the University of Adelaide, she has worked extensively with cutting-edge technologies like long-read sequencing (ONT, PacBio) and single-cell techniques (scRNA-Seq, scATAC-Seq). Currently, she’s working on intestinal regeneration-focused single-cell, spatial and bulk transcriptomics data analyses at the Abud and Jarde laboratories at the BDI.
+  thumbnailUrl: ShaniAmarasinghe_MU.png
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 60
+  title: Dr.
+  name: Andrew      
+  surname: Pattison  
+  company: ["Monash University"]
+  role: ["Computational Biologist"]
+  bio: Andrew Pattison is currently working as a father to a 21 month old toddler and 4 month old baby with a secondary role as a computational biologist studying colorectal cancer in the Abud lab at Monash University. He obtained his PhD in biochemistry/computational biology from Monash University in 2018. His background is in sleeping at night, RNA biology, cancer genomics and scRNA-Seq analyses with a focus on immunotherapy. While he hasn’t recently spent too much time working in his old field, he is very passionate about one day returning to it. Currently he is analysing single cell/spatial transcriptomic data and supporting the Abud lab members with their computational analyses.
+  thumbnailUrl: AndrewPattison_MU.png
   rockstar: true
   ribbon:
   social:
