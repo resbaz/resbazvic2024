@@ -237,7 +237,7 @@
   id: 1009
   speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: false
-  description: 
+  description: "R is a popular language and environment for data exploration, visualization, and statistical analysis. This workshop will be an introduction to working with data using R, and is aimed at complete beginners to coding. Attendees will learn how to load tabular data, and common data manipulations such as filtering, sorting, and joining tables, and then go on to plotting with ggplot2 and summarizing data. We will cover the R way of thinking about data, including vectors, factors, and data frames, as well as the idea of 'tidy' data. By writing R code, we create a data analysis that is easy to reproduce, modify, and share. The workshop will feature a live demonstration, with frequent opportunities to try what you are learning for yourself. Attendees will be equipped to start exploring the broad range of R packages that are available, both general and specialized.<br><br>The material in this workshop will be very similar to Monash Data Fluency's 'Introduction to R' workshops.<br><br><b>Prerequisites</b><br>None - This is very much an introductory workshop.<br><br><b>Attendee instructions</b><br>Please ensure you have an account on <a href='https://posit.cloud'>posit.cloud</a>. Monash attendees can use their Monash Google account. You can also use R on your laptop, in which case you will need to install both <a href='https://cloud.r-project.org/'>R</a> and <a href='https://posit.co/download/rstudio-desktop/'>RStudio</a>."
   complexity:
   length: 5 hours 
   capacity: Limited
@@ -251,7 +251,7 @@
   id: 1009a
   speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: true
-  description: 
+  description: "R is a popular language and environment for data exploration, visualization, and statistical analysis. This workshop will be an introduction to working with data using R, and is aimed at complete beginners to coding. Attendees will learn how to load tabular data, and common data manipulations such as filtering, sorting, and joining tables, and then go on to plotting with ggplot2 and summarizing data. We will cover the R way of thinking about data, including vectors, factors, and data frames, as well as the idea of 'tidy' data. By writing R code, we create a data analysis that is easy to reproduce, modify, and share. The workshop will feature a live demonstration, with frequent opportunities to try what you are learning for yourself. Attendees will be equipped to start exploring the broad range of R packages that are available, both general and specialized.<br><br>The material in this workshop will be very similar to Monash Data Fluency's 'Introduction to R' workshops.<br><br><b>Prerequisites</b><br>None - This is very much an introductory workshop.<br><br><b>Attendee instructions</b><br>Please ensure you have an account on <a href='https://posit.cloud'>posit.cloud</a>. Monash attendees can use their Monash Google account. You can also use R on your laptop, in which case you will need to install both <a href='https://cloud.r-project.org/'>R</a> and <a href='https://posit.co/download/rstudio-desktop/'>RStudio</a>."
   complexity:
   length: 5 hours 
   capacity: Limited
@@ -265,7 +265,7 @@
   id: 1009b
   speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: true
-  description: 
+  description: "R is a popular language and environment for data exploration, visualization, and statistical analysis. This workshop will be an introduction to working with data using R, and is aimed at complete beginners to coding. Attendees will learn how to load tabular data, and common data manipulations such as filtering, sorting, and joining tables, and then go on to plotting with ggplot2 and summarizing data. We will cover the R way of thinking about data, including vectors, factors, and data frames, as well as the idea of 'tidy' data. By writing R code, we create a data analysis that is easy to reproduce, modify, and share. The workshop will feature a live demonstration, with frequent opportunities to try what you are learning for yourself. Attendees will be equipped to start exploring the broad range of R packages that are available, both general and specialized.<br><br>The material in this workshop will be very similar to Monash Data Fluency's 'Introduction to R' workshops.<br><br><b>Prerequisites</b><br>None - This is very much an introductory workshop.<br><br><b>Attendee instructions</b><br>Please ensure you have an account on <a href='https://posit.cloud'>posit.cloud</a>. Monash attendees can use their Monash Google account. You can also use R on your laptop, in which case you will need to install both <a href='https://cloud.r-project.org/'>R</a> and <a href='https://posit.co/download/rstudio-desktop/'>RStudio</a>."
   complexity:
   length: 5 hours 
   capacity: Limited
