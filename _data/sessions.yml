@@ -573,7 +573,7 @@
   id: 1026
   speakers: [10] # Paul Harrison
   hidden: false
-  description: 
+  description: "What if there was a way to let the whole world visualize and interact with your data, using code you have written, with video-game-like smoothness, and with software they already have on their laptop or phone? You can with a web page. Also you can do this for free and it will probably keep on working for decades to come.<br><br>This workshop will provide a first step writing the elements of a web page that can interactively present your data.<ul><li>Write a simple HTML page.</li><li>Let it responds to the user with JavaScript.</li><li>Create pictures with SVG.</li><li>Turn your data into pictures with D3.</li><li>Debug your page using your browser's web-developer tools.</li><li>Publish your page on the web.</li></ul><br><br><b>Prerequisites</b><br>Some experience with another programming language will be helpful, such as Python or R.<br><br><b>Attendee instructions</b><br>Please make sure you have a text editor. Some options are VSCode, VSCodium, Geany, Notepad, or Nano. Also please ensure you have an account on github.com, we will use this to put your web page on the web."
   complexity:
   length: 1.5 hours
   capacity: Limited
