@@ -481,8 +481,8 @@
   title: Dr.   
   name: Debjit     
   surname: Bhowmick  
-  company: Monash University
-  role: Postdoctoral Research Fellow
+  company: ["Monash University"]
+  role: ["Postdoctoral Research Fellow"]
   bio: Dr. Debjit Bhowmick is a Postdoctoral Research Fellow at Monash University with a strong background in Transportation Engineering and Geospatial Information Science. He specialises in the analysis of spatial datasets and their application in urban mobility. His research focuses on bike riding behaviour that supports planners and policymakers in developing data-driven infrastructure and policy solutions to promote sustainable and active transportation.
   thumbnailUrl: DebjitBhowmick.jpg
   rockstar: true
