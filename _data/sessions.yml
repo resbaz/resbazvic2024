@@ -672,7 +672,7 @@
   id: 1031
   speakers: [40] # Dr. Debjit Bhowmick 
   hidden: false
-  description: 
+  description: "Want to learn how to create your own maps? This 2-hour workshop introduces you to QGIS, a powerful and free tool for working with maps and spatial data. No experience with GIS? No problem! We’ll start from scratch, showing you how to load data, explore it on a map, and style it to make it visually appealing. By the end of the session, you’ll have built your own map and exported it, ready to share. Come ready to learn, and let’s have some fun with maps!<br><br><b>Attendee instructions</b><br>Please install QGIS on your laptops prior to attending the workshop so we can maximise the use of time. QGIS is open-source and completely free to download and use. Check out the following link. <a target=_blank href='https://www.qgis.org/'>QGIS</a>"
   complexity:
   length: 2 hours 
   capacity: Limited
@@ -686,7 +686,7 @@
   id: 1031a
   speakers: [40] # Dr. Debjit Bhowmick 
   hidden: true
-  description: 
+  description: "Want to learn how to create your own maps? This 2-hour workshop introduces you to QGIS, a powerful and free tool for working with maps and spatial data. No experience with GIS? No problem! We’ll start from scratch, showing you how to load data, explore it on a map, and style it to make it visually appealing. By the end of the session, you’ll have built your own map and exported it, ready to share. Come ready to learn, and let’s have some fun with maps!<br><br><b>Attendee instructions</b><br>Please install QGIS on your laptops prior to attending the workshop so we can maximise the use of time. QGIS is open-source and completely free to download and use. Check out the following link. <a target=_blank href='https://www.qgis.org/'>QGIS</a>"
   complexity:
   length: 2 hours 
   capacity: Limited
