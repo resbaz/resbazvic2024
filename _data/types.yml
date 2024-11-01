@@ -21,6 +21,13 @@
   name: "Key Story Talk"
   color: "#ff0000"
   fontColor: "#000000"
+
+-
+  id: 3a
+  name: "Key Story Talk / Book Launch"
+  color: "#ff0000"
+  fontColor: "#000000"
+
 -
   id: 4
   name: "Panel Discussion"
