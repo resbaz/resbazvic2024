@@ -167,7 +167,7 @@
   id: 1005
   speakers: [7] # Patrick Splawa-Neyman
   hidden: false
-  description: 
+  description: "Research data management is vital to good research. It’s a topic that is of interest to researchers but it can be confusing and time-consuming. It can also be overly technical in nature, leaving many researchers feeling that it’s beyond their current abilities. However, while good research data management does have a technical element, it also requires an understanding of how non-technical aspects can make research data management easier and more effective. This session will focus on those non-technical aspects of research data management under your control. Among other topics, we’ll cover research data and lifecycles, data governance, the role of human error with examples, data classification, and considerations in file naming and organisation."
   complexity:
   length: 1.5 hour
   capacity: Limited
@@ -616,7 +616,7 @@
   id: 1029
   speakers: [38] # Dr. Zhuang Li  
   hidden: false
-  description: 
+  description: "This workshop will provide a brief understanding of textual data processing and analysis using Natural Language Processing (NLP) techniques. Participants will engage with foundational methods for text processing and analysis, followed by advanced applications in generative AI for text analysis. Through hands-on sessions and interactive discussions, participants will learn how to process, analyze, and apply AI models to textual data, enabling a better understanding of how AI systems interpret language. The workshop will cover practical skills in handling textual data and applying generative models for more sophisticated analyses, providing attendees with both theoretical knowledge and practical expertise."
   complexity:
   length: 2 hours 
   capacity: Limited
@@ -630,7 +630,7 @@
   id: 1029a
   speakers: [38] # Dr. Zhuang Li  
   hidden: true
-  description: 
+  description: "This workshop will provide a brief understanding of textual data processing and analysis using Natural Language Processing (NLP) techniques. Participants will engage with foundational methods for text processing and analysis, followed by advanced applications in generative AI for text analysis. Through hands-on sessions and interactive discussions, participants will learn how to process, analyze, and apply AI models to textual data, enabling a better understanding of how AI systems interpret language. The workshop will cover practical skills in handling textual data and applying generative models for more sophisticated analyses, providing attendees with both theoretical knowledge and practical expertise."
   complexity:
   length: 2 hours 
   capacity: Limited

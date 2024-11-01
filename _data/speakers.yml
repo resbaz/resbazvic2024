@@ -75,10 +75,10 @@
   title:
   name: Patrick 
   surname: Splawa-Neyman
-  company: ["Monash eResearch"]
-  role: []
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Research Data Governance Specialist"]
+  bio: Patrick Splawa-Neyman has had a decade of experience working in research data management and for the last two years in research data governance. He has worked in research data management support for two Australian universities and an open data vendor. Patrick previously ran the Introduction to Data Organisation session for researchers at Monash University and is now co-developing an online training session on the fundamentals of research data management. Patrick is particularly interested in closely engaging with researchers to provide practical solutions to tricky research data management issues. His primary aim is to support researchers so they can spend more time on research and less time on “administrivia”.
+  thumbnailUrl: PatrickSplawa-Neyman_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -455,9 +455,9 @@
   title: Dr. 
   name: Zhuang     
   surname: Li  
-  company: 
-  role:
-  bio: 
+  company: ["Monash University"]
+  role: ["Research Fellow"]
+  bio: Zhuang Li is a Research Fellow and an incoming Lecturer at RMIT University. His research centres on low-resource and multicultural natural language processing, generative AI, and cross-cultural dialogue systems. With professional experience at Microsoft and Monash University, Zhuang brings expertise in data optimisation and multilingual AI research.
   thumbnailUrl: 
   rockstar: true
   ribbon:
