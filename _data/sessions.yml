@@ -221,7 +221,7 @@
   types: [2]
   themes: 
   id: 1008
-  speakers: [9] # A/Prof Nadine Andrew
+  speakers: [9, 61] # A/Prof Nadine Andrew & # A/Prof Richard Bearre
   hidden: false
   description: "A wealth of health data is collected and stored electronically, yet much of this data remains siloed and underutilised. Maximising the use of improved electronic data collections, linkage systems that enable data to be linked at the person level and analytic advancements have great potential to maximise data sharing and increase the potential for ‘big data’ research. Opportunities exist to better deliver higher-impact research at scale through capacity building and knowledge sharing in data linkage.<br><br>This workshop will introduce how large datasets can be reliably linked and used to provide novel insights, using health research as an example. Attendees will also be introduced to M-Link, a community of practice developed to support and oversee data linkage practice at Monash University. Areas of focus include: knowledge sharing; ethics, governance and data security; technical infrastructure and linkage methods and access to external administrative datasets."
   complexity:
@@ -854,7 +854,7 @@
   types: [1]
   themes: []
   id: 1041
-  speakers: [59, 60] #  
+  speakers: [59, 60] # Shani Amarasinghe and Andrew Pattison
   hidden: false
   description: Shani and Andrew will be discussing their experience analysing gut regeneration and colorectal cancer (CRC) using the Nanotring GeoMx and CosMx platforms respectively. They will discuss the advantages and disadvantages of each and the types of research questions spatial transcriptomics can be used to answer. They will also share the results of some of the analyses that they have performed, with some practical suggestions for analysing your own spatial transcriptomics data.
   complexity:
@@ -863,6 +863,18 @@
   date: Day 2, Wed 27th Nov 2024   
   time: 12.00 - 12.30 
 
-
+-
+  title: "Research Infrastructure Insights Linking research award $ to utilisation"
+  types: [1]
+  themes: []
+  id: 1042
+  speakers: [62] # Milinda Abayawardana
+  hidden: false
+  description:
+  complexity:
+  length: 30 mins
+  capacity: Limited
+  date: Day 3, Thu 28th Nov 2024 
+  time: 15.30 - 16.00 
 
 

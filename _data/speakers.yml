@@ -751,3 +751,29 @@
   rockstar: true
   ribbon:
   social:
+
+-
+  id: 61
+  title: A/Prof.
+  name: Richard       
+  surname: Beare  
+  company: ["Monash University"]
+  role: ["Research Engineer"]
+  bio: Richard Beare is a research engineer with over 20 years experience in development and translation of computational methods to medical research and clinical practice. He is currently the technical lead for the National Centre for Healthy Ageing data platform, with a focus on applications of natural language processing to improve coding of electronic health record data for research purposes, and a Principal Research Fellow with the Murdoch Children's Research Institute Developmental Imaging group. Previous research areas include geospatial modelling to optimise service delivery for acute stroke, advanced tractography for paediatric neurosurgery and the use of ultra low field MRI to support randomised control trials in low and middle income countries.
+  thumbnailUrl: RichardBeare_MU.png
+  rockstar: true
+  ribbon:
+  social:
+
+-
+  id: 62
+  title: 
+  name: Milinda         
+  surname: Abayawardana  
+  company: [""]
+  role: [""]
+  bio: 
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+  social:
