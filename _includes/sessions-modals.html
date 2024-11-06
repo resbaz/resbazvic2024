@@ -36,9 +36,7 @@
 						{% if session.subtype != null %}
 						<span class="theme-metadata">{{ session.subtype }}</span>
 						{% endif %}
-						{% if session.location != null %}
-						<span class="theme-metadata"><span class="caption">Location: {{ session.location }}</span></span>
-						{% endif %}
+						
 						{% if session.language != null %}
 						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
 						{% endif %}
@@ -49,8 +47,11 @@
 						<span class="mobile-details theme-metadata"><span class="caption"></span>
 						{{ session.date }}<br>
 						{{ session.time }}
-						
-						<br><br></span>
+						</span>
+						{% if session.location != null %}
+						<span class="theme-metadata"><span class="caption">Location: LTB {{ session.location }}</span></span>
+						{% endif %}<br><br>
+
 
 
 						{% if session.length != null %}

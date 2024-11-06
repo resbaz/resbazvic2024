@@ -89,7 +89,8 @@
   date:  Day 1, Tue 26th Nov 2024
   time:  09.00 - 09.30
   default: true
-
+  location: G.81
+  
 -
   title: Ethical AI panel
   themes: '#N/A'
@@ -108,7 +109,7 @@
 -
   title: 'Hands on Cyber - Build it and Break it'
   types: [1, 2]
-  themes: [8]
+  themes: [7]
   id: 1002
   speakers: [3, 55] # Luke Bampton, Kevon Graham
   hidden: false
@@ -118,11 +119,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024
   time: 15.00 - 17.00
+  location: G.62
 
 -
   title: 'Key Story Talk'
   types: [3]
-  themes: 
+  themes: [10, 9, 6]
   id: 1001
   speakers: [42] # Rob Hyndman
   hidden: false
@@ -133,11 +135,12 @@
   date:  Day 1, Tue 26th Nov 2024
   time:  09.30 - 10.00
   default: true
+  location: G.81
 
 -
   title: 'Key Story Talk'
   types: [3a]
-  themes: 
+  themes: []
   id: 1003
   speakers: [4] # Rashina
   hidden: false
@@ -148,12 +151,14 @@
   date:  Day 1, Tue 26th Nov 2024
   time:  10.00 - 10.30
   default: true
+  location: G.81
+
 -
   title: Digital Scholar Lab - GALE
   types: [2]
-  themes: 
+  themes: [5]
   id: 1004
-  speakers: [6] # Damian Almeida
+  speakers: [5] # Damian Almeida
   hidden: false
   description: "Text mining historical primary sources is an innovative approach that leverages computational techniques to analyse vast collections of documents, manuscripts, and artifacts from the past. This methodology facilitates the extraction of meaningful patterns, trends, and insights that might be overlooked in traditional qualitative analyses.<br><br>By applying natural language processing (NLP) and machine learning algorithms, researchers can uncover hidden relationships within historical texts, enabling a deeper understanding of societal changes, cultural dynamics, and historical narratives. The integration of text mining with digital humanities allows for the exploration of large datasets, transforming how historians and scholars engage with primary sources. <br><br>The Gale Digital Scholar Lab offers a straightforward entry point into Digital Humanities for new researchers and for more experienced scholars, the Gale Digital Scholar Lab provides access to large data sets that can be easily mined and exported for use in custom applications and open-source analytical tools. With the Gale Digital Scholar Lab, Gale has created a research platform to help bridge the gap that often exists between primary sources that are available in the library and the research needs and workflows of faculty and students. As an extension of your primary source collections, Gale Digital Scholar Lab will encourage the use of archival holdings to support broader research needs, content can be analysed in the Lab using the visualization tools available. This research can then be constructed into research articles within the Lab and published to Gale Research Showcase. <br><br>The Gale Research Showcase is an open-access repository of student-written digital scholarship. Projects in the Gale Research Showcase are write-ups of individual or group research conducted in the Gale Digital Scholar Lab. All projects are submitted via a straightforward submission form accessed via Gale Digital Scholar Lab. Submitted work is reviewed to provide feedback on methodology, providing professional visibility and experience with the peer review process. <br><br>This session will explore how the Gale Digital Scholar Lab and Gale Research showcase how students and researchers are engaging with primary sources."
   complexity:
@@ -161,11 +166,12 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  11.00 - 12.00
+  location: G.61
 
 -
   title: "Research Data Management: A non-technical, foundational introduction."
   types: [1, 2]
-  themes:
+  themes: [6]
   id: 1005
   speakers: [7] # Patrick Splawa-Neyman
   hidden: false
@@ -175,11 +181,11 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  11.00 - 12.30
-
+  location: G.60
 -
   title: Tools for visualising beyond 3D*
   types: [2a]
-  themes: [3]
+  themes: [2, 3]
   id: 1006
   speakers: [8] # Dianne Cook
   hidden: false
@@ -189,11 +195,12 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  13.30 - 14.30
+  location: G.60
 
 -
   title: (cont.) Tools for visualising beyond 3D* 
   types: [2a]
-  themes: [3]
+  themes: [2, 3]
   id: 1006a
   speakers: [8] # Dianne Cook
   hidden: true
@@ -203,11 +210,12 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  15.00 - 17.00
+  location: G.60
 
 -
   title: Creating Effective Data Plots
   types: [1]
-  themes: [3]
+  themes: [2, 3]
   id: 1007
   speakers: [8] # Dianne Cook
   hidden: false
@@ -217,11 +225,12 @@
   capacity: Limited
   date:  Day 2, Wed 27th Nov 2024 
   time:  11.00 - 12.00
+  location: G.62
 
 -
   title: Data Linkage 
   types: [2]
-  themes: 
+  themes: [6]
   id: 1008
   speakers: [9, 61] # A/Prof Nadine Andrew & # A/Prof Richard Bearre
   hidden: false
@@ -231,11 +240,11 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  15.00 - 17.00
-
+  location: G.61
 -
   title: Intro to R*
   types: [2a]
-  themes: 
+  themes: [2,3,9]
   id: 1009
   speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: false
@@ -245,11 +254,12 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  11.00 - 12.30
+  location: G.62
 
 -
   title: (cont.) Intro to R*
   types: [2a]
-  themes: 
+  themes: [2,3,9]
   id: 1009a
   speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: true
@@ -259,11 +269,12 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  13.30 - 14.30
+  location: G.62
 
 -
   title: (cont.) Intro to R*
   types: [2a]
-  themes: 
+  themes: [2,3,9]
   id: 1009b
   speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: true
@@ -273,11 +284,12 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  15.00 - 16.30
-
+  location: G.62
+  
 -
   title: (cont.) Intro to R*
   types: [2a]
-  themes: 
+  themes: [2,3,9]
   id: 1009c
   speakers: [10, 33, 57, 58] # Paul Harrison, Andrew Perry, Nitika Kandhari, Adele Barugahare
   hidden: true
@@ -287,11 +299,12 @@
   capacity: Limited
   date:  Day 2, Wed 27th Nov 2024 
   time:  13.30 - 14.30
-
+  location: G.62
+  
 -
   title: Diversity and Inclusion in Research & Digital Platforms
   types: [4]
-  themes: [1]
+  themes: [14]
   id: 1010
   speakers: [11,12,13,26,27, 48] # Kiowa Scott-Hurley, et al
   hidden: false
@@ -302,11 +315,12 @@
   date:  Day 2, Wed 27th Nov 2024 
   time:  09.30 - 10.30
   default: true
-
+  location: G.81
+  
 -
   title: Key Story Talk
   types: [3]
-  themes: 
+  themes: [12]
   id: 1011
   speakers: [14] # A/Prof James Trauer 
   hidden: false
@@ -317,11 +331,12 @@
   date:  Day 2, Wed 27th Nov 2024 
   time:  09.00 - 09.30
   default: true
-
+  location: G.81
+  
 -
   title: The Great Debate - REDCap vs Qualtrics Plus
   types: [2]
-  themes: [7]
+  themes: [6]
   id: 1012
   speakers: [15, 49] # Di Brown, Tim Powers
   hidden: false
@@ -331,11 +346,12 @@
   capacity: Limited
   date:  Day 2, Wed 27th Nov 2024 
   time:  11.00 - 12.00
-
+  location: G.61
+  
 -
   title: Supporting Digital Research in one of the largest Go8 Uni  
   types: [1]
-  themes: [6]
+  themes: [5]
   id: 1013
   speakers: [16] # Dr. Amr Hassan
   hidden: false
@@ -345,11 +361,12 @@
   capacity: Limited
   date:  Day 2, Wed 27th Nov 2024 
   time:  15.00 - 15.30
-
+  location: G.62
+  
 -
   title: Intro to Gadi 
   types: [2]
-  themes: 
+  themes: [11]
   id: 1014
   speakers: [17]
   hidden: false
@@ -359,11 +376,12 @@
   capacity: Limited
   date:  Day 2, Wed 27th Nov 2024 
   time:  11.00 - 12.30
-
+  location: G.60
+  
 -
   title: Python for HPC*
   types: [2a]
-  themes: [4, 5]
+  themes: [11]
   id: 1015
   speakers: [18]
   hidden: false
@@ -373,11 +391,12 @@
   capacity: Limited
   date:  Day 2, Wed 27th Nov 2024 
   time:  13.30 - 14.30
-
+  location: G.60
+  
 -
   title: (cont.) Python for HPC*
   types: [2a]
-  themes: [4, 5]
+  themes: [11]
   id: 1015a
   speakers: [18]
   hidden: true
@@ -387,11 +406,12 @@
   capacity: Limited
   date:  Day 2, Wed 27th Nov 2024 
   time:  15.00 - 17.00
+  location: G.60
 
 -
   title: From featureCounts to cellCounts - building highly efficient tools for sequencing data quantification
   types: [1]
-  themes: 
+  themes: [1]
   id: 1016
   speakers: [19] # Yang Liao
   hidden: false
@@ -401,11 +421,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024
   time: 09.30 - 10.30
+  location: G.60
 
 -
   title: "Socially Responsible AI/ML"
   types: [1, 2]
-  themes: [5]
+  themes: [4]
   id: 1017
   speakers: [20] # Dr. Jathan Sadowski (FIT)
   hidden: false
@@ -415,11 +436,12 @@
   capacity: Limited
   date: Day 1, Tue 26th Nov 2024
   time: 15.00 - 17.00
+  location: G.81
 
 -
   title: "Evaluating AI apps for Literature review"
   types: [1, 2]
-  themes: [5]
+  themes: [4]
   id: 1018
   speakers: [30, 31, 32] # Sophie Wright, Ines Sincock, Peter Reynolds 
   hidden: false
@@ -429,11 +451,12 @@
   capacity: Limited
   date: Day 2, Wed 27th Nov 2024 
   time: 11.00 - 12.00
+  location: G.81
 
 -
   title: "Machine Learning eResearch Platform (MLeRP)"
   types: [1, 2]
-  themes: [5]
+  themes: [4]
   id: 1019
   speakers: [22] # Mitchell Hargrave
   hidden: false
@@ -443,11 +466,12 @@
   capacity: Limited
   date: Day 2, Wed 27th Nov 2024 
   time: 16.00 - 17.00
+  location: G.81
 
 -
   title: "Time Series Forecasting with Machine Learning Techniques*"
   types: [1, 2a]
-  themes: [5]
+  themes: [4]
   id: 1020
   speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
   hidden: false
@@ -457,11 +481,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024 
   time: 09.30 - 10.30
+  location: G.81
 
 -
   title: "(cont.) Time Series Forecasting with Machine Learning Techniques*"
   types: [1, "2a"]
-  themes: [5]
+  themes: [4]
   id: 1020a
   speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
   hidden: true
@@ -471,11 +496,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024 
   time: 11.00 - 12.30
+  location: G.81
 
 -
   title: "(cont.) Time Series Forecasting with Machine Learning Techniques*"
   types: [1, "2a"]
-  themes: [5]
+  themes: [4]
   id: 1020b
   speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
   hidden: true
@@ -485,11 +511,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024 
   time: 13.30 - 14.30
+  location: G.81
 
 -
   title: "(cont.) Time Series Forecasting with Machine Learning Techniques*"
   types: [1, "2a"]
-  themes: [5]
+  themes: [4]
   id: 1020c
   speakers: [23, 35] # Dr. Christoph Bergmeir (FIT), Dr. Abishek Sriramulu
   hidden: true
@@ -499,11 +526,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024 
   time: 15.00 - 15.30
-
+  location: G.81
+  
 -
   title: "Globus - Intro Demo & Hands On Workshop"
   types: [2]
-  themes:
+  themes: [6]
   id: 1021
   speakers: [24] # Sara King
   hidden: false
@@ -513,11 +541,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024 
   time: 11.00 - 12.00
+  location: G.60
 
 -
   title: "Data Movement, Highlighting FileSender and Globus as Tools"
   types: [2]
-  themes:
+  themes: [6]
   id: 1022
   speakers: [24] # Sara King
   hidden: false
@@ -527,11 +556,12 @@
   capacity: Limited  
   date: Day 2, Wed 27th Nov 2024 
   time: 13.30 - 14.30
+  location: G.61
 
 -
   title: A General Overview into The Theoretical Aspects of Single Particle Cryo-Electron Microscopy
   types: [1]
-  themes:
+  themes: [1, 2, 15]
   id: 1023
   speakers: [25] # Dr. Matthew Belousoff
   hidden: false
@@ -541,11 +571,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024  
   time: 15.00 - 16.00
+  location: G.61
 
 -
   title: "Hands On Analysis of Microscopy data: Micrographs to 2D classification in RELION"
   types: [2]
-  themes:
+  themes: [1,2,15]
   id: 1024
   speakers: [25]  # Dr. Matthew Belousoff
   hidden: false
@@ -555,11 +586,12 @@
   capacity: Limited 
   date: Day 3, Thu 28th Nov 2024  
   time: 16.00 - 17.00
+  location: G.61
 
 -
   title: "Making research outputs (publications, data sets, NTROs etc) open access"
   types: [2]
-  themes:
+  themes: [10]
   id: 1025
   speakers: [28, 29]  # Andrew Harrison and Susie Philips
   hidden: false
@@ -569,11 +601,12 @@
   capacity: Limited
   date: Day 1, Tue 26th Nov 2024  
   time: 13.30 - 14.30
+  location: G.61
 
 -
   title: "HTML, Javascript, SVG, D3: a foot in the door"
   types: [2]
-  themes: [3]
+  themes: [2, 3, 9]
   id: 1026
   speakers: [10] # Paul Harrison
   hidden: false
@@ -583,7 +616,7 @@
   capacity: Limited
   date: Day 2, Wed 27th Nov 2024   
   time: 15.30 - 17.00
-
+  location: G.62
 
 -
   title: Key Story Talk
@@ -599,11 +632,12 @@
   date: Day 3, Thu 28th Nov 2024  
   time: 09.00 - 09.30
   default: true
+  location: G.81
 
 -
   title: "Major Initiatives & Grant Writing (what's expected from Major research program applications and initiatives)"
   types: [1]
-  themes: []
+  themes: [8, 14]
   id: 1028
   speakers: [36, 37] # Shirin Jambhulkar, Neil Owens 
   hidden: false
@@ -613,11 +647,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024  
   time: 16.00 - 17.00
+  location: G.81
 
 -
   title: "Making Sense of Textual Data: From Foundational NLP to Generative Language Models*"
   types: [2a]
-  themes: [5]
+  themes: [4]
   id: 1029
   speakers: [38] # Dr. Zhuang Li  
   hidden: false
@@ -627,11 +662,12 @@
   capacity: Limited
   date: Day 2, Wed 27th Nov 2024   
   time: 13.30 - 14.30
+  location: G.81
 
 -
   title: "(cont.) Making Sense of Textual Data: From Foundational NLP to Generative Language Models*"
   types: [2a]
-  themes: [5]
+  themes: [4]
   id: 1029a
   speakers: [38] # Dr. Zhuang Li  
   hidden: true
@@ -641,11 +677,12 @@
   capacity: Limited
   date: Day 2, Wed 27th Nov 2024   
   time: 15.00 - 16.00
+  location: G.81
 
 -
   title: "Introduction to Regular Expressions (Regex)*"
   types: [2a]
-  themes: [5]
+  themes: [1, 9]
   id: 1030
   speakers: [39] # Simon Michnowicz
   hidden: false
@@ -656,11 +693,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024   
   time: 13.30 - 14.30  
+  location: G.60
 
 -
   title: "(cont.) Introduction to Regular Expressions (Regex)*"
   types: [2a]
-  themes: [5]
+  themes: [1, 9]
   id: 1030a
   speakers: [39] # Simon Michnowicz
   hidden: true
@@ -671,11 +709,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024   
   time: 15.00 - 17.00  
+  location: G.60
 
 -
   title: "Handling spatial data and making professional maps using QGIS*"
   types: [2a]
-  themes: []
+  themes: [3]
   id: 1031
   speakers: [40] # Dr. Debjit Bhowmick 
   hidden: false
@@ -685,11 +724,12 @@
   capacity: Limited
   date: Day 1, Tue 26th Nov 2024   
   time: 11.30 - 12.30 
+  location: G.81
 
 -
   title: "(cont.) Handling spatial data and making professional maps using QGIS*"
   types: [2a]
-  themes: []
+  themes: [3]
   id: 1031a
   speakers: [40] # Dr. Debjit Bhowmick 
   hidden: true
@@ -699,11 +739,12 @@
   capacity: Limited
   date: Day 1, Tue 26th Nov 2024   
   time: 13.30 - 14.30 
+  location: G.81
 
 -
   title: "Building a Neural Network!*"
   types: [2a]
-  themes: []
+  themes: [4, 9]
   id: 1032
   speakers: [41] # Riccardo Bonacci
   hidden: false
@@ -713,11 +754,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024   
   time: 09.30 - 10.30 
+  location: G.62
 
 -
   title: "(cont.) Building a Neural Network!*"
   types: [2a]
-  themes: []
+  themes: [4, 9]
   id: 1032a
   speakers: [41] # Riccardo Bonacci
   hidden: true
@@ -727,11 +769,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024   
   time: 11.00 - 12.00 
+  location: G.62
 
 -
   title: "Drop-in Session - Coding"
   types: [2]
-  themes: []
+  themes: [9]
   id: 1033
   speakers: [43,44,45,46] # Linda Kalejs, Nick May, Sam Ryan, Eva Fisch
   hidden: false
@@ -741,11 +784,12 @@
   capacity: Limited
   date: Day 1, Day 2, Day 3
   time: 12.00 - 13.00 
+  location: G.61
 
 -
   title: "Empowering HASS researchers in digital methodologies"
   types: [1]
-  themes: []
+  themes: [5]
   id: 1034
   speakers: [47] # Maria del Mar Quiroga
   hidden: false
@@ -755,11 +799,12 @@
   capacity: Limited
   date: Day 1, Tue 26th Nov 2024   
   time: 16.30 - 17.00 
+  location: G.61
 
 -
   title: "Introduction to Jax - Lessons learned from the summer2 performance journey"
   types: [1]
-  themes: []
+  themes: [4, 9, 12]
   id: 1035
   speakers: [50] #  David Shipman
   hidden: false
@@ -769,11 +814,12 @@
   capacity: Limited
   date: Day 2, Wed 27th Nov 2024    
   time: 12.00 - 12.30 
+  location: G.81
 
 -
   title: "Exploring text using concordances"
   types: [2]
-  themes: []
+  themes: [5]
   id: 1036
   speakers: [52] #  Simon Musgrave
   hidden: false
@@ -783,11 +829,12 @@
   capacity: Limited
   date: Day 2, Wed 27th Nov 2024    
   time: 15.00 - 17.00 
+  location: G.61
 
 -
   title: "Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons*"
   types: [2a]
-  themes: []
+  themes: [5]
   id: 1037
   speakers: [51, 52] #  Kit Greenhill and Simon Musgrave
   hidden: false
@@ -798,11 +845,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024   
   time: 09.30 - 10.30 
+  location: G.61
 
 -
   title: "(cont.) Solving 10 research challenges with the ARDC HASS and Indigenous Research Data Commons*"
   types: [2a]
-  themes: []
+  themes: [5]
   id: 1037a
   speakers: [52, 51] #  Kit Greenhill and Simon Musgrave
   hidden: true
@@ -813,11 +861,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024   
   time: 11.00 - 12.00 
+  location: G.61
 
 -
   title: "Accelerate Your Research with the ARDC Nectar Research Cloud"
   types: [1]
-  themes: []
+  themes: [11]
   id: 1038
   speakers: [53] #  Meirian Lovelace-Tozer
   hidden: false
@@ -827,11 +876,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024   
   time: 13.30 - 14.30 
+  location: G.61
 
 -
   title: "WISDOM: An open value accounting framework for diverse communities"
   types: [1]
-  themes: []
+  themes: [16]
   id: 1039
   speakers: [54] #  Cooper Smout
   hidden: false
@@ -841,11 +891,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024   
   time: 13.30 - 14.30 
+  location: G.62
 
 -
   title: "Enabling Collaborative Research and InnerSourcing with GitLab"
   types: [1]
-  themes: []
+  themes: [9]
   id: 1040
   speakers: [56] #  Git Lab
   hidden: false
@@ -855,11 +906,12 @@
   capacity: Limited
   date: Day 1, Tue 26th Nov 2024   
   time: 11.00 - 11.30 
+  location: G.81
 
 -
   title: "Leveraging Spatial Transcriptomics in Intestinal Diseases"
   types: [1]
-  themes: []
+  themes: [1, 2]
   id: 1041
   speakers: [59, 60] # Shani Amarasinghe and Andrew Pattison
   hidden: false
@@ -869,11 +921,12 @@
   capacity: Limited
   date: Day 2, Wed 27th Nov 2024   
   time: 12.00 - 12.30 
+  location: G.62
 
 -
   title: "Research Infrastructure Insights Linking research award $ to utilisation"
   types: [1]
-  themes: []
+  themes: [6]
   id: 1042
   speakers: [62] # Milinda Abayawardana
   hidden: false
@@ -883,12 +936,12 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024 
   time: 15.30 - 16.00 
-
+  location: G.81
 
 -
   title: "What is HPC for?"
   types: [1]
-  themes: []
+  themes: [11]
   id: 1043
   speakers: [63] # Chris Hines
   hidden: false
@@ -898,3 +951,4 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024 
   time: 12.00 - 12.30 
+  location: G.60

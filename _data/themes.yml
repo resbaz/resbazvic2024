@@ -1,49 +1,167 @@
+# -
+#   id: 1
+#   name: "Diversity and Inclusion in Research & Digital Platforms"
+#   color: "#1e90ff"
+#   fontColor: "#000000"
+# -
+#   id: 2
+#   name: "Genomics"
+#   color: "#00ff00"
+#   fontColor: "#000000"
+# -
+#   id: 3
+#   name: "Imaging & visualisation"
+#   color: "#ff0000"
+#   fontColor: "#000000"
+# -
+#   id: 4
+#   name: "Modelling and simulations"
+#   color: "#c71585"
+#   fontColor: "#000000"
+# -
+#   id: 5
+#   name: "Machine learning & AI"
+#   color: "#1e90ff"
+#   fontColor: "#000000"
+# -
+#   id: 6
+#   name: "Digital technologies for humanities"
+#   color: "#00ff00"
+#   fontColor: "#000000"
+# -
+#   id: 7
+#   name: "(Health) data management"
+#   color: "#ff0000"
+#   fontColor: "#000000"
+# -
+#   id: 8
+#   name: "Cybersecurity"
+#   color: "#c71585"
+#   fontColor: "#000000"
+
 -
   id: 1
-  name: "Diversity and Inclusion in Research & Digital Platforms"
-  color: "#1e90ff"
+  name: "Genomics"
+  color: "#e6194B" # Red 
   fontColor: "#000000"
 -
   id: 2
-  name: "Genomics"
-  color: "#00ff00"
+  name: "Imaging"
+  color: "#3cb44b" # Green
   fontColor: "#000000"
 -
   id: 3
-  name: "Imaging & visualisation"
-  color: "#ff0000"
+  name: "Visualisation"
+  color: "#ffe119" # Yellow
   fontColor: "#000000"
 -
   id: 4
-  name: "Modelling and simulations"
-  color: "#c71585"
+  name: "Machine learning & AI"
+  color: "#4363d8" # Blue
   fontColor: "#000000"
 -
   id: 5
-  name: "Machine learning & AI"
-  color: "#1e90ff"
+  name: "Digital technologies for humanities"
+  color: "#f58231" # Orange
   fontColor: "#000000"
 -
   id: 6
-  name: "Digital technologies for humanities"
-  color: "#00ff00"
+  name: "(Health) data management"
+  color: "#911eb4" # Purple
   fontColor: "#000000"
 -
   id: 7
-  name: "(Health) data management"
-  color: "#ff0000"
+  name: "Cybersecurity"
+  color: "#42d4f4" # Cyan
   fontColor: "#000000"
 -
   id: 8
-  name: "Cybersecurity"
-  color: "#c71585"
+  name: "Grant Writing"
+  color: "#f032e6" # Magenta
+  fontColor: "#000000"
+-
+  id: 9
+  name: "Coding"
+  color: "#bfef45" # Lime
+  fontColor: "#000000"
+-
+  id: 10
+  name: "Open science"
+  color: "#fabed4" # Pink
+  fontColor: "#000000"
+-
+  id: 11
+  name: "HPC"
+  color: "#469990" # Teal
+  fontColor: "#000000"
+-
+  id: 12
+  name: "Biostatistic"
+  color: "#dcbeff" # Lavender
+  fontColor: "#000000"
+-
+  id: 13
+  name: "Digital Research Technology"
+  color: "#9A6324" # Brown 
+  fontColor: "#000000"
+-
+  id: 14
+  name: "Diversity and Inclusion"
+  color: "#fffac8"  # Beige
+  fontColor: "#000000"
+-
+  id: 15
+  name: "Computational Biology"
+  color: "#800000"  # Maroon
+  fontColor: "#000000"
+-
+  id: 16
+  name: "Community"
+  color: "#aaffc3" # Mint
   fontColor: "#000000"
 
-  
+
+
+# Genomics
+# Imaging
+# Visualisation
+# Machine learning & AI
+# Digital technologies for humanities
+# (Health) data management
+# Cybersecurity
+# Grant Writing
+# Coding
+# Open science
+# HPC
+# Biostatistic
+# Digital Research Technology
+# Diversity and Inclusion
+# Computational Biology
+# Community
 
 
 
 
+# Red "#e6194B"
+# Green "#3cb44b"
+# Yellow "#ffe119"
+# Blue "#4363d8"
+# Orange "#f58231"
+# Purple "#911eb4"
+# Cyan "#42d4f4"
+# Magenta "#f032e6"
+# Lime "#bfef45"
+# Pink "#fabed4"
+# Teal "#469990"
+# Lavender "#dcbeff"
+# Brown "#9A6324" 
+# Beige "#fffac8" 
+# Maroon "#800000" 
+# Mint "#aaffc3"
 
+# Olive "#808000" 
+# Apricot "#ffd8b1" 
+# Navy "#000075" 
+# Grey "#a9a9a9" 
 
 
