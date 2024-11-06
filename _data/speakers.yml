@@ -147,9 +147,9 @@
   title: Dr. 	
   name: Claudia 	
   surname: del Campo
-  company: 
+  company: ["Monash University"]
   role: ["Manager, Operations Data Futures Institute"]
-  bio: ["Monash University"]
+  bio: 
   thumbnailUrl: 
   rockstar: true
   ribbon:
