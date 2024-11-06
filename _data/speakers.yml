@@ -584,8 +584,8 @@
 -
   id: 48
   title: 
-  name: Nicole   
-  surname: Clayton  
+  name: Steve   
+  surname: Firth
   company:  
   role:
   bio: 
@@ -770,9 +770,22 @@
   title: 
   name: Milinda         
   surname: Abayawardana  
-  company: [""]
-  role: [""]
+  company: ["Monash University"]
+  role: ["Modelling & Data Visualisation Analyst"]
   bio: 
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+  social:
+
+- 
+  id: 63
+  title: Dr. 
+  name: Chris         
+  surname: Hines  
+  company: ["Monash eResearch"]
+  role: ["Senior HPC Consultant"]
+  bio: Chris Hines has been part of the Australian eResearch sector for longer than he'd like to admit (even to himself). With a background in physics, he brings the classic physicist's confidence that every problem could be solved if we'd just approximate our cows as spheres. An adaptable systems administrator, programmer, and HPC consultant, Chris applies his expertise wherever Monash University and partners' research needs him most.
   thumbnailUrl:
   rockstar: true
   ribbon:

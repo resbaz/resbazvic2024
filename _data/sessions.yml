@@ -878,3 +878,16 @@
   time: 15.30 - 16.00 
 
 
+-
+  title: "What is HPC for?"
+  types: [1]
+  themes: []
+  id: 1043
+  speakers: [63] # Chris Hines
+  hidden: false
+  description:
+  complexity:
+  length: 30 mins
+  capacity: Limited
+  date: Day 3, Thu 28th Nov 2024 
+  time: 12.00 - 12.30 
