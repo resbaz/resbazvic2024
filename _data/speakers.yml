@@ -221,9 +221,9 @@
   name: Yang
   surname: Liao
   company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  role: 
+  bio: "Yang Liao is a skilled bioinformatician with a strong background in computer science. He earned his Bachelor's degree from Tsinghua University in 2002 and subsequently completed his PhD in information science at the University of Melbourne in 2012.<br><br>Yang has been working in the field of bioinformatics for more than a decade, contributing to the development of tools and methods for analysing high-throughput sequencing data. He is a co-author of the widely used Subread and Rsubread packages. He has also collaborated with many researchers on a variety of biology and immunology projects. <br><br>Yang has been a postdoctoral researcher in Professor Wei Shi's lab at Monash BDI since 2024, specialising in the development of bioinformatics methods for analysing high-throughput sequencing data, including bulk RNA-seq, single-cell RNA-seq, and long-read sequencing data."
+  thumbnailUrl: YangLiao_MU.png
   rockstar: true
   ribbon:
   social:
@@ -330,9 +330,9 @@
   name: Andrew 	
   surname: Harrison  
   company: ["Monash University"]
-  role:
-  bio: 
-  thumbnailUrl: 
+  role: ["Open Scholarship and Data Services Liaison Librarian"]
+  bio: Andrew Harrison is an Open Scholarship and Data Services Liaison Librarian at Monash University.  He has been working at Monash University for more than 30 years.  He has been responsible for implementing a digital taped lecture service, a digitisation centre for exam and reading list content, and has been working on Institutional Repositories space for twenty years and has implemented and managed repositories using four different software platforms (ePrints, VITAL/Fedora, and Figshare).  He has extensive experience in working with relevant standards, protocols, persistent identifiers, harvesting and migration techniques. He has also been involved in several large national and international projects (including ARROW and NEREUS) looking at improving exposure to Australian research outputs, and has in the past run Monash's ERA evidence repository.
+  thumbnailUrl: AndrewHarrison_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -342,9 +342,9 @@
   name: Susie
   surname: Philips
   company: ["Monash University"]
-  role:
-  bio: 
-  thumbnailUrl: 
+  role: ["Open Scholarship and Data Services Liaison Librarian"]
+  bio: "Susie Phillips is an Open Scholarship and Data Services Liaison Librarian at Monash University. With several years of experience in scholarly and educational open publishing, she specialises in reading and Publishing agreements and open textbooks. Susie is enthusiastic about advocating for open practices in education and research and enjoys collaborating with academics to support them in publishing their work openly."
+  thumbnailUrl: SusiePhillips_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -353,8 +353,8 @@
   title:
   name: Sophie
   surname: Wright  
-  company: 
-  role:
+  company: ["Monash University"]
+  role: ["Liaison Librarian"]
   bio: Sophie Wright has been working in STEM Librarianship since 2017, where she collaborates closely with researchers and faculty across Science, Engineering, and Information Technology at Monash University. She provides specialised research support and consultation services, helping researchers navigate complex information ecosystems and enhance their capabilities. With expertise in advanced literature searching for reviews, Sophie is focused on leveraging emerging AI tools for research discovery to optimise workflows and maximise research quality. She is committed to making scholarly research discovery and synthesis both accessible and efficient for the Monash community.
   thumbnailUrl: SophieWright_MU.png
   rockstar: true
@@ -365,8 +365,8 @@
   title:
   name: Ines
   surname: Sincock
-  company: 
-  role:
+  company: ["Monash University"]
+  role: ["Liaison Librarian"]
   bio: Ines Sincock is a Liaison Librarian working with the faculties of Engineering, Information Technology, and Science at Monash University. She provides expert guidance on resource discovery, complex search strategies, and scholarly communication. Ines is passionate about empowering researchers through innovative technologies, including integrating AI-powered tools into the research workflow, from literature scoping to knowledge synthesis. Ines is dedicated to helping researchers with their academic discovery process and enhancing the impact of their work.
   thumbnailUrl: InesSincock_MU_.jpg
   rockstar: true
@@ -377,8 +377,8 @@
   title:
   name: Peter
   surname: Reynolds  
-  company: 
-  role:
+  company: ["Monash University"]
+  role: ["Librarian"]
   bio: Peter Reynolds is an experienced librarian in the Engineering, IT and Science team at Monash University Library. With a strong background in supporting innovative technologies, he employs a practical and collaborative approach to support educators, researchers, and students with information discovery, effective use of metrics, reference management, and various aspects of the publishing process. He has contributed to the development of innovative online resources and training sessions. Currently, he is focused on supporting researchers in utilising emerging tools such as ResearchRabbit, Scopus AI, and Elicit for scoping and information discovery.
   thumbnailUrl: PeterReynolds_MU.jpg
   rockstar: true
@@ -458,7 +458,7 @@
   company: ["Monash University"]
   role: ["Research Fellow"]
   bio: Zhuang Li is a Research Fellow and an incoming Lecturer at RMIT University. His research centres on low-resource and multicultural natural language processing, generative AI, and cross-cultural dialogue systems. With professional experience at Microsoft and Monash University, Zhuang brings expertise in data optimisation and multilingual AI research.
-  thumbnailUrl: 
+  thumbnailUrl: ZhuangLi_MU.png
   rockstar: true
   ribbon:
   social:
@@ -469,9 +469,9 @@
   name: Simon     
   surname: Michnowicz  
   company: ["Monash eResearch"]
-  role:
-  bio: 
-  thumbnailUrl: 
+  role: ["Senior Application Specialist, High-Performance Computing"]
+  bio: "Simon Michnowicz works at Monash e-Research in the High Performance Computing Team. He is passionate about using the best in IT technologies to assist researchers in doing their work more effectively.<br>Simon works closely with the Monash University Engineering Team - <a href='https://www.deepneuron.org' target=_blank>DeepNeuron</a>, and has supervised several student projects and teams that have won awards in international Student Cluster Competitions."
+  thumbnailUrl: SimonMichnowicz_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -771,9 +771,9 @@
   name: Milinda         
   surname: Abayawardana  
   company: ["Monash University"]
-  role: ["Modelling & Data Visualisation Analyst"]
-  bio: 
-  thumbnailUrl:
+  role: ["Modelling and Data Visualisation Analyst"]
+  bio: Milinda Abaywardana has a diverse background in aviation, mechanical engineering, and epidemiological modelling. His expertise encompasses database design, Python, Power BI, and data analysis. At Monash University, he has been involved in several projects. These include integrating outputs from SEIR compartmental models at the Epidemiological Modelling Unit within the School of Public Health and Preventive Medicine. During the peak of the COVID-19 pandemic, he designed, developed, and delivered Power BI dashboards that provided critical insights to policymakers in the Philippines, Malaysia, Sri Lanka, Vietnam, Nepal, and Australia. Driven by a passion for all things data, he is currently collaborating with the office of the Pro-Vice Chancellor of Research Infrastructure to create a research insights value pipeline that connects awarded funding to utilisation spending and publication outcomes. He holds a B.Eng from Nanyang Technological University and a Masters in Data Science from Monash University.
+  thumbnailUrl: MilindaAbayawardana_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -786,7 +786,7 @@
   company: ["Monash eResearch"]
   role: ["Senior HPC Consultant"]
   bio: Chris Hines has been part of the Australian eResearch sector for longer than he'd like to admit (even to himself). With a background in physics, he brings the classic physicist's confidence that every problem could be solved if we'd just approximate our cows as spheres. An adaptable systems administrator, programmer, and HPC consultant, Chris applies his expertise wherever Monash University and partners' research needs him most.
-  thumbnailUrl:
+  thumbnailUrl: ChrisHines_MU.jpg
   rockstar: true
   ribbon:
   social:

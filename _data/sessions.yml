@@ -391,7 +391,7 @@
   id: 1016
   speakers: [19] # Yang Liao
   hidden: false
-  description: 
+  description: "This presentation will delve into the development and optimization of featureCounts, a widely used tool for NGS read quantification. I will explore the technical details that drive featureCounts' efficiency, including strategies for detecting features overlapping with reads, processing large BAM files in parallel, and efficiently matching read pairs in unsorted paired-end SAM or BAM files. Additionally, I will discuss the maintenance practices that contribute to featureCounts' high usability and stability.<br><br>Building upon this foundation, I will introduce cellCounts, a novel single-cell expansion tool that outperforms existing solutions like Cell Ranger in terms of speed. The presentation will illuminate the technical innovations that underpin cellCounts' superior performance, offering insights into the future development of single-cell analysis tools."
   complexity:
   length: 1 hour
   capacity: Limited
@@ -559,7 +559,7 @@
   id: 1025
   speakers: [28, 29]  # Andrew Harrison and Susie Philips
   hidden: false
-  description: 
+  description: "This session will delve into the benefits of publishing your research outputs in open journals and repositories, emphasizing the increased visibility, citation rates, and impact such practices can offer. We'll explore funder requirements and preferences for open publishing and open data, shedding light on how to meet these mandates effectively through utilising Read and Publish agreements and rights retention statements. The session will also explore Monash's institutional data repository, Bridges, showcasing its features for storing, managing, and sharing research data and supplementary materials.<br><br>By attending this session, participants will gain a comprehensive understanding of how to navigate the landscape of open-access publishing, fulfil funder requirements, and enhance the dissemination and impact of their research outputs."
   complexity:
   length: 1 hour
   capacity: Limited
@@ -644,7 +644,8 @@
   id: 1030
   speakers: [39] # Simon Michnowicz
   hidden: false
-  description: 
+  description: "This tutorial will be an introduction to regular expressions for those who have never used them before.  Regular expressions are a pattern-matching technology, found in most search engines and commonly used in Life Sciences.  This tutorial will explain what they are, how they work, and where to get more information.
+  <br><br><b>Attendee instructions</b><br>Attendees need to bring a laptop with an internet connection so that they can access a Web Page."
   complexity:
   length: 3 hours 
   capacity: Limited
@@ -658,7 +659,8 @@
   id: 1030a
   speakers: [39] # Simon Michnowicz
   hidden: true
-  description: 
+  description: "This tutorial will be an introduction to regular expressions for those who have never used them before.  Regular expressions are a pattern-matching technology, found in most search engines and commonly used in Life Sciences.  This tutorial will explain what they are, how they work, and where to get more information.
+  <br><br><b>Attendee instructions</b><br>Attendees need to bring a laptop with an internet connection so that they can access a Web Page."
   complexity:
   length: 3 hours 
   capacity: Limited
@@ -870,7 +872,7 @@
   id: 1042
   speakers: [62] # Milinda Abayawardana
   hidden: false
-  description:
+  description: "Research infrastructure is a crucial element of any university. However, in many cases, data on infrastructure utilisation—when it exists—is often siloed, and key performance indicators (KPIs) are limited to isolated contexts. To address this, a more integrated reporting framework is needed, enabling universities to assess the value of their research equipment and services objectively. In this session, we will explore Monash University's efforts to overcome these challenges, focusing on integrating four previously siloed datasets: Research Awards, Research Income, Research Utilization, and Research Outputs. If time allows, we will also delve into the challenges and successes encountered throughout this process."
   complexity:
   length: 30 mins
   capacity: Limited
