@@ -123,8 +123,8 @@
   title: 
   name: Kiowa
   surname: Scott-Hurley 
-  company: 
-  role: 
+  company: ["Defence Science and Technology"]
+  role: ["Machine Learning Computational Methods Specialist"]
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -135,8 +135,8 @@
   title: Dr.
   name: Deanna
   surname: Deveson
-  company: 
-  role:
+  company: ["CSL"]
+  role: ["Manager, R&D Enabling Technology"]
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -148,8 +148,8 @@
   name: Claudia 	
   surname: del Campo
   company: 
-  role: 
-  bio: 
+  role: ["Manager, Operations Data Futures Institute"]
+  bio: ["Monash University"]
   thumbnailUrl: 
   rockstar: true
   ribbon:
@@ -306,7 +306,7 @@
   name: Gin
   surname: Tan
   company: ["Monash eResearch"]
-  role:
+  role: ["Associate Director"]
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -317,8 +317,8 @@
   title:
   name: Tara
   surname: Stewardson  
-  company: 
-  role:
+  company: ["Defence Science and Technology Group"]
+  role: ["DevSecOps Cadet"]
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -584,10 +584,10 @@
 -
   id: 48
   title: 
-  name: Steve   
+  name: Stephen
   surname: Firth
-  company:  
-  role:
+  company: ["Monash University"]
+  role: ["Manager,  Micro Imaging Platform"]
   bio: 
   thumbnailUrl: 
   rockstar: true

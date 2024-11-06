@@ -90,7 +90,7 @@
   time:  09.00 - 09.30
   default: true
   location: G.81
-  
+
 -
   title: Ethical AI panel
   themes: '#N/A'
@@ -158,7 +158,7 @@
   types: [2]
   themes: [5]
   id: 1004
-  speakers: [5] # Damian Almeida
+  speakers: [6] # Damian Almeida
   hidden: false
   description: "Text mining historical primary sources is an innovative approach that leverages computational techniques to analyse vast collections of documents, manuscripts, and artifacts from the past. This methodology facilitates the extraction of meaningful patterns, trends, and insights that might be overlooked in traditional qualitative analyses.<br><br>By applying natural language processing (NLP) and machine learning algorithms, researchers can uncover hidden relationships within historical texts, enabling a deeper understanding of societal changes, cultural dynamics, and historical narratives. The integration of text mining with digital humanities allows for the exploration of large datasets, transforming how historians and scholars engage with primary sources. <br><br>The Gale Digital Scholar Lab offers a straightforward entry point into Digital Humanities for new researchers and for more experienced scholars, the Gale Digital Scholar Lab provides access to large data sets that can be easily mined and exported for use in custom applications and open-source analytical tools. With the Gale Digital Scholar Lab, Gale has created a research platform to help bridge the gap that often exists between primary sources that are available in the library and the research needs and workflows of faculty and students. As an extension of your primary source collections, Gale Digital Scholar Lab will encourage the use of archival holdings to support broader research needs, content can be analysed in the Lab using the visualization tools available. This research can then be constructed into research articles within the Lab and published to Gale Research Showcase. <br><br>The Gale Research Showcase is an open-access repository of student-written digital scholarship. Projects in the Gale Research Showcase are write-ups of individual or group research conducted in the Gale Digital Scholar Lab. All projects are submitted via a straightforward submission form accessed via Gale Digital Scholar Lab. Submitted work is reviewed to provide feedback on methodology, providing professional visibility and experience with the peer review process. <br><br>This session will explore how the Gale Digital Scholar Lab and Gale Research showcase how students and researchers are engaging with primary sources."
   complexity:
