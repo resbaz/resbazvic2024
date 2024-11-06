@@ -88,6 +88,7 @@
   capacity:
   date:  Day 1, Tue 26th Nov 2024
   time:  09.00 - 09.30
+  default: true
 
 -
   title: Ethical AI panel
@@ -131,6 +132,7 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  09.30 - 10.00
+  default: true
 
 -
   title: 'Key Story Talk'
@@ -145,7 +147,7 @@
   capacity: Limited
   date:  Day 1, Tue 26th Nov 2024
   time:  10.00 - 10.30
-
+  default: true
 -
   title: Digital Scholar Lab - GALE
   types: [2]
@@ -299,6 +301,7 @@
   capacity: Limited
   date:  Day 2, Wed 27th Nov 2024 
   time:  09.30 - 10.30
+  default: true
 
 -
   title: Key Story Talk
@@ -313,6 +316,7 @@
   capacity: Limited
   date:  Day 2, Wed 27th Nov 2024 
   time:  09.00 - 09.30
+  default: true
 
 -
   title: The Great Debate - REDCap vs Qualtrics Plus
@@ -594,6 +598,7 @@
   capacity: Limited
   date: Day 3, Thu 28th Nov 2024  
   time: 09.00 - 09.30
+  default: true
 
 -
   title: "Major Initiatives & Grant Writing (what's expected from Major research program applications and initiatives)"

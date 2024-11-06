@@ -220,8 +220,8 @@
   title: Dr.
   name: Yang
   surname: Liao
-  company: 
-  role: 
+  company: ["Bioinformatician"]
+  role: ["Monash University"]
   bio: "Yang Liao is a skilled bioinformatician with a strong background in computer science. He earned his Bachelor's degree from Tsinghua University in 2002 and subsequently completed his PhD in information science at the University of Melbourne in 2012.<br><br>Yang has been working in the field of bioinformatics for more than a decade, contributing to the development of tools and methods for analysing high-throughput sequencing data. He is a co-author of the widely used Subread and Rsubread packages. He has also collaborated with many researchers on a variety of biology and immunology projects. <br><br>Yang has been a postdoctoral researcher in Professor Wei Shi's lab at Monash BDI since 2024, specialising in the development of bioinformatics methods for analysing high-throughput sequencing data, including bulk RNA-seq, single-cell RNA-seq, and long-read sequencing data."
   thumbnailUrl: YangLiao_MU.png
   rockstar: true
