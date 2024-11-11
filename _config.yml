@@ -55,7 +55,7 @@ navigationLinks:
 #  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Location"}
-#  - {permalink: "/presenter-guidelines/", text: "Presenter Guidelines"}
+ - {permalink: "/presenter-guidelines/", text: "Presenter Guidelines"}
 #  - {permalink: "/partners/", text: "Partners & Sponsors"}
  - {permalink: "/codeofconduct/", text: "Code of Conduct"}
 # rightNavigationButtons:
