@@ -383,7 +383,7 @@
   types: [2a]
   themes: [11]
   id: 1015
-  speakers: [18]
+  speakers: [17]
   hidden: false
   description: Python is a useful programming tool for prototyping but has scalability limitations. This workshop will familiarise you with tools to scale up your Python code and adapt it for an HPC machine. <br><br>This training is for anyone with Python programming experience who needs to scale up their Python code. It will introduce the attendees to tools that can help scale their Python code (e.g., Numba and cuPY).
   complexity:
@@ -398,7 +398,7 @@
   types: [2a]
   themes: [11]
   id: 1015a
-  speakers: [18]
+  speakers: [17]
   hidden: true
   description: Python is a useful programming tool for prototyping but has scalability limitations. This workshop will familiarise you with tools to scale up your Python code and adapt it for an HPC machine. <br><br>This training is for anyone with Python programming experience who needs to scale up their Python code. It will introduce the attendees to tools that can help scale their Python code (e.g., Numba and cuPY).
   complexity:
@@ -881,11 +881,11 @@
 -
   title: "WISDOM: An open value accounting framework for diverse communities"
   types: [1]
-  themes: [16]
+  themes: [16, 10]
   id: 1039
   speakers: [54] #  Cooper Smout
   hidden: false
-  description: 
+  description: "In this talk, I'll introduce WISDOM, an open-value accounting framework that empowers communities to recognise diverse contributions and directly reward contributors for their efforts.<br><br>I'll begin with an overview of the framework, showing how it began life as an open peer-review model and evolved through active experimentation to become a generalisable framework for diverse communities. I'll highlight the key innovation: the use of pairwise comparisons as both an inclusive review protocol and a 'standard unit of contribution', which serve to peg the value(s) of all other contributions in a decentralised and autonomous manner.<br><br>I'll demonstrate the framework's adaptability by sharing data from diverse communities in the arts, science and technology sectors, before focussing on an academic use case where we used WISDOM to quantify the value of contributions to the two most recent AIMOS metaresearch and open science conferences. <br>I'll show how WISDOM <br>(a) revealed community values and several contributions that might otherwise have gone unnoticed, <br>(b) incentivised open peer review, and <br>(c) estimated contribution value on multiple dimensions of interest. <br>I'll highlight how WISDOM facilitates metaresearch by sharing the results of several analyses we've conducted, then invite questions and suggestions from the audience.<br><br>I'll close with a vision for how WISDOM can help connect diverse communities in the research space and beyond, along with an invitation to use WISDOM to review, recognise and reward contributions to ResBaz itself."
   complexity:
   length: 1 hour
   capacity: Limited

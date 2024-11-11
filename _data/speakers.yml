@@ -194,12 +194,12 @@
 -
   id: 17
   title: 
-  name: NCI
-  surname:
-  company:
-  role:
-  bio: 
-  thumbnailUrl: 
+  name: Joseph
+  surname: John
+  company: ["National Computational Infrastructure (NCI)"]
+  role: ["Staff Scientist"]
+  bio: Joseph John is a Staff Scientist at the <a href="https://nci.org.au/" target=_blank>National Computational Infrastructure (NCI)</a>, Australia. His primary research focuses on programming models for high-performance computing. He is also keenly interested in exploring libraries and tools for scaling large-scale multi-GPU HPC applications.
+  thumbnailUrl: JosephJohn_NCI.jpg
   rockstar: true
   ribbon:
   social:
@@ -663,13 +663,13 @@
 
 -
   id: 54
-  title: 
+  title: Dr. 
   name: Cooper     
   surname: Smout  
-  company:  
+  company:
   role:
-  bio: 
-  thumbnailUrl: 
+  bio: "Dr Cooper Smout is a designer, researcher and lifelong student of human behaviour. Inspired by a Vipassana meditation retreat, he left a promising career in architecture to study Psychology and Neuroscience at the University of Queensland, winning prizes for both his Honours and PhD theses in the neural mechanisms of visual awareness.<br><br>Cooper's passion for good design found a counterpart in the scholarly publishing industry, igniting a new interest in Open Science and the problem of cultural change in academia. He founded the world's first collective action platform for researchers (Free Our Knowledge) and spent several years campaigning for open and reproducible research practices, later drawing on these experiences to design a decentralised peer-review model with disruptive potential. Realising he could make faster progress outside of academia, he founded a citizen-science project (Open Heart + Mind) and prototyped by peer-reviewing contributions to community gatherings, before validating the model for use in academia by peer-reviewing contributions to Open Science conferences.<br><br>Alongside his interests in Open Science and decentralised technologies, Cooper enjoys playing games, snowboarding, rock climbing, meditating, dancing, and spending time in nature."
+  thumbnailUrl: CooperSmout.jpeg
   rockstar: true
   ribbon:
   social:

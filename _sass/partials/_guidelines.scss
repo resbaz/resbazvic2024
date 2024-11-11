@@ -1,0 +1,22 @@
+.guidelines-wrapper {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 5px;
+    @media (max-width: 992px) {
+        flex-direction: column;
+    }
+}
+
+
+.guidelines-wrapper ul{
+    text-align: left;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 23px;
+}
+
+.guidelines-wrapper ul li {
+    list-style: inside;
+}
