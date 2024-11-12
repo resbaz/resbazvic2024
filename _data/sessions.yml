@@ -306,7 +306,7 @@
   types: [4]
   themes: [14]
   id: 1010
-  speakers: [11,12,13,26,27, 48] # Kiowa Scott-Hurley, et al
+  speakers: [64, 11,12,13,26,27,48] # Kiowa Scott-Hurley, et al
   hidden: false
   description: 
   complexity:
@@ -945,7 +945,8 @@
   id: 1043
   speakers: [63] # Chris Hines
   hidden: false
-  description:
+  description: "HPC (High-performance Computing) can seem very intimidating, with arcane rules about what you are and are not allowed to do. It's off-putting and a barrier to entry. But at the end of the day, HPC systems are run by friendly people who want to help you do research. <br><br>To break down that barrier I'll try to explain the who what where why and how of HPC:
+  <ul class='theme-description'><li>Who uses the system and what are their diverse requirements?</li><li>What the system is?</li><li>How an HPC system can help with different workflows?</li><li>Where to store your data and run your workflow to get the best throughput?</li><li>Why do we make these arcane rules (and how do they promote fairness and equality)?</li></ul>"
   complexity:
   length: 30 mins
   capacity: Limited

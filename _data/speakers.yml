@@ -427,8 +427,8 @@
 -
   id: 36
   title:
-  name: Shirin 
-  surname: Jambhulkar
+  name: Amanda
+  surname: Walmsley
   company: 
   role:
   bio: 
@@ -787,6 +787,19 @@
   role: ["Senior HPC Consultant"]
   bio: Chris Hines has been part of the Australian eResearch sector for longer than he'd like to admit (even to himself). With a background in physics, he brings the classic physicist's confidence that every problem could be solved if we'd just approximate our cows as spheres. An adaptable systems administrator, programmer, and HPC consultant, Chris applies his expertise wherever Monash University and partners' research needs him most.
   thumbnailUrl: ChrisHines_MU.jpg
+  rockstar: true
+  ribbon:
+  social:
+
+- 
+  id: 64
+  title: 
+  name: Chelsea          
+  surname: Cobb (Moderator)
+  company: ["Monash University"]
+  role: ["Director, Research Infrastructure"]
+  bio: 
+  thumbnailUrl:
   rockstar: true
   ribbon:
   social:
