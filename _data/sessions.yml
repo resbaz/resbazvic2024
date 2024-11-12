@@ -308,7 +308,7 @@
   id: 1010
   speakers: [64, 11,12,13,26,27,48] # Kiowa Scott-Hurley, et al
   hidden: false
-  description: 
+  description: "What unique challenges do staff in Research & Digital Platforms face when it comes to diversity and inclusion? In this question-driven panel, we will share our personal experiences and discuss the challenges faced by underrepresented individuals in our field. We’ll explore what diversity and inclusion in eResearch could look like, why it matters, and practical ways to purposefully cultivate a more inclusive and diverse workplace."
   complexity:
   length: 1 hour
   capacity: Limited

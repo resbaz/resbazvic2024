@@ -125,8 +125,8 @@
   surname: Scott-Hurley 
   company: ["Defence Science and Technology"]
   role: ["Machine Learning Computational Methods Specialist"]
-  bio: 
-  thumbnailUrl: 
+  bio: "Kiowa Scott-Hurley is a Dja Dja Wurrung woman who spends her 9-5 leading a team of awesome Machine Learning engineers at the Defence Science and Technology Group. She's currently studying a Masters in Cybersecurity, and her unique mix of skills across ML, Cybersec and HPC means you can always catch her grumbling about GPU drivers. In her free time you'll find her drawing and cramming cat comics into slide decks, using LLMs for evil, and committing diversity-tax evasion."
+  thumbnailUrl: KiowaScott-Hurley_DA.jpg
   rockstar: true
   ribbon:  		
   social:
@@ -137,8 +137,8 @@
   surname: Deveson
   company: ["CSL"]
   role: ["Manager, R&D Enabling Technology"]
-  bio: 
-  thumbnailUrl: 
+  bio: "Deanna obtained a Bachelor of Science with Honours, majoring in Molecular Biology and Microbiology from Monash University. She began her career at Pfizer Animal Health in the Research & Development Bioprocess Improvement Group (2004–2007), where she contributed to vaccine research, development, and optimization. She then pursued an industry-based PhD, based at the Department of Microbiology, Monash University and Pfizer Animal Health, where she focused on investigating the bovine immune response to Leptospira spp.  After completing her PhD in 2014, Deanna worked as a postdoctoral researcher in the Bacterial Pathogenesis Laboratory, Dept. Microbiology, Monash University. Her research involved several omics-based projects, including the study of antibiotic resistance mechanisms in Gram-negative pathogens. In 2019, Deanna transitioned to the Monash Bioinformatics Platform as Platform Manager, where she led bioinformatics initiatives across a broad range of research areas and facilitated the delivery of training at a local and national level. From September 2022, she concurrently held the roles of Manager (Bioinformatics) and Acting Director of the Monash Genomics and Bioinformatics Platform, playing a key role in the successful merger of the genomics (MicroMon) and bioinformatics platforms.  In July 2024, Deanna joined CSL’s R&D Enabling Technology team, where she now focuses on supporting the implementation of an operational model for the Laboratory Data Repository, furthering her expertise in data management within a global research context."
+  thumbnailUrl: DeannaDeveson-Lucas_CSL.jpeg
   rockstar: true
   ribbon:
   social:
@@ -149,8 +149,8 @@
   surname: del Campo
   company: ["Monash University"]
   role: ["Manager, Operations Data Futures Institute"]
-  bio: 
-  thumbnailUrl: 
+  bio: "Dr. Claudia Del Campo is the Operations Manager at the Monash Data Futures Institute, Monash University in Australia. She leads strategic initiatives to bring together AI and Data Science expertise across Monash faculties, and engagement with national and international partners. <br><br>Dr. Del Campo is passionate about interdisciplinary research and cross-sector collaborations. At the Monash Data Futures Institute, she oversees the delivery of the research agenda with a focus on applying AI for Climate Change, Geopolitical Security and Thriving Communities. Dr Del Campo worked in academic research for more than 15 years in Colombia, Israel, USA and Australia in the areas of biomedicine, ecology and water resources management."
+  thumbnailUrl: ClaudiaDelCampo_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -307,8 +307,8 @@
   surname: Tan
   company: ["Monash eResearch"]
   role: ["Associate Director"]
-  bio: 
-  thumbnailUrl: 
+  bio: "Gin Tan is the Associate Director of Monash eResearch. Starting her career in both enterprise and research computing, she eventually found her true passion in high-performance computing (HPC).<br><br>Over her eight years at Monash University, Gin has been instrumental in the development and setup of a new HPC cluster and has since grown into a technical leadership role. She enjoys diving deep into the technical aspects of her work while also excelling at translating complex needs into practical, effective solutions."
+  thumbnailUrl: GinTan_MU.jpeg
   rockstar: true
   ribbon:
   social:
@@ -319,8 +319,8 @@
   surname: Stewardson  
   company: ["Defence Science and Technology Group"]
   role: ["DevSecOps Cadet"]
-  bio: 
-  thumbnailUrl: 
+  bio: "Tara Stewardson is a DevSecOps cadet working in Research IT with the Defence Science and Technology Group. She is simultaneously completing a Bachelor of Science in Computing and Software Systems at the University of Melbourne. As a young, neurodivergent woman in tech, Tara is passionate about active inclusion and the benefits of diversity within the workplace and beyond."
+  thumbnailUrl: TaraStewardson_DA.png
   rockstar: true
   ribbon:
   social:
@@ -588,8 +588,8 @@
   surname: Firth
   company: ["Monash University"]
   role: ["Manager,  Micro Imaging Platform"]
-  bio: 
-  thumbnailUrl: 
+  bio: "Stephen Firth holds a Bachelor of Applied Science in Biotechnology, followed by a Master’s Degree in Research. Stephen spent two years in Virology, before transitioning to a decade-long role in human molecular genetics. In 2002, he established the confocal microscopy facility at the Centre for Cellular and Molecular Biology at Deakin University. In 2005, Stephen joined Monash University as an Optical Microscopist at the Monash Micro Imaging Optical Microscopy Core Facility, becoming the Manager of the Clayton facility in 2012, and later, the Manager of all three MMI facilities in 2020.<br><br>For the past two decades, Stephen has been deeply committed to teaching microscopy to biologists, with a strong emphasis on practical, hands-on learning."
+  thumbnailUrl: StephenFirth_MU.png
   rockstar: true
   ribbon:
   social:
@@ -798,8 +798,8 @@
   surname: Cobb (Moderator)
   company: ["Monash University"]
   role: ["Director, Research Infrastructure"]
-  bio: 
-  thumbnailUrl:
+  bio: "Chelsea Cobb is the Director of Research Infrastructure at Monash University, overseeing the operational sustainability and strategic growth of the university's research infrastructure portfolio. She also works to elevate the visibility of Monash’s Research Platforms within the research community.<br><br>Previously, Chelsea served as Associate Director of Research Translation and Innovation at the University of Melbourne, where she developed research translation strategies and managed key industry partnerships. She holds a PhD in genomics from Monash University and has extensive experience in corporate consulting, having worked at PwC on R&D tax incentives, sustainability, and social impact initiatives aimed at improving STEM education in Australia.<br><br>Outside of work, Chelsea is a mum of two kids and two dogs who enjoys exercising and spending time outdoors!"
+  thumbnailUrl: ChelseaCobb_MU.jpg
   rockstar: true
   ribbon:
   social:
