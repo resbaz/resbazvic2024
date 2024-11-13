@@ -426,13 +426,13 @@
 
 -
   id: 36
-  title:
+  title: Dr.
   name: Amanda
   surname: Walmsley
-  company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Senior Manager, Major Initiatives"]
+  bio: 'Amanda has a PhD specialising in molecular biology and a Masters of Law specialising in Intellectual Property Law. Through her own research and in managing research at the department, faculty and university level, she has experience across many fields of science, medicine, engineering, commercialisation, law and technology implementation at a national and international level.<br><br>Throughout her career, she has developed and reviewed a large number of successful funding proposals. While with the World Mosquito Program at Monash University, she developed and submitted 13 proposals in 3 years, 10 of which were successful, resulting in over AU$142 million in funding for the Program.  She has substantial experience writing, editing and reviewing a broad range of complex documents aiming to teach grantpersonship and value-add.  Amanda has been with Monash for 15 years and with the MRO for 18 months.'
+  thumbnailUrl: AmandaWalmsley_MU.png
   rockstar: true
   ribbon:
   social:
