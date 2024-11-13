@@ -52,6 +52,7 @@ navigationLinks:
 #  - {link: "https://redcap.link/resbazvic2024", text: "Get involved"}
 #  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/program/", text: "Program"}
+ - {permalink: "/posters/", text: "Posters"}
 #  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/sessions/", text: "Sessions"}
  - {permalink: "/transport/", text: "Location"}
