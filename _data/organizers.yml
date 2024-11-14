@@ -41,7 +41,7 @@
     - {name: "", description: "DataDirect Network", link: "https://www.ddn.com/", imageUrl: "../img/organizers/DDN.jpg"}
 
 -
-  group: "Hosting Institute"
+  group: "Hosting Institution"
   elements: 
     - {name: "eResearch", description: "Monash eResearch", link: "https://www.monash.edu/researchinfrastructure/eresearch/", imageUrl: "../img/organizers/Monash_Black_RGB.png"}
     #  - {name: "QCIF", description: "Queensland Cyber Infrastructure Foundation", link: "https://www.qcif.edu.au/", imageUrl: "../img/organizers/QCIF_Logo_Master.png", width: "120px"}

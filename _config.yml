@@ -244,7 +244,7 @@ footerBlocks:
    - {link: "https://www.aarnet.edu.au/", text: "AARNet", imageUrl: "../img/organizers/aarnet.png"}
    - {link: "https://www.ddn.com/", text: "DDN", imageUrl: "../img/organizers/DDN.jpg"}
  -  
-  title: "Hosting Institute"
+  title: "Hosting Institution"
   links:
    - {text: "Monash University", description: "Monash", link: "https://www.monash.edu/researchinfrastructure/eresearch", imageUrl: "../img/organizers/uq.jpg"}
 
