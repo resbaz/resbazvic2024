@@ -544,13 +544,13 @@
   location: G.60
 
 -
-  title: "Data Movement, Highlighting FileSender and Globus as Tools"
+  title: "Data movement: How to quickly and easily transfer large data"
   types: [2]
   themes: [6]
   id: 1022
   speakers: [24] # Sara King
   hidden: false
-  description: 
+  description: 'Collaborative research brings with it the need for the sharing of information, documents and data. Over time the amount of data grows, and it becomes harder to transfer large datasets both internally and externally.<br><br><i>Australia’s Academic and Research Network (AARNet)</i> helps researchers with digital tools to transfer their data safely and securely to where it’s needed.<br><br>In this session, you will learn about two of these solutions: FileSender and Globus.'
   complexity:
   length: 1 hour
   capacity: Limited  
