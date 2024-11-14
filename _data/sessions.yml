@@ -338,9 +338,9 @@
   types: [2]
   themes: [6]
   id: 1012
-  speakers: [15, 49] # Di Brown, Tim Powers
+  speakers: [15, 49, 67, 68] # Di Brown, Tim Powers
   hidden: false
-  description: 
+  description: 'When it comes to survey data collection for research two platforms seem to be duking it out - Qualtrics and REDCap.  One is a sleek, commercial, easy-to-use platform widely used in industry.  The other is a university-based, community-enabled workhorse.  So which one should you use?  What things will you need to trade off when choosing one over the other?  How do they compare head-to-head in survey design, usability, analysis, visualisation, and auditing?<br><br>Come see our “Great Debate” between experienced researchers, statisticians and technical experts who will help you to make up your mind.'
   complexity:
   length: 1 hour
   capacity: Limited
@@ -533,9 +533,9 @@
   types: [2]
   themes: [6]
   id: 1021
-  speakers: [24] # Sara King
+  speakers: [24, 65, 66] # Sara King, Greg D'Arcy, Chris Myers
   hidden: false
-  description: 
+  description: 'Fed Up with Slow or Disrupted Data Transfers?<br>Ever lost a file transfer halfway through? Or wondered why, despite your fast internet, large data transfers crawl at a snail’s pace? Good news: there are tools that go beyond basics like FileZilla and rsync. Meet <a href="https://www.globus.org/" target="_blank">Globus</a>—a powerful, secure, and ultra-reliable data transfer solution. With Globus, interrupted transfers are a thing of the past, and data-sharing becomes seamless no matter the distance.<br><br>In this session, experts from AARNet will walk you through setting up and using Globus for fast, dependable data transfers. You’ll get answers to key questions: How do you access Globus? What network tweaks might you need? And who can help if you need support?<br><br>Join us to learn how to make data transfers easy and efficient!'
   complexity:
   length: 1 hour
   capacity: Limited

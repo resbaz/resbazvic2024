@@ -169,13 +169,13 @@
   social:
 -
   id: 15
-  title: Ms.
-  name: Di
+  title:
+  name: Dianne
   surname: Brown
-  company: 
-  role: 
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash University"]
+  role: ["Data Governance Consultant"]
+  bio: 'Dianne Brown (BEc(Hons), GradCert(Epi)) is a data governance consultant at Monash University working with clinical quality registries and other sensitive data research to improve their data governance capabilities. <br<br>Dianne began her career working globally for a strategy consulting firm and joined Monash in 2015, where she developed a Health Research Data Governance Framework that took a novel value chain approach to how all data activities should be governed.  She has worked with various research groups, government and commercial agencies in health data definition and dictionary development.  She has trained over 500 researchers in how to prepare a health research data dictionary, assisted the University in becoming accredited under the DATA scheme and coordinates the data linkage COP.'
+  thumbnailUrl: DianneBrown_MU.JPG
   rockstar: true
   ribbon:  		
   social:
@@ -278,13 +278,13 @@
   social:
 -
   id: 24		
-  title: 
+  title: Dr.
   name: Sara	
-  surname: King (AARNet)
-  company: 
-  role:
-  bio: 
-  thumbnailUrl: 
+  surname: King 
+  company: ["AARNet"]
+  role: ["Training and Engagement Lead"]
+  bio: 'Dr. Sara King is the Training and Engagement Lead for AARNet. She is focused on outreach within the research sector, developing communities of interest around training, outreach and skills development in eResearch. She is a Carpentries Trainer and is passionate about helping others develop the infrastructure and digital literacies required for working in a data-driven world, translating technology so it is accessible to everyone.'
+  thumbnailUrl: SaraKing_AARNet.jpg
   rockstar: true
   ribbon:
   social:
@@ -596,13 +596,13 @@
 
 -
   id: 49
-  title: 
+  title: Dr.
   name: Tim    
   surname: Powers  
-  company:  
-  role:
-  bio: 
-  thumbnailUrl: 
+  company: ["Monash eResearch Centre"]
+  role: ["Statistical Consultant"]
+  bio: 'Dr. Tim Powers leads Monash Statistical Consulting Services, where he mentors over 200 PhD students and research staff annually in statistical analysis, leveraging both academic and industry expertise. His recent work spans interdisciplinary university research projects, providing guidance on large-scale survey design, statistical analysis, and comprehensive project coordination. With a solid background in business operations and management development, Tim has consulted for federal and state governments, associations, and industry groups, utilising surveys, focus groups, and interviews to gain insights into membership and client needs. Known for engaging deeply with stakeholders, he delivers data-driven solutions to complex challenges, bridging academic rigour with practical, impactful outcomes across both academic and industry settings.'
+  thumbnailUrl: TimPowers_MU.jpg
   rockstar: true
   ribbon:
   social:
@@ -803,3 +803,60 @@
   rockstar: true
   ribbon:
   social:
+
+- 
+  id: 65
+  title: 
+  name: Greg           
+  surname: D'Arcy
+  company: ["AARNet"]
+  role: ["Research Analyst and Program Manager"]
+  bio: "Greg D'Arcy is an experienced Research Analyst and Program Manager working across several product development projects and research collaborations at AARNet. Greg has over twenty years’ experience in the research and education sectors working across several large-scale digital transformation and infrastructure initiatives."
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+- 
+  id: 66
+  title: 
+  name: Chris           
+  surname: Myers
+  company: ["AARNet"]
+  role: ["Solutions Architect"]
+  bio: "Chris Myers has 30 years of experience working in the telecommunications and higher education sector, especially in large data projects. Chris supports a wide array of data movement projects in training, consultation, and design in the areas of astro/high energy physics, HPC, scientific instruments, archives and film, cloud solutions, data centre fabrics and cybersecurity."
+  thumbnailUrl: 
+  rockstar: true
+  ribbon:
+  social:
+
+- 
+  id: 67
+  title: 
+  name: John            
+  surname: Liman
+  company: ["Monash University"]
+  role: ["Senior Data Manager"]
+  bio: "John Liman is the Senior Data Manager at Monash University’s School of Public Health and Preventive Medicine. He oversees the data management of five major Clinical Quality Registries, of which four out of five are using REDCap. John has been using REDCap for more than 7 years."
+  thumbnailUrl: JohnLiman_MU.png
+  rockstar: true
+  ribbon:
+  social:
+
+- 
+  id: 68
+  title: A/Prof.
+  name: Sze-Ee           
+  surname: Soh
+  company: ["Monash University"]
+  role: ["Associate Professor"]
+  bio: "Sze-Ee is an Associate Professor in the School of Primary and Allied Health Care at Monash University. She is a physiotherapist by background and is currently the Course Director of the Doctor of Physiotherapy program. Her research has spanned the areas of chronic disease, health services, patient-reported outcomes and the psychometric properties of measurement tools. She has a broad range of experience in developing and using surveys as part of her teaching, clinical and research work. Sze-Ee also delivers a survey design short course alongside her colleagues at the School of Public Health and Preventive Medicine."
+  thumbnailUrl: Sze-EeSoh_MU.png
+  rockstar: true
+  ribbon:
+  social:
+
+
+
+
+
