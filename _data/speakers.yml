@@ -517,11 +517,11 @@
 
 -
   id: 43
-  title: 
+  title: A/Prof. 
   name: Linda 
   surname: Kalejs  
-  company:
-  role:
+  company: ["La Trobe University"]
+  role: ["Manager Researcher Services"]
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -533,8 +533,8 @@
   title: 
   name:  Nick
   surname: May  
-  company:
-  role:
+  company: ["La Trobe University"]
+  role: ["Manager, Digital Research"]
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -543,11 +543,11 @@
 
 -
   id: 45
-  title: 
+  title: Dr. 
   name: Sam 
   surname: Ryan  
-  company:
-  role:
+  company: ["La Trobe University"]
+  role: ["Digital Research Analyst"]
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -559,8 +559,8 @@
   title: 
   name: Eva   
   surname: Fisch  
-  company:
-  role:
+  company: ["Monash University"]
+  role: ["Open Scholarship and Data Services Lead"]
   bio: 
   thumbnailUrl: 
   rockstar: true
@@ -874,7 +874,7 @@
   title: Dr.
   name: Richard            
   surname: Ferrers
-  company: ["ARDC"]
+  company: ["Australian Research Data Commons (ARDC)"]
   role: ["Data Consultant"]
   bio: ""
   thumbnailUrl:
