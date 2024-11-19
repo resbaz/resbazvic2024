@@ -623,7 +623,7 @@
   types: [3]
   themes: 
   id: 1027
-  speakers: [34] # Dr Kit Huckvale 
+  speakers: [34] # Prof Victoria Mar
   hidden: false
   description: 
   complexity:
@@ -776,7 +776,7 @@
   types: [2]
   themes: [9]
   id: 1033
-  speakers: [43,44,45,46] # Linda Kalejs, Nick May, Sam Ryan, Eva Fisch
+  speakers: [43,44,45,46,70] # Linda Kalejs, Nick May, Sam Ryan, Eva Fisch, Richard Ferrers
   hidden: false
   description: 
   complexity:
@@ -953,3 +953,19 @@
   date: Day 3, Thu 28th Nov 2024 
   time: 12.00 - 12.30 
   location: G.60
+
+
+-
+  title: ""
+  types: [1]
+  themes: []
+  id: 1044
+  speakers: [69] # Dr. Carina Kemp
+  hidden: false
+  description: ""
+  complexity:
+  length: 30 mins
+  capacity: Limited
+  date: Day 3, Thu 28th Nov 2024 
+  time: 12.00 - 12.30 
+  location: G.62

@@ -400,10 +400,10 @@
 
 -
   id: 34
-  title: Dr.
-  name: Kit
-  surname: Huckvale  
-  company: 
+  title: Prof.
+  name: Victoria
+  surname: Mar
+  company: ["Monash University"]
   role:
   bio: 
   thumbnailUrl: 
@@ -856,7 +856,29 @@
   ribbon:
   social:
 
+- 
+  id: 69
+  title: Dr.
+  name: Carina            
+  surname: Kemp
+  company: ["AWS"]
+  role: ["International Lead for Research"]
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+  social:
 
-
-
+- 
+  id: 70
+  title: Dr.
+  name: Richard            
+  surname: Ferrers
+  company: ["ARDC"]
+  role: ["Data Consultant"]
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  ribbon:
+  social:
 
