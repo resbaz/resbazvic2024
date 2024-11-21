@@ -962,7 +962,15 @@
   id: 1044
   speakers: [69] # Dr. Carina Kemp
   hidden: false
-  description: ""
+  description: "In today’s world of complex global challenges, interdisciplinary research is vital for driving innovation and finding comprehensive solutions. This presentation explores how Amazon Web Services (AWS) is revolutionizing interdisciplinary research efforts across regional and global scales.<br><br>
+  We’ll examine how AWS’s cloud computing infrastructure breaks down barriers between academic disciplines, enabling seamless collaboration. Case studies will demonstrate AWS tools being used to address pressing issues in climate science,healthcare, and social sciences.<br><br>
+  The presentation will highlight international collaborations powered by AWS, showcasing how the platform’s scalability and accessibility democratize research capabilities globally. Key topics include:<br>
+1. AWS services tailored for interdisciplinary research<br>
+2. Data sharing and integration across disciplines<br>
+3. Machine learning and AI applications in cross-disciplinary studies<br>
+4. Challenges and opportunities in global research collaborations<br>
+5. The future of interdisciplinary research in the cloud<br><br> Attendees will gain insights into how AWS is reshaping interdisciplinary research, fostering innovation, and contributing to the resolution of complex global issues through enhanced collaboration and data-driven approaches.
+"
   complexity:
   length: 30 mins
   capacity: Limited

@@ -404,9 +404,9 @@
   name: Victoria
   surname: Mar
   company: ["Monash University"]
-  role:
-  bio: 
-  thumbnailUrl: 
+  role: ["Director of the Victorian Melanoma Service at the Alfred Hospital and Professor of Dermatology"]
+  bio: "Prof. Victoria Mar is a Fellow of the Australasian College of Dermatologists, Director of the Victorian Melanoma Service at the Alfred Hospital and Professor of Dermatology at Monash University School of Public Health and Preventive Medicine. <br><br>Prof Mar holds an NHMRC Investigator Grant focusing on early diagnosis of melanoma and skin cancer and surveillance of high-risk individuals, including the use of artificial intelligence. She is the Victorian Lead for the Australian Centre of Excellence for Melanoma Imaging and Diagnosis and a Board member of the Melanoma and Skin Cancer Trials Group. She has been a member of the Melanoma Guidelines Working Group since 2015 and the TGA Advisory Committee on Medicines since 2023."
+  thumbnailUrl: VictoriaMar_MU.png
   rockstar: true
   ribbon:
   social:
@@ -863,8 +863,8 @@
   surname: Kemp
   company: ["AWS"]
   role: ["International Lead for Research"]
-  bio: ""
-  thumbnailUrl:
+  bio: "Dr. Carina Kemp is the Global Lead for Academic Research at AWS. Carina is passionate about enabling researchers to leverage the power of the cloud to accelerate their research. Previously Dr. Kemp was the Director of eResearch at AARNet where she led Research Cloud Services enabling researchers with tools and advice for all their data and digital infrastructure needs. Dr. Kemp joined AARNet from Geoscience Australia, where she provided scientific and digital leadership as the CIO. At GA, Dr. Kemp also led the development of virtual laboratories and high-performance computing to enable geophysical applications for pre-competitive dataset delivery. In her career, Dr. Kemp has always strived to enable research and innovation working for higher ed, industry, government and NGOS. Her interests include open data, data science, machine learning, high-performance computing, communication of science, improving collaboration across science and information technology disciplines, and encouraging leadership and women in science.<br><br>Dr. Carina Kemp is the Global Lead for Academic Research at AWS. Carina is passionate about enabling researchers to leverage the power of the cloud to accelerate their research. In her career, Dr. Kemp has always strived to enable research and innovation working for higher ed, industry, government and NGOS."
+  thumbnailUrl: CarinaKemp_AWS.jpg
   rockstar: true
   ribbon:
   social:
