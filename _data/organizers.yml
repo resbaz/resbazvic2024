@@ -33,7 +33,7 @@
 -
   group: "Platinum Sponsors"
   elements: 
-    - {name: "", description: "AWS", link: "https://aws.amazon.com/", imageUrl: "../img/organizers/AWS_logo_RGB transparent background.png"}
+    - {name: "", description: "AWS", link: "https://aws.amazon.com/", imageUrl: "../img/organizers/AWS_RGB_nobg.png"}
 
 
 -
