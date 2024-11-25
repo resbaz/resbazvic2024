@@ -31,6 +31,12 @@
   elements:
     - {name: "", description: "ARDC", link: "https://ardc.edu.au", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
 -
+  group: "Platinum Sponsors"
+  elements: 
+    - {name: "", description: "AWS", link: "https://aws.amazon.com/", imageUrl: "../img/organizers/AWS_logo_RGB transparent background.png"}
+
+
+-
   group: "Gold Sponsors"
   elements: 
     - {name: "", description: "GALE", link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", imageUrl: "../img/organizers/Gale_NewLogo_OrangeBlue_CMYK.jpg"}

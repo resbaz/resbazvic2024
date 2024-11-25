@@ -189,7 +189,9 @@
   id: 1006
   speakers: [8] # Dianne Cook
   hidden: false
-  description: "This is for scientists and data science practitioners who regularly work with high-dimensional data and models and are interested in learning how to better visualise them. You will learn about recognising structure in high-dimensional data, including clusters, outliers, non-linear relationships, and how this can be used with methods such as supervised classification, cluster analysis and non-linear dimension reduction."
+  description: "This is for scientists and data science practitioners who regularly work with high-dimensional data and models and are interested in learning how to better visualise them. You will learn about recognising structure in high-dimensional data, including clusters, outliers, non-linear relationships, and how this can be used with methods such as supervised classification, cluster analysis and non-linear dimension reduction.
+  <br><br><b>Attendee instructions</b><br>Please check <a target=_blank href='https://dicook.github.io/mulgar_tutorial/'>this tutorial</a>
+  "
   complexity:
   length: 3 hours 
   capacity: Limited
@@ -204,7 +206,9 @@
   id: 1006a
   speakers: [8] # Dianne Cook
   hidden: true
-  description: 
+  description: "This is for scientists and data science practitioners who regularly work with high-dimensional data and models and are interested in learning how to better visualise them. You will learn about recognising structure in high-dimensional data, including clusters, outliers, non-linear relationships, and how this can be used with methods such as supervised classification, cluster analysis and non-linear dimension reduction.
+  <br><br><b>Attendee instructions</b><br>Please check <a target=_blank href='https://dicook.github.io/mulgar_tutorial/'>this tutorial</a>
+  "
   complexity:
   length: 3 hours 
   capacity: Limited
@@ -320,7 +324,7 @@
 -
   title: Key Story Talk
   types: [3]
-  themes: [12]
+  themes: [9, 12]
   id: 1011
   speakers: [14] # A/Prof James Trauer 
   hidden: false
@@ -355,7 +359,11 @@
   id: 1013
   speakers: [16] # Dr. Amr Hassan
   hidden: false
-  description: 
+  description: "Monash University, one of Australia’s largest and most research-intensive institutions, is redefining how technology supports transformative research as part of its strategic vision, Impact 2030. By positioning eSolutions as a key enabler of eResearch, Monash aligns its enterprise IT capabilities with the dynamic needs of researchers, fostering innovation while maintaining operational excellence. This talk will explore:
+<ul class='theme-description'><li><b>Balancing Cloud and On-Premise Infrastructure</b>: Monash strategically combines public cloud offerings with on-premise infrastructure to cater to the diverse needs of its enterprise, education, and research stakeholders. This dual approach ensures flexibility, scalability, and reliability for a wide range of research scenarios.</li>
+<li><b>Software-Defined Infrastructure for Customization and Scale</b>: Adopting software-defined infrastructure has been pivotal in shaping platforms that meet specific researcher needs while leveraging the economy of scale. This approach allows us to move beyond “one size fits all,” providing customized solutions for diverse projects.</li>
+<li><b>Integrating Enterprise IT into Research Computing</b>: For mission-critical or sensitive research projects, Monash applies enterprise IT principles such as robust governance, disaster recovery, business continuity, and advanced cybersecurity. These measures ensure the integrity and reliability of research infrastructure, even in the most demanding scenarios.</li>
+<li><b>Bridging Enterprise IT and eResearch</b>: By aligning enterprise and research IT, Monash creates an ecosystem where researchers can innovate, collaborate globally, and address complex challenges without being constrained by traditional IT boundaries.</li></ul>"
   complexity:
   length: 30 minutes
   capacity: Limited
@@ -773,7 +781,7 @@
 
 -
   title: "Drop-in Session - Coding"
-  types: [2]
+  types: [7]
   themes: [9]
   id: 1033
   speakers: [43,44,45,46,70] # Linda Kalejs, Nick May, Sam Ryan, Eva Fisch, Richard Ferrers

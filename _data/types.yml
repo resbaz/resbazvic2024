@@ -43,3 +43,9 @@
   name: "Multisession"
   color: "#c71585"
   fontColor: "#000000"
+
+- 
+  id: 7
+  name: "Drop In"
+  color: "#c71585"
+  fontColor: "#000000"

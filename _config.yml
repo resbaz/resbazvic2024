@@ -231,8 +231,11 @@ footerBlocks:
  -
   title: "National Sponsors"
   links:
-  #  - {link: "https://www.gale.com/intl/primary-sources/digital-scholar-lab", text: "Gale", imageUrl: "../img/organizers/gale_trans.png"}
    - {link: "https://ardc.edu.au", text: "ARDC", imageUrl: "../img/organizers/ARDC_logo_RGB.png"}
+ -
+  title: "Platinum Sponsors"
+  links:
+   - {link: "https://aws.amazon.com/", text: "AWS", imageUrl: "../img/organizers/AWS_logo_RGB transparent"}
  -
   title: "Gold Sponsors"
   links:

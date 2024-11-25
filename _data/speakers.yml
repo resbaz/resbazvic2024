@@ -184,10 +184,10 @@
   title: Dr.
   name: Amr
   surname: Hassan
-  company: 
-  role:
+  company: ["Monash University"]
+  role: []
   bio: 
-  thumbnailUrl: 
+  thumbnailUrl: AmrHassan_MU.png
   rockstar: true
   ribbon:
   social:
@@ -517,7 +517,7 @@
 
 -
   id: 43
-  title: A/Prof. 
+  title: 
   name: Linda 
   surname: Kalejs  
   company: ["La Trobe University"]
